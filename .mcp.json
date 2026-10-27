@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "discord": {
+      "command": "bash",
+      "args": ["tools/discord/discord-mcp.sh"],
+      "env": {
+        "DISCORD_BOT_TOKEN": "${DISCORD_BOT_TOKEN:-}",
+        "DISCORD_GUILD_ID": "${DISCORD_GUILD_ID:-}"
+      }
+    }
+  }
+}

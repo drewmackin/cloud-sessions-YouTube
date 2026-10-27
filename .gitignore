@@ -1,0 +1,17 @@
+# Keys: the watch skill reads a .env in the working directory as a fallback. Never commit one.
+.env
+.env.*
+
+# Downloaded media and frame dumps (large, reproducible)
+*.mp4
+*.webm
+*.mkv
+*.m4a
+*.mp3
+research/*/youtube/media/
+research/*/youtube/watch/frames/
+watch-*/
+
+__pycache__/
+*.pyc
+.DS_Store
