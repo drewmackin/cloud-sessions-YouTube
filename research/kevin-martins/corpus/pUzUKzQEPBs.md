@@ -1,16 +1,52 @@
 # 10,000 Hours of Dropshipping Advice in 23 Minutes
 
 - URL: https://www.youtube.com/watch?v=pUzUKzQEPBs
-- Windows: 8 (first timestamps 0s … 1186s)
+- Windows: 28 (first timestamps 0s … 1254s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Jun 23, 2026 (0:23:03)
   ...
-  Date: 2026-06-23
+  After work I go for a walk.
+  And
+  And I go to bed.
+  And I think there's
+  And I've done this all without having to waste a single scent on ad spend and
+  And a lot of you have a crazy ego.
+  And by that time, my [ __ ] brain is
+  And it's totally normal.
+  And once you have your why and your vision, hold it close to you and stick with it forever.
 
 ---
+Um, and stop thinking so goddamn much.
+Okay?
+Start executing.
+Start being a little bit more dumb.
+
+[…]
+
+And once you have your why and your vision, hold it close to you and stick with it forever.
+
+[…]
+
+[ __ ] 27K day after 9 days of joining the mentorship.
+Um and it just keeps on going.
+
+[…]
+
+Speed is absolutely crucial to just see where you need to go.
+
+[…]
+
+First one we're going to go over is creating real brands.
+
+[…]
+
+Um, but you got to drop it,
+
+[…]
+
 {ts:0} YouTube, what's good?
 Welcome back to another video on the channel.
 In today's
@@ -31,35 +67,205 @@ And I've done this all without having to waste a single scent on ad spend and
 
 […]
 
+Welcome back to another video on the channel.
+In today's
+{ts:3} video, I'm going to be giving 10,000 hours worth of advice when it comes to drop shipping.
+If you guys are new here
+{ts:8} and don't know who I am, my name is Kevin Martins.
+I've been in the space for the last 2 years now, and I've done
+{ts:12} over seven figures in total revenue.
+
+[…]
+
+Things to avoid, things to do, and stuff that's
+{ts:38} really going to just move the needle, right?
+So, the first thing that I'm going to be talking about here is
 {ts:42} focusing on your own journey, right?
+Don't compare yourself to people that are on chapter 10 when you're just on
+{ts:47} chapter 1.
+Okay?
+And comparison should be something positive in your life.
+Comparison to me now is something that I
+{ts:53} take um as inspiration, right?
+I like to compare myself to people that are closer to my goal.
+Rather than use comparison
+{ts:59} as something that is going to take something away from me and just bring me down, right?
+
+[…]
+
+{ts:77} beginning stages of your journey, and you're comparing yourself to people that have been in the space for the last 10
+{ts:81} years, making the money that you wish you could make in just like a week.
+But it's just not simply like that, right?
+{ts:85} This is the game of longevity.
+
+[…]
+
+{ts:101} people that are hitting these crazy months and using it as inspiration to almost show you that it's actually
+{ts:106} possible, then that's when comparison becomes something good.
 
 […]
 
 Um number two is going to be speed is everything in this game.
 The
 {ts:156} faster you can execute an idea, the quicker you'll get data.
+Okay, with more data, you'll progress quicker since
+{ts:163} you'll know exactly where to go.
+And so I feel like this is a data type of game, right?
+You're collecting data every
+{ts:168} single solitary day because you either find out something works or you figure out that something just didn't do [ __ ]
+{ts:174} and you move on and you pivot, right?
+And so a good example here is going to be posting consistently and testing new
+{ts:179} concepts.
+Okay?
+So whether you're posting videos organically, whether you're launching a new campaign on your
+{ts:183} Facebook manager, right?
 
 […]
 
+{ts:221} consistently, then you would have never come to that consensus.
+And so that's why I tell all of you, right, even my
 {ts:226} students in my program, yo, post two to four videos a day so you get data, so you get feedback a lot quicker.
 
 […]
 
-Like, especially if you're doing organic drop shipping,
-{ts:1158} you're only doing the burner method and you're just copying competitors when it comes to niches, products, concepts,
-{ts:1163} whatever it may be.
+Um, but what I'm saying
+{ts:283} is just post more volume.
+Start posting.
+Even if it's not perfect, post it, right?
+So you get data quicker and you
+{ts:289} know exactly where to go.
+So yeah, that's going to be the second principle here that I learned.
+Speed is absolutely
+{ts:295} everything in this game.
+Um, and you got to start just being a little bit more consistent, launching more ads every
+{ts:300} single day, testing more ad formats every single day, and uh, just posting, bro.
 
 […]
 
+{ts:330} Just tone it down a bit.
+Stop over analyzing.
+Just post the video and get some data.
+
+[…]
+
+Third thing that
+{ts:335} I'm going to be talking about here is eliminating distractions that aren't moving the needle.
+So, most of you want
+{ts:342} to add more things to your life, but most of the time it's about removing the [ __ ] so you can move forward.
+Okay?
+{ts:348} And most importantly, focus.
+Because focus to me, right, is the elimination of distractions.
+Okay?
+Most of you live
+{ts:356} a crazy crazy chaotic life.
+
+[…]
+
+{ts:741} going to be have a bigger vision and focus on longevity.
+Okay.
+So going back to what I was saying about the business
+{ts:748} model that this is more of a longevity game rather than like a get-richqu game.
+um creating brands instead of pump and
+{ts:756} dumps, learning real skills that will get you paid for life, and being in the game for the longest rather than for the
+{ts:765} short term.
+
+[…]
+
+So this one's
+{ts:741} going to be have a bigger vision and focus on longevity.
+
+[…]
+
+Um, but I think that creating
+{ts:784} a brand, creating a name for yourself is something that's going to get you paid for life.
+Whether it's a personal brand,
+{ts:789} whether it's a product, whether it's an info product, supplement product, digital product, whatever it may be,
+{ts:796} brands optimize for longevity rather than just what's trending right now and how can I make the quickest amount of
+{ts:802} money possible, but not be around for the next month to continue doing it consistently, right?
+
+[…]
+
+{ts:824} something that I learned is creating a brand, creating a name for myself that people can always look at and be like,
+{ts:829} "All right, this is Kevin.
+This is what I this is what I connect him with, and every time I want more of it, I'm just
+{ts:835} going to go to him."
+Right?
+
+[…]
+
+{ts:840} having a genuine brand presence is going to keep you alive in a world of [ __ ] competitors.
+
+[…]
+
+And so the main way to combat that and not having to restart every single month
+{ts:867} because you got 10 competitors on you is by starting a brand, right?
+
+[…]
+
+{ts:957} Um, and then, you know, going back to what I was saying, learning real skills that will get you paid for life, right?
+{ts:962} The skill of organic marketing, the skill of running ads, the skill of finding new concepts, uh, new marketing
+{ts:966} angles, ICPs, really doing deep niche research, those are skills that are going to evidently translate to money in
+{ts:973} your bank account, right?
+
+[…]
+
+The
+{ts:1002} next point here that we're going to be going over is do not rely on competition to make you money.
+Okay, and this is a
+{ts:1008} simple question.
+Do you want to be a pioneer or do you want to just do what everybody else is doing?
+Right?
+Don't be
+{ts:1013} afraid to test new products, new concepts, and new niches that have never been done before.
+
+[…]
+
+Uh but then
+{ts:1117} I I told myself if I really want to move the needle, start hitting those consistent 50 60k months, um I got to
+{ts:1123} start doing something different.
+So that's why I started creating my own custom products.
+Then I started going
+{ts:1127} branding, custom packaging, custom tags to where I really had no competitors, right?
+And so going back to what I said
+{ts:1132} earlier, right?
+When people were trying to copy me because at one point in time, my suppliers screwed me over, started
+{ts:1136} posting my custom products on AliExpress and then people started drop shipping my [ __ ] they still wouldn't buy from them
+{ts:1141} because they knew it came from me.
+Okay, so again, that's the power of not only being a pioneer, but branding and the
+{ts:1148} protection that you get when you really start a crazy brand.
+And so piggybacking off of that too, bro, a lot of you, like
+{ts:1154} I said, just do the same [ __ ] that other people are doing.
+Like, especially if you're doing organic drop shipping,
+{ts:1158} you're only doing the burner method and you're just copying competitors when it comes to niches, products, concepts,
+{ts:1163} whatever it may be.
+There's only so much money that you're going to be able to make because you're just genuinely
+{ts:1167} making the crumbs.
+There's probably eight to 10 people doing the same thing as you, and there's going to be a
+{ts:1171} ceiling of money that can be made, right?
 And so, why not be creative?
 Why not think outside the box?
 Introduce new
 {ts:1176} products, introduce new niches, and be first to market and make all the money, right?
-
-[…]
-
+So yeah, that's going to be the
+{ts:1181} other point right there.
 And then the last one, okay, just to wrap it up, never stop learning.
 Okay, stop being so
 {ts:1186} freaking stubborn.
 Even if you're advanced, even if you've done seven figures with organic ecom, whatever it
 {ts:1191} may be, you need to drop the ego, okay?
+
+[…]
+
+Because there's always something that you can improve on because you're not perfect.
+Nobody's perfect and
+{ts:1243} there's always somebody else doing it better than you and it's always best to continue learning to eventually get to
+{ts:1249} that point or even better, right?
+
+[…]
+
+So again, one number thing the number one
+{ts:1254} thing here is don't stop learning.
+Okay?
+Don't stop learning
+{ts:1262} ever.
+Okay, whether you're advanced, a beginner, intermediate, don't stop learning.

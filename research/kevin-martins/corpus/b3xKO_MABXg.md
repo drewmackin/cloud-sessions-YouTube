@@ -1,7 +1,7 @@
 # How To Split Test In AI Organic Dropshipping (Step By Step)
 
 - URL: https://www.youtube.com/watch?v=b3xKO_MABXg
-- Windows: 116 (first timestamps 5s … 3244s)
+- Windows: 122 (first timestamps 5s … 3244s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,15 +24,11 @@ So, in your case, you had a video that popped
 
 […]
 
-We're going to post multiple variations, right, of an already proven concept.
-
-[…]
-
 Bro, a month goes by, this motherfucker's up like 300k in a month.
 
 […]
 
-Do what's actually working first, especially if you're a beginner.
+Like I already have three two ones, everything ready.
 
 […]
 
@@ -61,7 +57,15 @@ I totally forgot about CTAs.
 
 […]
 
+Yeah, avoid scheduling, bro.
+
+[…]
+
 Wait, W's out for leaking.
+
+[…]
+
+This is in like 20 videos.
 
 […]
 
@@ -128,6 +132,12 @@ We're going
 {ts:330} to start with uh proven concepts, right?
 So, whether you want to research competitors or similar products in your
 {ts:335} niche, like I tell all of you, right?
+Do what's actually working first, especially if you're a beginner.
+You
+{ts:340} don't have the eye, you don't have the creativity to pioneer just yet, and that's totally fine.
+All right?
+You want
+{ts:345} to identify videos that are already going viral, whether it's from like a direct competitor that's running your
 
 […]
 
@@ -135,21 +145,23 @@ So again, we're just copying to test.
 We're recreating these winning concepts
 {ts:364} with your product.
 Again, don't reinvent the wheel.
+How many times have I told you guys stop reinventing the wheel,
+{ts:369} especially in the beginning?
+We're going to post multiple variations, right, of an already proven concept.
 
 […]
 
+Go
+{ts:401} ahead, right, that's going to be a different angle that you can go ahead and introduce to an already proven
+{ts:406} product, if it makes sense, right?
 If it makes sense.
 So, your goal is to create as many
 {ts:410} different variations, and this is what I call Frankensteining, right?
+I patented this word.
 
 […]
 
 {ts:416} And again, you're going to just try to spot the outlier, and one video will outperform the rest, right?
-So, that's
-{ts:421} why I tell a lot of you, post more [ __ ] videos, all right?
-
-[…]
-
 So, that's
 {ts:421} why I tell a lot of you, post more [ __ ] videos, all right?
 If you're only posting one video a day, then
@@ -176,6 +188,19 @@ Like especially
 If you're doing this part-time, three to four, you know what
 {ts:461} I'm saying?
 But, just post volume, bro.
+
+[…]
+
+But if you're not testing enough, then your results
+{ts:447} are just going to be super slow, and you're going to get out competed by everybody else, right?
+{ts:453} Uh is three a good amount of what you would say?
+Yeah, I would say like minimum three vids, bro.
+Like especially
+{ts:457} if you're doing this full-time, three to six videos a day.
+If you're doing this part-time, three to four, you know what
+{ts:461} I'm saying?
+But, just post volume, bro.
+Again, once you spot the outlier, that's going to be your signal to be like,
 
 […]
 
@@ -232,6 +257,13 @@ I I'm just posting a whole bunch of different concepts until I find something th
 
 […]
 
+So, once I found my outliers, right?
+Another good example was uh these contrast videos
+{ts:667} that were doing really, really good for me.
+So, I was doing like prototype versus final product, what people think
+
+[…]
+
 And your best bet is to go viral first with like a really just normal organic
 {ts:694} concept and then make a CTA video that's very salesy.
 
@@ -282,6 +314,10 @@ That's also a really big thing if your product has multiple variations, right?
 
 […]
 
+{ts:838} to identify the drivers, pinpoint exactly what element made the video go viral, look for common traits, and
+
+[…]
+
 {ts:844} again, just prepare for really split testing, okay?
 Now, split testing components.
 You want
@@ -318,12 +354,24 @@ This was pre-Hicksfield, guys.
 
 […]
 
+Very niche
+{ts:1000} content.
+And so, I tell you guys all the time, do niche research and see if there's certain concepts in your niche
+{ts:1006} that are going viral where you can go ahead and just add your product in it.
+And so, at this very time, there was
+{ts:1011} this trend going on, and the hook was like putting on sunglasses so they can't see what I'm looking at, and it was this
+{ts:1015} very there was a certain part in the in the movie of Deadpool where like [ __ ]
+{ts:1020} Wolverine took off his shirt, see his six-pack, whatever, and a lot of girls were making videos about this and like
 {ts:1024} putting on glasses.
 And so, what did I do?
 Instead of putting on glasses, I had my mask on, and then I put the glasses
 {ts:1030} on, [ __ ] went viral.
 Dude, the targeting on this video was insane.
 I remember the [ __ ] converted at like 5 to
+{ts:1035} 6k per mil just because I was only attracting people that A, were die hard Deadpool fans and B, watched the movie
+{ts:1042} and can resonate with this [ __ ] clip in the movie.
+And so, that's what I mean by like niching down, you know, because
+{ts:1047} this video actually converted a lot better than some of these like 700k view videos, 1 million view videos, etc. etc.
 
 […]
 
@@ -596,6 +644,16 @@ No, literally.
 
 […]
 
+You're like yo, I'm printing and I told you okay, there's a couple things
+{ts:1854} we could start like analyzing whether was like the text hook or Um, I even told you oh, I told you about the
+{ts:1860} background.
+So I said text hook backgrounds and then maybe different clips of showcase.
+{ts:1865} Yeah.
+Um, but really it was just the background.
+{ts:1868} the same thing.
+
+[…]
+
 {ts:1860} background.
 So I said text hook backgrounds and then maybe different clips of showcase.
 {ts:1865} Yeah.
@@ -631,6 +689,8 @@ Bro.
 
 […]
 
+No, AR he literally reposted one for one.
+{ts:1911} Yeah, one for one repost.
 These two videos are the same [ __ ] videos.
 {ts:1914} Same exact thing.
 Nothing's changed about it.
@@ -812,6 +872,18 @@ So, this one I have a 70k
 
 […]
 
+I mean, you could have you should have kept
+{ts:2142} going, bro.
+I don't know why you too.
+Like it's super niche down.
+Like How did you find your avatar?
+Talk about
+{ts:2147} that.
+I just made it up.
+Honestly, like I would just think So, I used No.
+
+[…]
+
 Like it's super niche down.
 Like How did you find your avatar?
 Talk about
@@ -900,6 +972,12 @@ So, let me go ahead and show you a really good example of somebody that did this
 I think everyone Is that even his
 {ts:2379} Yeah, that's what I mean, bro, this is like probably like one of the most known products in organic.
 {ts:2385} killing it on TikTok shop now.
+
+[…]
+
+He was just
+{ts:2439} testing a whole bunch of [ __ ] until he saw something that stuck, which was obviously this concept right here,
+{ts:2444} specifically targeting the road raging sister.
 
 […]
 
@@ -1067,6 +1145,8 @@ Same exact video that I just posted on
 
 […]
 
+Same exact video that I just posted on
+{ts:2886} TikTok, I post it on Instagram and Facebook.
 Bro, how much money have you made in
 {ts:2893} this call?
 Like 200.

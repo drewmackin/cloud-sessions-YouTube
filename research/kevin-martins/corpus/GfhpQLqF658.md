@@ -1,7 +1,7 @@
 # Leaking My $1M AI Organic Dropshipping Blueprint (FULL ...
 
 - URL: https://www.youtube.com/watch?v=GfhpQLqF658
-- Windows: 239 (first timestamps 0s … 12376s)
+- Windows: 246 (first timestamps 0s … 12376s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -34,6 +34,10 @@ Because a few months before Kevin actually gave me a product in this niche
 […]
 
 less than six months, 150k with I think around 65% margins, bro.
+
+[…]
+
+So remember, you want to keep the background the same because,
 
 […]
 
@@ -498,6 +502,10 @@ Is it going to go viral?
 
 […]
 
+{ts:1990} something new.
+
+[…]
+
 Right?
 This is literally how these algorithms, how
 {ts:2002} these social media platforms run.
@@ -926,6 +934,15 @@ So, as you guys can
 
 […]
 
+{ts:4241} see, he's showing like the mess, right?
+Like the before him actually crafting it versus the masterpiece, right?
+And this
+{ts:4249} is what you would call a contrast concept, right?
+Showing a before and after, whether it's a prototype or, you
+{ts:4255} know, how it started versus how it ended, how it's looking.
+
+[…]
+
 This looks like a art piece, okay?
 And so, that's why this
 {ts:4276} video did so well for him and all the other ones that he posted on this account was because of all these
@@ -1153,6 +1170,13 @@ You
 
 […]
 
+{ts:4892} Not only can we go ahead and market the Lamborghini version, we can go ahead and market the BMW or or even the Porsche
+{ts:4897} GT3 RS, which is what we're going to be, you know, doing in this video.
+And the most important part, right, it can be
+{ts:4902} perceived as handmade and also has a very high value to it because it's a watch, right?
+
+[…]
+
 Also, this went super viral.
 I'm looking through the comment section,
 {ts:4913} really good demand, validation, and so I was like, let's run it for this video.
@@ -1307,6 +1331,12 @@ So, now we're going to be generating the images we'll
 
 […]
 
+So, now we're going to be generating the images we'll
+{ts:5255} be using to create the B-roll for our video, which in this case will be the showcase and the creation process of our
+{ts:5262} watch.
+
+[…]
+
 You got the paints, you got the uh
 {ts:5283} pictures of the actual watch, right?
 Even some sketches.
@@ -1316,6 +1346,8 @@ So step one is going
 
 […]
 
+So step one is going
+{ts:5290} to be generating the first frame of, you know, one B-roll to test our props, right?
 And so to make your first image,
 {ts:5297} again, you're going to give it to um Claude and you're going to give it your master frame that we just created as
 {ts:5303} well as a picture of our product.
@@ -1349,24 +1381,47 @@ And so, again, like I mentioned before, if you
 
 […]
 
+Now, step number two.
+This is when it gets a little bit crazy, right?
+You want to start making the
+{ts:5380} first batch of your B-rolls in bulk, right?
+You can generate up to 10 to 15.
+And yes, you can reuse them across your
+{ts:5386} videos as long as you make new hooks every single time.
+For this example, I made six uh different B-roll images that
+{ts:5395} essentially shows progression right from start to finish.
+All right.
+And again, if you want an idea of what to say to
+{ts:5402} Claude, you want to go ahead and give it your master frame.
+And you're going to be like, "Listen, I want five, maybe
+{ts:5409} eight different shots of my avatar doing this, this, this, and that."
+And so, again, like I mentioned before, if you
+{ts:5416} ask Claude what's the step-by-step process of making a watch, it'll probably spit out 10 different steps.
+{ts:5421} And then based off those steps, like, now I want 10 different shots of her actually, you know, doing those uh those
+{ts:5428} steps.
+
+[…]
+
 All right, so step three,
 {ts:5490} send all the B-roll images that we just created.
 Okay, all these images, you're going to go ahead and copy them and
 {ts:5495} you're going to paste them into Claude and you're going to ask him to create an animation prompt for Cling 3.0.
 Again,
 {ts:5501} in this video, we're going to be using Cling 3.0.
-
-[…]
-
+Are there other video creation tools?
+Yes, but for this
+{ts:5506} example, we're going to be using Cling 3.0. and you're going to describe precisely what you want in each video.
+{ts:5510} And again, you have to be super super precise.
+And so I literally did that.
 I was like, "Here are three more images
 {ts:5516} that I'll be animating with Cling 3.0.
 I need one prompt per image to show a realistic process action."
 And that's
 {ts:5524} all you need to say.
 And again, just remind it all the images are static shots.
-
-[…]
-
+The camera does not move at all
+{ts:5529} because again, we're showing creation process.
+It's not like she's grabbing the camera or anything, right? and we're
 {ts:5534} using cling to make sure that the prompt stays under 2500 characters.
 Okay, if you're going to be using cling, make
 {ts:5539} sure it's under 2500 characters or else it won't let you render it.
@@ -1401,6 +1456,11 @@ It just doesn't really look too good.
 
 […]
 
+I saved it to my computer and then I went ahead and uploaded it into Higsfield right here and added it to my
+{ts:5630} start frame and then I generated it.
+And then boom, look what came out.
+Perfect video.
+Exactly what I wanted and it's
 {ts:5638} phenomenal.
 Super super realistic.
 Okay, so now that we did that, again, just make sure that you pay attention to
@@ -1436,6 +1496,22 @@ I'm just going to go into
 {ts:5718} his profile and see if I can find some concepts.
 And I went ahead and found this one, which I think suits our
 {ts:5723} product like perfectly, where you're pretty much just showing the creation, right, of the the product and then the
+
+[…]
+
+{ts:5740} ahead and do it for the watches.
+Okay.
+Um and this again, this is what you would call a contrast concept, just
+{ts:5747} comparing and contrasting the creation versus the final product.
+Okay.
+And what I also did was I took inspiration from
+{ts:5754} another video in the car niche that's currently going viral.
+Uh, and this is exactly where I not only got this
+{ts:5761} transition of like the O baby like this,
+{ts:5767} but also the sound.
+So, I pretty much did a little bit of a Frankenstein here.
+Okay, so pretty much
+{ts:5773} what I did here, okay, is I Frankensteined my own video.
 
 […]
 
@@ -1540,6 +1616,46 @@ Um, but not like something like a professional camera.
 
 […]
 
+Your AI slot bores me. and what's going to be the main pivotal difference from something that's obviously AI and
+{ts:6033} something that's going to be super scroll stopping and organic.
+So, there's going to be four different things that
+{ts:6037} we're going to be running through.
+The first one's going to be nailing the environment first.
+It's basically
+{ts:6041} describing your master frame in detail, right?
+How does the setting look like the colors, the overall mood, right?
+Set
+{ts:6047} the scene before anything else.
+It's super and super it's just so important, right?
+Because your master frame is
+{ts:6052} going to dictate your videos.
+Okay.
+Um, two is going to be being precise with framing and camera placement.
+So, spell
+{ts:6060} out exactly where the camera sits and how the shot is framed.
+Never let the image tool guess for you because if
+{ts:6067} you're very vague with your prompts, bro, you're going to get super vague results.
+All right, number three is
+{ts:6072} going to be using strict negatives.
+So, no studio lighting, no professional setup.
+Strip out every cinematic
+{ts:6078} element.
+The goal is an organic clip that looks like it was shot on a phone, okay?
+Particularly like an iPhone or an
+{ts:6084} old Samsung.
+Um, but not like something like a professional camera.
+Okay, that's going to be, you know, our last one
+{ts:6090} here.
+You know, making it look like it got shot on a phone, right?
+Super organic.
+Vertical.
+Obviously, no fisheye
+{ts:6096} uh/wide angle distortion, no depth of field ever.
+And I will say depth of field is the number one mistake that
+{ts:6103} people make that breaks the illusion and it instantly reads as too cinematic and kills the organic feel.
+
+[…]
+
 Okay, so if you go ahead and take a look at one of my image prompts right here that we use for this
 {ts:6123} video, um we have very very precise environment description, right?
 Referring to the master frame, um and
@@ -1560,6 +1676,21 @@ Again, if you want to be even more precise, just be
 It'll recognize it.
 Okay.
 Um also, framing and camera placement should be super
+
+[…]
+
+I also told you, listen, no cinematic, no studio, no DSLR um cameras, none of
+{ts:6150} that stuff.
+And we're also going to keep that 9x6 vertical close-up photography uh because that's what it's is native to
+{ts:6156} the platform.
+And again, modern smartphone rear camera.
+Again, if you want to be even more precise, just be
+{ts:6161} like iPhone 13, iPhone 14.
+It'll recognize it.
+Okay.
+Um also, framing and camera placement should be super
+{ts:6167} precise.
+Never let the image generation tool guess for you give clear instructions.
 
 […]
 
@@ -1586,6 +1717,18 @@ We want to avoid every cinematic aspect in the image.
 So remember, don't forget,
 {ts:6227} we're trying to aim for an organic video here shot on an iPhone, not a professional looking video with perfect
 {ts:6233} lighting.
+All right.
+Um, and you guys can go ahead and take a look at this uh prompt right here.
+Super
+{ts:6240} super super important, right?
+And then again, video shot on iPhone or an old Samsung, not a professional camera, no
+{ts:6245} fisheye, no depth of field ever, right?
+Let Claude know, never ever do this.
+Um, and again, like I said, depth of field
+{ts:6253} is the number one mistake that makes a video look unrealistic and it makes them too cinematic.
+And so, yeah, this is
+{ts:6257} going to be the image prompt structure that we want to work off of.
+Now, next one.
 
 […]
 
@@ -1971,6 +2114,9 @@ I saw
 
 Now, the results, that exact product ended up generating over $100,000 in
 {ts:7666} revenue for Harper.
+Okay, you guys seen the case studies.
+Months later, the resonation evolved further with AI
+{ts:7672} content, helping this community, right, FSE, and many other drop shippers and many other drop shippers generate close
 
 […]
 
@@ -1993,6 +2139,12 @@ Uh, unfortunately, I can't
 
 […]
 
+But, bro, it worked.
+It worked phenomenally.
+And by the way, it also
+{ts:7756} did take Harper, I want to say, a month before he can actually blow up this product.
+And I told him, bro, listen,
+{ts:7761} trust the process.
 I know this is going to go viral.
 Just trust me.
 And after a month of testing, he finally hit that
@@ -2008,6 +2160,11 @@ He would have
 {ts:7798} never made this money.
 And so sometimes you genuinely need to give a product time before you drop it.
 Usually I tell
+{ts:7805} people, you know, 30 to 40 posts.
+Um because you need to start testing more concepts, bro.
+Right?
+Like maybe the
+{ts:7813} first three days of testing nothing hits because you've only tested like two, three concepts.
 
 […]
 

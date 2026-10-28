@@ -1,7 +1,7 @@
 # How He Made $140K in 30 days With AI Organic ...
 
 - URL: https://www.youtube.com/watch?v=6o0llGgVRrg
-- Windows: 60 (first timestamps 5s … 2600s)
+- Windows: 62 (first timestamps 5s … 2600s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -12,11 +12,11 @@ Metadata lines seen:
   84K.
   A hard CTA gets 10 million views on Tik
   All my team is in the same page now.
+  All of them are now uh fully AI.
+  All right, let's talk about month three now.
   All the products that we can run.
   And And I was the first one using these B- rolls.
-  And I feel like that pivot from traditional organic to AI was really everything for you, right?
-  And also time because because before I was running and that that was
-  And and on this video I made exactly exactly the same same video, different different audio, different
+  And I
 
 ---
 Um, so that one did $84,000 that month, almost 100K since he started running it.
@@ -38,15 +38,7 @@ I reused them on Tik Tok and I went viral with them.
 
 […]
 
-And And I was the first one using these B- rolls.
-
-[…]
-
 In July 1st I woke up knowing that I was going to
-
-[…]
-
-Uh with the main product in 15 days, I
 
 […]
 
@@ -68,6 +60,11 @@ And today we're going to be going over how he did $140,000
 {ts:19} with me in the last 30 days.
 And we're going to be leaking his main product that made him the majority of the money.
 {ts:25} And we're also going to be talking about the main pivotal changes that he really made to go from $60,000 a month to 140k.
+
+[…]
+
+Uh with the main product in 15 days, I
+{ts:64} made around 84K.
 
 […]
 
@@ -99,15 +96,23 @@ So, one year ago, I started making
 
 […]
 
+At the beginning because AI didn't exist at that time.
+{ts:277} Right.
+You were doing just traditional organic.
+No. No. Okay.
+So, uh, before joining FSE,
+{ts:284} you were doing strictly filming, strictly stitches.
+Um, yes.
+And you were making about 20K a month
+{ts:291} already, consistently.
+
+[…]
+
 Okay.
 At the beginning because AI didn't exist at that time.
 {ts:277} Right.
 You were doing just traditional organic.
 No. No. Okay.
-
-[…]
-
-{ts:284} you were doing strictly filming, strictly stitches.
 
 […]
 
@@ -146,6 +151,17 @@ I started making good videos with the the all the knowledge that I
 
 […]
 
+{ts:480} that you can make 60 grand and then the second month of uh FSE right working with me you also did 60k correct
+{ts:489} 60k again okay so let's talk about doing 60k months consistently what was something
+{ts:494} that changed from the first month to the second month so second month I already had the
+{ts:501} mentality and I added to my skill set the AI video creation Right.
+{ts:509} So that was the most important thing on that month.
+I started making good videos with the the all the knowledge that I
+{ts:516} got from the community from the mentorship and from Elias.
+Elias is Harper as well at that moment.
+
+[…]
+
 Elias and and Harper were are pretty good in in AI and I learned a lot from them.
 I just logged in with uh
 {ts:533} their videos.
@@ -168,9 +184,6 @@ And also time because because before I was running and that that was
 So I can run and up to five six six products per per day
 {ts:647} right at the same exactly.
 Okay.
-
-[…]
-
 So month two was
 {ts:651} obviously uh you know you had the mentality but you started learning AI implementation and using it for your
 {ts:658} products.
@@ -360,6 +373,11 @@ M. So that was immediately green light for
 
 […]
 
+So John, you're a very big fan of posting all your videos
+{ts:1296} simultaneously at once without having time in between.
+
+[…]
+
 M okay
 {ts:1343} and and yeah yeah about posting the videos all at once.
 I think everything is a myth with with the accounts.
@@ -376,6 +394,31 @@ So John, this is going to be your account here.
 
 […]
 
+{ts:1379} The Nook Light.
+Wow.
+77,000 followers.
+
+[…]
+
+So I want to talk about what you mentioned earlier.
+Sorry to cut you off.
+So you talked about identifying that gap
+{ts:1414} from your competitor.
+He was only doing 321s.
+You tested his product.
+You saw that it was converting and you really
+{ts:1420} went all in on run twos.
+Okay.
+So if you want to scroll down to the beginning of the account, which stores did you start
+{ts:1427} with?
+And also I wanted to ask you as well, did you do anything different in the hooks or did you just kind of copy
+{ts:1434} them one for one and just do run twos?
+Okay.
+So, for some of the videos, I started the 32 ones that were the ones
+{ts:1441} that were uh working for him with the same hook, exactly the same, but with I think it's you can notice it's better
+
+[…]
+
 {ts:1467} So then I started studying the the niche, the audience, and I noticed that the book girls used to make used to use
 {ts:1476} this this font.
 Mhm.
@@ -384,12 +427,15 @@ And sometimes they use it like like this
 
 […]
 
+So uh and of course the the audios that
+{ts:1491} they use, I didn't use the exactly same audio that my computer was using.
 I just did some niche research to to implement
 {ts:1499} in my in my videos basically, right?
 So I copied the 32 ones and implemented
 
 […]
 
+{ts:1530} Yeah, exactly.
 Okay.
 So, so I used different stores like Barnes &
 {ts:1537} Noble, uh, books, random bookstores, Target, um,
@@ -401,10 +447,24 @@ This was uh July uh 18 18
 
 […]
 
+So, so I used different stores like Barnes &
+{ts:1537} Noble, uh, books, random bookstores, Target, um,
+{ts:1546} different concept.
+I mean the same concept but different variations, different avatars
+{ts:1551} and this was my my winner.
+This was uh July uh 18 18
+{ts:1558} one day before my 22k day and that was what 14 million views 14 million views so far.
+{ts:1565} Holy cow.
+Let's watch the video.
 Uh, even the the B- rolls I made them with CDN.
 {ts:1576} I changed the background.
 I mean, I used the background swap methods that Elias shared with us.
 Elias again.
+{ts:1585} Shout out Elias.
+And And I was the first one using these B- rolls.
+Nobody Nobody has these.
+{ts:1591} Nobody had them.
+It was It was me.
 
 […]
 
@@ -432,6 +492,16 @@ So that's why they don't buy Target,
 
 […]
 
+{ts:1659} Exactly.
+And and on this video I made exactly exactly the same same video, different different audio, different
+{ts:1667} music.
+Wow.
+It's the same video and 8 million views.
+{ts:1671} Text hook, same showcase, same avatars, just different sound.
+The same.
+
+[…]
+
 {ts:1671} Text hook, same showcase, same avatars, just different sound.
 The same.
 {ts:1676} Wow.
@@ -446,6 +516,14 @@ No, they are the
 
 […]
 
+So this one with reuse clips with a link linking bio text
+{ts:1721} and it was 10 million views.
+That's insane.
+A hard CTA gets 10 million views on Tik
+
+[…]
+
+Like holy cow.
 And what converted better for you, IG or Tik Tok
 {ts:1735} for this prod?
 Uh IG.
@@ -453,19 +531,29 @@ Absolutely.
 IG.
 Okay.
 Look, 1 million views on this
+{ts:1741} one.
+Tik Tok and reusing clips.
+What were you reusing?
+Everything.
+{ts:1750} Everything?
+Yeah.
+Look, it's the same video, right?
+Every time.
+{ts:1755} Yeah.
 
 […]
 
+Yeah.
+I mean, this totally explains like all the sessions you were getting.
+I mean, bro, when you go when
+{ts:1776} you go viral on Tik Tok and IG, it's like so many people are clicking on your website.
+Did you have any luck on
+{ts:1781} Facebook or Not really.
 It was just No, on Facebook, I just hit maybe two or three viral videos,
 {ts:1787} right?
 Not more than that.
 That's crazy, bro.
 That's insane.
-All
-{ts:1791} right, man.
-
-[…]
-
 All
 {ts:1791} right, man.
 I mean, it's pretty self-explanatory.
@@ -564,9 +652,8 @@ So, exactly.
 
 It's like that's the thing with you that
 {ts:2407} I've noticed, bro, is that you're always learning and implementing with speed because how has AI kind of like changed
-
-[…]
-
+{ts:2414} things for you with like testing and posting and and everything cuz like were you able to run like nine products in a
+{ts:2419} month before or No, I was right.
 No, I was I was throwing like six
 {ts:2428} two uh every uh three every two weeks, six in total during the month.
 

@@ -1,7 +1,7 @@
 # Vendí +$22,700 con dropshipping y videos de IA (te enseño cómo)
 
 - URL: https://www.youtube.com/watch?v=x_xnXMWwWJw
-- Windows: 16 (first timestamps 24s … 1213s)
+- Windows: 19 (first timestamps 24s … 1258s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -81,6 +81,11 @@ Let's move on . Here comes the bulk of the information . To make videos with AI 
 
 […]
 
+{ts:845} it's the top platform when it comes to models , it has a lot of built-in images , videos and it's amazing . The ones I
+{ts:854} use , as I told you , the ones I use are Hitfield Genjutsu and Sidan 2.5 , which is featured and the Genjutsu one is new
+
+[…]
+
 In Cloude ,
 {ts:876} we're going to make a complete video with just a description and a couple of images . I've already added the fus shop
 {ts:883} that I mentioned before , and then , uh , if you use images that are as real as possible , use images from social
@@ -88,7 +93,29 @@ In Cloude ,
 
 […]
 
+Real video , as if it were recorded on a mobile phone . The
+{ts:960} decorations in the room were very subtle . 12 - second video . Create a pron for AIDS with the reference images from
+{ts:967} the fusion that I put there . Then it's going to create a pron for me from examples of viral videos , prons , viral
+{ts:976} videos of AIDS that I have there . And we'll go back . He already did it , uh , it didn't even take you 2 seconds . I
+{ts:984} don't know why I cut the previous video . Here it is . Here it is . It's done , no more .
+I don't know . It took me 5
+{ts:993} seconds . I cut it , I thought it would take longer , but right now it's really fast . So , here it can run because we
+{ts:1000} already have it connected . Look , now it generates . Look , it already knows what to do .
+You even want me to launch it
+{ts:1008} for Hitfield , launch it without further ado . That's all we have to do . How long did it take me ? You're looking at the
+{ts:1020} time there . It didn't take me a minute to do this , huh ?
+Not a minute . That's why I'm telling you that the videos
+{ts:1028} come out in minutes . Now Hitfield is going to generate it . It's going to take its time and we'll be right back .
+{ts:1034} It already gave us the video . Let's see it . Oh , no , not at all .
+It looks so real . It looks very , very
+{ts:1052} real . It's incredible . In just one shot . In just one shot . It's
+{ts:1061} crazy , guys . Sidans is the daddy when it comes to creating videos with AI and it's crazy . Here , based on this , we
+
+[…]
+
 {ts:1093} there is . Always use real reference images to guide you so that it gives you real videos like what you see here ,
+{ts:1100} it's crazy . If you use recordings as if they were from a cell phone , from an iPhone , it will give you better results
+{ts:1107} . I've tried it and it's worked very well for me . So let's move on to the next method . With the Genjutsu strategy
 
 […]
 
@@ -115,3 +142,11 @@ We remove text and prepare for motion transfer . Just in case , we tell it that 
 […]
 
 {ts:1213} We copy the prom and go to genjutsu .
+
+[…]
+
+I always tend to use Motion Control . We activate the prom and copy the prom . Here is the
+{ts:1258} video , reference images and above all 480 quality so that from a good video we can upscale it here with topas . Okay
+{ts:1266} ? Do this to save credit .
+If you already have a workflow or if you already have the skill or the fuse shop
+{ts:1273} that I provide , you can go for 480 because the results are going to be incredible . Okay , but here in this case

@@ -1,7 +1,7 @@
 # how to split test like a 6 figure organic dropshipper (copy me)
 
 - URL: https://www.youtube.com/watch?v=h8NPj47R2fM
-- Windows: 30 (first timestamps 0s … 1564s)
+- Windows: 43 (first timestamps 0s … 1807s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,11 +24,39 @@ So yeah, that's pretty much the difference between split testing on Tik Tok and 
 
 […]
 
+And you could see how the platform rewarded him for it.
 So, not only was he testing the video hook, he was also testing the text hook, he was testing the sound, he was testing the body clips and the initial fin and the the final the final clip right there.
 
 […]
 
-Some of them were different emojis, some of them was like different wording, but he was almost always targeting that road raging sister.
+I do something called organic drop shipping.
+And in the last year and a half, I've been able to make over $300,000 uh combined with all of my drop shipping stores.
+And with this money, I've been able to cop my dream apartment here in Miami, Florida.
+
+[…]
+
+So like I mentioned, efficiency, right?
+So instead of posting random videos, you test with intention and quickly see what works.
+Right?
+This is the whole point of this is to be efficient.
+
+[…]
+
+Okay, the text is relatively the same.
+So, this is definitely something that we can go ahead and split test, right?
+
+[…]
+
+He continued targeting this initial textbook of I bought this for my roading sister, right?
+And now she won't
+
+[…]
+
+This is really just going to be about how I was able to achieve this using this exact split test strategy.
+
+[…]
+
+I think I even made it shorter and I re-recorded at a way higher quality than the first version, right?
 
 […]
 
@@ -37,6 +65,15 @@ Because if we go to his 52 million view video right here, you guys can see this 
 […]
 
 And also by the sixth video, I was already posting a CTA.
+
+[…]
+
+So, yes, we kept the text look the same.
+
+[…]
+
+Keeping the text the same.
+[Music]
 
 […]
 
@@ -67,6 +104,12 @@ And so, something that we can simply do is maybe just change the hook, right?
 Change the captions, change the sounds, or the initial background that you decided to use in that video, right?
 to find out
 {ts:177} what drives the most amount of views, engagement, and sales and then really just double down on that winner.
+
+[…]
+
+This video got us
+{ts:195} a million plus views and we got some traction, right?
+But in this viral video, we have different clips that we use, different captions, hooks, backgrounds, and audios, right?
 
 […]
 
@@ -183,10 +226,41 @@ And so if we take a look at Merkface again, we go through the oldest videos, you
 
 […]
 
+But you guys can see that something's a little bit similar, right?
 {ts:888} The the text hook, right?
 I went from don't let Deadpool fans see this mask to don't let your boyfriend see this, right?
 So the text hook in itself is already very similar, right?
 And this is something that I split tested myself.
+
+[…]
+
+Um, another thing too that I noticed was the initial video hook, right?
+The first three seconds of the video, right?
+So, if we go ahead and choose the first video right here, we put a box down, we open it, then we actually just do a little bit of an
+{ts:948} unboxing here, and then boom, show the mask.
+Another thing too here is like it's almost the same thing, but I made it a little bit quicker.
+
+[…]
+
+Obviously, there's only one variation, so we'll check that.
+The video length, let's take a look.
+So the first video was about 16 seconds long and then the
+{ts:1038} second one was 14 seconds long.
+So a little bit of a shorter video the second time which outperformed the first.
+So this is something I could go ahead and think about too.
+I'm like, "Okay, let's maybe keep the video length, you know, a little bit shorter, not going beyond the 14 second mark."
+Um, so we'll go ahead and test this.
+And then obviously the concept, what what video idea or what angle did I use?
+And so as you guys can
+{ts:1056} see, the concept was more of a unboxing type of style, right?
+So again, I'm unboxing the box.
+That sounded funny. and then me putting on the the Deadpool mask.
+And then the same thing goes with this one.
+I did more of an unboxing style and then transition to me wearing the mask.
+So, relatively the same kind of concept going on here.
+Um although I
+{ts:1074} did change the angle a little bit different.
+I I did change the angle, right?
 
 […]
 
@@ -286,3 +360,28 @@ So again, just literally re-record those winning clips.
 And then later on, you could go ahead and start reposting because I'll be honest with
 {ts:1597} Instagram, it's like the wild wild west, bro.
 You could repost a whole bunch of stuff and, you know, still be able to go viral.
+
+[…]
+
+This got 173,000
+{ts:1636} views, and then as you guys can see, it didn't necessarily go too crazy, right?
+But as you guys could see right here, when it came to the text hooks, he was really targeting the road rage sister, right?
+
+[…]
+
+This is what happens when you stick to a system, a process, right?
+because in the beginning of the life cycle, he noticed this, he continued to double down, he didn't give up, and then boom, as you guys can see, the Instagram gods just literally fed him millions and
+{ts:1769} millions of views.
+So, not only was he testing the initial text hook of the video, because as you guys can see, they're basically identical, right?
+Some of them were different emojis, some of them was like different wording, but he was almost always targeting that road raging sister.
+Not only that, but he was also testing the initial video hook, right?
+He was split testing the video
+{ts:1788} the video hook.
+As you guys can see, these are his most viral videos.
+
+[…]
+
+But again, what I'm trying to say here is that he was testing multiple components at once, right?
+So, he was not only testing the video hook with that [ __ ] table.
+He was also testing the text hook, different sounds, the
+{ts:1807} body clips, and then the finale, right?

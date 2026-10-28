@@ -1,7 +1,7 @@
 # 45 Minutes Of Answering The Biggest Organic Dropshipping Questions
 
 - URL: https://www.youtube.com/watch?v=mN0NczjasZM
-- Windows: 16 (first timestamps 2s … 2733s)
+- Windows: 28 (first timestamps 2s … 2733s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -115,10 +115,28 @@ If  you're  talking  like
 
 […]
 
+{ts:782} posting  times  exist?
+No.  But  if  you're
+ superstitious,  post  a  video  at  1:00
+{ts:786}
+ p.m.,  then  post  another  video  at  8:00
+{ts:788} p.m.
+If  you  post  twice  a  day,  if  you're
+ posting  three  times  a  day,  post  a  video
+{ts:792}
+ in  the  morning,  evening,  and  then  at
+
+[…]
+
 Don't  be  so  ignorant
  and  start  testing  your  ass  off  on
 {ts:1051}
  Facebook.
+
+[…]
+
+Most  people  are  just
+{ts:1576} like  scrolling  on  their  phone  all  day.
 
 […]
 
@@ -133,6 +151,70 @@ We  find  a
 
 […]
 
+{ts:1924} another  one  is  advice  on  going
+ consistently  viral  and  split  testing.
+{ts:1928}
+ So,  to  be  able  to  go  consistently  viral,
+{ts:1930} you  have  to  make  good  content,  right?
+but  also  have  the  right  product  to  be
+{ts:1933}
+ able  to  go  viral  with.
+But  most
+
+[…]
+
+{ts:1958} in  the  middle  of  [ __ ]  Africa,  but
+ I'll  still  be  able  to  print  with  organic
+{ts:1961}
+ because  I  have  all  this  knowledge.
+But
+{ts:1962} how  did  I  obtain  that  knowledge?
+Through
+ information,  right?
+And  I  was  able  to
+{ts:1966}
+ obtain  that  information  through  scoring
+{ts:1968} on  my  burner,  right?
+Um  studying
+ concepts,  studying  other  YouTubers  that
+{ts:1973}
+ were  in  the  space,  uh  investing  in
+{ts:1975} mentoring,  investing  in  a  whole  bunch  of
+ different  communities  and  stuff  to  be  on
+{ts:1978}
+ top  of  the  game,  right?
+Because  at  the
+{ts:1980} end  of  the  day,  if  you  can't  go  viral,
+ it's  most  likely  because  a  your  content
+{ts:1984}
+ is  [ __ ]  but  also  you  probably  just
+
+[…]
+
+{ts:2048} creative.
+But  the  only  way  you  can  get
+ creative  is  by  surrounding  yourself  with
+{ts:2053}
+ information.
+And  that  is  going  to
+{ts:2055} include  you  scrolling  every  day.
+Like
+ the  second  you  wake  up,  get  on  your
+{ts:2059}
+ phone  and  start  looking  at  your  burner.
+{ts:2060} Start  looking  at  different  trends  that
+ you  can  literally  synthesize  to  your
+{ts:2064}
+ brain  and  be  like,  "Oh,  can  I  run  this
+{ts:2066} with  my  product?"
+And  most  of the  time
+ you  can,  bro.
+Most  of  the  [ __ ]  time
+{ts:2069}
+ you  can.
+All right.
+And  lastly,  split
+{ts:2071} testing,  right?
 Split  testing  is  one  of
  the  main  things  that  you  need  to  know  as
 {ts:2075}
@@ -140,6 +222,76 @@ Split  testing  is  one  of
 {ts:2076} Meta,  right?
 Both  Instagram  and
  Facebook.
+If  you  don't  know  how  to  split
+{ts:2079}
+ test,  you're  not  going  to  be  able  to
+{ts:2082} have  that  sort  of  longevity,  right?
+
+[…]
+
+And  so  I  would  switch  the
+{ts:2138}
+ textbook.
+I  would  keep  the  same  clips
+{ts:2140} going.
+Obviously,  I  would  re-record
+
+[…]
+
+What  you  would  do
+{ts:2175}
+ is  start  changing  and  and  testing
+
+[…]
+
+{ts:2187} variable  at  a  time  until  you  find  like
+ your  winning  variables.
+
+[…]
+
+{ts:2207} going  to  be  slightly  switching  the
+ textbook  while  still  keeping  the  same
+{ts:2210}
+
+[…]
+
+{ts:2541} in  the  past.
+And  again,  you  have  to  kind
+ of  be  creative  and  ask  yourself  like,
+{ts:2544}
+ can  I  run  this  concept  with  my  product?
+
+[…]
+
+{ts:2565} And  again,  ideas  come  from  you
+ consistently  scrolling  on  your  burner
+{ts:2569}
+ and  finding  those  winning  concepts  from
+
+[…]
+
+{ts:2594} Yes,  it's  going  to  take  a  lot  of
+ creativity,  but  it's  really  about  it's
+{ts:2597}
+ really  about  surrounding  yourself  with
+{ts:2599} all  this  information  and  just  sitting
+ there  and  thinking,  right,  and  coming  up
+{ts:2603}
+ with  a  whole  entire  document  of
+
+[…]
+
+{ts:2650} [ __ ]  roof  if  you're  able  to  actually
+ relate  to  your  audience,  right?
+So,
+{ts:2654}
+ yeah,  that's  how  I  go  about  concepts  and
+{ts:2656} ideas  for  my  videos.
+It's  really  just  a
+ matter  of  like  sitting  your  ass  down  for
+{ts:2659}
+ two  hours  a  day,  right?
+And  actually
 
 […]
 

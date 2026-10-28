@@ -1,7 +1,7 @@
 # How I Print $100k/mo With Ai Organic Dropshipping (feels illegal)
 
 - URL: https://www.youtube.com/watch?v=j9qe_z_M8f8
-- Windows: 35 (first timestamps 0s … 1404s)
+- Windows: 42 (first timestamps 0s … 1423s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -23,6 +23,10 @@ And the beauty behind this is that we are able to set up MRR which means monthly
 
 […]
 
+We even have Prince here doing 15K in a week as well.
+
+[…]
+
 So this is probably this could probably be a
 
 […]
@@ -38,6 +42,11 @@ And with this type of concept able to make $70,000 in 7 days at 65% profit margi
 {ts:36} day.
 And in the last 2 years I've done multiple six figures in profit with organic drop shipping to where now I'm
 {ts:41} able to afford to live in my dream high-rise here in Miami and start multiple real brands and scale them up
+
+[…]
+
+And now I'm making more in a day than most 23-year-olds in 2026 where I'm averaging anywhere from 5 to
+{ts:59} $10,000 a day with the business model.
 
 […]
 
@@ -90,10 +99,19 @@ So yes, you can go ahead and sell digital products
 
 […]
 
+And there's going to be two different ways
+{ts:280} of doing it.
+We're going to break down the first one right here because it's more beginner-friendly.
 And so the first
 {ts:284} thing that you're going to go ahead and do is create a TikTok and Instagram burner account to show you drop shipping
 {ts:289} products, right?
 So simply what you do is you go ahead and open up a fresh TikTok account, right?
+This is my um my
+{ts:295} burner right here.
+If I go to the For You page, it's 100% right um optimized to see AI products as
+{ts:302} well as drop shipping products as well.
+And so what I'm going to go ahead and do is try and find winning products that
+{ts:306} are going to be validated through the algorithm.
 
 […]
 
@@ -107,9 +125,25 @@ But do we have actual demand?
 
 […]
 
+Really what you want to do
+{ts:353} is like just engage with these types of products.
+
+[…]
+
 So what you go ahead and do is go to your search bar whether you're on your phone or your PC and
 {ts:362} search up a key term, right?
 Say something like Amazon made me buy it.
+And so when you search
+{ts:368} this up, you're going to see a whole bunch of different products.
+So all you do is you click here and you just engage
+{ts:374} whether you give it a like, a nice little comment.
+It could be a couple of emojis, right?
+Whatever it may be.
+Show
+{ts:378} the algorithm that you want to go ahead and see more of this, okay?
+Something like this as well.
+Give it a
+{ts:383} like, give it a share, even save it, right?
 
 […]
 
@@ -190,6 +224,7 @@ I just leaked my [ __ ] number.
 
 […]
 
+Okay, so comment the word AI if you made it this far.
 All
 {ts:615} right, so we're going to be starting with video creation first and we'll move on to prompting and voice overs.
 All
@@ -201,9 +236,8 @@ All right, you go on higsfield.com or
 Whether it's an image, a video, motion control.
 You've probably seen these on your for you page
 {ts:642} like people just like, you know, pretending to be like Billie Eilish or whatever.
-
-[…]
-
+{ts:646} This is how they're doing it, right?
+So this is like an all-in-one software you can go ahead and use.
 Obviously it's not
 {ts:651} free, it's insanely valuable.
 But what you go ahead and do is click video and then you can go ahead and generate your
@@ -219,11 +253,24 @@ Okay, so what you go ahead and do again open up Claude.ai and then boom.
 
 […]
 
-So this is like an all-in-one software you can go ahead and use.
-Obviously it's not
-{ts:651} free, it's insanely valuable.
-But what you go ahead and do is click video and then you can go ahead and generate your
-{ts:656} video using a whole bunch of different softwares and it's all-in-one.
+This is what I personally use
+{ts:662} to go ahead and make my videos.
+But before I even make my video, you have to understand you have to go ahead and
+{ts:666} prompt it, right?
+And so this is when you want to go ahead and use Claude AI for prompting and scripting your AI
+{ts:671} voice overs.
+Okay, so what you go ahead and do again open up Claude.ai and then boom.
+The reason I use Claude over
+{ts:678} ChatGPT it's just so much smarter, bro.
+It's absolutely insane.
+Especially Claude code.
+If you know, you know.
+It's
+{ts:684} literally the future of where we're going with this whole AI technology.
+Think of like Einstein just built into
+{ts:690} like an AI where you can just go ahead and pick its brain 24/7 at an insane rate.
+So like I mentioned,
+{ts:696} if you want to make your scripts or even build out your prompts to use for Higgsfield, you need to use Claude AI.
 
 […]
 
@@ -269,6 +316,9 @@ It's definitely like a crazy ROI and an investment that you have to make for the
 {ts:787} and it's amazing, right?
 And so now I'm going to go ahead and give you guys a little bit of insider access to one of
 {ts:792} my group calls with my students inside of FSC where Harper, my advanced coach, kind of goes over motion control and I
+{ts:800} kind of want to show you this because it's literally insane and you're probably going to laugh your ass off.
+{ts:804} Okay, so this is Harper right here going ahead and utilizing motion control for one of his AI influencers like this girl
+{ts:811} right here and it's insane how crazy and detailed it is because now we're able to literally hold any product, right?
 
 […]
 
@@ -304,6 +354,14 @@ So imagine what we're
 
 […]
 
+Also, apart from Harper, we have other killers in here as well.
+This is Elias all the way from France.
+He hit
+{ts:855} $60,000 in 15 days with AI as well.
+He said Q4 is going to be crazy, bro.
+
+[…]
+
 So imagine what we're
 {ts:867} going to be cooking up in Q4.
 Also, this is Mark here.
@@ -313,10 +371,32 @@ We recently just did a
 
 […]
 
+So yeah, these are just some of the results that I'm getting for the people inside of FSC which are my
+{ts:911} students and we're all utilizing AI.
+Like even Chase, bro.
+A complete beginner, first week in the mentorship
+{ts:917} hit $11,000, bro.
+Absolutely insane that even beginners can just start up, get everything up and running, and print off
+{ts:923} the bat.
+And then lastly, bro, my boy Prince here.
 He was able to actually make $16,000 in a single week at 17
 {ts:928} years old, bro, and quit his 9-5.
 This is literally a letter of resignation that he went ahead and sent to his job
 {ts:935} and now he's going ahead and doing e-com full-time now and it's insane.
+So if you guys do want to join FSC, my one-on-one
+{ts:941} mentorship, you guys can go ahead and apply.
+First link in the description.
+
+[…]
+
+So if you guys do want to join FSC, my one-on-one
+{ts:941} mentorship, you guys can go ahead and apply.
+First link in the description.
+But apart from that, right?
+Now we have
+{ts:946} to go into building out a store, right?
+How are we actually going to build out our stores fully done with AI?
+So now
 
 […]
 
@@ -403,9 +483,29 @@ As you
 
 […]
 
+Also, if you guys are looking to get coached by me personally
+{ts:1337} and get access to all the AI resources that's printing us hundreds and thousands of dollars a month.
+You guys
+{ts:1342} can go ahead and take a look at the first link in the description to apply to join FSC.
+
+[…]
+
+{ts:1390} freaking week, bro.
+
+[…]
+
+Uh we got AJ, my boy
 {ts:1398} Aaron, doing back-to-back 10K days all done with AI, obviously.
 
 […]
 
 {ts:1404} genuinely cooking.
 We have absolute demons doing 100K a month here.
+
+[…]
+
+So, yeah, guys, the proof is in
+{ts:1423} the pudding.
+You guys can go ahead and apply, first link in the description like I mentioned earlier.
+And that's
+{ts:1427} going to be the video.

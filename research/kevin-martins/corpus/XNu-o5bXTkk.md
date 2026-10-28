@@ -1,7 +1,7 @@
 # Step by Step Guide to Making AI Avatars in 2026 ($65k in 4 days)
 
 - URL: https://www.youtube.com/watch?v=XNu-o5bXTkk
-- Windows: 15 (first timestamps 0s … 371s)
+- Windows: 13 (first timestamps 0s … 365s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -16,10 +16,6 @@ Metadata lines seen:
   https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS
 
 ---
-So, yeah, 11 Labs is going to be your best friend when it comes to voice-overs.
-
-[…]
-
 {ts:0} Now we're going to be going over how to actually build an AI influencer to make
 {ts:4} our videos related to the niche that we're targeting.
 So whether you want to go ahead and target the goth niche or
@@ -82,11 +78,12 @@ So, let's say you want to get
 
 […]
 
+So, yeah, 11 Labs is going to be your best friend when it comes to voice-overs.
+This is
+{ts:174} all you really need.
 And the cool part about it, Sue, like low-key, is that you're able to go ahead and transcribe a
 {ts:180} lot of these like winning um AI scripts and do speech-to-text, right?
-
-[…]
-
+Which is really cool.
 So, if you
 {ts:186} wanted to like save that video that you saw on your for you page, you could literally go ahead and upload it to 11
 {ts:191} Labs and transcribe it and then just make your own version depending on what niche or what product you're going ahead
@@ -99,9 +96,6 @@ Like you're
 {ts:206} probably going to be paying what, a hundred dollars a month to probably make five to six K a day, like, bro, it's
 {ts:212} it's insane.
 It's definitely like a crazy ROI and an investment that you have to make for the business.
-
-[…]
-
 Um and
 {ts:217} it's amazing, right?
 And so, now I'm going to go ahead and give you guys a little bit of insider access to one of
@@ -112,6 +106,19 @@ So, this is Harper right here going ahead and utilizing motion control for one o
 {ts:240} girl right here and it's insane how crazy and detailed it is because now we're able to literally hold any
 {ts:245} product, right?
 That we want the AI influencer to hold and market it to millions and millions of people, right?
+{ts:250} And you can see everyone in the in the mentorship, right?
+Just laughing at it.
+It's crazy, bro.
+It's absolutely insane.
+{ts:255} And a lot of people are using it for the wrong reasons, right?
+Like they're using it for like OnlyFans and stuff like that
+{ts:259} which I think is like terrible and not ethical at all.
+Uh but there's actually ways to go ahead and use it for your
+{ts:265} e-com storage, drop shipping, etc. and make a legitimate income.
+And so, speaking of Harper, he was actually able
+{ts:271} to make $65,000 in 4 days with that AI influencer.
+Um and I think in March, yeah, he hit 145k
+{ts:278} rev.
 
 […]
 
@@ -158,6 +165,24 @@ He did a $20,000 day and I'm
 
 […]
 
+{ts:297} be cooking up in Q4.
+Also, this is Mark here.
+He did $61,000 in 30 days all done with AI.
+We recently just did a case
+{ts:303} study with him, so you guys can go ahead and watch that on the channel.
+Same thing with Elias and Harper.
+Um also,
+{ts:309} this is Jayden all the way from the UK.
+Shout out Jayden, bro.
+He's cooking right now.
+He did a $20,000 day and I'm
+{ts:314} pretty sure he just did like a 70k week.
+Um and we'll definitely have him on the channel soon to kind of break down how
+{ts:319} he did it.
+Obviously all done with AI and his brand.
+
+[…]
+
 Obviously all done with AI and his brand.
 Um same thing with Adam all the way from Canada.
 He did $11,000
@@ -187,5 +212,7 @@ So, if you guys do want to join FSE, my one-on-one mentorship, you
 
 […]
 
+{ts:365} ahead and doing eCom full-time now, and it's insane.
 So, if you guys do want to join FSE, my one-on-one mentorship, you
 {ts:371} guys can go ahead and apply.
+First link in the description.

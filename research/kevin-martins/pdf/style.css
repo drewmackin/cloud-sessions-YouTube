@@ -96,3 +96,18 @@ tr { break-inside: avoid; }
 .pc-proof { font-size: 8.3pt; color: var(--muted); }
 .pc-kind { color: var(--ok); font-weight: 600; }
 .pc-note { font-size: 8.3pt; color: var(--warn); margin-top: 4px; }
+
+/* Flow diagram */
+.flow { display: flex; align-items: stretch; gap: 4px; margin: 4px 0 14px; }
+.fbox { flex: 1; background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 8px 8px; font-size: 7.8pt; line-height: 1.35; }
+.fbox b { display: block; font-size: 8.6pt; margin-bottom: 3px; color: var(--accent); }
+.fbox span { color: var(--muted); }
+.farrow { align-self: center; color: var(--faint); font-weight: 700; }
+.prompt-card.long { break-inside: auto; }
+.prompt-card.long .pc-text { break-inside: auto; }
+td .src, li .src { white-space: nowrap; }
+
+h2, h3 { break-after: avoid-page; page-break-after: avoid; }
+.step { margin: 7px 0; }
+.flow, .fbox { break-inside: avoid; }
+.note, .warn, .ok, blockquote { break-inside: avoid; }

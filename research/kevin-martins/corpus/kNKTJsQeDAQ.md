@@ -1,7 +1,7 @@
 # i found the product. Sora 2 made the ads. i make $121k (this feels illegal)
 
 - URL: https://www.youtube.com/watch?v=kNKTJsQeDAQ
-- Windows: 18 (first timestamps 2s … 1070s)
+- Windows: 23 (first timestamps 2s … 1136s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -22,13 +22,64 @@ So,
 {ts:2} in this video, I'm going to be talking about Sora 2 and how I've been personally using it to make organic drop
 {ts:7} shipping ads.
 Currently, what you see here is one of the stores that I started up this year.
+Uh, currently up about
+{ts:12} $120,000 on the year at about 70% margins.
+And in this video, I want to show you how I've been personally using
+{ts:19} Sora 2 recently, these last two, three weeks, uh, since it came out to generate very good and realistic organic content.
+{ts:26} So, if you guys don't know, Sor 2 is an AI that recently came out, like I mentioned, where you're able to
+{ts:32} literally create anything out of thin air.
+So, if you guys take a look at my drafts here, you see a lot of products
+{ts:37} and just crazy nonsense that you could just make using AI.
+And so, as you guys can see, I was able to create myself a
+{ts:44} photorealistic cinematic version of Kevin coming out of a chamber, kind of like Captain America, I guess, uh, with
+{ts:51} a receding hairline.
+I don't know what that's about, but I'm [ __ ] jacked in this.
+Really what I'm trying to get at
+{ts:55} here is like you can make anything that you want and it could turn it into a video with audio as well, right?
+So in
+{ts:62} this video I'm going to be teaching you exactly how I've been personally doing this for my organic drop shipping stores
+{ts:68} and how you can too.
+Before we get to it too, sorry if like the background looks kind of crazy right now.
+Whole bunch of
+{ts:72} boxes for my brand that I'm currently running on Tik Tok shop.
 
 […]
 
+It's a little bit messy, but we're going to be leaving this video knowing three
+{ts:89} key things, guys.
 Okay, I'm going to be teaching you exactly the basic fundamentals of Story 2 and how to use
 {ts:94} it.
 How to actually prompt it correctly to make realistic videos for our organic drop shipping videos, okay, and
 {ts:99} products.
+And how to use these videos for our ads because at the moment, this isn't going to replace organic, you
+{ts:105} know, marketing just yet, right?
+but we could use it as a tool to incorporate in our videos.
+
+[…]
+
+So before we start, you're going to need to download Sora 2 on the App
+{ts:121} Store, right?
+
+[…]
+
+So, we're going to need some watermark removals because, as you guys can see,
+{ts:183} these videos render out with watermarks every single time.
+
+[…]
+
+So, what we're going to need here is V-Make AI.
+And so, Vmake AI pretty much
+{ts:193} allows you to upload any video and you can take off any sort of watermark or text that is actually on that video.
+So,
+{ts:199} if you even wanted to take some random Tik Tok videos with like a text hook, you can totally remove that with this
+{ts:204} Vmake AI.
+
+[…]
+
+With V-Make, you can go
+{ts:224} ahead and use the magic eraser tool to remove that and just upload it into your Sora, too.
+And again, this could also
+{ts:230} remove like people and logos and, you know, backgrounds and whatnot.
 
 […]
 
@@ -104,6 +155,7 @@ And this is exactly how we can kind of play around with, you know, a scene, righ
 
 […]
 
+Right?
 So
 {ts:592} now we're going to get into the product prompting and this is exactly what I use this for and this is basically when you
 {ts:598} upload a picture of your product.
@@ -118,23 +170,40 @@ And so I say hook prompt because these are going to be the first three seconds o
 {ts:622} of be like that scroll stopper, right?
 So I went ahead, I told, you know, S, hey, I want a young man in his 20s
 {ts:627} talking about a handcrafted earn necklace for fallen loved ones and, you know, talking about how his mom is
-
-[…]
-
+{ts:632} literally inside of this earn necklace, right?
+Kind of crazy, right?
+So again, it's going to be a very good scroll
+{ts:636} stopper.
+And like I mentioned, I didn't write any of this, bro.
+I literally told Chat GPT, "Hey, make me a hook prompt
 {ts:641} for this product."
 And it cooked it up.
 So, I literally just copy pasted and this is exactly what it came out with,
 {ts:647} bro.
+I handcraft earned necklaces for fallen loved ones.
 
 […]
 
+What I'm going to be demonstrating in the video creation process of the necklace, right?
+{ts:702} So I was like, you know what?
 Let me go ahead and prompt it to a skilled artisan handcrafting a silver necklace like we
 {ts:707} see right here.
+Right?
+I still uploaded this image so the AI could know exactly what I want.
+Um, and talking about like
+{ts:713} the whole process of him like polishing it, engraving the heart pendant, and using like a really good atmosphere of
+{ts:718} like the true craftsmanship that it takes to make something like this, right?
 
 […]
 
 Because like I mentioned, we're only working with
 {ts:808} either 10 to 15 seconds per render.
+
+[…]
+
+Um, this is
+{ts:901} what we get into the whole scene prompting.
+And this is where essentially you can take a picture of any scene.
 
 […]
 
@@ -160,6 +229,7 @@ And bro, we were literally able to create it out of thin
 
 […]
 
+And there's certain stitches that pretty much go viral with every single product.
 But now we can
 {ts:1063} actually tailor them for our exact target demographic and niche.
 
@@ -175,3 +245,17 @@ Like
 {ts:1088} that that doesn't make sense.
 So now you're able to mold um you know that person to your niche and that's how you
 {ts:1095} can go ahead and convert that much more.
+
+[…]
+
+I'm going to go ahead and show you a couple of results here uh from the last seven
+{ts:1136} days.
+So, we got my guy Mark here hitting backtoback 1k days with four products that I went ahead and
+{ts:1141} handpicked for him.
+We got Javier here hitting a 10K uh total revenue in 16 days, bro.
+Absolutely insane.
+All the
+{ts:1148} way from Spain as well.
+So, EU people also cooking, bro.
+We got my guy KD hitting a 21K month already, bro.
+Q4 is

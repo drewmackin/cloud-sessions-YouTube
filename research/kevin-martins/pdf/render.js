@@ -15,7 +15,7 @@ const { chromium } = require('playwright');
     headerTemplate: '<div></div>',
     footerTemplate:
       '<div style="width:100%;font-family:Inter,sans-serif;font-size:7.5px;color:#8a8f98;padding:0 0.75in;display:flex;justify-content:space-between">' +
-      '<span>Kevin Martins &amp; FSC · AI video workflow · verified from public sources</span>' +
+      '<span>Kevin Martins &amp; FSC · AI video workflow · every quote cut from its source</span>' +
       '<span><span class="pageNumber"></span> / <span class="totalPages"></span></span></div>',
   });
   await browser.close();

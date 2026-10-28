@@ -1,7 +1,7 @@
 # How to Start Organic Dropshipping in 2026 (FULL Beginner Guide)
 
 - URL: https://www.youtube.com/watch?v=Zu8SwF-nOdg
-- Windows: 31 (first timestamps 219s … 2422s)
+- Windows: 36 (first timestamps 219s … 2447s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -37,6 +37,12 @@ So basically, the thing here is that you
 
 […]
 
+I don't need to spend hundreds of dollars on advertising just to test a product,
+{ts:505} because testing a product is one of most important things if you really want to be successful in drop shipping, because
+{ts:510} you can just do it for free.
+
+[…]
+
 {ts:581} around the product.
 
 […]
@@ -44,6 +50,22 @@ So basically, the thing here is that you
 The fourth
 {ts:596} thing is basically how to manage the accounts, how to get viral, how to warm the account correctly up so you get
 {ts:600} viral every single time and you don't waste credits.
+
+[…]
+
+{ts:648} something which is completely free.
+And this is the burner.
+Burner means basically you have an account where you
+{ts:653} search your stuff by the algorithm.
+So what I did, I made a completely new account.
+The best thing what you can do
+{ts:659} right now is just type in #gadget in Instagram because then you will see the different types of products.
+We see now
+{ts:665} the first account and we do this now for 1 hour and after this our whole algorithm will basically be one.
+
+[…]
+
+{ts:723} So, I told you it should not be or like account should not be longer there than a month because then it's too much.
 
 […]
 
@@ -378,6 +400,17 @@ And you can do this in
 {ts:2318} the next days with your new account, but the cool thing is after this, you can open a new account and use this account
 {ts:2325} for posting your content, for promoting your product because this account is warmed up, which means he's in the
 {ts:2330} algorithm.
+As an example, Instagram thinks you're not a bot.
+Keep in mind you should always react like a human.
+
+[…]
+
+{ts:2336} mean, I followed now in the first 20 minutes like a lot of accounts I liked and it was probably spammy.
+I didn't
+{ts:2342} even mention my phone number, all that kind of things.
+So, please make sure before you post that it's actually an
+{ts:2347} account where you have your phone number there, a profile picture, all these things.
+Warm it up for at least 3 days
 
 […]
 
@@ -396,6 +429,7 @@ Um I'm not going
 
 […]
 
+And yeah, the last thing is that you
 {ts:2412} actually post it as full quality.
 
 […]
@@ -404,3 +438,14 @@ So, if you done with that, then I want you to basically post
 {ts:2422} it.
 And I want you to start posting for the first 3 days, not more than one, okay?
 Post one in the US times.
+What do
+{ts:2429} I mean with US times?
+If you're going to post at 5:00 p.m. in US time, that's probably the best thing.
+
+[…]
+
+{ts:2447} if you now start posting and spamming, the algorithm also thinks you're a bot.
+So, start with one.
+You can increase
+{ts:2452} after 3 4 days if you're getting into the algorithm.
+If you're not getting any views, then you probably need to switch

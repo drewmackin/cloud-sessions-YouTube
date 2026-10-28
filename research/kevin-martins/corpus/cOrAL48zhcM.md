@@ -8,6 +8,7 @@ Metadata lines seen:
   ...
   1,80p is really the highest quality.
   All the clips are now
+  And finally guys, for the fifth clip, it's her basically just depressed because she
   And for the multi-shot, we're going to use Cense 2.0.
   And now what we want
   And then other angle of
@@ -15,8 +16,7 @@ Metadata lines seen:
   Cance 2.0 is really the model you want to have when you have
   Date: 2026-07-01
   For
-  For the first one I simply say okay so now we
-  For the fourth clip, it's
+  For the
 
 ---
 

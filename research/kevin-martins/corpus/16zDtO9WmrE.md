@@ -1,7 +1,7 @@
 # Beginners Guide To AI Organic Dropshipping (FREE Course)
 
 - URL: https://www.youtube.com/watch?v=16zDtO9WmrE
-- Windows: 45 (first timestamps 0s … 1853s)
+- Windows: 46 (first timestamps 0s … 1853s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -29,6 +29,10 @@ The first product isn't going to make you money.
 […]
 
 And these video This one with 10 million.
+
+[…]
+
+You can get these videos in 5 minutes.
 
 […]
 
@@ -87,6 +91,12 @@ I'll say at least 80%.
 
 But, in this case, it's literally just testing
 {ts:263} videos, which is free Exactly.
+
+[…]
+
+But, it looks legit.
+Like, was
+{ts:294} this hard for you to make or Yeah, this video probably took me about 5 minutes to make.
 
 […]
 
@@ -400,6 +410,12 @@ Yep.
 
 […]
 
+Put those screenshots into base 44.
+Yep.
+{ts:1744} Ask it to give you a prompt that we can then feed into an AI content creation tool like Make UGC.
+{ts:1752} 100%.
+Nail down the dots.
+Yeah.
 Those are the tools that we use, but of course you guys could do this
 {ts:1757} with other stuff like you probably used in the past like what?
 Claude, yeah.
@@ -408,14 +424,11 @@ Chat GPT, things like that.
 And be honest with me.
 {ts:1765} Yeah, 100%.
 A great video if I'm really locked in on something, I would say around 15 to 20 minutes.
-
-[…]
-
-Yeah.
-Those are the tools that we use, but of course you guys could do this
-{ts:1757} with other stuff like you probably used in the past like what?
-Claude, yeah.
-Chat GPT, things like that.
+After you kind
+{ts:1772} of get that first video up and you start to make more videos for that product, that's when the time duration goes down
+{ts:1777} a lot.
+So, it goes from like 20 minutes to 15 to 10.
+And then some of them you can do in five cuz you have so many
 
 […]
 

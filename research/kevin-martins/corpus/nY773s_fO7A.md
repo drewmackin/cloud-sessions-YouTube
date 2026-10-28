@@ -1,7 +1,7 @@
 # How He Made $34K In 2 Weeks With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=nY773s_fO7A
-- Windows: 28 (first timestamps 3s … 1853s)
+- Windows: 34 (first timestamps 3s … 1924s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -97,13 +97,15 @@ And actually like taking the knowledge in that you get from even YouTube videos 
 {ts:182} anything else.
 Like, just having a mentor really helps and just taking the knowledge in, applying it, and just
 {ts:187} don't be lazy.
-
-[…]
-
+And actually just think outside the box.
+Like, if everybody's doing one thing, like everyone's doing
+{ts:192} 3-2-1, 3-2-1, 3-2-1, [snorts] you could do 3-2-1, but like do it more
+{ts:197} to like hit your niche or just something a little bit different.
 Like, be think outside the box and just think
 {ts:202} differently.
 And don't just run where everybody else is running.
 Find a similar product, bring it to the market
+{ts:207} like you always say.
 
 […]
 
@@ -140,6 +142,23 @@ So, like
 
 […]
 
+This actually all compounds because that's what took Aaron from making, you know,
+{ts:612} money to his first 10K, which then he took that momentum, started doing AI cuz I feel like that also opened like a
+{ts:620} really big opportunity for like you almost kind of like eliminated this like limiting belief
+{ts:623} that like oh I can't make more than 10K in a single month, right?
+But we did that with the goggles and we took that
+{ts:628} momentum with AI and I mean now you did, you know, back-to-back 10K days.
+
+[…]
+
+So I was like yo if I could do this this fast,
+{ts:688} imagine if I put all my focus, all my time, just actually dedicate myself and just be disciplined, do the work every
+{ts:693} day, spam you, ask you on Harper [ __ ] just use what I have, there's no way I'm not going to make this [ __ ] work even
+{ts:699} more.
+Right.
+
+[…]
+
 {ts:699} more.
 Right.
 Right.
@@ -148,6 +167,17 @@ How did that change
 {ts:704} everything?
 That [ __ ] changed everything because I knew like I had like I have to make it
 {ts:709} work.
+
+[…]
+
+Bro I posted like at least
+{ts:903} almost every hour on my story, responding to all the comments quickly, responding to DMs fast and just kept
+
+[…]
+
+Um this product right here, the margins
+{ts:1045} are around like 75, 80% cuz the supplier yeah, they dropped the price for me cuz
+{ts:1051} I've been working with them for a while now.
 
 […]
 
@@ -160,6 +190,11 @@ So it boosted the AOV too.
 
 {ts:1121} Now I feel like the best thing about this product is like even though I printed most of it in the beginning, but
 {ts:1126} now my Facebook is basically primed and my Instagram is starting to warm up.
+
+[…]
+
+{ts:1368} actually try your hardest, there's no way you're not going to print if you try your hardest every single
+{ts:1373} day.
 
 […]
 
@@ -183,6 +218,11 @@ Especially with organic because bro, it's so volatile.
 
 […]
 
+{ts:1659} that we're getting into.
+We're even getting into like problem-solving products like health products and stuff
+
+[…]
+
 You have to film the videos.
 You have to
 {ts:1731} prompt the videos, post them.
@@ -191,3 +231,15 @@ Because if you don't do that, then nothing's going to happen.
 […]
 
 {ts:1853} You just have to do the work and just ask for help, book the one-to-one calls, and just apply yourself.
+
+[…]
+
+{ts:1924} don't like don't feel like you can't try new concepts.
+I feel like that's the biggest thing I learned.
+Like obviously
+{ts:1929} use what's working, but you could switch it up and even if it's something completely different, you could
+{ts:1933} sometimes just try it.
+That stuff honestly might work cuz it's AI.
+As long as it looks real, looks good, bro, just
+{ts:1938} try it.
+If it doesn't work, you know it doesn't work.

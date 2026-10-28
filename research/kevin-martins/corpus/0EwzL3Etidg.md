@@ -1,7 +1,7 @@
 # how to make "f*ck you" money with AI organic dropshipping ...
 
 - URL: https://www.youtube.com/watch?v=0EwzL3Etidg
-- Windows: 49 (first timestamps 0s … 1701s)
+- Windows: 53 (first timestamps 0s … 1701s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -41,6 +41,11 @@ All right, I'm going to be breaking down exactly how I'm personally going to be 
 Um, if you guys are new here and don't know who I am, my name is Kevin Martins.
 I've done over seven
 {ts:22} figures with ecom uh since the start of my journey, which was actually about two and a half years ago.
+
+[…]
+
+We've pivoted from the
+{ts:37} traditional way of filming for products to now fully integrating AI implementation.
 
 […]
 
@@ -429,6 +434,17 @@ Now the
 
 […]
 
+The decision that we're going to be making.
+All right, did
+{ts:962} the product convert?
+Like I mentioned earlier, and did the videos actually go viral.
+Do we cut the product or continue
+{ts:968} running it?
+Right?
+So, you're going to be looking at the output.
+
+[…]
+
 Like I mentioned, we have the input,
 {ts:983} which is finding the product, the process, which is going to be making and posting the videos.
 And then we have the
@@ -513,6 +529,13 @@ And so, for example, uh you know, one of my students actually revived the
 {ts:1144} uh the bloody mat from 2023, bro.
 2023. And essentially what we did is we found all the accounts on Tik Tok, on
 {ts:1152} Instagram, on Facebook that ran this product.
+We essentially ripped the showcase part of the video where they're
+{ts:1157} actually showing the effect of the bloody mat.
+
+[…]
+
+But essentially what we did is like we ripped all the showcase
+{ts:1168} clips and we introduced new AI concepts that didn't exist exist back in the day because my thought process is this,
 
 […]
 
@@ -559,6 +582,11 @@ And then during the evening, right, store operations, looking at how many orders
 {ts:1251} you got, are there any problems with shipping, customer support, etc.
 And then at night for 15 minutes, you're
 {ts:1257} reviewing your stores and planning uh tomorrow tonight essentially, right?
+
+[…]
+
+{ts:1280} that has a fully detailed Google calendar where every single 30 minutes of my day um has to be accounted for,
+{ts:1287} you know, because that's the level that I essentially had to to get to to scale past, you know, 50K a month.
 
 […]
 

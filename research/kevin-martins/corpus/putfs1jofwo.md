@@ -8,7 +8,15 @@ Metadata lines seen:
   ## Kevin Martins
   ##### Jun 06, 2026 (0:35:21)
   ...
-  Date: 2026-06-06
+  1K per mil like this concept.
+  2.2.
+  31.3 million.
+  40. Dude, that's incredible.
+  8.9, I just switched the the hook.
+  Almost the entire month like
+  And also, like from this kind of video.
+  And from there, 178
+  And just reviews also with AI.
 
 ---
 Yeah, we we were trying to do too much

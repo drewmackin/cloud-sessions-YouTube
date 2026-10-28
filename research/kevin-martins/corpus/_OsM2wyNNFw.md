@@ -9,14 +9,14 @@ Metadata lines seen:
   ##### Oct 25, 2026 (0:32:48)
   ...
   Again, you need to download the skill, go to Claude, and
+  Always make sure the product on your store first before you start
   And it's going to kill and scale
+  And make sure you have them connected to your Shopify store and supporting and supplying your products
   And once it's done
   And once you've got your video ads that you're
   And then we're going to be using ChatGPT through Claude in Chrome.
+  And you can do private labeling with USA drop by putting your logo on
   As long as you create a business manager, you've got your ad account set up, and you've got
-  Date: 2026-10-25
-  Here it is.
-  How much money did Claude AI make me running my drop shipping store for the last 30
 
 ---
 We're going to be using Winning Hunter to find winning products.

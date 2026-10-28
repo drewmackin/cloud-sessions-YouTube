@@ -1,7 +1,7 @@
 # How He Makes $33K/Month With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=AXjonWCPVCI
-- Windows: 47 (first timestamps 0s … 2027s)
+- Windows: 48 (first timestamps 0s … 2027s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -20,8 +20,7 @@ That's crazy.
 
 […]
 
-We can remake it in in another way.
-We can test split in this way."
+You actually did everything what we told you to do.
 
 […]
 
@@ -283,6 +282,14 @@ Like the messages from the Shopify, the messages from the clients,
 
 […]
 
+And I I clearly remember I did everything what you told me, "Okay, we can fix a little
+{ts:1143} bit this.
+We can add this thing into it.
+We can remake it in in another way.
+We can test split in this way."
+
+[…]
+
 {ts:1180} that's the thing that we noticed with you Vitaly.
 With, you know, I was even talking to Elias before this call.
 I was
@@ -344,8 +351,20 @@ Just because of the AI resources that we have, you know, the
 
 […]
 
+I don't think it's ever been easier, right?
+Just because of the AI resources that we have, you know, the
+{ts:1283} ability to create 100% generated AI videos, like it's insane.
+I wish I would have had that when I first started, you
+{ts:1288} know?
+Back in my day, I feel like an uncle, right?
 I feel like an old man when I say this, but like, bro, I had to
 {ts:1293} literally record every single video myself.
+Spent anywhere from 4 to 6 hours a day just recording, right?
+{ts:1299} Yeah.
+And now we have this like amazing tool that's just helping us just put out more
+{ts:1301} volume and test a lot you know?
+Yeah, especially the Dyson, you can do
+{ts:1306} like faster and you can do crazy things with it.
 
 […]
 

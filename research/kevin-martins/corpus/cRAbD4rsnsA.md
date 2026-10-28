@@ -1,7 +1,7 @@
 # Kling 3.0 Explained – AI Video Generation on Higgsfield AI
 
 - URL: https://www.youtube.com/watch?v=cRAbD4rsnsA
-- Windows: 3 (first timestamps 111s … 167s)
+- Windows: 2 (first timestamps 103s … 167s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -14,13 +14,15 @@ Metadata lines seen:
   Kling 3.0 is designed for cinematic AI video generation, focusing on consistency, controlled motion, and short-form video creation.
 
 ---
+{ts:103} Even though generation is currently rolling out, this is where you set up everything in Cling 3.0.
 {ts:111} This is the prompt field, and this is where you define the shot.
 I'm keeping the prompt very short and focused
 {ts:118} because clear structure usually gives the most stable results.
-
-[…]
-
+A static cinematic shot of a young boy
+{ts:125} facing the camera in a surreal candy colored world.
+soft lighting, shallow depth of field, no camera movement.
 {ts:138} The duration can be set anywhere from 3 to 15 seconds depending on the type of shot you're creating.
+You can also
 
 […]
 

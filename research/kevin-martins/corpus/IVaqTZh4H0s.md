@@ -1,7 +1,7 @@
 # How This Business Model is Making Me $70k a Week (Just Copy Me)
 
 - URL: https://www.youtube.com/watch?v=IVaqTZh4H0s
-- Windows: 9 (first timestamps 0s … 371s)
+- Windows: 12 (first timestamps 0s … 371s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -58,6 +58,18 @@ And we use Shopify.
 
 […]
 
+So now you could literally just start with your laptop and just AI tools.
+Like we
+{ts:150} don't even have to film for videos anymore, which is crazy.
+
+[…]
+
+With AI now, right?
+It lets you create multiple videos, test different angles and push
+{ts:194} content way faster than doing everything manually like we used to, you know, do right before the traditional way.
+
+[…]
+
 Your manufacturer is taking over that whole entire process for you.
 So, all you have to do is just get the sales
 {ts:243} on your website, provide those sales to your private supplier.
@@ -68,14 +80,33 @@ We're sending over the product right now."
 
 […]
 
+Now, with the help of AI, Bro,
+{ts:264} we're able to split test.
+We're able to create videos so much quicker because we don't need to necessarily have the
+{ts:270} product in hand, right?
+We could essentially make full-blown AI videos with our product that we want to run
+{ts:275} without having to wait two weeks to get it from Amazon.
+And also, we're able to push that much more volume because
+{ts:281} everything is going to be systemized here to where, you know, now we're able to test anywhere from three to five
+{ts:286} products a week without wasting any time filming yourself, right?
 So now AI is going to be doing the whole entire heavy
 {ts:292} lifting for us.
-
-[…]
-
+And also there's no personal brand needed, right?
+Like you don't even have to show your face.
 You
 {ts:298} can have the AI avatars do the whole entire marketing for you.
 You can show their face.
+You can show their hands and
+{ts:303} just fully generate videos.
+
+[…]
+
+{ts:309} like upwards of $2,000 a month on retainers just for them to make videos with your products.
+
+[…]
+
+Like now we have full-blown AI avatars and influencers that are able
+{ts:320} to make this for us.
 
 […]
 

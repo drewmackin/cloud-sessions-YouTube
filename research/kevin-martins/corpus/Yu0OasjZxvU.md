@@ -18,11 +18,11 @@ La marge x 3 x 4 donc là c'est 10.
 
 […]
 
-L'IA cartographie le marché et te montre la place que personne occupe.
+Donc oui, en vrai ça c'est des bonnes niches, c'est des bons produits.
 
 […]
 
-Donc oui, en vrai ça c'est des bonnes niches, c'est des bons produits.
+L'IA cartographie le marché et te montre la place que personne occupe.
 
 […]
 

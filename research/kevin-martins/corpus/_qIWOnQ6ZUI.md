@@ -13,11 +13,11 @@ And that's exactly what I need because I've got my brand's logo saved on my comp
 
 […]
 
-And once your video is done generating, all you have to do is click play.
+Once you have all of your settings dialed in, go down and click generate.
 
 […]
 
-Once you have all of your settings dialed in, go down and click generate.
+And once your video is done generating, all you have to do is click play.
 
 […]
 

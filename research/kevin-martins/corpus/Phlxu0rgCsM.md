@@ -19,15 +19,15 @@ Metadata lines seen:
   03:29:35 – Module 8: Filming Your Own Content
 
 ---
+Um, the top ofunnel is when we just show people what the product is.
+We get them interested
+
+[…]
+
 You know, you want to make it real.
 Like this one right here.
 It feels real.
 It looks real.
-
-[…]
-
-Um, the top ofunnel is when we just show people what the product is.
-We get them interested
 
 […]
 
@@ -36,12 +36,12 @@ And then we're going to learn how to do it with AI.
 
 […]
 
-And then I think we can shorten this.
-So, we'll put it in.
+And that's what independent variable testing means, right?
 
 […]
 
-And that's what independent variable testing means, right?
+And then I think we can shorten this.
+So, we'll put it in.
 
 […]
 

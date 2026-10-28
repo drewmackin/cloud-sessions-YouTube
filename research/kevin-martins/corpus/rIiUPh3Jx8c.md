@@ -1,7 +1,7 @@
 # How He Made $120K In 30 days With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=rIiUPh3Jx8c
-- Windows: 62 (first timestamps 0s … 3979s)
+- Windows: 74 (first timestamps 0s … 3979s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -14,7 +14,9 @@ Metadata lines seen:
   Watch My 3 Hour Course Next: https://youtu.be/GfhpQLqF658
 
 ---
-I mean, you were super active uh not only in in the WhatsApp group chats, but you know,
+Yeah.
+So every day 2ks uh 1.6 1.7 case yada yada yada.
+Right.
 
 […]
 
@@ -34,9 +36,6 @@ And in the last 30 days, he was able to make $118,000
 Uh but in total this store hit $137,000 um after just two months of working
 {ts:32} together.
 And a little bit about Tim, Tim, you know, joined the program as a complete beginner.
-
-[…]
-
 Didn't know a single
 {ts:39} thing about ecom, organic, and even AI.
 Um and in the last, you know, two months of us really working together.
@@ -49,6 +48,30 @@ Um and in the last, you know, two months of us really working together.
 […]
 
 {ts:263} life you were working a 9-5 and I think the most recent recent thing that you were working as was the Uber driver.
+
+[…]
+
+The life in California is expensive.
+In
+{ts:316} order just to cover my basic bills, right?
+And I'm not living luxury, just simple life, right?
+I got to work on
+{ts:322} average 12, sometimes 15 hours a day.
+So I'm starting like 4:00 a.m.
+
+[…]
+
+And this is the hours when I'm just start learning uh you know ecom and learning stuff.
+So I have just
+{ts:349} couple hours per day and this couple hours when I'm extremely exhausted in order to learn something about the
+{ts:356} business to learn like from your YouTube channel and all this stuff right and then go sleep because I have like three
+
+[…]
+
+So, damn, bro.
+You were working roughly like 15 hours a day just to make
+{ts:441} ends meet essentially.
+Yep.
 
 […]
 
@@ -128,20 +151,62 @@ So basically this is my second serious product which is banger winner you know a
 
 […]
 
+I officially
+{ts:948} launched my shop on the May 29th, right?
+And first two weeks as you see my sales was really low
+{ts:957} but that was just because inexperience right so there was particular technical things that I did didn't figure out on
+{ts:965} Shopify obviously that's my second store so I'm still learning right so because of particular settings I have tons of
+{ts:972} people on Shopify but extremely few sales right so this is kind like totally my bad my experience if only I would
+{ts:981} been more experienced the graph would go up here right away, right?
+
+[…]
+
 [snorts] So, here is the thing.
 I officially
 {ts:948} launched my shop on the May 29th, right?
 And first two weeks as you see my sales was really low
+{ts:957} but that was just because inexperience right so there was particular technical things that I did didn't figure out on
+{ts:965} Shopify obviously that's my second store so I'm still learning right so because of particular settings I have tons of
+{ts:972} people on Shopify but extremely few sales right so this is kind like totally my bad my experience if only I would
 
 […]
 
+Anyways, um yeah, so I start
+{ts:1004} getting like some traction, some you know stuff here and somewhere over here in a mid June uh some of the videos
+{ts:1014} there was one video I guess uh that went viral like one 1 something million you know and this is when everything is
+
+[…]
+
+{ts:1045} ching ching so at some point I was already guys [laughter] give me 30 seconds right
+{ts:1050} that's crazy and because of this viral video it went pretty good like for a week or so so
+{ts:1058} I've been hitting couple days like 7ks, six, seven, like one day I hit like I believe like around 8k, a little bit
 {ts:1065} later, right?
+So, um, 7k days is insane.
+{ts:1068} So, you basically went from doing like some 1k days from like the 10th of June to the 14th and all of a sudden your
+{ts:1075} video blew up to a million.
+
+[…]
+
+{ts:1094} out oh what's going on what's going on anyways then then another couple videos blew up so I have another two videos or
+{ts:1101} so that was something also like to do with the split testing and stuff right and that goes viral again right okay and
+{ts:1108} then it kind of back to normal so and normal I'm seeing like close to 2ks you know 18 1.8 8 to one like every day.
+
+[…]
+
+Closer to this
+{ts:1124} time actually like around here I kind of encountered some problems with my current suppliers.
 
 […]
 
 {ts:1170} of the main points on this period that I almost have no time for content creation which is a fuel for a business right so
 {ts:1177} my content and my social media are not as good as quality as I really want to I'm having lots of troubles and problems
 {ts:1185} and still in spite of all that I'm hitting 1k days you know steady you know yeah at the lowest like that is the the
+
+[…]
+
+I'm already I'm already fixed maybe like 70% of my problems right now.
+So
+{ts:1207} basically basically right now I'm already almost done building up my team.
 
 […]
 
@@ -205,14 +270,16 @@ So um when I when I got to FSC and I see people using this people using that I
 
 […]
 
+It's it's not, you know, using AI it's
+{ts:1542} not advisable, it's necessity.
+It's it's must, you know.
+
+[…]
+
 Uh we were filming for it, right?
 Because we were trying to
 {ts:1554} teach you the fundamentals of organic marketing, you know, how to even work cap cut, etc.
 Yeah.
-{ts:1558} Uh but then you wanted to eventually pivot to AI and you told me, "Hey, Kev, I don't want to be filming.
-
-[…]
-
 {ts:1558} Uh but then you wanted to eventually pivot to AI and you told me, "Hey, Kev, I don't want to be filming.
 I don't want
 {ts:1563} to show my face, show my room, etc.
@@ -221,15 +288,11 @@ And I want to, you know, start learning how to utilize Higsfield and cloud code 
 
 […]
 
+{ts:1575} audience, right?
 And I think that's what really positioned you um in an advantageous position compared to your
 {ts:1582} typical uh competitor, right?
 Because let's be honest, Tim, you are probably running one of the most saturated
 {ts:1587} products in organic, but because of AI implementation, naturally being able to niche down not only on your avatar, your
-{ts:1594} background, but most importantly, you know, creating a brand where you have like the custom packaging in the videos,
-{ts:1599} that really made the difference, you know.
-
-[…]
-
 {ts:1594} background, but most importantly, you know, creating a brand where you have like the custom packaging in the videos,
 {ts:1599} that really made the difference, you know.
 So yeah,
@@ -254,6 +317,11 @@ Right now with AI I can make hooks, I can make uh
 
 […]
 
+I have, you know, my eyes bleeding like of course and and some of them the editing videos so
+{ts:1706} terrible.
+
+[…]
+
 {ts:1770} strategies just which are not going to work from very beginning right that's all the importance to having a good
 {ts:1776} coach who will can direct you in a proper way right so yeah I would learn it but I would waste tons of time and
 
@@ -262,6 +330,11 @@ Right now with AI I can make hooks, I can make uh
 However, what I really really like about FSE, right, and working with you that
 {ts:1831} there isn't such a thing that actually I honestly have to do it more product research, right, when I've been sending
 {ts:1836} you tons of different products, right?
+
+[…]
+
+And um here's the thing that I have a graphic design um major, you know, so
+{ts:1846} I'm graphic designer and also I have particular experiences in this way.
 
 […]
 
@@ -328,9 +401,8 @@ And so I remember even having that conversation with you and telling you, all ri
 […]
 
 {ts:2100} of the money, but we also have to pick the right audience that can actually afford our product and allow us to scale
-
-[…]
-
+{ts:2105} beyond six figures, right?
+Right.
 And so that was also something that we we we looked in together and and found.
 But um
 {ts:2112} overall, yeah, I mean I think that was like the biggest difference was, you know, you coming up with these new
@@ -342,8 +414,30 @@ you know, me and Elias, you know, your coach, we
 
 […]
 
+{ts:2112} overall, yeah, I mean I think that was like the biggest difference was, you know, you coming up with these new
+{ts:2117} marketing angles, AI implementation, picking the right niche, uh but most importantly, right, just taking action
+{ts:2124} because yes, of course, I was the one that picked the product.
+you know, me and Elias, you know, your coach, we
+{ts:2128} helped you um a ton when it came to making the accounts, learning how to utilize Hakesfield, talked to Claude
+{ts:2134} Code, you know, what concepts convert the best, but you were the one that actually put in the the action, right?
+{ts:2140} The the because I can't film the videos for you, and I told you I can't film the videos for you.
+
+[…]
+
 I can't I can't prompt
 {ts:2144} for you.
+
+[…]
+
+Um and so, it's up to you to kind of utilize us um to really change your life.
+And and you did.
+You took
+{ts:2150} action.
+You wasted no time.
+I mean, you were super active uh not only in in the WhatsApp group chats, but you know,
+{ts:2155} showing up to every group call, right?
+Um and I think that's what really separated you from even other beginners
+{ts:2162} uh that you just took action immediately and left absolutely nothing to chance, right?
 
 […]
 
@@ -476,6 +570,9 @@ Um, and there was a ton a ton of
 
 {ts:3012} Not to only help the advanced guys that want to just scale, but also guys like you, Tim, like just complete beginners
 {ts:3018} that didn't even know what Claude was, [laughter] you know?
+[gasps] I actually started using Cloud maybe I
+{ts:3027} don't know three weeks ago or something [laughter] because like I'm using Chibbt.
+I'm okay
 
 […]
 
@@ -496,6 +593,17 @@ you were never constraining yourself to like, oh no,
 
 […]
 
+Uh but um in this business, you can get a lot of money
+{ts:3263} overnight, right?
+Uh but the point of this business there is no days off.
+There is no way you can just take
+{ts:3270} vacation for two months and go travel.
+You gotta keep machine running, right?
+Or if you shut all your stores, you're
+{ts:3277} not getting income, which is kind of also possibility, but it will still hurt your business very much, right?
+
+[…]
+
 So the coaches,
 {ts:3635} trainers, they not only mastering what they teaching, but they also know the ways, the systems how to teach the
 {ts:3643} stuff, right?
@@ -506,6 +614,12 @@ So that's what I've been like preaching to all my students that investing in ins
 So that's what I've been like preaching to all my students that investing in instructor and coach, it is
 {ts:3650} so important because you'll just simply save a lot of time and do not waste your money and finances.
 Try to master stuff,
+
+[…]
+
+{ts:3650} so important because you'll just simply save a lot of time and do not waste your money and finances.
+Try to master stuff,
+{ts:3659} right?
 
 […]
 
@@ -540,6 +654,24 @@ Basically in this part you building up the basement you know for your future
 And after you get your first sale, it just dividing before and after.
 You know, afterwards, it will just go
 {ts:3967} up.
+
+[…]
+
+I would say that uh probably the hardest part of this journey for me was
+{ts:3910} maybe first couple months when you're beginning because in this uh period of your life before your first sales you
+{ts:3918} know so anything to do before your first sales it is a lot of work which you're not getting money for and you're even
+{ts:3928} not um you're even spending money for all the subscriptions AIS and uh time you know so majority lots of people are
+{ts:3937} uh start learning ecom while doing their 9-to-five job.
+So basically they're spending all their free time to learn
+{ts:3943} this stuff and not making any money.
+That is if somebody in this stage right now it is the hardest part of the
+{ts:3951} journey but it is necessary.
+Basically in this part you building up the basement you know for your future
+{ts:3959} growth.
+And after you get your first sale, it just dividing before and after.
+You know, afterwards, it will just go
+{ts:3967} up.
+Obviously, you will have some problems afterwards.
 
 […]
 

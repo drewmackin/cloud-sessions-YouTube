@@ -1,7 +1,7 @@
 # How He Made $120K In 1 Month With Branded Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=YtNAJULDb1Q
-- Windows: 17 (first timestamps 4s … 2703s)
+- Windows: 29 (first timestamps 4s … 2712s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,6 +24,18 @@ And so that week you hit 80k, was it?
 
 […]
 
+I just didn't have a mentor, but I was learning from YouTube.
+
+[…]
+
+It's like you're getting first dibs on a lot of these new
+
+[…]
+
+Pick these
+
+[…]
+
 Welcome back to another case study.
 Guys, this one is an
 {ts:4} absolute banger.
@@ -38,6 +50,10 @@ If you want to go ahead and introduce yourself to the channel and kind of go ove
 
 […]
 
+{ts:356} create a real brand that goes beyond, like you said, just the typical pump and dump mug or whatever, right?
+
+[…]
+
 {ts:385} now you're scaling it to the moon, right?
 Because, guys, Jayden is doing this all branded, right?
 All
@@ -45,6 +61,23 @@ All
 Um nothing too crazy.
 {ts:397} Yeah.
 I We had the at the at the beginning, we weren't using AI.
+
+[…]
+
+Because, guys, Jayden is doing this all branded, right?
+All
+{ts:390} organically, not even using AI really, like barely a little bit.
+Um nothing too crazy.
+{ts:397} Yeah.
+I We had the at the at the beginning, we weren't using AI.
+Yeah.
+{ts:401} we added it later.
+Yeah.
+Yeah, in the beginning, it was all organic.
+Now we're doing a little bit, but even then, it's
+{ts:406} like actual real organic marketing, and it's just insane how far he's come from like that old mentality of, like you
+{ts:415} said, just going through the burner, finding products, right?
+Running quick little pump and dumps.
 
 […]
 
@@ -69,6 +102,18 @@ They just literally they look at the one competitor, they see what concept they 
 
 […]
 
+{ts:754} so I have like multiple different kind of methods.
+So I'd look on the burner for competitors in the same niche but
+{ts:761} running different products.
+Um, I'd look at um,
+{ts:766} sort of niche videos.
+Mostly the niche videos in my niche I couldn't really replicate entirely but I could take like
+{ts:773} tags, hooks, and audios and all that.
+Um, but also another thing is I would look at like paid ads for
+{ts:782} that's like there were some paid ads concepts that I'd seen ran for this.
+
+[…]
+
 So I'd look on the burner for competitors in the same niche but
 {ts:761} running different products.
 Um, I'd look at um,
@@ -89,6 +134,22 @@ It's it's getting sales, you know, a high level.
 
 […]
 
+{ts:817} know, picked that and then I picked this and I picked that and I kind of merged it all into one concept.
+That was just
+
+[…]
+
+Another concept that went viral was one
+{ts:828} that Kevin sent me cuz he found like an AI um,
+{ts:833} concept.
+He or it was actually a whole account and then he sent it to me.
+He was like,
+{ts:837} yeah, do do some of the concepts.
+They're really good.
+And then I I do I can't remember that, bro.
+
+[…]
+
 Like I cannot be thinking like that, you know, I have to
 {ts:987} just be patient.
 And that's one of the biggest pieces of advice I can give people.
@@ -97,6 +158,12 @@ You just need to,
 
 […]
 
+So, really I would say I
+{ts:1198} was only making like $1,000 or less a month when I was running Pump and Dumps.
+
+[…]
+
+{ts:1227} see, bro.
 Last 30 days, $122,000 USD.
 This is beautiful.
 {ts:1235} 2.5% CVR.
@@ -119,6 +186,13 @@ But like for someone basically yeah, for someone who just has
 
 […]
 
+Because let's talk
+{ts:2104} about the profit margins on this 120K month.
+Like how much did you actually take home?
+{ts:2109} Probably like 70%.
+
+[…]
+
 {ts:2109} Probably like 70%.
 That's what I'm saying, bro.
 So some days it's like 80% just people
@@ -128,6 +202,16 @@ Just yeah, it's
 
 […]
 
+{ts:2295} research, look into your avatars, find out all their pain points, all that stuff cuz, you know,
+{ts:2301} that's kind of you know, you can do that especially with AI.
+It's way easier to do that now.
+You could like I will go on
+{ts:2306} Cloud and I will literally like I have a whole document of my avatar and the niche, all their pain points, their, you
+{ts:2313} know, desires, all that stuff.
+
+[…]
+
+{ts:2318} organic drop shipper doing.
 And that's basically what we started doing with a mix of trying to make sure that our
 {ts:2324} videos still go viral.
 
@@ -146,3 +230,13 @@ Like
 I'm not even
 {ts:2716} joking that same night I stayed up and I made, you know, my AI avatar and I made, you know,
 {ts:2722} all this stuff.
+
+[…]
+
+{ts:2712} us the blueprint how to like do the AI videos, you know, the right way.
+I'm not even
+{ts:2716} joking that same night I stayed up and I made, you know, my AI avatar and I made, you know,
+{ts:2722} all this stuff.
+And then I probably was one of the first people to actually start implementing it.
+Like I was quick
+{ts:2728} with it.

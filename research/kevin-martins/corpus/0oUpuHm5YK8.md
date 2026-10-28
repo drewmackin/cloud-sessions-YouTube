@@ -1,7 +1,7 @@
 # How He Made $66K In 30 Days With AI Organic ...
 
 - URL: https://www.youtube.com/watch?v=0oUpuHm5YK8
-- Windows: 120 (first timestamps 0s … 4147s)
+- Windows: 132 (first timestamps 0s … 4155s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,6 +19,10 @@ Metadata lines seen:
   And that's like with all like the
 
 ---
+So, how did you go about like doing the research to Cuz like I'm sure you didn't really listen to this band,
+
+[…]
+
 I'm not going to lie in July like I said over the breakup I kind of I kind of crashed
 
 […]
@@ -31,11 +35,11 @@ Like, bro, imagine if you got a 28 mil- million view video for the vinyls,
 
 […]
 
-The problem with that, I realized I was a broke college student,
+So, it took a little bit longer to ship it out to the customers.
 
 […]
 
-So, it took a little bit longer to ship it out to the customers.
+The problem with that, I realized I was a broke college student,
 
 […]
 
@@ -50,6 +54,10 @@ So
 […]
 
 And I knew from the jump that like he was
+
+[…]
+
+$40 for for this type of product.
 
 […]
 
@@ -228,6 +236,11 @@ And you know, learning like when I joined I'm not going to lie when I
 
 […]
 
+So
+{ts:863} there was a lot of things like that I had to like go through and go back and rewatch cuz I remember when I joined
+{ts:869} there was already just loads of information on AI.
+So I had to really go back and kind of like look into stuff
+{ts:876} and like rewatch all the calls and stuff like that and kind of like do some catch up.
 {ts:881} But for me it was pretty once I figured out like a system on like how to make my videos
 {ts:887} kind of like implementing the you know, the same concepts that were used in normal filming.
 It was pretty
@@ -394,11 +407,10 @@ Yeah.
 
 […]
 
+{ts:1304} Do you remember?
 I think it was around I think it was around for me personally
 {ts:1311} I I I should have probably did more of adjusting and split testing prices and stuff like that.
-
-[…]
-
+{ts:1316} Cuz I remember some people were selling it for higher.
 I think mine was like probably around like 60
 {ts:1321} 60 or or like 55% percent margins.
 
@@ -432,11 +444,31 @@ And I remember like literally everyone at FSC, it was like
 
 […]
 
+And uh, and I even like you you told me yourself like bro, you were running multiple at a
+{ts:1416} time.
+Um, and so with like the workflow that you had, right?
 Like how many videos were you spitting out a day for
 {ts:1422} these?
 For me personally, I was spitting out like
 {ts:1427} I was spitting out probably like five like six probably like six videos for each of them and at a point out at a
 {ts:1436} point it was the only product I was testing so I was probably like testing like five different vinyl niches, six
+
+[…]
+
+For me personally, I was spitting out like
+{ts:1427} I was spitting out probably like five like six probably like six videos for each of them and at a point out at a
+{ts:1436} point it was the only product I was testing so I was probably like testing like five different vinyl niches, six
+{ts:1442} videos a day.
+Right.
+
+[…]
+
+{ts:1442} videos a day.
+Right.
+Just wake up, do the same exact
+{ts:1446} the same exact, uh, video filming and stuff or video recording.
+And uh, it got pretty
+{ts:1453} repetitive, but hey, it was making money so.
 
 […]
 
@@ -457,6 +489,13 @@ And if you guys like backtrack a couple months like you probably remember
 
 […]
 
+So you were kind of doing
+{ts:1592} like a hybrid approach, right?
+Cuz you were still kind of filming for the showcase.
+Is that correct?
+At least in
+{ts:1597} the beginning.
+Yeah, at the beginning like a couple of them like I did like have that was like
 {ts:1603} I had some of them like filmed where I like actually had the product filmed and some of them were just kind of like, you
 {ts:1608} know, the swap method, so Mhm.
 Yeah, it was kind of like a
@@ -475,6 +514,18 @@ Just a different store.
 {ts:1662} reuse the same ones over and over again after the same point I'm not going to lie.
 {ts:1667} Right.
 So it was mainly just the pan reactions bro that worked incredible for you like just [clears throat] great.
+
+[…]
+
+{ts:1649} Yeah I will say like I do I did kind of get lazy and I kind of just like other than like
+{ts:1657} remaking the hook like I would just make a new hook clip but like you know the showcase clip I would just like spam and
+{ts:1662} reuse the same ones over and over again after the same point I'm not going to lie.
+{ts:1667} Right.
+So it was mainly just the pan reactions bro that worked incredible for you like just [clears throat] great.
+{ts:1674} They run twos and then the you know the store.
+Yeah.
+Spamming just like you know store
+{ts:1679} reaction drop the drink.
 
 […]
 
@@ -498,6 +549,7 @@ So even like these 20 K view
 
 […]
 
+Yeah cuz I I remember like the whole
 {ts:1697} month and even into that you know the month after like it was still making money even when I stopped posting for it
 {ts:1705} which I probably like I stopped posting for it now but when I stopped I had it running for like I don't know probably
 {ts:1712} like 2 weeks and I would maybe every 3 days post a video I was getting like $500 a day just
@@ -573,6 +625,13 @@ And so once you found that one, um you started pivoting to like a whole
 {ts:1887} bunch of other vinyls at the same time.
 Yeah.
 So I did end up doing like a whole bunch of niche research and like you
+
+[…]
+
+So I did end up doing like a whole bunch of niche research and like you
+{ts:1893} know, going off like, okay, I'm running The Cure, you know, asking Carl like, I'm running The Cure, what other bands,
+{ts:1900} you know, are from around the same time that have passionate audiences or what uh
+{ts:1907} what other bands, you know, just trying to find bands that have really strong audiences.
 
 […]
 
@@ -743,6 +802,13 @@ And why do you think this product just didn't convert?
 
 […]
 
+{ts:2472} audios.
+Right.
+But unfortunately, you know, the audios
+{ts:2476} that really worked were as far as like going viral were, you know,
+{ts:2481} uh The more general ones, yeah, like uh yeah.
+Yeah, yeah, I know exactly what
+{ts:2486} you're talking about.
 This was one, you know, kind of like doing the 3-2-1 concept that I tried to
 {ts:2491} like I felt like helped convert a little bit better.
 It was like, you know, try to
@@ -750,10 +816,28 @@ It was like, you know, try to
 
 […]
 
+{ts:2486} you're talking about.
+This was one, you know, kind of like doing the 3-2-1 concept that I tried to
+{ts:2491} like I felt like helped convert a little bit better.
+It was like, you know, try to
+{ts:2495} hit more of an American uh audience.
+Yeah, with the flag, yeah.
+
+[…]
+
 {ts:2503} Yeah, yeah, yeah.
 But even then, it didn't help at all.
 Yeah, I mean, dude, that's what we
 {ts:2509} noticed with uh with with this type of product, like uh it it's such a broad product that
+
+[…]
+
+{ts:2516} everyone is really going to relate with it.
+
+[…]
+
+Like they preview and sure, you can make some some pretty
+{ts:2528} big money with them, but usually you're going to get really bad targeting.
 
 […]
 
@@ -867,6 +951,8 @@ We took a look at the vinyls, we took a
 […]
 
 {ts:3026} I definitely really focus on I I've changed my focus on you know, other than like the vinyl,
+{ts:3033} which, you know, it was just one of those prod- one of those, you know, once in a while products that I just
+{ts:3038} Unicorn products.
 
 […]
 
@@ -944,6 +1030,16 @@ Yeah, do you think it's like really
 
 […]
 
+100% cuz I remember even when I was
+{ts:3464} doing the mentorship and I wasn't really taking like full like full, you know, I wasn't taking
+{ts:3471} full action as I should have like working as hard as I should have.
+Like, you know, my AI videos were were
+{ts:3476} garbage and once I took the time to like go back and like make sure I'm listening to all the calls
+{ts:3483} and like seeing how I make my videos as best I can make them, like it drastically changed how um
+{ts:3490} you know, my videos are able to go viral.
+
+[…]
+
 Right.
 Now like almost every day something new is popping up so it's Yeah, I think it's
 {ts:3524} more it's really important that you like are constantly on your burner and staying up-to-date and being in the in
@@ -974,6 +1070,13 @@ Like I feel like if you know it learn you know or have the right information, it
 
 […]
 
+{ts:3650} he's going, you know what I mean?
+Cuz we also give you most of the prompts that you're going to need to to make the
+{ts:3656} videos as well.
+So like we recently just built a [ __ ] FSE app for the community.
+
+[…]
+
 Like bro, it's like with that app you're going to be able to just copy and paste
 {ts:3667} all the necessary concepts that you're going to need to test.
 
@@ -996,6 +1099,16 @@ So, it's currently quarter four.
 Like what are
 {ts:3725} your some What are some goals that you have for yourself for Q4 maybe in the future with like e-com, really?
 {ts:3732} Uh definitely I definitely want to like I want to hit my first 100k month.
+
+[…]
+
+{ts:3802} about thinking about car I was going to get but I had to like humble myself and be like all right, let me just
+{ts:3806} let me just focus on the work.
+I'm still I'm still I'm still in the ground mode.
+Exactly.
+Focus on the work that's going
+{ts:3812} to get you to whatever goal you want, right?
+But I feel like Q4 is the time to just focus on the work.
 
 […]
 
@@ -1050,3 +1163,8 @@ I hope
 
 And if you guys do want to join FSC, you guys can go ahead and apply in the description
 {ts:4147} below.
+
+[…]
+
+And I'll see you guys in the
+{ts:4155} next one.

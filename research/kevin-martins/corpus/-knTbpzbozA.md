@@ -1,7 +1,7 @@
 # How This Teenager Makes $80k/m With Ai Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=-knTbpzbozA
-- Windows: 23 (first timestamps 0s … 1423s)
+- Windows: 29 (first timestamps 0s … 1423s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,11 +24,11 @@ This was the one that you ran fully organic, right?
 
 […]
 
-Cuz I feel like AI doesn't know like organic like we do.
+I know you were running four different products.
 
 […]
 
-I know you were running four different products.
+Even like scripting and stuff
 
 […]
 
@@ -61,6 +61,12 @@ No, like 3 months.
 
 […]
 
+Like we have AI doing majority of
+{ts:175} the work for us.
+We're not even having to record anymore.
+
+[…]
+
 All we could do is just like
 {ts:179} stand on your mask.
 [laughter] Chilled.
@@ -72,9 +78,23 @@ So, majority of that was made with AI, but you also said to me
 
 […]
 
+{ts:241} filming.
+It's just a lot of reposting and split testing.
+
+[…]
+
 It's just a lot of reposting and split testing.
 So, talk over like the power of Facebook and how it's
 {ts:247} really helped you just make consistent long-term money with just one product.
+
+[…]
+
+Like the power of Facebook is like, bro,
+{ts:262} like example for this product like I didn't film for like 2 months.
+Like I I didn't even edit video.
+I just like
+{ts:268} repost video and like it it do it it do video and like it print.
+Right.
 
 […]
 
@@ -82,6 +102,18 @@ So, talk over like the power of Facebook and how it's
 {ts:289} changing the text hooks, but also like slightly maybe introducing new variations, but nothing too crazy."
 Um
 {ts:295} and I remember that like that that worked really well for you.
+
+[…]
+
+Like, bro, like if
+{ts:443} when you film like a good video, like maybe it take like 1 hour, 2 hour.
+Like, bro, to run the product, you have
+{ts:449} to order the product, you have to It's like, bro, like with AI, you can just you can run the product like the
+{ts:455} same day, bro.
+Yeah, and test a lot more frequently.
+Like a lot more faster.
+Like you don't
+{ts:459} waste time and like you you you print faster.
 
 […]
 
@@ -97,6 +129,26 @@ implement AI, so.
 Right.
 Like it's it's not that easy, but like
 {ts:583} it's not that hard also, yeah.
+
+[…]
+
+It's It's kind of a skill.
+You have to like mix your knowledge with
+{ts:576} like organic and like Mhm.
+implement AI, so.
+Right.
+
+[…]
+
+Cuz I feel like AI doesn't know like organic like we do.
+Like we've been
+{ts:589} in the trenches.
+We filmed those 2-hour videos.
+We know what concepts convert, which one don't.
+Obviously, there's
+{ts:595} maybe going to come a point in time where AI is going to know like the best concepts and stuff like that.
+But for
+{ts:600} now it's like it's good, but it's not that good at like strategizing video ideas, different concepts, and stuff
 
 […]
 

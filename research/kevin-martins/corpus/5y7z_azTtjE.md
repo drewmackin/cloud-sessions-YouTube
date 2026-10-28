@@ -31,11 +31,11 @@ Third day, [ __ ] September 1st hits.
 
 […]
 
-And those were my first sales with this.
+So just doubling down on what's working.
 
 […]
 
-So just doubling down on what's working.
+And those were my first sales with this.
 
 […]
 

@@ -1,7 +1,7 @@
 # How He Made $91k in 30 Days With AI Organic Dropshipping (Product Revealed)
 
 - URL: https://www.youtube.com/watch?v=8zsX4RwrN84
-- Windows: 60 (first timestamps 4s … 2335s)
+- Windows: 65 (first timestamps 4s … 2335s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,6 +24,10 @@ because organic has been my whole life for 3 years now.
 […]
 
 And the the smallest size was at like $90.
+
+[…]
+
+You nailed the background,
 
 […]
 
@@ -185,6 +189,23 @@ You didn't film a single video here.
 {ts:497} No. I I don't even have the product, bro.
 You never touched the product, nothing.
 {ts:501} touched the product, no.
+
+[…]
+
+I mean
+{ts:506} I Okay.
+So, you were the first one essentially
+{ts:509} to resins.
+Correct?
+Yeah.
+First ever with AI.
+With AI.
+With AI, right?
+We We can't We
+{ts:514} can't take that from from Harper, right?
+Harper was the first ever one to run a resin organically.
+But then after that,
+{ts:521} you were the one to run it with AI back in, you know, March, right?
 
 […]
 
@@ -368,6 +389,17 @@ Yeah.
 
 […]
 
+{ts:980} This is a crazy concept.
+I remember you were doing you were doing this on Instagram
+{ts:984} specifically.
+You were split testing the crap out of this, right?
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+
+[…]
+
 I remember you were doing you were doing this on Instagram
 {ts:984} specifically.
 You were split testing the crap out of this, right?
@@ -503,6 +535,17 @@ So, yeah, I mean, having a good relationship with the supplier is the
 
 […]
 
+{ts:1606} let's talk about AI, right?
+Like this is obviously like a big play, right?
+Talk about your experience with it,
+{ts:1614} um how it really helped you uh in terms of not only the research, but the video creation, and
+{ts:1621} pretty much how you pivoted from just only doing traditional organic, right, filming videos, to now only doing AI,
+{ts:1630} um where you don't necessarily have to record, wait for products, be on your knees, do all that crap.
+{ts:1635} Um so yeah, talk about like that transition, and how you felt at that very moment where
+{ts:1642} like you you you cracked the code with these resin lamps using 100% AI.
+
+[…]
+
 Talk about Okay, let's
 {ts:1606} let's talk about AI, right?
 Like this is obviously like a big play, right?
@@ -605,6 +648,15 @@ Like just wait."
 {ts:1837} And you were right because afterward, bro, you know, the rest is history.
 {ts:1844} But But yeah, I mean and yeah, for this product, I was more comfortable.
 I was making the videos in advance.
+
+[…]
+
+You know, like bro, I would have dreamed I would have I would have dreamed for
+{ts:1907} times like this when I first started, bro.
+And I feel like that's why like people are getting so many results in
+{ts:1913} here because they're they're able to test so much more frequently, right?
+Um way quicker as well and you know,
+{ts:1920} automate the whole entire process, right?
 
 […]
 

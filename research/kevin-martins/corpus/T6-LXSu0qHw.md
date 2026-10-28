@@ -115,6 +115,8 @@ So platforms at this very moment are
 
 […]
 
+So basically this
+{ts:151} is what your traditional runto concept looks like.
 Essentially you're starting off the video with a whole bunch of
 {ts:157} people storming into a store or a AI avatar walking into a Costco, Target, IKEA, whatever store you want to do.
 You

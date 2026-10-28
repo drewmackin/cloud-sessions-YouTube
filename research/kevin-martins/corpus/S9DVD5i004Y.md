@@ -20,12 +20,12 @@ And so again, we're retargeting people because they're going to convert higher.
 
 […]
 
-We also went through how to make the branded content
+We do organic drop shipping.
+We rely on going viral.
 
 […]
 
-We do organic drop shipping.
-We rely on going viral.
+We also went through how to make the branded content
 
 […]
 
