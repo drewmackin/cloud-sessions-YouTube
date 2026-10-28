@@ -1,13 +1,33 @@
 # How I Make AI Organic Videos That Print $100k/m (Step by Step)
 
-- **URL:** https://www.youtube.com/watch?v=hK2Os3wSPI8
-- **Channel:** Kevin Martins (@KevinMartinsEcom)
-- **Date:** 2026-06-19 (Perplexity index date; the page header with date and length was not returned for this video, so length is unverified)
-- **Speakers:** Kevin Martins (solo tutorial)
-- **Revenue claims in excerpts:** Kevin: "multiple six figures with AI organic drop shipping"; student Elias "just did a $91,000 a month with me" (ts 1253). Title claim: "$100k/m".
-- **Source of excerpts:** Perplexity `perplexity_search` (youtube.com filter). Four targeted queries (max_results 3, max_tokens_per_page 2048) plus two earlier discovery queries that returned this video. Excerpts are verbatim, ordered by timestamp and de-duplicated; `...` marks a gap between non-adjacent excerpts. Nothing was edited.
-- **Note:** The URL variant `watch?v=hK2Os3wSPI8&list=WL&index=1` returned a different caption track (different line breaks, timestamps and spellings such as "Cling", "Higsfield", "cloud"). It is kept separately below rather than mixed into the main track.
-- **Context prompt:** Kevin says (ts 351) "I personally have my own context prompt, which is linked right here." The link itself was not returned by any search; see notes/discovery.md.
+- URL: https://www.youtube.com/watch?v=hK2Os3wSPI8
+- Channel: Kevin Martins
+- Published: 2026-06-19 (Perplexity index date; the "date (length)" header line was not returned for this video)
+- Length: not returned (unverified). The latest excerpt is at ts 1934 (about 32 min), so the video is at least that long.
+- Format: solo screen-share tutorial, "the step-by-step that you guys have been asking for": context prompt, then avatar and master frame, B-roll images, Kling 3.0 animation prompts, hook, CapCut edit, then prompt rules.
+- Speakers: Kevin Martins only.
+- Context prompt: Kevin says (ts 351) "I personally have my own context prompt, which is linked right here." The link was not returned by any search; see notes/discovery.md.
+- Source of excerpts: Perplexity `perplexity_search` (youtube.com filter). Four targeted queries (max_results 3, max_tokens_per_page 2048) plus three earlier discovery queries that returned this video. Excerpts are verbatim, ordered by timestamp and de-duplicated; `...` marks a gap. Nothing was edited. Where a fragment had no timestamp of its own, its position is inferred from the surrounding excerpts.
+- Two caption tracks: the URL variant `watch?v=hK2Os3wSPI8&list=WL&index=1` returned a different caption track, with different line breaks and timestamps and spellings such as "Cling", "Higsfield" and "cloud". It is kept separately at the end rather than mixed in. It adds lines the main track lacks: "You want to ask cloud to add a subtle camera shake for realism" (near ts 1814–1835), "made six uh different B-roll images that essentially shows progression" (ts 934), and the rule "tell what you want and tell it what you don't want" (ts 1888).
+
+## Revenue claims (as spoken)
+
+| Who | Claim | ts |
+|---|---|---|
+| Kevin | "I've done multiple six figures with AI organic drop shipping" | 16–22 |
+| Kevin about Elias | "my own student Elias that just did a $91,000 a month with me" | 1253 |
+
+## Workflow in order (pointers only; see text)
+
+1. Tools: Claude for "chat and prompting" (118); Higgsfield for image and video, "Nano Banana, GPT image, Kling 3.0" (190–196).
+2. Context prompt in a new Claude project, "following the 14-section architecture" and about "14 different rules" (302–398; the 14-section phrase is from the FULL COURSE excerpt in the discovery notes).
+3. Show Claude the product (a competitor's car watch screenshot) (407–413).
+4. Avatar and master frame: Claude deep research on the ICP, or Pinterest reference images. Prompt: "give me a prompt to recreate an image of a girl with similar facial features as hers." Run in GPT Image 2 inside Higgsfield at 9:16, high resolution, 1K, four images (492–753).
+5. B-roll: first frame with "lock the environment of the master frame", then 10 to 15 B-roll images in bulk, reusable "as long as you make new hooks every single time" (833–932).
+6. Animate: paste the B-roll images to Claude for "one prompt per image ... realistic process action", static camera, under 2,500 characters for Kling 3.0; start frame in Higgsfield; enhance off; 5 s; generate 2–3 and pick the best (1032–1196).
+7. Hook: get inspiration from competitors or Elias's profile; ask Claude for "a prompt to create me the first frame of the hook" (1236–1259).
+8. Mix real showcase clips with AI clips "so we don't get called out" (1393–1409); edit in CapCut with text and a transition (1516–1539).
+9. Image-prompt rules: nail the environment, precise framing and camera, strict negatives ("no studio lighting, no professional setup ... shot on a phone") (1579–1622). Video-prompt rules: match the camera to the shot type, time every action second by second, lock the scene, state what you don't want ("no camera movement, no warping, no extra fingers, no morphing, no overlays") (1807–1877).
 
 ## Excerpts (main caption track, watch?v=hK2Os3wSPI8)
 

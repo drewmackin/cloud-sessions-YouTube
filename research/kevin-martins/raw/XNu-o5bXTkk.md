@@ -8,7 +8,7 @@
 - Description links (as returned): "Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=yt&utm_content=MF"; "How My Student Mark Makes $60k/m With AI: https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS"; "Watch My 4 Hour Course Next:" (link not returned).
 - Speakers: Kevin Martins (narration). Harper (described as "my advanced coach") appears in the group-call clip, but none of his words are in the returned captions. "Hey, Adam here..." at ts 135 is an ElevenLabs sample voice.
 - The captions do not label speakers. Every attribution below is inferred from context.
-- Source of excerpts: Perplexity `perplexity_search` (youtube.com filter). Four targeted queries (max_results 3, max_tokens_per_page 2048) plus three earlier discovery queries that returned this video. Excerpts are verbatim, ordered by timestamp and de-duplicated; `...` marks a gap. Nothing was edited.
+- Source of excerpts: Perplexity `perplexity_search` (youtube.com filter). Four targeted queries (max_results 3, max_tokens_per_page 2048; three of them returned this video) plus four earlier discovery queries that returned it. Excerpts are verbatim, ordered by timestamp and de-duplicated; `...` marks a gap. Nothing was edited.
 
 ## Revenue claims (as spoken)
 

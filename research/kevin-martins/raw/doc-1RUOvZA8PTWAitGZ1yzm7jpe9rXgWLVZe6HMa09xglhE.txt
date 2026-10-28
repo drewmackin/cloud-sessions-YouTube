@@ -1,0 +1,34 @@
+﻿Niche Research Prompt 
+I'm about to run this product organically in the [MARKET — e.g. German / US / Spanish] market: 
+  
+PRODUCT:  
+LINK: [paste product link if you have one] 
+WHAT IT DOES: [the core benefit, in one line] 
+  
+Act as an expert market and consumer researcher. Build me a complete, detailed profile of my niche and my ideal customer (ICP) for THIS product in THIS market. If web search is available, use it to ground your answer in real data. Be specific — no generic filler. Organize your answer into these exact sections: 
+  
+1. NICHE & MARKET OVERVIEW — what this niche is, how big/active it is in this market, and the current vibe or trends around it. 
+  
+2. WHO MY ICP IS (DEMOGRAPHICS) — age range, gender, location (country/city type), income level, job/occupation, relationship/family status. 
+  
+3. WHO THEY ARE INSIDE (PSYCHOGRAPHICS) — their personality, values, how they see themselves, what a normal day looks like for them. 
+  
+4. HOBBIES & INTERESTS — what they do for fun, what else they buy, what other niches they overlap with. 
+  
+5. PAINS & FRUSTRATIONS — the specific problems, annoyances, or insecurities this product speaks to. 
+  
+6. DESIRES & DREAMS — what they secretly want, the outcome they're really buying, how they want to feel. 
+  
+7. EMOTIONAL BUYING TRIGGERS — the exact emotions that would make them stop scrolling and impulse-buy this (e.g. humor, nostalgia, status, relief, "I need this for my dog"). List the top 3–5. 
+  
+8. OBJECTIONS — why they might hesitate or not buy, and how content could overcome each one. 
+  
+9. HOW THEY TALK (LANGUAGE & CULTURE) — slang and phrases they use, how they refer to themselves and each other, inside jokes, tone. This is so my content sounds like one of them. 
+  
+10. WHERE THEY HANG OUT — which platforms, the type of accounts/creators they follow, communities, and hashtags to look at. 
+  
+11. WHAT CONTENT HOOKS THEM — the video styles, hooks, audios, and tone that already work on this audience. 
+  
+12. TOP 3 CONTENT ANGLES — based on everything above, give me the 3 strongest emotional angles I should lead with in my videos, and why each one would land. 
+  
+End with a 3-line summary I could pin as a reminder of exactly who I'm talking to.

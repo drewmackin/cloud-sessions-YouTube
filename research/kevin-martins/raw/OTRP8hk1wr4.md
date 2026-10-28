@@ -1,13 +1,29 @@
 # "healthmaxxing" is the fastest way to $35k/mo with AI organic dropshipping
 
-- **URL:** https://www.youtube.com/watch?v=OTRP8hk1wr4
-- **Channel:** Kevin Martins (@KevinMartinsEcom)
-- **Date:** 2026-08-08 (Perplexity index date; length not returned)
-- **Speakers:** Kevin Martins (solo walkthrough using student Omar's store as the example)
-- **Revenue claims in excerpts:** Student Omar "from zero to $35,000 a month with his health brand called Red Life Therapy"; "over 80,000 followers on Instagram, 38,000 followers on Tik Tok, and even hitting 14 million view videos"; "50 to 70% profit margins".
-- **Public resource in the description:** "Niche Research Prompt: https://docs.google.com/document/d/1RUOvZA8PTWAitGZ1yzm7jpe9rXgWLVZe6HMa09xglhE/edit?usp=sharing" (description line returned by Perplexity; the document text itself is not indexed).
-- **Source of excerpts:** Perplexity `perplexity_search` (youtube.com filter). Four targeted queries (max_results 3, max_tokens_per_page 2048) plus four earlier discovery queries that returned this video. Excerpts are verbatim, ordered by timestamp and de-duplicated; `...` marks a gap. Nothing was edited. Where a fragment had no timestamp of its own, its position is inferred from the surrounding excerpts.
-- **Note:** At ts 814 Kevin says "I'm not going to teach you how to create a video. I already made that video." The video-generation steps are therefore not in this video (likely his step-by-step tutorial hK2Os3wSPI8; unverified).
+- URL: https://www.youtube.com/watch?v=OTRP8hk1wr4
+- Channel: Kevin Martins
+- Published: 2026-08-08 (search metadata: "Aug 08, 2026 (0:21:02)")
+- Length: 0:21:02 (1,262 s)
+- Format: solo walkthrough using student Omar's health brand as the example. It covers product criteria, ICP research with Claude, building the avatar, and the store and bundles. It opens on a fully AI-generated video.
+- Description link (as returned): "Niche Research Prompt: https://docs.google.com/document/d/1RUOvZA8PTWAitGZ1yzm7jpe9rXgWLVZe6HMa09xglhE/edit?usp=sharing". Kevin calls it free with "No payw wall" (ts 697–701). The document text itself is not indexed anywhere I could read.
+- Speakers: Kevin Martins only. Omar (student) is discussed, not present.
+- Source of excerpts: Perplexity `perplexity_search` (youtube.com filter). Four targeted queries (max_results 3, max_tokens_per_page 2048) plus four earlier discovery queries that returned this video. Excerpts are verbatim, ordered by timestamp and de-duplicated; `...` marks a gap. Nothing was edited. Where a fragment had no timestamp of its own, its position is inferred from the surrounding excerpts.
+- Note: at ts 814 Kevin says "Now, I'm not going to teach you how to create a video. I already made that video." So the video-generation steps are not in this video. They are probably in his step-by-step tutorial hK2Os3wSPI8 (unverified).
+
+## Revenue claims (as spoken)
+
+| Who | Claim | ts |
+|---|---|---|
+| Kevin about Omar | "from zero to $35,000 a month with his health brand called Red Life Therapy" | 5–11 |
+| Kevin about Omar | "over 80,000 followers on Instagram, 38,000 followers on Tik Tok, and even hitting 14 million view videos" | 11–18 |
+| Kevin | "keep anywhere from 50 to 70% profit margins, just like Omar" | 40–46 |
+
+## Workflow points in the excerpts (pointers only; see text)
+
+- Product criteria, "four filters plus a little bonus": visual transformation (must be filmable), solves a physical problem, at least 50% margin, under $100, not easily found in stores (172–511).
+- ICP first: "describe your buyer in one sentence" (594–614). Paste the free niche-research prompt into Claude with the product and its product-page link to get a market overview and ICP (675–741).
+- Avatar from the ICP: "Now based off this information, make me a chat GB2 image prompt to feed into Hicksfield to make me a picture of a balding man based off your research." (746–791)
+- Store: branded product photos, before-and-afters, bundles with a free gift and a complementary upsell (a serum), an "ABC D tested" offer (874–991).
 
 ## Excerpts
 
