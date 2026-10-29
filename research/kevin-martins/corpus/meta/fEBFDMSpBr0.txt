@@ -1,0 +1,22 @@
+   ## Malva AI
+##### Feb 07, 2026 (0:08:03)
+In this video, I’m showing you the first AI video workflow I’ve used that actually holds together like a real cinematic tool: Kling 3.0 inside Higgsfield — fully on-screen, step by step.
+You’ll learn:
+-The exact prompt structure I use for consistent results (Subject → Camera → Environment/Mood → Audio)
+-How to use Elements to keep characters/products consistent across generations
+-Multi-shot sequences in a single generation (clean flow, clean transitions)
+-Start Frame / End Frame for controlled reveals & transformations
+-Kling 3.0 vs Kling 3.0 Omni (when you want more identity, fidelity, performance & lip-sync)
+-The best real-world use cases (action, close-ups, macro/detail, readable text, multi-character scenes)
+0:00 Introduction
+0:26 The workflow that finally feels cinematic (Kling 3.0 in Higgsfield)
+0:52 Setup: model, ratio, duration, 1080p + sound
+1:56 Elements: consistent characters/products (the pro trick)
+2:43 My prompt structure (copy forever)
+3:27 Multi-shot: mini sequences in one generation
+4:06 Start Frame / End Frame (controlled transformations)
+4:56 Audio prompting that sounds real
+5:46 Kling 3.0 vs Kling 3.0 Omni (which to use when)
+6:45 Best use cases + final tips
+7:22 Try it + free PDF in Discord
+...

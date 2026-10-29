@@ -18,3 +18,6 @@ __pycache__/
 
 # PDF build previews
 research/*/pdf/preview/
+
+# Web-page search cache (not quoted in the report; regenerated from session logs)
+research/*/corpus/web/

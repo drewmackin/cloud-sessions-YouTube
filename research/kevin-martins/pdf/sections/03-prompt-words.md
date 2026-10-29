@@ -33,6 +33,10 @@ They never write the final image or video prompt themselves. They **talk to Clau
 | Clone a viral video's setup | {{q:hK2Os3wSPI8|you could even tell Claude to copy a video|by just literally sending it a}} screenshot | Kevin |
 | Refresh a tired hook word | {{q:kmy9uOj0ve0|give me other words for tonitis.|used for this?}} | Gus ($60K month) · P13 |
 | Background for a product | {{q:S9COXhnjijY|I tell Claude to make|type of background to match it}} | Charlie ($110K month) |
+| Plan the B-roll | {{q:hK2Os3wSPI8|Listen, what would the|look like step by step?}} | Kevin · P16 |
+| Re-skin a proven clip | {{q:Hgc13jXWm_c|For this video, don't forget to remove the text|the way you know how to do them, right?}} | Kevin · P14 |
+| Niche the new set | {{q:Hgc13jXWm_c|For a car enthusiast, add lots of props,|Make it super clean.}} | Kevin · P15 |
+| Take a winner abroad | {{q:FAtJ50Kh5-8|translate this in a natural way|translate this in a natural way}} | John ($65K month) · P17 |
 
 ## The house language of the Seedance brief (coach Elias, P12)
 

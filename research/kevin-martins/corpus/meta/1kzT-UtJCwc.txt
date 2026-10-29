@@ -1,0 +1,6 @@
+   ## Tech Pankaj
+##### Feb 06, 2026 (0:15:30)
+Why Kling 3.0 on Higgsfield is special:
+Kling 3.0 turns scripts, images, references, and audio into fully structured cinematic sequences.
+It supports text-to-video, image-to-video, multi-shot generation, native audio, realistic motion, and 15-second continuous clips — all inside one unified model.
+...

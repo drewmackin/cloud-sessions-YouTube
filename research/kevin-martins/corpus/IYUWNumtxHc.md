@@ -1,12 +1,15 @@
 # How I Get Claude to Do 90% of the Work for My Organic Dropshipping Products
 
 - URL: https://www.youtube.com/watch?v=IYUWNumtxHc
-- Windows: 8 (first timestamps 5s … 381s)
+- Windows: 8 (first timestamps 5s … 352s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Omar
+  ##### Aug 25, 2026 (0:07:27)
+  ...
   Date: 2026-08-25
+  Skill file: https://docs.google.com/document/d/1350N80RWgAhT75Y5xF9IBrzZB_lIpp9SwVRHc2Czcz0/edit?usp=drivesdk
 
 ---
 And in this video, I wanted to go over how
@@ -133,6 +136,13 @@ And luckily for you, I'm going to attach
 
 […]
 
+And luckily for you, I'm going to attach
+{ts:352} a skill in the description below to make it easier
+{ts:357} for your Claude to understand you and understand organic in general.
+This is all created by me, really
+{ts:365} just by experience, just by testing, and finding out by myself by generating a lot of videos.
+If you
+{ts:374} have an untrained Claude or even a trained Claude, this is going to help you significantly.
 It goes step-by-step.
 {ts:381} Literally goes to the model, aspect sound, it gives you everything.
 And you can always come in here and change

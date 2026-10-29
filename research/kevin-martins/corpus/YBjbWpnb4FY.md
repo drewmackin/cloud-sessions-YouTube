@@ -1,7 +1,7 @@
 # How To Actually Go From $0 - $100K/MONTH Dropshipping (With AI)
 
 - URL: https://www.youtube.com/watch?v=YBjbWpnb4FY
-- Windows: 14 (first timestamps 0s … 1116s)
+- Windows: 15 (first timestamps 0s … 1257s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -109,3 +109,15 @@ So the
 So we went from a $100 budget to a $400 budget.
 This got 37 sales at a $10 per purchase
 {ts:1124} and a 3.7 row.
+
+[…]
+
+I literally took you from
+zero to starting a store to hitting your first 100k month exactly how I do it
+again and again and again.
+I do the same process to a $400,000 month, okay?
+I
+just bump more budgets, make more ads,
+{ts:1257} make more campaigns.
+It's the exact same
+structure.

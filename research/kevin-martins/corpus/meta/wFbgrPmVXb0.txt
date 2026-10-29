@@ -1,0 +1,5 @@
+   ## Higgsfield AI
+##### Oct 24, 2026 (0:21:26)
+Learn how to make a cinematic AI short film with Claude, Seedance 2.5, and Higgsfield Cinema Studio.
+Follow the filmmaking workflow from character design to the final edit, with techniques for realistic fight scenes, consistent characters, and expressive acting.
+...

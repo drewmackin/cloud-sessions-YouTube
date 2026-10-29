@@ -1,13 +1,14 @@
 # Organic Dropshipping Mistakes That Kept Me Poor (TIER LIST)
 
 - URL: https://www.youtube.com/watch?v=C0uqQVHXD44
-- Windows: 30 (first timestamps 0s … 2001s)
+- Windows: 43 (first timestamps 0s … 2047s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Jan 10, 2026 (0:35:02)
   ...
+  Apply to work 1 on 1 with me: https://kevinmartinsecommerce.com/
   Date: 2026-01-10
   Watch My Free 4 Hour Course Next:  https://youtu.be/nHNvGESHZGY
 
@@ -22,11 +23,15 @@ All right,  so  the  next
 
 […]
 
-This  is  going  to  be  more  of  a  tier  list
+use  it  to  actually  see  what  products  are
 
 […]
 
-stopped  only  doing  the  burner  method  and
+next  one  we're  going  to  be  talking  about
+
+[…]
+
+beginning  I  didn't  really  have  the
 
 […]
 
@@ -39,6 +44,8 @@ You  should  be  doing
 Today  I'm  going to
 {ts:1} be  talking  about  the  organic  drop
  shipping  mistakes  that  kept  me  poor.
+{ts:4}
+ This  is  going  to  be  more  of  a  tier  list
 
 […]
 
@@ -47,6 +54,7 @@ to  make  this  video  for  the  new  year  so
 
 […]
 
+{ts:40} we  go,  the  worse  it  gets.
 So,  the  first
  mistake  that  I  personally  made  in  the
 {ts:43}
@@ -59,12 +67,44 @@ And  this  is
 
 […]
 
+And  so,  one  of  the  main  mistakes,
+ like  I  mentioned,  was  not  taking  risk
+{ts:121}
+ sooner.
+And  so,  I'm  going  to  probably
+{ts:123} put  this  at  the  A  tier  right  here  for
+ the  first  mistake.
+
+[…]
+
+{ts:164} are  doing  the  burner  method  because  it's
+ the  lowest  hanging  fruit.
+It's  the
+{ts:167}
+ easiest  thing  to  do  because  you're
+{ts:169} actually  able  to  see  data  on  what's  kind
+ of  going  viral  within  the  platform  and
+{ts:172}
+ what's  kind  of  converting,  right?
+
+[…]
+
 {ts:175} actually  doing  what  everybody  did  was
  really  stunting  my  growth  if  I  really
 {ts:179}
  wanted  to,  you  know,  make  that
 {ts:180} consistent  money  with  organic  and  truly
  pop  off.
+
+[…]
+
+{ts:185}
+ stopped  only  doing  the  burner  method  and
+{ts:188} started  doing  like  AliExpress,  Teimu,
+ and  really  just  branching  off  to  all
+{ts:191}
+ these  other  platforms,  that's  when  I
+{ts:193} really  started  to  make  a  lot  of  money,
 
 […]
 
@@ -80,6 +120,69 @@ When  it  comes  to
  different  business  models,  that  isn't
 {ts:265}
  organic  drop  shipping.
+
+[…]
+
+{ts:362}
+ us  are  just  copying  competitors  one  for
+
+[…]
+
+{ts:375} burners  literally  just  copying  him  one
+ for  one,  even  down  to  the  concepts,
+{ts:378}
+ right?
+
+[…]
+
+So  I  was  really  just
+ copying  one  for  one  and  I  was  noticing
+{ts:405}
+ that  all  my  videos  were  doing  trash.
+And
+{ts:407} so  this  is  when  I  started  pioneering  the
+ Frankenstein  method,  right?
+Right?
+And
+{ts:410}
+ the  Frankenstein  method  is  when  you
+{ts:411} extract  concepts  from  a  particular  niche
+ and  you  essentially  just  make  them  a
+{ts:416}
+ little  bit  different.
+
+[…]
+
+{ts:407} so  this  is  when  I  started  pioneering  the
+ Frankenstein  method,  right?
+Right?
+And
+{ts:410}
+ the  Frankenstein  method  is  when  you
+{ts:411} extract  concepts  from  a  particular  niche
+ and  you  essentially  just  make  them  a
+{ts:416}
+ little  bit  different.
+Right?
+We're  not
+
+[…]
+
+{ts:462} reinventing  the  wheel.
+We're  finding
+ what's  working.
+We're  making  it  a  little
+{ts:466}
+ bit  different.
+Um,  and  we're  not  copying
+{ts:469} one  for  one.
+
+[…]
+
+But  top  mistake  here  was  literally
+{ts:479} copying  one  for  one.
+I  was  missing  out
+ on  so  many  sales.
 
 […]
 
@@ -217,6 +320,36 @@ Um  just  stop
 
 […]
 
+{ts:1800} to  do  ecom  like  I  did.
+Uh,  I  also  joined
+ like  Discord  communities  to  be  around
+{ts:1804}
+ like-minded  people.
+But  most
+{ts:1806} importantly,  I  took  myself  out  of  that
+ really  slow  environment  and  more  into
+{ts:1809}
+ like  a  fast-paced  type  of  environment
+
+[…]
+
+And  realistically,
+ you're  not  going to  be  going  super  super
+{ts:1945}
+ viral  every  single  day.
+And  so,  it's
+{ts:1947} kind  of  like  a  roller  coaster.
+
+[…]
+
 So,  stop  being  emotional,  think
 {ts:2001}
  logically,  and  again,  learn  along  the
+
+[…]
+
+Uh,  we've  been
+ absolutely  crushing  Q1,  believe  it  or
+{ts:2047}
+ not,  I'll  go  ahead  and  show  you  guys  the
+{ts:2048} Discord  really  quickly.

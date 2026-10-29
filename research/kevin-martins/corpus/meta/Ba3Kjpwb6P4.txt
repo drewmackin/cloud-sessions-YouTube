@@ -1,0 +1,4 @@
+   En este vídeo le doy manos a Claude para que me genere vídeos completos con Higgsfield desde un solo prompt, sin salir del chat.
+Te enseño el flujo completo de principio a fin.
+Conéctalo tú mismo: Claude → Ajustes → Conectores → + → Higgsfield → https://mcp.higgsfield.ai/mcp → Añadir.
+...

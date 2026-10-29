@@ -10,7 +10,7 @@ subtitle: The full sequence, with the tool, the target numbers and the line that
 
 <div class="step"><div class="n">1</div><div><b>Find a product with proven demand.</b> Use a fresh TikTok and Instagram “burner” account trained on product videos, or TikTok Shop items that already sell, or an old winner whose videos died but whose demand didn't. Validate through comments, not views. {{q:T6-LXSu0qHw|products that are already doing sales on Tik Tok shop|before you post a single video,}}</div></div>
 
-<div class="step"><div class="n">2</div><div><b>Score it.</b> Kevin's Brandable Product Research Rubric (section 7, R1): ten categories scored 1–5, plus a mandatory compliance pass. His one-page filters: it must be filmable, show a visual transformation, cost under $100, and leave 50%+ margin. {{q:OTRP8hk1wr4|the product has|to be filmable before it can be profitable.}}</div></div>
+<div class="step"><div class="n">2</div><div><b>Score it.</b> Kevin's Brandable Product Research Rubric (section 7B, R1): ten categories scored 1–5, plus a mandatory compliance pass. His one-page filters: it must be filmable, show a visual transformation, cost under $100, and leave 50%+ margin. {{q:OTRP8hk1wr4|the product has|to be filmable before it can be profitable.}}</div></div>
 
 <div class="step"><div class="n">3</div><div><b>Supplier and store.</b> Private supplier; Shopify store built with the Atlas AI app; bundles for AOV. On Omar's store, adding a complementary serum and free gifts took the AOV from about $70 to orders of up to $1,600. {{q:OTRP8hk1wr4|he was only selling the cap and he was stuck at that $70 AOV,|getting $1,600 orders.}}</div></div>
 
@@ -24,7 +24,7 @@ subtitle: The full sequence, with the tool, the target numbers and the line that
 
 <div class="step"><div class="n">6</div><div><b>One-time setup:</b> a Claude Project holding your context prompt (P3). <b>Per product:</b> introduce the product with a competitor screenshot (P4).</div></div>
 
-<div class="step"><div class="n">7</div><div><b>B-roll stills.</b> Lock the environment (P6) and test one frame. Then batch 10–15 stills of the avatar doing the “creation process” (P7, following the image rules in P8). The stills are reusable across videos as long as each video gets a new hook.</div></div>
+<div class="step"><div class="n">7</div><div><b>B-roll stills.</b> Lock the environment (P6) and test one frame. Ask Claude for the steps of making the product (P16), then batch 10–15 stills of the avatar doing that “creation process” (P7, following the image rules in P8). The stills are reusable across videos as long as each video gets a new hook.</div></div>
 
 <div class="step"><div class="n">8</div><div><b>Animate.</b> Claude writes one Kling 3.0 prompt per still (P9) plus strict negatives (P10). In Kling 3.0 inside Higgsfield: the still as start frame, enhance off, 5 seconds, render 2–3 (up to 6) and keep the best.</div></div>
 
@@ -34,7 +34,7 @@ subtitle: The full sequence, with the tool, the target numbers and the line that
 
 ### Phase 3b: Route B, the hybrid that Kevin runs most now
 
-<div class="step"><div class="n">B</div><div>{{q:T6-LXSu0qHw|I'm just going to rip it, background swap it,|321 AI concept.}} Seedance step-by-step (P12): a Claude chat with the instruction prompt, then Seedance in Higgsfield (≤15 s, 720p, 2 variations), then a Topaz upscale. TikTok Shop variant: {{q:T6-LXSu0qHw|taking care of the first 3 to 5 seconds of the video with AI|behind it}}</div></div>
+<div class="step"><div class="n">B</div><div>{{q:T6-LXSu0qHw|I'm just going to rip it, background swap it,|321 AI concept.}} Seedance step-by-step: a Claude chat holding the instruction prompt (P12), then two short messages per clip (P14, P15), then Seedance in Higgsfield (≤15 s, 720p, 2 variations), then a Topaz upscale. TikTok Shop variant: {{q:T6-LXSu0qHw|taking care of the first 3 to 5 seconds of the video with AI|behind it}}</div></div>
 
 ### Phase 4: post, read the data, repeat
 
@@ -46,6 +46,6 @@ subtitle: The full sequence, with the tool, the target numbers and the line that
 
 <div class="step"><div class="n">14</div><div><b>Judge the product.</b> 5–7 days per product (two to three products at once, or four to five as a “testing demon”), or 30–40 posts before giving up on one you believe in. Read: did it go viral, was there demand, were there sales, what's the conversion rate?</div></div>
 
-<div class="step"><div class="n">15</div><div><b>Find the outlier, then split test it</b>, one variable at a time, in this order: {{q:b3OiPa8Xlf0|I start with the textbook,|the duration of the of the video.}} (“textbook” = text hook). Platform rules are on the next page (section 7).</div></div>
+<div class="step"><div class="n">15</div><div><b>Find the outlier, then split test it</b>, one variable at a time, in this order: {{q:b3OiPa8Xlf0|I start with the textbook,|the duration of the of the video.}} (“textbook” = text hook). Platform rules are on the next page (section 7B).</div></div>
 
 <div class="step"><div class="n">16</div><div><b>Daily loop.</b> {{q:0EwzL3Etidg|doing some PR concept research.|replying to some comments and DMs,}} then store operations in the evening and a 15-minute review at night.</div></div>

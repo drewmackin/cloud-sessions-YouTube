@@ -1,0 +1,16 @@
+   ## Brad Bonanno | AI Automation
+##### Aug 08, 2026 (0:10:50)
+In this video I give you the full four step workflow I use for AI video generation, from a blank page to finished shots so convincing that people won't question whether it's AI.
+...
+This is the whole process, no gatekeeping.
+Step one is the storyboard, where you lock the story, characters, scenes, props and dialogue up front, exactly like you would if you were filming with real people.
+I take a real software ad that ran earlier this year, break it down frame by frame with my watch skill, and rebuild it around a fictional product called TeamChat so you can see the workflow end to end.
+That gives me 14 shots, dialogue per shot, and one visual idea holding the whole thing together.
+Step two is assets.
+Seedance takes up to 50 reference images, so every character, location and prop needs one, and I show you which of the three models does which job.
+GPT Image 2 for products and props, Grok Imagine or Soul Cinema for faces, because GPT Image leaves a weird ashy CGI texture on people.
+Plus the floor plan trick that keeps your desks and lamps in the same place when you're covering one room from eight camera angles.
+Step three is the Claude skill I built called Seedance Director.
+Mood words like tense, cinematic and epic mean nothing to these models, so the skill converts your storyboard into specific prompts, handles context isolation between generations, and holds the look sheet steady so you minimise drift across clips.
+Step four is generating the scenes, both directly inside Higgsfield AI and through the MCP.
+I built the entire ad inside Higgsfield, which is one account for every top image and video model including Seedance 2.5, Seedance 2.0 4K, GPT Image 2 and Grok Imagine, instead of paying for four separate subscriptions.

@@ -1,0 +1,8 @@
+   ## Trînc Gabriel
+##### Aug 19, 2026 (0:12:00)
+So in this video I will show you how to do a few examples using Agent 2 and Seedance 2.5, like:
+- Background swap, same me, same camera, new world behind me.
+- Hand to robotic arm swap.
+...
+This held up.
+- Full car and background swap, new car, new world, still me.

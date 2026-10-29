@@ -1,22 +1,22 @@
 # how to SPEEDRUN to your first winning product with AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=T6-LXSu0qHw
-- Windows: 67 (first timestamps 0s … 2548s)
+- Windows: 79 (first timestamps 0s … 2693s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Aug 31, 2026 (0:45:04)
   ...
+  And like bro,
+  And overall, again, just a really good concept to do.
+  And so, as you guys can see, you have like the typical Costco worker showing off the red light therapy hat
+  And this works so well for Omar, too, that you know, he was literally getting
+  And you know, essentially what you do here is you kind of clickbait people
   Bro, go ahead and start running his product on Facebook
   Bro, rerun that with AI concepts and I promise you like it'll
+  But the main thing that you have to make sure of when you do this
   Date: 2026-08-31
-  If you guys are new to the channel, my name is Kevin Martins.
-  It's going to be run twos
-  Like, bro, if he's if he's posting on Facebook and he's
-  So basically, this is the truth about AI organic drop shipping at this very
-  The product was never the problem, right?
-  Today, I'm
 
 ---
 We're literally targeting our ICP in the text.
@@ -30,10 +30,6 @@ They're going to want to engage and overall it's
 
 […]
 
-If we keep on scrolling up, we got Reinato hitting his first ever 1K day.
-
-[…]
-
 So I'm going to be opening up my my Tik Tok shop here, right?
 
 […]
@@ -44,12 +40,6 @@ Now, the third thing that we're going to talk about
 
 Also, one platform.
 This is absolutely massive.
-
-[…]
-
-3 2 1.
-WAKE UP, SOLDIER.
-GET OUT OF THAT BED.
 
 […]
 
@@ -115,6 +105,7 @@ So platforms at this very moment are
 
 […]
 
+All right, so here we go.
 So basically this
 {ts:151} is what your traditional runto concept looks like.
 Essentially you're starting off the video with a whole bunch of
@@ -122,6 +113,15 @@ Essentially you're starting off the video with a whole bunch of
 You
 {ts:165} can literally do it.
 So as you guys can see the text is bald aholics don't walk run to Costco.
+
+[…]
+
+Shout out Omar for this
+{ts:172} concept, bro.
+This is actually one of my top students.
+He created this concept and you guys can see that he's, you
+{ts:177} know, marketing this red light therapy hat.
+And you know, essentially what you do here is you kind of clickbait people
 
 […]
 
@@ -149,6 +149,8 @@ All right,
 
 […]
 
+Three, two,
+{ts:251} one, [music] Lucas.
 All right.
 So, that's going to be an
 {ts:257} example of your typical 321 concept.
@@ -189,10 +191,26 @@ And
 
 […]
 
+{ts:376} people did not look at me uh too well.
 All right.
 And so now, you know, we have the ability to not only delegate this,
 {ts:383} you know, whole entire scary and kind of embarrassing process to AI, but we also have the ability to make multiple
 {ts:389} variations because, um, you know, when I was doing run two concepts back in the day, I only really had like a Target and
+
+[…]
+
+And so now, you know, we have the ability to not only delegate this,
+{ts:383} you know, whole entire scary and kind of embarrassing process to AI, but we also have the ability to make multiple
+{ts:389} variations because, um, you know, when I was doing run two concepts back in the day, I only really had like a Target and
+{ts:395} a Walmart nearby.
+I never had like an IKEA nearby or even something like a PetSmart nearby to run like pet
+{ts:401} products.
+
+[…]
+
+But now with AI, like you can literally just like spawn your
+{ts:410} AI avatar wherever you want, right?
+Same would apply with like a 321 like this where it's super niched down.
 
 […]
 
@@ -207,9 +225,18 @@ All right, so the first version of a runto concept that you can do is going to b
 All right, or the pan reaction, whatever you want to call it.
 And so I went ahead and provided three
 {ts:471} examples of how this kind of looks like.
-
-[…]
-
+So, let's take a look at the first example right here.
+Let me click this
+{ts:476} link.
+3 2 1.
+WAKE UP, SOLDIER.
+GET OUT OF THAT BED.
+{ts:484} ON YOUR FEET NOW.
+MOVE.
+MOVE.
+MOVE.
+Wake up.
+All right.
 So, basically what we're
 {ts:489} seeing here is a prime example of a reaction style run two concept.
 Basically, what this guy went ahead and
@@ -218,6 +245,34 @@ He made a super niched down version of his avatar.
 
 […]
 
+3 2 1.
+WAKE UP, SOLDIER.
+GET OUT OF THAT BED.
+{ts:484} ON YOUR FEET NOW.
+MOVE.
+MOVE.
+MOVE.
+Wake up.
+All right.
+So, basically what we're
+{ts:489} seeing here is a prime example of a reaction style run two concept.
+Basically, what this guy went ahead and
+{ts:495} did, and it's actually low-key genius.
+He made a super niched down version of his avatar.
+In this case, he's clearly
+{ts:502} targeting, you know, army veterans and overall just soldiers.
+And the cool thing about this is that he was able to
+{ts:509} like curate his avatar to look like an army veteran or someone that's actively on duty.
+And you could see that he
+{ts:515} literally just like drops his drink on the ground.
+
+[…]
+
+I don't know what this what
+{ts:521} prompt this guy was using, but it's it's horrific.
+But either way, you get the gist here, right?
+You can see the avatar
+{ts:527} clearly having some sort of emotion like, "What the heck is this?"
 points at the product, then the camera pans to the
 {ts:532} product, and then they clearly just go ahead and show the capabilities of this grenade alarm clock, which is pretty
 {ts:539} cool.
@@ -227,6 +282,22 @@ So, yeah, this is going to be a really good example of your typical reaction sty
 Make your avatar super niche to the product that you're selling and then just do something controversial, right?
 {ts:554} Drop like a Starbucks coffee or drop, you know, some popcorn or a snack, whatever.
 make the people want to
+{ts:560} comment and be like, "Dude, why the heck did you just drop that?
+It's not that deep."
+And go ahead and show your
+{ts:564} product.
+
+[…]
+
+{ts:568} go ahead and dissect it.
+
+[…]
+
+3 2 1
+{ts:578} Get out of that bed.
+ON YOUR FEET NOW.
+MOVE, MOVE, MOVE.
+WAKE UP, SOLDIER.
 
 […]
 
@@ -263,6 +334,7 @@ And it's insane how well it worked for his product.
 
 […]
 
+All right.
 So, the second style of a run to concept
 {ts:787} that you could do is going to be the Black Fridays scarcity style.
 And this, I'm telling you right now, this is going
@@ -297,11 +369,18 @@ And then they go ahead and show off the product and the
 
 […]
 
+So, yeah, overall this is a really good product.
+I highly recommend that you guys go ahead and
+{ts:872} start doing it.
+Um, you know, when it comes to maybe like Halloween products or even like closer to quarter four if
+{ts:878} you guys want to run some like Christmas prods, bro.
 Or even like imagine like a Black Friday, bro.
 Like it would cook.
 {ts:884} It would cook.
 Like if you have like a Black Friday type of offer and you're literally showing this style of video,
 {ts:889} dude.
+Like that would cook.
+Damn.
 
 […]
 
@@ -326,6 +405,21 @@ And I'm a really big fan of this, bro, because you you tend to see a lot of thes
 
 […]
 
+{ts:1077} like run twos.
+But again, think about it this way, right?
+You're mixing a 321 because the workers are saying it.
+{ts:1083} They're saying 3 2 1.
+Then you got this guy like the owner of IKEA, you know, cutting the um I guess like the tape or
+{ts:1089} whatever.
+And you even have the employee handing the box to the customer um just like a popup store.
+So again, I'm a
+{ts:1095} really big fan of this concept.
+It's insane.
+And again, you can go ahead and just do like literally unlimited
+{ts:1101} variations.
+
+[…]
+
 That's also another reason why uh runto concepts do so well because people
 {ts:1122} genuinely think this is real.
 
@@ -343,6 +437,43 @@ And it's pretty
 {ts:1153} self-explanatory, right?
 You literally add your avatar in the store with like a first-person POV, grabbing the box out
 {ts:1159} of the shelf.
+
+[…]
+
+first person
+{ts:1189} POV branded box, right?
+We're literally targeting our ICP in the text.
+If you're a tiny dog owner, you need this.
+
+[…]
+
+I think this is like an insane concept.
+This should have went more viral, but overall look
+{ts:1265} at look at this.
+So, I don't know if you guys know Costco.
+If you're from the United States, you definitely know
+{ts:1270} Costco has like these little stands around like the store where they have like workers kind of showing off certain
+{ts:1276} products.
+And so, as you guys can see, you have like the typical Costco worker showing off the red light therapy hat
+{ts:1282} and you got a whole bunch of like balding people just looking at it.
+So, I'm going to have you hear it.
+It's
+{ts:1286} pretty freaking crazy.
+Um, but this should have went like way more viral.
+cap has 100 red lights on the inside 20
+{ts:1294} minutes a day and it wakes [music] the follicles back up so your hair grows in.
+Like, bro, that's so freaking good.
+
+[…]
+
+[laughter] So, overall, bro, this is just such a good
+{ts:1328} concept.
+Shout out Omar one more time.
+And this works so well for Omar, too, that you know, he was literally getting
+{ts:1333} like $1,600 orders, not days, but orders from people that were, I guess, like balding.
+I
+{ts:1339} guess there was somebody that had 24 people balding at home or something.
+Uh, but we also did a case study with Omar
 
 […]
 
@@ -400,6 +531,11 @@ So,
 
 […]
 
+{ts:1466} more time kind of showing off the product.
+Uh, but this time it's like inside of the store, right?
+So you could
+{ts:1472} literally do like a first person POV of a 321 in whatever store that relates to your product.
+In this case, he's instead
 {ts:1479} of a Petco cuz he's running like a pet product.
 U but again, he had the avatar say 321 and show off the product and
 {ts:1486} then bro, super easy, bro.
@@ -425,6 +561,11 @@ So this is kind of like a full body 321 with like your avatar in whatever place 
 
 […]
 
+So this is kind of like a full body 321 with like your avatar in whatever place you want
+{ts:1515} them to, you know, be in.
+
+[…]
+
 Let me know.
 All right.
 So, the last version of a 321 that we have here is kind of like
@@ -443,6 +584,16 @@ Once again, I'm not going to play the annoying audio that you guys heard probabl
 
 […]
 
+So, as you guys can see, we have the girlfriend
+{ts:1682} gifting it to the veteran boyfriend.
+He opens it, showcases it, and then uses it, right?
+So, again, I personally think
+{ts:1689} that this is going to absolutely crush during like Christmas.
+Like imagine like a gifting angle where it's like a dad
+{ts:1696} gifting it to the son or the dad gifting it to the daughter with like Christmas packaging.
+
+[…]
+
 {ts:1723} your advantage and it's really going to come down to identifying gaps in competition and various other aspects.
 
 […]
@@ -457,6 +608,7 @@ So let's say for example, you're scrolling on your burner and you see a competit
 He's not even on AI yet.
 What you
 {ts:1755} can go ahead and do is run AI concepts with their clips and post 2x the volume.
+This is exactly what I've been
 
 […]
 
@@ -474,13 +626,6 @@ So,
 {ts:1793} take care of the the the hook myself, right?
 So, the first 3 to 4 seconds of the video, um, I'll take care of it with
 {ts:1799} like a run two or a 321 AI concept.
-
-[…]
-
-He's not even on AI yet.
-What you
-{ts:1755} can go ahead and do is run AI concepts with their clips and post 2x the volume.
-This is exactly what I've been
 
 […]
 
@@ -635,6 +780,32 @@ It was a graveyard smash.
 
 […]
 
+So you look up the account and all the concepts are
+{ts:2188} just like old prototype versus final product concepts.
+Bro, rerun that with AI concepts and I promise you like it'll
+{ts:2194} literally go viral, right?
+And so now you're not necessarily testing demand.
+Like it already sold, right?
+Like you're
+{ts:2200} just testing new formats from a prior winner that you know for a fact made money.
+And a prime example of somebody
+{ts:2207} that did this was, you know, my student Gus.
+So, pretty much how this happened is that my coach Elias posted this old
+{ts:2213} product from 2023 in the winning product section of FSE and this was an old product from 2023, guys.
+It was called
+{ts:2219} the bloody mat.
+Uh, and so basically he sent this video to the community and, you know, told people, hey, like run
+{ts:2226} this up again with, you know, AI concepts and, you know, Gus, my student, was the first one to take action on it.
+{ts:2231} And guess what?
+4.4 million views just by reviving it with a new concept.
+So, let's go ahead and take a look at how he
+{ts:2239} really made this happen.
+He did the monster mash.
+It was a graveyard smash.
+{ts:2247} It caught on in a flag.
+[music] So, there you go.
+It's that easy.
+It's that easy, bro.
 {ts:2255} Literally, literally what he did was he ripped the videos from the competitor that ran it in 2025 or 2024, I don't
 {ts:2263} remember.
 And he just introduced a winning AI hook.
@@ -745,3 +916,45 @@ You can just save them, download them, add them to your
 {ts:2569} cap cut, and then guys, you have a literal infinite library of UGC style content that's actually real that you
 {ts:2576} can go ahead and mix with your AI to make it that much more believable.
 And also utilize that gap that I taught you
+
+[…]
+
+And also utilize that gap that I taught you
+{ts:2582} to go ahead and run it on another platform where it's literally untapped.
+
+[…]
+
+Um, bro, random Friday, bro's literally at Six Flag.
+Shout out
+{ts:2629} Omar.
+We were just talking about him.
+If we keep on scrolling up, we got Reinato hitting his first ever 1K day.
+Um, if we
+{ts:2635} keep on scrolling up, we got my boy Kenny hitting a 1.4K day.
+Uh, and guys, these are all recent recent wins.
+We
+{ts:2643} even Yanick all the way from Germany.
+He's up 7K in seven days.
+He says he loves the consistency.
+Um, we even have
+{ts:2649} Sheree hitting a 1.2K day all the way from the UK, bro.
+Um, we even have Chase, another 1K day.
+Um, it's just
+{ts:2656} endless, bro.
+Literally endless.
+We even have John getting his first ever Indian purchase, bro.
+This is literally like a
+{ts:2662} a world record in organic history.
+
+[…]
+
+It's just literally insane.
+We've got Leps hitting a 90K week.
+a 90K week,
+{ts:2681} bro.
+Um, and again, these are just normal people just like you and me that decided to start on this a little bit
+{ts:2687} earlier and learn the right fundamentals and skills to make them the money.
+
+[…]
+
+{ts:2693} try AI organic drop shipping and learn personally from me, you guys can go ahead and apply in the description

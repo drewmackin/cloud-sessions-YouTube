@@ -1,0 +1,10 @@
+   ## Willa Sterling | AI
+##### Oct 15, 2026 (0:00:39)
+Higgsfield works as a plugin inside ChatGPT, so you can make AI images and videos without switching apps.
+You connect it once, and ChatGPT can use the models in Higgsfield's creative suite, including Seedance 2.5, Kling 3, Nano Banana Pro and GPT Image 2.
+Steps: add Higgsfield from the ChatGPT Plugins Directory and sign in once.
+Then attach a product photo, ask for one carousel image and one short clip, and name the style in a single line.
+In the demo, the photo is a candle.
+The answer is a carousel image of the candle in warm evening light, plus a short clip in the same style.
+Keep the style line in the same prompt as the request.
+That is what makes the image and the video match.

@@ -1,7 +1,7 @@
 # $41K/Month With AI Organic Dropshipping (Product Leaked)
 
 - URL: https://www.youtube.com/watch?v=putfs1jofwo
-- Windows: 59 (first timestamps 0s … 2062s)
+- Windows: 68 (first timestamps 0s … 2062s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,6 +19,24 @@ Metadata lines seen:
   And just reviews also with AI.
 
 ---
+So I got a lot of chargebacks.
+My dumb ass erased the store thinking I was wasn't
+
+[…]
+
+Even my competitor was made a made a video.
+He was using me as an example.
+
+[…]
+
+I didn't know how to get like private supplier, all
+
+[…]
+
+I I made that's when I made like 20k in December.
+
+[…]
+
 Yeah, we we were trying to do too much
 
 […]
@@ -50,6 +68,7 @@ He just got off a $41,000 month doing AI organic drop shipping.
 {ts:10} And today, we're going to be revealing his product that got him to that place.
 Uh this is going to be a really really
 {ts:15} special one because I know you guys love when we leak products and this one is an absolute banger.
+So, Omar, before
 
 […]
 
@@ -135,6 +154,16 @@ So, you were mainly doing these like progression transformation style of
 
 […]
 
+So, first I was I was I was getting
+{ts:390} success from Tik Tok.
+Okay.
+On Tik Tok, just doing the regular
+{ts:395} concepts, like those right here.
+And you were really targeting like like
+{ts:410} like workers, right?
+
+[…]
+
 Like everyday workers, like UPS drivers, FedEx drivers.
 {ts:415} Yeah, I was trying to find just people like who wear hats.
 Mhm.
@@ -142,16 +171,6 @@ Mhm.
 Right.
 And this is all AI, by the way, right?
 {ts:425} This is There's no stitch clips, nothing.
-
-[…]
-
-And this is all AI, by the way, right?
-{ts:425} This is There's no stitch clips, nothing.
-Like, this is pure AI.
-No, I don't like doing stitches.
-
-[…]
-
 Like, this is pure AI.
 No, I don't like doing stitches.
 {ts:430} Right.
@@ -159,6 +178,25 @@ So, um
 {ts:434} I got success from those videos on Tik Tok.
 And also, like from this kind of video.
 {ts:440} This was me 90 days ago, before using this red therapy hat.
+
+[…]
+
+{ts:419} That way, like construction, USPS.
+Right.
+And this is all AI, by the way, right?
+{ts:425} This is There's no stitch clips, nothing.
+Like, this is pure AI.
+No, I don't like doing stitches.
+{ts:430} Right.
+So, um
+{ts:434} I got success from those videos on Tik Tok.
+And also, like from this kind of video.
+{ts:440} This was me 90 days ago, before using this red therapy hat.
+This was my first day you
+{ts:446} Just like that.
+Just Those work on on on on Tik Tok, but I was like, I need to get
+{ts:455} more views on Instagram, Facebook.
+That's where you print.
 
 […]
 
@@ -212,6 +250,7 @@ It was insane.
 {ts:604} It was like at 1K per mil.
 1K per mil like this concept.
 Got it.
+Yeah.
 
 […]
 
@@ -535,10 +574,14 @@ Um only one that we tried didn't work.
 
 […]
 
-{ts:1472} what's your what's your favorite part about FSC?
+{ts:1465} I made like $500 already.
+Oh, yeah.
+It's working, bro.
 
 […]
 
+I wanted to ask you too, Omar, like
+{ts:1472} what's your what's your favorite part about FSC?
 Like is it the community, the sauce?
 I mean, obviously the sauce is is
 {ts:1477} definitely up there, but what's what what would you say is like the the the best part about being in
@@ -579,6 +622,11 @@ Um so talk about like how Organic is for you now compared to, you know, those la
 
 […]
 
+No. I still got the chargebacks and I
+{ts:1608} couldn't put like um like tracking numbers, couldn't put
+
+[…]
+
 So, you actually like lost a lot of money in that.
 Yeah, on on the ropes, yeah.
 {ts:1621} God damn.
@@ -590,6 +638,22 @@ You're just
 Yeah, like you have like the perfect like drop shipping background.
 Like I
 {ts:1637} see it behind you, I don't need um I'm going to go to collecting dust now.
+
+[…]
+
+I also like
+{ts:1656} my fiance works, so after she got out of work, I'm recording with her.
+Um she helps me all this stuff.
+Like
+{ts:1664} with couple products, she used to help me.
+I used to do like the round two Target concepts, but I record it.
+I
+{ts:1671} don't do like stitch clips.
+
+[…]
+
+I just left and went to
+{ts:1725} Target and did the concepts there.
 
 […]
 
@@ -627,6 +691,11 @@ Um
 
 […]
 
+Tell us what your
+{ts:1771} goals, you know, maybe going into Q4, by the end of the year, right?
+
+[…]
+
 {ts:1801} Um I also like I want to have like good amount of money at um in December.
 {ts:1810} That way I can switch to ads.
 Yeah.
@@ -641,6 +710,13 @@ That way it could feel like the ads is
 
 […]
 
+{ts:1819} the side.
+I want to have the money and still do organic and still making money.
+That way it could feel like the ads is
+{ts:1825} free, you know?
+Right.
+Right.
+Right.
 Like the ads is free, so I want to do
 {ts:1829} that and then make my brand.
 
@@ -659,6 +735,22 @@ You know, save your money and invest it in something that's going to make you mo
 Yeah.
 Cuz with even paid paid ads bro, it's
 {ts:1879} like you're just adding more gas into the fire and so you could be putting a dollar in and getting three back.
+
+[…]
+
+{ts:1968} Yeah, that's my That's my goal.
+And I want to hit like a I want to hit like a half
+{ts:1974} like 500k in December, November.
+Dude.
+it's possible now with
+{ts:1979} it is, bro. with AI, all this stuff.
+Yeah.
+{ts:1983} it's possible, bro.
+Dude, Q4 is like double XP, dude.
+Like everything just amplifies and
+{ts:1988} technically this is still kind of slow season, so you know, I'm just kind of waiting for
+{ts:1992} Q4, bro.
+It's going to get crazy, you know.
 
 […]
 

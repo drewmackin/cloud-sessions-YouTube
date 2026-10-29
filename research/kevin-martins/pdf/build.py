@@ -14,7 +14,8 @@ Prompt cards come from prompts.json and are never retyped:
 The build stops if any phrase can't be found exactly.
 
 Inline quotes in sections can be verified the same way with {{q:VIDEO|start|end}}, which renders the
-exact caption text plus a timestamp link.
+exact caption text plus a timestamp link. {{w:KEY|start|end}} does the same for a web page kept in
+corpus/web/<KEY>.md (page text as Perplexity returned it), and {{websources}} lists the pages quoted.
 """
 from __future__ import annotations
 
@@ -37,6 +38,9 @@ TS = re.compile(r"\{ts:(\d+(?:\.\d+)?)\}")
 GAP = "\n[…]\n"
 DOC_RE = re.compile(r"\{\{d:([\w-]+)\|(.+?)\}\}")
 QUOTE_RE = re.compile(r"\{\{q:([\w-]{11})\|(.+?)\|(.+?)\}\}")
+WEB_RE = re.compile(r"\{\{w:([\w-]+)\|(.+?)\|(.+?)\}\}")
+META_RE = re.compile(r"\{\{m:([\w-]{11})\|(.+?)\}\}")
+WEB = CORPUS / "web"
 _windows: dict[str, list[str]] = {}
 
 
@@ -98,6 +102,61 @@ def cut(video: str, start: str, end: str) -> tuple[str, int, bool]:
     sys.exit(f"[{video}] not found inside one caption window: {start!r} … {end!r}")
 
 
+def web_page(key: str) -> tuple[str, str, list[str]]:
+    """(url, title, windows) of a machine-extracted web page."""
+    path = WEB / f"{key}.md"
+    if not path.is_file():
+        sys.exit(f"missing web corpus file {path}")
+    head, body = path.read_text(encoding="utf-8").split("\n---\n", 1)
+    url = re.search(r"^- URL: (\S+)", head, re.M).group(1)
+    return url, head.splitlines()[0].lstrip("# ").strip(), body.split(GAP)
+
+
+def cut_web(key: str, start: str, end: str) -> str:
+    """Exact page text from `start` through `end` inside one window (word-for-word, whitespace-normalised)."""
+    s_words, e_words = [norm(w) for w in start.split()], [norm(w) for w in end.split()]
+    for window in web_page(key)[2]:
+        words = window.split()
+        normed = [norm(w) for w in words]
+        for i in range(len(words) - len(s_words) + 1):
+            if normed[i:i + len(s_words)] != s_words:
+                continue
+            for j in range(i, len(words) - len(e_words) + 1):
+                if normed[j:j + len(e_words)] == e_words:
+                    return " ".join(words[i:j + len(e_words)]).lstrip(QUOTES).rstrip(QUOTES)
+    sys.exit(f"[web {key}] not found inside one page window: {start!r} … {end!r}")
+
+
+def web_quote(m: re.Match) -> str:
+    key, start, end = m.groups()
+    url, _, _ = web_page(key)
+    host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+    return f'“{html.escape(cut_web(key, start, end))}” <span class="src">(<a href="{html.escape(url)}">{host}</a>)</span>'
+
+
+def meta_check(video: str, phrase: str) -> None:
+    """A phrase from a video's description/header, as Perplexity returned it (corpus/meta/<video>.txt)."""
+    path = CORPUS / "meta" / f"{video}.txt"
+    if not path.is_file() or " ".join(phrase.split()) not in " ".join(path.read_text(encoding="utf-8").split()):
+        sys.exit(f"[meta {video}] phrase not found verbatim: {phrase!r}")
+
+
+def meta_quote(m: re.Match) -> str:
+    video, phrase = m.groups()
+    meta_check(video, phrase)
+    return (f'“{html.escape(phrase)}” <span class="src">(<a href="https://www.youtube.com/watch?v={video}">'
+            f'video description</a>)</span>')
+
+
+def web_sources(text: str) -> str:
+    keys = sorted({m.group(1) for m in WEB_RE.finditer(text)})
+    rows = ["| Page | Link |", "|---|---|"]
+    for k in keys:
+        url, title, _ = web_page(k)
+        rows.append(f"| {title.replace('|', '/')} | [{re.sub(r'^https?://(www[.])?', '', url)[:60]}]({url}) |")
+    return "\n".join(rows) if keys else ""
+
+
 def link(video: str, stamp: int, exact: bool) -> str:
     if not exact and stamp == 0:
         return f'<a href="https://www.youtube.com/watch?v={video}">time not in caption excerpt</a>'
@@ -135,7 +194,7 @@ def render_cards() -> dict[str, str]:
             kind = "spoken; exact YouTube caption text"
         for key in ("when", "where", "what", "note", "speaker"):
             if c.get(key):
-                c[key] = QUOTE_RE.sub(inline_quote, c[key])
+                c[key] = META_RE.sub(meta_quote, WEB_RE.sub(web_quote, QUOTE_RE.sub(inline_quote, c[key])))
         rows = "".join(
             f'<div class="pc-row"><span class="pc-k">{label}</span><span class="pc-v">{c[key]}</span></div>'
             for label, key in [("When", "when"), ("Where", "where"), ("What it does", "what")] if c.get(key))
@@ -204,9 +263,12 @@ def build() -> None:
 
         body = re.sub(r"\{\{card:([\w-]+)\}\}", card, body)
         body = body.replace("{{sources}}", sources_table(all_text))
+        body = body.replace("{{websources}}", web_sources(all_text))
         body = body.replace("{{nquoted}}", str(len({m.group(1) for m in QUOTE_RE.finditer(all_text)}
                                                     | {c["video"] for c in json.loads((HERE / "prompts.json").read_text()) if c.get("video")})))
         body = QUOTE_RE.sub(inline_quote, body)
+        body = WEB_RE.sub(web_quote, body)
+        body = META_RE.sub(meta_quote, body)
         body = DOC_RE.sub(doc_quote, body)
         rendered = markdown.markdown(body, extensions=["tables", "fenced_code", "attr_list", "md_in_html", "sane_lists"])
         header = ""

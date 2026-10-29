@@ -1,7 +1,7 @@
 # $30k/Month With Organic Dropshipping (Product Leaked)
 
 - URL: https://www.youtube.com/watch?v=N0l2H4-_anA
-- Windows: 37 (first timestamps 10s … 2191s)
+- Windows: 45 (first timestamps 0s … 2191s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,14 +19,14 @@ Metadata lines seen:
   And like I was just I was putting like six upsells, bro, on the website.
 
 ---
-He told me to put four upselles, bro.
-
-[…]
-
 This is the first IRL FS.
 
 […]
 
+{ts:0} YouTube, what is good?
+Welcome back to another video.
+That was my attempt on
+{ts:4} doing like a cool YouTube intro, but you guys get the gist.
 This one's going to be a little bit different just because
 {ts:10} this is an interactive live case study with my student Pedro.
 He flew into Miami.
@@ -41,6 +41,7 @@ So, you guys are going to be able to see the chat as well as Pedro's handsome li
 
 […]
 
+{ts:40} But yeah, man.
 Crazy ass case study.
 Uh, we did run this actually a couple of months back, but we never leaked the
 {ts:46} product.
@@ -86,9 +87,26 @@ Uh about like 30k 30k rev.
 And the profit was really insane just because of
 {ts:201} the AOV methods we had.
 So we had some crazy AOV methods.
-
-[…]
-
+Like I hit up Kevin to see how we could like
+{ts:207} maximize everything.
+And like I was just I was putting like six upsells, bro, on the website.
+{ts:212} I remember that.
+Yeah.
+That was when we first started too.
+{ts:215} When we first started and like six upsells, it was just too much.
+Like people were clicking off.
+Like people
+{ts:220} weren't even buying.
+And then I texted Kevin.
+I'm like, "Yo, like I'm getting mad sessions.
+No sales, bro."
+He's like,
+{ts:225} "Yo, like have you seen how many like upsells you have, bro?
+Like nobody's going to like uncheck all of these and
+{ts:231} like scroll."
+Yeah.
+He told me to put four upselles, bro.
+I
 {ts:234} put four upsells and these are upsells that already came with the camera.
 So, I was just charging them like money, but
 {ts:241} this [ __ ] was free.
@@ -96,15 +114,19 @@ The method.
 That was the method.
 So, like my minimum order was like $127.
 {ts:246} I had the best price of supplying it um for like $30 down to like $25.
+So, like think about that,
+{ts:253} bro.
 
 […]
 
+Bro, I I want to say I don't want to just throw a number out there, but like total rev that POV camp made
 {ts:263} like Q4 and preQ4, probably close to a mill, bro.
 And you know what's crazy?
 I was so late
 {ts:268} to it.
 I was I was on the last month of Q4 and I was able to squeeze out 30K cuz you started seeing people running it and
 {ts:274} I was like, "Bro, get on this."
+Then I sent you it on the product sheet and I'm so bad with PR sheets, bro.
 
 […]
 
@@ -165,6 +187,11 @@ Like everybody has their
 
 It was like
 {ts:490} four people in full stack, bro.
+Yeah.
+What do you What do you think was like
+{ts:494} the biggest like shift from you making like, you know, your first dollar to then like going up to 25K?
+Cuz obviously
+{ts:501} like I know you pioneered that angle.
 
 […]
 
@@ -178,6 +205,22 @@ Like
 {ts:507} just going all in on 100%, bro.
 And it it just it it puts that weight on you, you know, like you're not working
 {ts:514} anymore, bro.
+You don't have that little consistent paycheck coming in.
+Like you dad
+{ts:519} Best Buy.
+So, I worked at Ro Bros, Best Buy.
+I was at 12 years old, I was working with my dad, like doing
+{ts:525} carpentry.
+
+[…]
+
+Like I went when there
+{ts:630} was school because I wanted to and I can, you know?
+Yo, shout out organic, bro.
+{ts:636} Shout out organic.
+Shout out Full Stack.
+Shout out Kevin.
+Like seriously, bro.
 
 […]
 
@@ -244,6 +287,19 @@ Couple weeks ago, guys, I was dead ass on the like on the edge,
 
 […]
 
+Couple weeks ago, guys, I was dead ass on the like on the edge,
+{ts:804} bro.
+On the verge.
+I was about to be like, damn.
+like I'm about to quit organic and just like do Tik Tok shop or
+{ts:809} paid ads or something.
+But then I remembered, bro, like all this progress, like all this and I'm going just let it
+{ts:817} go, bro.
+Like, so I just remembered like, bro, I just got to keep going.
+You know, the consistency is what matters.
+
+[…]
+
 {ts:809} paid ads or something.
 But then I remembered, bro, like all this progress, like all this and I'm going just let it
 {ts:817} go, bro.
@@ -275,6 +331,12 @@ All
 
 […]
 
+{ts:980} Yo, guys, ask uh ask Pedro some questions, bro.
+Kevin, did you know that Pedro speaks
+{ts:987} French?
+
+[…]
+
 Yeah.
 So, book your calls.
 Learn from me.
@@ -287,6 +349,24 @@ My targeting wasn't fried.
 
 […]
 
+{ts:1143} What were some other things holding back conversions when you were viral?
+So, I mean, was
+{ts:1149} your targeting was your targeting fried?
+My targeting?
+Not really.
+My targeting wasn't fried.
+Um,
+
+[…]
+
+I ripped it from a Spanish
+{ts:1182} dude.
+So his his account was my ice roll on my fro roll.
+I c bro.
+You know what I did?
+I took a screenshot of his logo.
+I
+{ts:1191} told AI to make the same logo but for my fro roll.
 No. And then by whatever I started
 {ts:1197} posting, bro, one video, my most viral video hit 16 million views.
 One video only hit 16 million.
@@ -294,6 +374,23 @@ One video only hit 16 million.
 Every every video 100k every video.
 And this was a product that was super low
 {ts:1211} converting, but I went so viral that the money is the account still up.
+I'll look it
+{ts:1215} up.
+I think it's it's gone.
+But um if you search up on Google My Fro Walmart
+{ts:1220} actually used my brand's name to sell that product. really.
+
+[…]
+
+Yeah, it wasn't.
+What were the conversions on that?
+{ts:1265} Um, bro, it was like 0 point something.
+Like I was dead getting 6K sessions a day and like I think my highest day, I
+{ts:1274} mean it it was before the snapsh hit my highest day yet.
+My I had hit like a 600 day with it.
+$600 day, but the total rev
+{ts:1283} was 15K.
+It was 10K in one month and then 15K in two months.
 
 […]
 
@@ -317,11 +414,115 @@ Remember the mini helmet?
 {ts:1314} Helmet, bro.
 So, I actually made a good amount of money with the helmets.
 {ts:1318} Thank you, Omar.
+I It was like It was super hard to source.
+I only sourced the small ones.
+I
+{ts:1324} wasn't able to source that.
+But it wasn't even that, too.
+It was the [ __ ] cost of goods,
+{ts:1327} bro.
+Oh, yeah.
+Oh, yeah.
+The cost way too much.
+I was going to like sell it for $200 to source it for 90.
+It just
+{ts:1334} wasn't worth it.
+Um, but it was such a good product and it was such a good account.
+Um, I went viral with the F1
+{ts:1341} rugs.
+I got some sales off that, too.
+Got some sales off the helmets.
+Um, I did blankets, too.
+I I started doing
+{ts:1348} just one [ __ ] Oh, yeah.
+The bracelets.
+That's some [ __ ] that was like, you told me that could be branded.
+And like,
+{ts:1354} yeah, we're like car brace, but F1.
+Yeah, but F1.
+I got sales off of that, too.
 
 […]
 
+{ts:1360} It's insane, bro.
+And then you pivoted to uh AI.
+AI.
+Yeah.
+You were there at the
+
+[…]
+
+So I made a service business ad.
+No. So,
+{ts:1394} like I dead ass made a AI character for a esthetician brand and like
+{ts:1399} like a real one.
+Yeah, it was like local.
+Oh.
+{ts:1402} Um, but B2B, but yeah, it was just like it is that Claus.
+Nah, he called you
+{ts:1407} Klouse.
+Who's Clouse?
+I don't even know who Klouse is.
+No,
+{ts:1410} this is Pedro.
+AR.
+This is [ __ ] Pedro, guys.
+The the person you're seeing here is [ __ ] Pedro.
+{ts:1415} Yeah.
+CGI, though.
+Obviously, this is all AI.
+Welcome to Look, guys.
+{ts:1419} So, you can make anything AI.
+You can make a service business, too.
+Aesthetics where your self-esteem comes
+{ts:1427} first.
+
+[…]
+
+Like this is dead ass
+{ts:1444} the actual location.
+Like this is a real spot.
+But this is AI characters.
+So what' you try and do?
+Like sell it to
+{ts:1450} them?
+Yeah, you could sell this, bro.
+You could run ads locally and like just make
+{ts:1455} some side money, bro.
+Like this is dead ass.
+Just like what?
 {ts:1458} It's so quick to prompt, too.
 Is this the method?
+Yeah.
+{ts:1464} A lot of people aren't talking about it.
+I don't think anybody has done this is like SMMA but
+{ts:1468} Yeah, exactly.
+AI.
+Yeah.
+{ts:1470} Damn.
+
+[…]
+
+Just like what?
+{ts:1458} It's so quick to prompt, too.
+Is this the method?
+Yeah.
+{ts:1464} A lot of people aren't talking about it.
+I don't think anybody has done this is like SMMA but
+{ts:1468} Yeah, exactly.
+AI.
+Yeah.
+{ts:1470} Damn.
+But like, think about it.
+You do a package deal, like bunch of AI videos.
+{ts:1475} There's a lot of people that like there's a lot of businesses out there that like,
+{ts:1478} you know, you won't Yeah.
+You won't need a UGC creator anymore in that business.
+Bro, my buddy runs um a detailing
+{ts:1484} business about four hours away from here.
+I showed him how to do Higsfield.
+Yeah,
+{ts:1488} dude.
 
 […]
 
@@ -394,6 +595,37 @@ He pivoted a lot of product.
 
 […]
 
+You know I'm
+{ts:2020} a troll, but N, bro, you changed my life in many ways.
+{ts:2023} And like, like I was telling you, like Brazilian moms like they're hardhead, but like, bro, the return on investment
+{ts:2029} like back then 3K to me, holy [ __ ] guys.
+3K.
+I was telling Kevin, I'm like, "Yo,
+{ts:2034} you were what 17?"
+I was 17.
+Yeah.
+And you remember I had to pay 2K and then 1K after like because
+{ts:2040} I was you couldn't afford it.
+Yeah.
+I couldn't even afford it, bro.
+And I was it was like the biggest risk I've ever
+{ts:2045} took.
+I've never taken a bigger risk than this, guys.
+Like yeah, I had bought like reselling supplies like $500, $200,
+{ts:2053} but never a 3K investment, bro.
+And like I couldn't be more thankful for you, bro.
+You changed my life.
+Like I get to
+{ts:2060} help my mom with rent.
+Like I get to pay for food.
+All ecom.
+All ecom.
+None of this money
+{ts:2067} is from anything else other than ecom.
+W, bro.
+
+[…]
+
 You don't You don't know, bro.
 You know I'm
 {ts:2020} a troll, but N, bro, you changed my life in many ways.
@@ -421,6 +653,15 @@ Like I get to pay for food.
 All ecom.
 All ecom.
 None of this money
+
+[…]
+
+Call it.
+I'm telling you right now, 50 to 60K next month after I leave you.
+after I
+{ts:2110} leave here.
+This is like I'm done, bro.
+I'm done staying back.
 
 […]
 

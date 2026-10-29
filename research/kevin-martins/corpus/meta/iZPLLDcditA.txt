@@ -1,0 +1,5 @@
+   ## Smart Tech Studio
+##### Oct 25, 2026 (0:08:15)
+🎬 In this tutorial, I’m exploring **Kling 4.0 on Higgsfield** and showing you how to turn detailed text prompts into exciting AI-generated video scenes!
+In this video, you’ll see my workflow on Higgsfield, from preparing prompts and selecting generation settings to generating and reviewing three different 3D adventure scenes.
+...

@@ -53,13 +53,13 @@ shipping AI when AI first came around is now all in.
 
 […]
 
-There is concepts that
-convert 10K per mill just because it's Christmas, bro.
+Like I like I said in the beginning,
+new angles and bringing back old winners
 
 […]
 
-Like I like I said in the beginning,
-new angles and bringing back old winners
+There is concepts that
+convert 10K per mill just because it's Christmas, bro.
 
 […]
 

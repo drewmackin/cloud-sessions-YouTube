@@ -1,7 +1,7 @@
 # Este Método de IA me Imprime +100k€ este Q4 (Estrategia Completa)
 
 - URL: https://www.youtube.com/watch?v=CgK2knTP2GI
-- Windows: 11 (first timestamps 22s … 1208s)
+- Windows: 17 (first timestamps 22s … 1200s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -23,8 +23,22 @@ Metadata lines seen:
 
 […]
 
+{ts:97} minutes , so you don't have to be stuck with other methods , spending all your time making videos , videos , and more
+{ts:104} videos , and taking , maybe , hours . The second benefit is that you save a lot of time and can test more products at
+{ts:113} once , which is what I told you ; if with other AI methods it takes you hours to make 10 videos , with this method you
+{ts:120} can make 10 videos in just 20 to 30 minutes . I mean , it literally takes you absolutely no time at all . And that
+
+[…]
+
+{ts:167} investment , okay ? You have to keep in mind that anything related to improving the quality of your videos or doing
+{ts:174} things faster will always require more investment . This is something you must take into account with any artificial
+
+[…]
+
+{ts:224} before you had to be writing prompts , you had to be doing a lot of things , generating , right ?
 With this , we are
 {ts:230} going to automate the videos so they are made automatically , no prompts or anything , I mean , everything is done
+{ts:236} automatically . And the fourth is testing more products . Ultimately , the speed and efficiency of this method
 
 […]
 
@@ -75,6 +89,12 @@ For example ,
 
 […]
 
+So if you want to make five videos , you pick five backgrounds ; if you want to make eight , you pick eight
+{ts:793} backgrounds ; if you want to make two of that format , you make two . Okay ? It is always important that every time you
+{ts:800} are going to make a video format , you open a new chat to follow this step-by-step process , but don't mix it
+
+[…]
+
 {ts:834} repeated information and that's it . So , use the Real Replicator skill , which is the one we sent at the beginning , to
 {ts:845} allow you to replace my avatar from image one that I sent you with the color variant from image two . And then
 {ts:857} do all the frames five times .
@@ -92,10 +112,41 @@ Once you send it everything , we go to the next step , and
 
 […]
 
+{ts:923} other images , okay ? All the remaining images . The next step , once it gives us all the images , is that I connect Miro .
+{ts:933} Miro is literally what I'm showing with this app , which is like a board , and I tell it , " Can you put all these images
+
+[…]
+
+{ts:992} , once you have the images , I mean , all the ones you are going to use to generate the videos , what we are going
+{ts:1000} to do is organize them like this , okay ? We are going to put , first we are going to divide the hooks for each video . If
+
+[…]
+
+{ts:1049} want for the hook , okay ? Then we are going to get the b-roll , also specify the seconds here , and the b-roll would
+
+[…]
+
+{ts:1134} section of the video you need to make here . What you're going to have to do for the b-roll is basically specify .
 {ts:1141} You do it yourselves , you don't even need a prompt or anything . Specify more or less the action that will be in each
 {ts:1146} clip .
 
 […]
 
+{ts:1200} clarity and that's it . We're finishing up now , so let's get to it . Once you've done all that step-by-step , what we're
 {ts:1208} going to have to do is literally take a screenshot of this .
 I mean , you have the hook , the b-roll , the prompt , and
+{ts:1212} everything . So , for example , take a screenshot here , there it is , a screenshot of all this so they can see
+{ts:1218} the text and the images you've decided to choose .
+And then you send them the competitor's video again that you sent
+{ts:1225} at the beginning to give them more clarity . So , you put this same identical text in ; there is no need to
+{ts:1231} change anything . Which says , " Okay , now I have selected all the images I want and I have described the action I want
+{ts:1238} for each clip . Even the hook already has a prompt . So , now I want you to generate all the videos , making a
+{ts:1246} different clip for each video to get the best results . And I have sent you the reel again so you know exactly how
+{ts:1254} to do it .
+" Once you send this , the magic happens , guys . And that is that we would have all the videos generated
+{ts:1263} in a matter of 20 minutes , literally . I took a little longer because I was explaining it in more depth , but you
+{ts:1270} will take nothing , just minutes .
+So , we would already have a matter of 5 , 7 , 8 , 10 videos , whatever you want , in a
+{ts:1277} matter of 20 minutes , okay ? As it says here , look down below , it says it has already generated the 25 clips . When
+{ts:1285} you click on this little arrow , all the others will appear , and we would have everything done . It would simply be a
+{ts:1291} matter of editing and posting . We would have already made a ton of videos in a matter of only minutes . So , if you want

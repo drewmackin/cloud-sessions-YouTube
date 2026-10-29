@@ -1,7 +1,7 @@
-# "healthmaxxing" is the fastest way to $35k/mo with AI organic dropshipping
+# "healthmaxxing" is the fastest way to $35k/mo with AI organic ...
 
 - URL: https://www.youtube.com/watch?v=OTRP8hk1wr4
-- Windows: 34 (first timestamps 0s … 1128s)
+- Windows: 35 (first timestamps 0s … 1128s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -42,6 +42,16 @@ And
 {ts:36} the basis of this video is to teach you how you're going to be able to do this with AI organic drop shipping where
 {ts:40} you're not having to record for videos, show your face, and keep anywhere from 50 to 70% profit margins, just like
 {ts:46} Omar.
+
+[…]
+
+But he's been hitting some crazy orders as well with this health product.
+All right.
+And
+{ts:36} the basis of this video is to teach you how you're going to be able to do this with AI organic drop shipping where
+{ts:40} you're not having to record for videos, show your face, and keep anywhere from 50 to 70% profit margins, just like
+{ts:46} Omar.
+So, let's go ahead and go over health products first.
 
 […]
 
@@ -502,11 +512,12 @@ We want to make sure that we're profiting a
 {ts:1066} minimum of 50%.
 Uh, finding products that are under $100 to, you know, actually convert.
 And then we also went
+{ts:1073} through the research and how to build your ideal customer profile using this clock prompt that I provided you guys in
 
 […]
 
-And then we also went
-{ts:1073} through the research and how to build your ideal customer profile using this clock prompt that I provided you guys in
+If we take a look inside the win section of Full Stack Ecom, which is my one-on-one mentorship,
+{ts:1093} let me just show you what we've been doing these last couple of days, not weeks, not months, but days.
 
 […]
 

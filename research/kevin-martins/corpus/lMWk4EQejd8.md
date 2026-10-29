@@ -18,3 +18,4 @@ Metadata lines seen:
 ---
 {ts:0} Today we will build a profitable dropshipping store with the help of AI ,
 {ts:3} and I will teach you everything like product research , website creation , and Meta ads . Along with explaining , I will
+{ts:9} demonstrate all these things live , step by step , so that by following this video , you can create your own

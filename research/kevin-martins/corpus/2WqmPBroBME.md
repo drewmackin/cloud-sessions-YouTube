@@ -1,27 +1,43 @@
 # My 3 Month Organic Dropshipping Journey
 
 - URL: https://www.youtube.com/watch?v=2WqmPBroBME
-- Windows: 10 (first timestamps 0s … 724s)
+- Windows: 11 (first timestamps 0s … 912s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Aug 16, 2024 (0:16:17)
   ...
+  Add my Discord: organicdemon.
   Date: 2024-08-16
+  Follow me on IG: @Kevin_Martins_
   My 3 Month Organic Dropshipping Journey
   This is my first video on this channel so let me know what type of content you guys would like to see from me next.
   {ts:0} two weeks we made over $112,000 and sales are still coming into
   {ts:11} um my name is Kevin I do organic Tik Tok Drop Shipping and this is honestly the first video there's going to be no Cuts
   {ts:811} like uh definitely kind of try the machine gun method just be a absolute machine gun in terms of just trying out
   {ts:816} products I'd say kind of order three to four products a month and just test test test you know just kind of test your ass
-  {ts:822} off see what works and honestly just get good at content creation I think that's the number one thing it's just getting
-  {ts:848} want it to so I would say find a product that's easily marketable right and just test it even if you're not making any
 
 ---
 {ts:0} two weeks we made over $112,000 and sales are still coming into
 {ts:4} this day all right what's going on YouTube This is my first video on this channel
 {ts:11} um my name is Kevin I do organic Tik Tok Drop Shipping and this is honestly the first video there's going to be no Cuts
+{ts:19} just raw content nothing crazy no insane edits um but I basically just wanted to hop on and essentially just kind of
+{ts:27} start sharing my journey when it comes to take talk organic Drop Shipping um I've been only doing this for about 3
+{ts:34} months and honestly I've already been seeing a lot of success and I just genuinely wanted to share this um to the
+{ts:42} public um I feel it was just time for me to just put you guys on some real sauce and like not even
+{ts:48} like I don't know I feel like there's a lot of fluff work out there nowadays in this industry there's a lot of [ __ ]
+{ts:53} that's just not true there's a lot of [ __ ] that people want to sell to you that you realistically don't even need
+{ts:58} to pay for and I'm just here to just drop straight value to you guys I'm not even like on some Guru type [ __ ] like
+{ts:65} it's this is literally just straight value that I'm trying to drop to you guys um a little bit more about me like
+{ts:71} I said I did start Tik Tok organic Drop Shipping about three months ago um and I've just been going all in like I do
+{ts:80} this full-time this is my full-time job um I don't do anything else but organic um in the past I did work at 95 for
+{ts:88} about 2 and a half years I used to be a personal trainer at a gym and obviously like I don't do that anymore uh because
+{ts:96} again I do have a dream that I want to fulfill and a lot of different goals and uh that really just can't happen with
+{ts:103} the 9 to5 so I did get into this business model about 3 months ago I stumbled upon it on YouTube um I did try
+{ts:109} it in the past like I think we all tried Drop Shipping in the past I was probably like in high school like a freshman in
+{ts:115} high school I'm 22 now uh just for context and I mean I tried it and it was terrible I didn't make a single dollar I
+{ts:123} probably ran it for about a week and it was I was literally just trying to do like Instagram like paid ads you know
 
 […]
 
@@ -115,3 +131,17 @@ Metadata lines seen:
 {ts:950} like that's the whole purpose of this channel is to just provide value to you guys um so if you guys have any video
 {ts:955} ideas you want me to do or anything you guys want to talk about in the next video just let me know and I will make
 {ts:960} it uh but yeah I'm going to be dropping all my socials in the the description below uh I'm going to be dropping my my
+
+[…]
+
+{ts:912} right this isn't any fake [ __ ] over 48,000 sessions terrible conversion rate but again 12K in sales right here guys
+{ts:922} all right guys so this is going to be the end of the video I want to keep it nice and sweet hopefully it's not too
+{ts:926} long when I chop it up uh but again this is the first video on the channel again this channel will be mostly Ecom mindset
+{ts:932} stuff so if you guys did enjoy today's video drop a sub like add a comment you know ask me any questions in the comment
+{ts:938} section below I will try to answer every actually what am I saying I will answer every single comment and um I'm also
+{ts:944} going to try and upload like a minimum of like once a week and again just provide you guys just straight value
+{ts:950} like that's the whole purpose of this channel is to just provide value to you guys um so if you guys have any video
+{ts:955} ideas you want me to do or anything you guys want to talk about in the next video just let me know and I will make
+{ts:960} it uh but yeah I'm going to be dropping all my socials in the the description below uh I'm going to be dropping my my
+{ts:965} Instagram my Discord and stuff like that so if you guys are interested follow me on Instagram add me up on Discord and we
+{ts:971} can chat and uh yeah guys this is your boy Kevin and I hope you guys did enjoy today's video peace out yo

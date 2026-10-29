@@ -1,0 +1,21 @@
+   ## The AI Hustle
+##### Sep 05, 2026 (0:06:55)
+✅Try ElevenLabs AI Talking Avatar: https://try.elevenlabs.io/The-AI-Hustle
+Create cinematic AI video ads with ElevenLabs Flow and Seedance 2.5!
+In this tutorial, I’ll show you my complete ElevenLabs workflow for creating professional AI product ads.
+Learn how to use ElevenLabs AI video generator and Seedance 2.5 to turn an idea into a cinematic product advertisement.
+We’ll build an AI video workflow, generate visuals, create video shots, and combine everything into a polished AI product ad video.
+...
+⏱️ Timestamps
+00:00 Create Cinematic AI Ads with ElevenLabs Flow
+00:24 ElevenLabs Flow Workflow Setup
+00:58 Generate Luxury Product Images with GPT Image 2
+01:34 Generate AI Model Images & Upscale to 4K
+01:58 Create Cinematic Ad Shots with AI
+03:18 Generate Videos with Seedance 2.5
+03:56 Combine AI Video Shots in Flow
+04:14 Add AI Voiceover with ElevenLabs
+05:01 Generate Background Music with AI
+05:21 Final AI Product Ad & 4K Upscaling
+05:55 Final Cinematic AI Ad
+06:30 Final Result & Workflow Breakdown

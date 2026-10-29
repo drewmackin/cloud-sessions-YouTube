@@ -1,0 +1,27 @@
+   ## LABS
+##### Oct 26, 2026 (0:11:59)
+03:27 Criando anúncios com Kling 4.0
+03:38 Kling 4.0 vs. Seedance 2.5
+...
+00:00 Como vender no TikTok Shop usando IA
+00:59 Encontrando produtos que já vendem
+01:53 Analisando anúncios com ChatGPT
+02:12 Criando uma influenciadora virtual
+02:30 Transformando vídeos em prompts
+04:18 Configurando o primeiro anúncio
+05:08 Biblioteca de prompts para TikTok Shop
+05:39 Substituindo personagens e produtos
+06:54 Corrigindo erros na geração
+07:47 Resultado final dos anúncios
+08:19 Automatizando 30 vídeos com IA
+08:52 Conectando Claude ao Higgsfield
+09:14 Criando anúncios em escala
+10:49 Nove vídeos gerados com um prompt
+   04:18 Configurando o primeiro anúncio
+Instead of you
+{ts:116} analyzing the video , trying to figure out which prompt you’re going to use , we’ll let GPT itself do it . I’ll
+{ts:123} open ChatGPT here and upload that video we just downloaded along with the product photo . It can be in the cloud
+{ts:129} too , but I want to swap the person in the ad . So I'll go into Hickfield , create an AI character , and send it
+{ts:136} here to ChatGPT . You can even create it here in ChatGPT , but I prefer Hickfield because everything stays there .
+The
+{ts:149} video , but we need GPT to analyze this whole video , the movements , the people , the camera , how this person presents

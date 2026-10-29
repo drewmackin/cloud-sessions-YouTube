@@ -1,0 +1,10 @@
+   ## Miriah Peterson
+##### Apr 25, 2025 (2:01:05)
+Today’s stream is a mix of content creation and live DevOps work!
+First, we’re recording the talking head segment for the Pedro unboxing video—wrapping up the story behind the setup of my local LLM rig.
+Then, we’re switching gears to focus on deploying Pedro, the Discord bot, to Kubernetes for production-grade self-hosting.
+Expect commentary, container configs, cluster debugging, and plenty of AI bot shenanigans.
+...
+XX:XX – Kubernetes setup for Pedro
+XX:XX – Discord bot deployment and testing
+XX:XX – Post-deploy testing + wrap-up

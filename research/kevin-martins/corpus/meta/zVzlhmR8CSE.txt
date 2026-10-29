@@ -1,0 +1,8 @@
+   ## Olly Rosewell
+##### Oct 26, 2026 (0:25:45)
+Kling 4.0 is the AI video generator that shoots up to 30 seconds in one clip, and you can steer it with keyframes, references and edits.
+🎉 In this video, I connect Higgsfield to Claude Opus 5.5 and build 3 B2B SaaS landing pages where every hero section is a 30 second film made with Kling 4.0: a funding data API in a watercolour garden, an API monitoring tool in the deep sea, and an invoice chaser in claymation.
+Kling 4.0 shoots up to 30 seconds in a single clip, twice the 15 second limit of Kling 3.0.
+On Higgsfield you get References, Frames and Edit video in one place, and you see the credit cost on the Generate button before you commit.
+We plan every shot first, then check if the AI filmmaking actually hit its marks.
+...

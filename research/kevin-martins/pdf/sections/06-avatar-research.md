@@ -35,4 +35,4 @@ subtitle: Two meanings, one system. The customer avatar (ICP) decides the AI ava
 
 {{q:b3xKO_MABXg|creation process, even what your avatar is wearing,|you can split test it.}} Gus split-tested setting and avatar age as separate variables until one stuck, and Ivan built niche-research “prompt structures” in Claude (and Kimi) and found rooms on Pinterest.
 
-<div class="warn"><b>The line Kevin draws himself:</b> {{q:hK2Os3wSPI8|we don't want to impersonate a real human being.|That's how you get sued.}} Their look-alike method still starts from a real person's Pinterest photo. “Similar facial features” is a judgement call, not a legal safe harbor (see section 7, risks).</div>
+<div class="warn"><b>The line Kevin draws himself:</b> {{q:hK2Os3wSPI8|we don't want to impersonate a real human being.|That's how you get sued.}} Their look-alike method still starts from a real person's Pinterest photo. “Similar facial features” is a judgement call, not a legal safe harbor (see section 7B, risks).</div>

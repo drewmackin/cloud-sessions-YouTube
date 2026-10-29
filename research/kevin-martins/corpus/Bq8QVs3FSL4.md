@@ -1,7 +1,7 @@
 # We made 800k In AI Organic Dropshipping… Here’s how Masterclass Pt 2
 
 - URL: https://www.youtube.com/watch?v=Bq8QVs3FSL4
-- Windows: 12 (first timestamps 180s … 3525s)
+- Windows: 15 (first timestamps 180s … 3638s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -17,12 +17,33 @@ You can either one like test the product a little bit where for
 
 […]
 
-I keep split testing this run the store.
+You can either split test that product to like go to
+{ts:180} that or you can kind of step outside of the entire like of the entire niche and go like more trucks.
 
 […]
 
-You can either split test that product to like go to
-{ts:180} that or you can kind of step outside of the entire like of the entire niche and go like more trucks.
+So the biggest thing that I want everybody in here to understand is that um especially
+{ts:841} if you understand not only organic because the biggest key factor is having the skill of organic being able to
+{ts:847} understand like it's not just you know running products in organic but being able to go viral with anything like I
+
+[…]
+
+If everybody
+{ts:942} I know for a fact is going to hop on doing 321, I'm going to do run to IKEA. is just being able to understand
+{ts:947} situational awareness and being able to hop on a product.
+And not only hop on a product, but the biggest thing with
+{ts:952} hopping on a product is being able to hop on and understand market awareness, situational awareness, and also product
+{ts:958} awareness of what type of content would do work with that product, especially for Channing.
+
+[…]
+
+I keep split testing this run the store.
+And then the next day, I'll start adding
+{ts:1488} like the 321s and like the gift given in the new concept.
+See if those perform.
+If those perform, I'll keep doubling
+{ts:1494} down.
+If they don't perform in like the second to third day, I just spam around stores literally every single day.
 
 […]
 
@@ -81,3 +102,9 @@ They went
 
 Hit a 60k a week or
 {ts:3525} 50k a week.
+
+[…]
+
+Like, it's really no like a lot of guys in here is probably not even skill
+{ts:3638} issue.
+It's just a mindset thing.

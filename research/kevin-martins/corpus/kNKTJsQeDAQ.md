@@ -226,6 +226,7 @@ So yeah, we were able to literally
 
 And bro, we were literally able to create it out of thin
 {ts:1000} air using our ideal avatar to target this Muslim jewelry, right?
+This is like a piece of Muslim jewelry right here.
 
 […]
 

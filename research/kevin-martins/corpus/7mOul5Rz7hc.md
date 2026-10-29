@@ -1,7 +1,7 @@
 # The Secret to Finding Untapped Organic Dropshipping Products
 
 - URL: https://www.youtube.com/watch?v=7mOul5Rz7hc
-- Windows: 8 (first timestamps 10s … 241s)
+- Windows: 10 (first timestamps 10s … 241s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -13,13 +13,14 @@ Metadata lines seen:
   https://discord.gg/FnkdxxHPc
 
 ---
-They think, "Okay, I need to bring something
-
-[…]
-
 First level, a beginner, he thinks, "Okay, I'm going to run this."
 Second level, they think,
 {ts:10} "How can I bring another version?"
+
+[…]
+
+And in today's video, I'm going to explain
+{ts:21} to you how you are going to be different.
 
 […]
 
@@ -61,12 +62,56 @@ You think outside of the box and what not thousands of other people think.
 
 […]
 
+So, what do we do?
+We think outside of the box.
+Instead of
+{ts:95} bringing a dog product or a cat product, a variation of this dog product we saw on the burner,
+{ts:102} we think instead of a toy for cats, a toy for kids instead.
+A toy for something else.
+You need to think
+{ts:110} outside of the box instead of thinking like every single drop shipper out there.
+And having experience is going to
+{ts:118} be your best friend here.
+If you've been in the game for a long time, you're going to understand what audiences
+{ts:123} convert.
+I'm not saying you know every single audience, but I'm saying mostly in general, you know what audience
+{ts:130} converts.
+Meaning, when you see a product, you think of a bunch of audiences from
+{ts:136} the past experience you've had that you could bring a similar product off to maybe a Harry Potter niche, to a
+{ts:144} Stranger Things niche.
+You think outside of the box and what not thousands of other people think.
+A perfect example
+{ts:151} would be this car product, which is a display you put on the wall.
+
+[…]
+
 First level, a beginner, he thinks, "Okay, I'm going to run
 {ts:165} this."
 Second level, they think, "How can I bring another version?
 What can I bring into the market which is different
 {ts:173} from this?"
 They bring another car.
+
+[…]
+
+They think, "Okay, I need to bring something
+{ts:180} completely new, but in the same type of niche and audience."
+
+[…]
+
+The people who think outside of the box do, they think, "I need to
+{ts:197} bring something completely different but has same characteristics as these products I see, which is the car display
+{ts:205} you put on the wall.
+Or it could be that I need to bring something very specific."
+And this is shown by a guy
+{ts:212} who brought a cat product just by seeing this car display.
+If you scroll on your burner hard enough, you've probably seen
+{ts:219} it.
+It is a car type of product bed you put on the wall.
+He literally saw this car product and thought outside of the
+{ts:228} box and brought it to a completely different audience.
+This is exactly how you guys need to think when you scroll
+{ts:235} on your burner.
 
 […]
 
@@ -77,11 +122,6 @@ The people who think outside of the box do, they think, "I need to
 Or it could be that I need to bring something very specific."
 And this is shown by a guy
 {ts:212} who brought a cat product just by seeing this car display.
-
-[…]
-
-This is exactly how you guys need to think when you scroll
-{ts:235} on your burner.
 
 […]
 

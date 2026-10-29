@@ -30,4 +30,18 @@ for name, text in texts:
                     if words[i:i + len(key)] == key:
                         print("   …", " ".join(x for x, _ in build.tokens(w)[i:i + 45]))
                         break
+    for m in build.WEB_RE.finditer(text):
+        try:
+            build.cut_web(*m.groups())
+            ok += 1
+        except SystemExit:
+            bad += 1
+            print(f"\n✗ {name}: web {m.group(1)} | {m.group(2)} | {m.group(3)}")
+    for m in build.META_RE.finditer(text):
+        try:
+            build.meta_check(*m.groups())
+            ok += 1
+        except SystemExit:
+            bad += 1
+            print(f"\n✗ {name}: meta {m.group(1)} | {m.group(2)}")
 print(f"\n{ok} ok, {bad} failing")

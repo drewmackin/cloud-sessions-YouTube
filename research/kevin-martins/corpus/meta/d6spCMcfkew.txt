@@ -1,0 +1,26 @@
+   ## Sirio
+##### Oct 09, 2026 (0:21:46)
+Get Seedance 2.5 API access through Enhancor (official API, cheaper, faster, and no data training): https://app.enhancor.ai/api-dashboard
+In this video I reverse engineer how Higgsfield's Genjutsu works and rebuild it from scratch using Seedance 2.5, Claude, and a free 11-step automated workflow I built and am giving away for free.
+You will learn⤵️
+1. Why Seedance 2.5 blocks your video and the exact two things that trigger it (face + music)
+2. How Higgs Genjutsu gets around it , and why keeping the movement is all that matters
+3. How to use Depth Anything to hide who is in the video without losing any motion
+4. How to strip the music and keep only the vocals so the AI can still sync the lips
+5. Why you cannot just mute the audio, and what to do instead in CapCut
+...
+8. How the full 11-step workflow automates everything from Demucs to SAM 3 to the final 1080p export
+07:07 – 08:18 API Key Setup
+08:18 – 09:38 Draft Mode Explained
+09:38 – 11:02 First Test
+11:02 – 13:32 Two Fixes
+13:47 – 15:04 My 11 Steps Workflow
+15:04 – 15:47 Get the Workflow for FREE
+15:47 – 18:23 Workflow Live Demo
+18:23 – 20:37 Face Mesh Workflow
+20:37 – 21:43 What to Build Next
+⚠️ Copyright Notice: This video contains brief clips from MasterClass and Quavo & Takeoff – Hotel Lobby (A COLORS SHOW) used solely for educational analysis and reverse engineering purposes.
+Total third-party footage is under 30 seconds.
+All rights remain with their respective owners: © MasterClass, © Colors Studios / Quavo & Takeoff.
+This content is intended as fair use commentary under 17 U.S.C.
+§ 107.

@@ -1,0 +1,17 @@
+   ## Thomas Foster - Sound & Vision
+##### Oct 14, 2026 (0:23:39)
+Werbung | Wie entsteht ein kompletter Science-Fiction-Film mit KI?
+In diesem Video zeige ich meinen vollständigen Workflow mit Claude und Higgsfield – von der ersten Idee bis zur fertigen Mars-Symphonie.
+🎬 Create stunning AI videos with Higgsfield:
+https://higgsfield.ai/s/higgsfield-general-campaign-yt-thomasfostermusikproduktion-nOxnsA
+Wir bauen Storyboard, Character Sheets, Location Sheets und Object Sheets, erzeugen Bilder und Filmszenen, entwickeln Musik und Sound und verbinden das Ganze mit echten Videoaufnahmen.
+Am Ende seht ihr einen Ausschnitt aus dem fertigen Film.
+...
+   Wir bauen Storyboard, Character Sheets, Location Sheets und Object Sheets, erzeugen Bilder und Filmszenen, entwickeln Musik und Sound und verbinden das Ganze mit echten Videoaufnahmen.
+In this video , I'll show you step-by-step how I did it . From the initial storyboard to
+{ts:25} the characters , the locations , the individual film scenes , all the way to the music and the final video edit . And
+Even
+{ts:175} there , I told ChatGPT that it should create a prompt for me for Claude . But we'll get to that in a moment . In order
+{ts:183} to work with Claude , or with ChatGPT to generate videos , you have to connect Claude to Hixfield .
+{ts:344} you can connect your large language model , like ChatGPT or Claude , in this case with Hixfield , and Hixfield then
+{ts:388} have that connection . Then you tell Claude , or whatever you’re using , to make an image so I can see if it works

@@ -1,7 +1,7 @@
 # How I Make AI Videos That Make Me $40k/week with Dropshipping
 
 - URL: https://www.youtube.com/watch?v=mq4PgXJAw8s
-- Windows: 13 (first timestamps 0s … 308s)
+- Windows: 12 (first timestamps 0s … 308s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -190,12 +190,18 @@ And so
 {ts:237} speaking of Harper, he was actually able to make $65,000 in four days with that AI influencer.
 {ts:243} Um, and I think in March, yeah, he hit 145K rev.
 Um, also apart from Harper, we have other killers in here as well.
-
-[…]
-
 This
 {ts:250} is Elias all the way from France.
 He hit $60,000 in 15 days um with AI as well.
+He said Q4 is going to be crazy, bro.
+{ts:257} We're going to be seeing some crazy results in quarter 4.
+Like right now, it's like the slow season of organic of
+{ts:263} ecom.
+So imagine what we're going to be cooking up in Q4.
+Also, this is Mark here.
+He did $61,000 in 30 days.
+All
+{ts:269} done with AI.
 
 […]
 

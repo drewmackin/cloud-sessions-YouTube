@@ -1,7 +1,7 @@
 # How my IRL made $60,000 in 5 days in AI Organic Dropshipping...(Discord AMA Case Study)
 
 - URL: https://www.youtube.com/watch?v=J6wWWia3dNQ
-- Windows: 18 (first timestamps 2s … 1535s)
+- Windows: 25 (first timestamps 2s … 1648s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -9,7 +9,11 @@ Metadata lines seen:
   Date: 2026-07-24
 
 ---
-The first product you made money with, you literally were just ripping.
+So my first month I did lack speed and like testing a lot of products and
+
+[…]
+
+Bro, you went from like what $80 a day to like $200 AOV.
 
 […]
 
@@ -17,9 +21,36 @@ You made 30K in like two days, bro.
 
 […]
 
+It went 65 to like 130.
+
+[…]
+
 {ts:2} Uh, well, first of all, I guess my name's Jaden.
 Um, I basically I guess you could say I ran up like what, 60K in
 {ts:10} like four days.
+
+[…]
+
+{ts:24} you only started a month and a half ago, which is a crazy fact.
+
+[…]
+
+And like in the first month, bro,
+{ts:268} in the first month, you made 5K.
+like first month coming into organic within a week you made [ __ ] you were hitting
+{ts:274} like $500 and you hit 5K first month which a lot of people to even hit a 5k month it takes like four or five months
+{ts:280} like for you personally like coming in and making money fast like how did that feel and not only that like what were
+{ts:286} like the key components behind it having a having a as your mentorship is the only reason why no [ __ ] I swear
+{ts:293} to God I mean that's the reason why I hit I had a 5k month the first month cuz I had a good I had a good mentor
+{ts:299} that a good mentor that would have been fraud.
+
+[…]
+
+The first product you made money with, you literally were just ripping.
+{ts:347} Yeah, it was a rip.
+Should we leak it?
+Um yeah, you can go ahead.
+Yeah, it was it was water guns, bro.
 
 […]
 
@@ -33,6 +64,7 @@ He was doing like
 
 […]
 
+Yeah.
 So, you just ripped the water guns
 {ts:368} and cooked up and went crazy with that.
 
@@ -65,16 +97,20 @@ Yeah, you got a cleaned up Claw chat,
 
 […]
 
+{ts:460} first of all, how fast you start making money with this product, bro?
+Um, I want to say next day, like
 {ts:466} literally the right after last.
 So, I posted videos at like what 3 4:00 a.m. and like the morning I had 100k video
 {ts:472} and I was princing.
-
-[…]
-
+Mhm.
 So, literally within like within like 15
 {ts:477} hours, bro.
 15 hours.
 And like you started hitting like 1k days, 2K.
+{ts:480} Yeah.
+First day, first day was a 2K day.
+Second day was a 4.5.
+I think third was like 10.3.
 
 […]
 
@@ -95,16 +131,36 @@ Like I make a new account, post that [ __ ] tomorrow and it was getting 100K v
 
 […]
 
+So it's like it's really just bringing everything to the market first and just like being the first to
+{ts:622} do it was for me.
+That's what made me the most money.
+
+[…]
+
 His whole Shopify got terminated right before he
 {ts:654} got payouts.
 So he ran up to 60k in four days and his [ __ ] got sniped and terminated.
 
 […]
 
-{ts:790} I I had a 5k a day from one upsell.
+And then let's talk about like now you did have a really
+{ts:775} good Shopify setup bro.
+Let's talk about the upselles and the av maxing.
 
 […]
 
+{ts:790} I I had a 5k a day from one upsell.
+5k like one of the one one of the upsells. was like not even including the
+{ts:796} other four or whatever how my store were.
+Mhm.
+Bro, this [ __ ] this [ __ ] made
+{ts:800} five bands off one upsell.
+One upsell in one day, 5K.
+5K to have one upsell.
+
+[…]
+
+Like, just literally get OC.
 Crank them with 10 upselles.
 And then on
 {ts:857} top of that, the after purchase upsell, the you can do post-purchase upsell as well with SMS, email marketing, bro.
@@ -153,3 +209,11 @@ Definitely.
 
 Most time check your competitor, see what they're doing, compare compare it to your content, and just be super
 {ts:1535} like hyperritical.
+
+[…]
+
+Uh you just literally check proof of
+{ts:1648} concepts.
+What concepts are going viral with that product?
+See if you could do any new concepts that you think would
+{ts:1652} also go viral and just start running them, bro.

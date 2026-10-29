@@ -1,7 +1,7 @@
 # J’ai testé le dropshipping avec seulement 100 € et l’IA (résultats réels)
 
 - URL: https://www.youtube.com/watch?v=OHESOBFWsFE
-- Windows: 14 (first timestamps 257s … 1374s)
+- Windows: 16 (first timestamps 257s … 1374s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -26,6 +26,11 @@ Yes , since we are doing e-commerce , it's not us who will send
 
 […]
 
+{ts:265} find a supplier at first on Chinese platforms and we will use Autods to be able to sync orders between my store
+{ts:271} and my Chinese supplier . So that will allow us to automate orders and not have to systematically place an order
+
+[…]
+
 {ts:360} that the supplier already has more than 1,000 sales , so it's validated .
 
 […]
@@ -39,6 +44,10 @@ Yes , since we are doing e-commerce , it's not us who will send
 
 {ts:472} is really what you need to do if you want to find a supplier ; you go to AliExpress , integrate it directly into
 {ts:476} AutoDS , and then we need to simply move on to creating the store so we can set all of this up . To set up your first
+
+[…]
+
+{ts:481} e-commerce store , all you have to do is use artificial intelligence to get this store up and running in just a few
 
 […]
 

@@ -1,0 +1,126 @@
+   So, the first step is taking screenshot
+{ts:435} of all of these uh s frame image and then afterward we're going to do it for our product.
+...
+So, we're going to
+{ts:441} start with the first one.
+Basically, what we want to have is an avatar for product.
+Just found this picture which
+{ts:446} is perfect for avatar.
+Now that we have that, we actually need a background.
+So, now that we got everything we need, instead of doing the vid directly in Xville, we're going to
+{ts:462} use Claude MCP to do it.
+It's going to be way faster.
+So, basically, it's Claude plugged into Xville.
+{ts:500} four starting frame image.
+So now redo me the image 4 5 6 7 with instead the product of image two with the avatar in image three and the
+{ts:519} background in image one.
+The angle light stay the same just the avatar product background and actual process of making
+{ts:526} the product going to be different.
+Okay.
+So do me all these images with nano banana pro quality 4K 916.
+So we're
+{ts:534} going to simply run it and then it's going to connect to Xville like I was saying and then it's going to do all
+{ts:540} these images all at once.
+{ts:552} So we're going to say no text overlay for this one.
+The avatar and image tree.
+We're going to say close resemblance.
+So now it said we got to upload the images here instead of like the cloud chat.
+{ts:565} going to just like upload them all here.
+We're going to hit continue and then we're going to send it.
+So we can simply say redo me this image
+{ts:647} for my avatar and my background and then it's going to redo it perfectly.
+What I said here, I want two images of the cross on the
+{ts:683} wall, one with the the room with light on and one with the room light off and the the light of the cross on.
+We need to upload the same image here.
+So, now that we have all the
+{ts:717} reference images really, really dialed, we're going to turn them into a video inside Cloud MCP.
+We're gonna do five
+{ts:725} clip, five reference image all at once.
+So now we basically need to describe the action we want from each
+{ts:732} single one.
+So for the first one, basically what we want is the dad saying like can you please uh stay like 12
+{ts:738} second to help my daughter business or something like this.
+So we're going to describe that.
+Then after we're going to
+{ts:744} do the second one, the third one, the fourth one and the fifth one.
+For the first one I simply say okay so now we
+{ts:749} are going to do five videos.
+The first one is image one and it's basically the dad saying, "Can you please stay 12
+{ts:755} second to support my daughter Jesus lamb business?"
+The daughter is very sad like she's getting no sales.
+For the second
+{ts:762} one, I just said for the second clip, it's image two.
+The action is her drawing the Jesus lamp.
+I want two
+{ts:768} different angle.
+One like the one of the picture and the second one kind of a closer angle here.
+For the third one, I
+{ts:775} just say the third clip is the image tree of her making the cross.
+I want two to three different clip of action.
+For
+{ts:781} the clip three, like she's actually making the cross multiple different angle as well.
+For the fourth clip, it's
+{ts:787} image four.
+She's basically painting plus assembling Jesus on the cross.
+Two to three different clip as well.
+For the
+{ts:794} fourth one with different angle.
+And finally guys, for the fifth clip, it's her basically just depressed because she
+{ts:800} haven't been getting sales.
+Only one angle simple clip.
+For the single sequence clip, we're going to use cling
+{ts:806} 3.0.
+And for the multi-shot, we're going to use Cense 2.0.
+Cance 2.0 is really the model you want to have when you have
+{ts:812} multiple shot in one scene.
+So I said use Clink 3.0 for one shot clip and Cance 2.0 for multi-sequences clip.
+I
+{ts:820} want quality to be 720p and 916 delay.
+So we're going to send that.
+So I just did the vid.
+Okay, so now we're going to switch to the B-roll of the product.
+So, we're going to do all the
+{ts:931} other reference images and the action for the B-roll.
+We simply upload all the B-roll images.
+And now what we want
+{ts:938} basically is different angle per images.
+So, we're going to simply say something like, okay, I want multiple
+{ts:944} angle, one of like right to left, one like zoom in, one more close of the product for each angle of image.
+So,
+{ts:951} that's what we're going to say.
+So, do me a multi-shot clip with two to three different angle of each of these images.
+{ts:957} One angle is like the image uh and camera going right to left.
+Movement is natural and shaking a bit like someone
+{ts:964} is taking a video of it.
+The second one is a close-up angle on the cross moving left to right.
+And then other angle of
+{ts:970} zooming in do this clip with Cance 2.0 quality 1,080p.
+1,80p is really the highest quality.
+All the clips are now
+{ts:1021} finished.
+{ts:1027} really solid.
+So, now we're gonna edit the vid inside Cap Cut and I'll catch you guys once the vid is done.
+So, I
+{ts:1032} just finished editing the vid inside Cap Cut.
+   So any product you have, you
+{ts:374} just want to send the the picture of the product and say a simple prompt like this and then it's going to do you a
+{ts:380} banger product.
+So, the first step is taking screenshot
+You just go inside Xville and you're going to have a section MCP and just click on it and
+So now we have everything we need.
+So what I want to do is the first
+So the first one of the and then after the process of making it okay so there's other
+{ts:505} reference image we're going to do later down the line but this is first four one I want to focus on the prompt I did is
+{ts:512} okay.
+So now for the next reference image we need
+{ts:662} these lamp on the wall.
+So now we need to get the background for the wall.
+So, we're going to simply go on Pinterest
+{ts:667} and search for that.
+So, I just typed normal bedroom and I found this picture.
+So, for the background, you always need
+{ts:672} something natural and something not too crazy that does not look real.
+You want something that's going to be relatable
+{ts:678} for people.
+So, we basically want these cross on the walls.
+So, we're going to simply send this.

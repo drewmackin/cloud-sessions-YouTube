@@ -1,0 +1,68 @@
+   Sirio walks us through the exact use cases, prompts, and tactics he's using to build on top of this model inside his platform Enhancor, covering multi-input generation, virtual try-ons, ad translation, AI influencers with lip sync, video extension, and 3D product template replacement.
+...
+Key Points
+* Seedance V2 is the first widely available video model to support true multi-input generation — up to two images, two videos, and an audio file combined in a single prompt.
+* Treat Seedance V2 as a video editor, not just a generator: character swap, background swap, text preservation, ad translation, and template population all work from natural-language prompts.
+* Seedance rewards highly specific prompts; I pair my own draft with Claude Opus 4.6 to optimize prompts for vision models.
+* Strong source reference images remain the single biggest quality lever — the model mimics taste from what you feed it.
+* For AI influencers and lip sync, describe muscle movements and emotional transitions rather than simply labeling an emotion like "sad" or "happy."
+Numbered Section Summaries
+1. The Multi-Input Breakthrough Seedance V2 launched today and accepts multiple inputs at once — up to two images, two videos, and audio.
+That lets Sirio and me do things earlier models struggled with: replace two characters and a background in a green-screen shot from a single prompt, with motion preserved.
+This is the capability that turns a generator into an editor.
+2. Prompting and Source References Seedance rewards specificity.
+Short prompts work on models like Kling 3, while Seedance performs better the more detail you give it — especially for character identity, motion preservation, and transitions.
+Sirio drafts prompts himself and optimizes with Claude Opus 4.6.
+The other half of the equation is source references: a great reference image lets the model understand taste and vision, the same way a human assistant would.
+3. Virtual Try-On and E-Commerce Applications Sirio shot himself in Montreal in minus 30-degree weather wearing shorts, then used Seedance V2 to swap his outfit into a full winter fit and add a bear walking through the frame.
+His face stayed identical, the boots and pant pattern matched the reference exactly, and the model tracked the bear with its eyes.
+The commercial angle: swap e-commerce model outfits while preserving identity and motion for consistent brand assets.
+I'm creating
+{ts:234} this game and and I want to put some sort of a demo on my social media or a quick video on my landing page and I
+{ts:241} want to replace these two people with um two different characters, but at the same time, I want to replace the
+{ts:248} background.
+Uh, and what we're doing
+{ts:254} here is that we're using the multi-input feature inside CD dens.
+Um, and we're going to have our character one, our
+{ts:262} character two, and then we're going to have our background image.
+And since this is again multi-input, um, we're
+{ts:268} going to reference all these inputs in the prompt by tagging them.
+Um, we're going to hit generate.
+And it's going to
+{ts:275} take about 60 seconds, uh, for our video to generate here.
+Um and it's simply from a a prompt.
+{ts:370} You're literally telling it to control the motion, to keep the motion of the original video exactly the same.
+{ts:518} Everything starts with a very good idea a very good source reference source image.
+What is your vision?
+you can
+{ts:526} describe your vision, but the second that the these LLMs or these these models see a source reference, they're
+So, always focus on having a great source image, source reference that matches
+{ts:547} your idea.
+So
+{ts:576} give it a very good source u reference of whatever you're trying to to to achieve and then follow it with a very
+{ts:583} specific prompt.
+Again, here's a prompt.
+You can screenshot
+{ts:998} this.
+We're replacing only the package and keeping everything the same.
+{ts:1005} Generate um and you can find any 3D asset out there.
+You can start um applying texture to all these 3D assets
+{ts:1013} by combining the source reference with image references and just literally telling it to hey make sure that you put
+{ts:1020} the the texture from image number one into the 3D render video in image number uh in video uh number two.
+   In this episode I sit down with my friend Sirio, one of the most creative AI minds I know, to break down Seedance V2.
+00:00 – Intro
+02:22 – Demo 1: Replacing Characters and Background in a Green Screen Scene
+08:03 – Prompting Tactics and Optimize Prompts
+16:02 – Demo 4: 3D Product Template with Brand Texture Swap
+29:31 – What Happens to Adobe Over the Next Five Years
+Traditionally, this would take very long time, but also it would cost a lot.
+Yeah.
+…
+{ts:533} able to understand your taste and they're able to mimic uh um that that reference image into something more
+{ts:539} concrete and more tangible for you.
+If you want to replace, let's say that you have an actor and you're you
+{ts:626} did an ecom shoot and um you want to have the exact same motion of the model and you just want to replace the
+{ts:634} clothes, the clothes that they're wearing because you're creating this very cool transition or just because you
+And what it's going
+{ts:855} to do um is that it will replace the woman in the first video with our source image and it's going to translate
+You do not

@@ -1,0 +1,11 @@
+   ━━━━━━━━━━━━━━━━━━━━━━
+⏱️ CHAPTERS
+0:00 Intro: Meet My AI Influencer
+0:40 The Rise of AI Influencers & Video Roadmap
+1:35 Step 1: Designing the Persona with Claude
+3:28 Step 2: Building Her Face in Higgsfield AI
+5:01 Step 3: Keeping the Face Consistent (Soul ID)
+7:46 Step 4: Generating an Instagram Feed (Soul 2.0)
+8:45 Step 5: Animating Videos & Voice
+10:32 Step 6: Monetization & AI UGC Ads
+...

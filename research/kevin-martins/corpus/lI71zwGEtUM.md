@@ -1,7 +1,7 @@
 # Create ANY Faceless YouTube Channel With Claude
 
 - URL: https://www.youtube.com/watch?v=lI71zwGEtUM
-- Windows: 12 (first timestamps 8s … 423s)
+- Windows: 13 (first timestamps 8s … 423s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -15,6 +15,10 @@ Metadata lines seen:
 ---
 There's one object the whole story follows, the burnt orange container.
 So, it gets its own image,
+
+[…]
+
+So this time I'll tell Claude to switch the model over to Seedance 2.5.
 
 […]
 

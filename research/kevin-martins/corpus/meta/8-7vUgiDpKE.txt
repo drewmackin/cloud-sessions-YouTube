@@ -1,0 +1,10 @@
+   ## AI Madame
+##### Sep 17, 2026 (0:14:17)
+In Level 2 of this AI filmmaking tutorial, explore camera angles, camera placement and camera framing to create cinematic AI video that connects with your audience.
+...
+IN THIS EPISODE
+• Shot sizes: when to choose wide shots, medium shots and close-ups.
+• Camera angles: eye level, low angle, high angle, overhead and Dutch angles.
+• Camera placement: how height, position and distance affect the image.
+If you’re learning how to make AI films or how to use Seedance 2.5 for narrative scenes, this lesson focuses on the directing decisions behind your prompts.
+Learn to describe framing and viewpoint with a clear storytelling purpose.

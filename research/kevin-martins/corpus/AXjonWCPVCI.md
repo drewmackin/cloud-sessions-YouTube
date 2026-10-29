@@ -1,16 +1,22 @@
 # How He Makes $33K/Month With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=AXjonWCPVCI
-- Windows: 48 (first timestamps 0s … 2027s)
+- Windows: 54 (first timestamps 0s … 2027s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Jun 21, 2026 (0:34:45)
   ...
+  Actually, now we go one call in 2 weeks.
+  Also, I love the calls with you.
+  And you know, everyone's so supportive.
   DM me on IG: kevin_martins_
   Date: 2026-06-21
+  Everyone's so
+  He just did a $33,000 month with me.
   How My Student Elias Makes $91k/m With Ai: https://youtu.be/8zsX4RwrN84
+  So,
 
 ---
 Shout out I heard bro.
@@ -33,6 +39,13 @@ He just did a $33,000 month with me.
 So,
 {ts:22} Vitaly, if you want to go ahead and introduce yourself to the channel and talk about your organic drop shipping
 {ts:27} journey up until now.
+Yeah, hello everyone.
+Hello Kevin as well.
+So,
+{ts:33} I joined to the I joined actually I start my journey with the e-com around like 2 months 2
+{ts:38} and 1/2 months ago.
+So, I'm I would say I'm completely beginner.
+So, I joined to the full start
 
 […]
 
@@ -53,6 +66,11 @@ It was the gun lighter.
 {ts:66} Maybe everyone seen it before.
 So, I was trying myself in in this gun, you know, so it was it was actually good because
 {ts:74} you can find out lots of like options how you can film it.
+
+[…]
+
+Like you joined the program, you knew nothing about organic, you knew nothing
+{ts:97} about AI.
 
 […]
 
@@ -99,6 +117,11 @@ I clearly remember that day I filmed first couple of vids in like night time
 {ts:343} and I posted them straight away.
 So I I like three four weeks and then in the morning I remember wake
 {ts:350} up and I see that we one of the ways hit 80,000.
+
+[…]
+
+And I believe so in the first day
+{ts:385} straight like bring for me like two almost 2,000, 1.8, 1.7, something like that.
 
 […]
 
@@ -389,6 +412,8 @@ As I said, guys, if you don't have any background at your home and
 
 […]
 
+{ts:1317} can use, you know, that's the best thing for you need to use.
+100%.
 So, Vitaly, let me ask you, like,
 {ts:1322} how were you feeling before joining FSC?
 Cuz this is like your first ever mentorship that you joined.
@@ -412,6 +437,8 @@ And I they answered all of my questions what I had and they even even helps me w
 So, I I was struggling with money
 {ts:1370} on that period of time and I didn't have like opportunity to to pay that much money and uh
 {ts:1376} and and yeah, so the the guys answered all of my questions.
+They straight away give give me the access for everything
+{ts:1381} what I need.
 
 […]
 
@@ -438,7 +465,18 @@ Uh 100% I will I will think to
 
 […]
 
+{ts:1450} now you even have like your your your your your partner helping you out too with the recording and stuff like that.
+{ts:1456} She's been helping you a ton as well.
+Yeah, yeah, she's for one of my first creator and I'm so grateful to her.
+
+[…]
+
 {ts:1478} Next step, I'm just thinking to to build the team slowly, you know, I'm I'm thinking to get first creator and and
+
+[…]
+
+And what would you say is like your favorite part about like FSC, the community, resources in there?
+{ts:1496} Um I would say the first of all I would say is people.
 
 […]
 
@@ -474,6 +512,17 @@ Let's say customer support or creator.
 So, you will need
 {ts:1604} that help in the future.
 So, now with this money what what I had saved, I can think about slowly to have like let's
+
+[…]
+
+{ts:1597} anyone support, you know?
+It just was me and and that's it.
+Let's say customer support or creator.
+So, you will need
+{ts:1604} that help in the future.
+So, now with this money what what I had saved, I can think about slowly to have like let's
+{ts:1611} say one creator who going to run continue run this product for me, so at the same time I can focus on another
+{ts:1616} one.
 
 […]
 
@@ -557,6 +606,11 @@ If Obviously, if if you are completely
 If I didn't have this information, oh my god, it would takes
 {ts:1833} me a year to get maybe somewhere and it even probably even not, you know, because I didn't have like even underst-
 {ts:1840} like understanding how I need to choose the product, how I need to like set up even my burner account, you know?
+
+[…]
+
+But But yeah, but now like I'm I'm even using now
+{ts:1857} AliExpress to to do to do the research, not just the burner account, not just selling from other people, but I'm
 
 […]
 

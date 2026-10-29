@@ -1,0 +1,3 @@
+   ## Tech With Tim
+##### Oct 02, 2026 (0:20:05)
+What you just watched isn't a demo of a chatbot — it's a live AI avatar named Ava taking a restaurant order, recommending dishes, and actually controlling the webpage in real time as we talk.

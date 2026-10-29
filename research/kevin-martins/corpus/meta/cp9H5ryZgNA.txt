@@ -1,0 +1,15 @@
+   ## CourseCrunch2
+##### Jul 04, 2026 (0:49:58)
+Want to earn online by creating talking AI Avatars?
+This step-by-step tutorial covers everything — from generating your AI avatar image to voice cloning, lip-syncing, and editing a polished final video.
+Tools covered: ChatGPT (for prompts), Artflow (avatar generation), PixelBin (upscaling), Kling AI (image-to-video + lip sync), ElevenLabs (voice cloning), and CapCut (final editing).
+You'll also learn how to package this as a service and land paying clients on Fiverr, Upwork, LinkedIn, and social media — with real client examples earning $100–$500 per video.
+...
+✅ Full tool stack walkthrough
+✅ Avatar creation from photos and text prompts
+✅ Voice cloning step-by-step
+✅ Lip-sync + CapCut editing
+✅ Getting your first clients on Fiverr & Upwork
+✅ Real income examples
+🔥 In this tutorial:
+✅ AI Avatar basics + real examples

@@ -1,7 +1,7 @@
 # FULL COURSE: How to Start Organic Dropshipping With AI (Step-by-Step)
 
 - URL: https://www.youtube.com/watch?v=Phlxu0rgCsM
-- Windows: 35 (first timestamps 13s … 17929s)
+- Windows: 42 (first timestamps 13s … 18617s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -85,11 +85,34 @@ The first is to actually set up your Instagram
 
 […]
 
+{ts:1606} Keep it short and catchy.
+So that's what I would prompt.
+Let's see what chat GBT comes up with.
+Beauty together.
+Where
+{ts:1615} beauty belongs.
+Belong in beauty.
+
+[…]
+
+There's a simple formula that we're going to follow with the hook because,
+{ts:2865} as you know, the first 3 seconds of the video are most important. is the scroll stopping part that gets people to
+
+[…]
+
 It literally takes 10 seconds.
 like you go, you record it, you
 {ts:6828} shoot five to seven clips, and then you just reuse them over and over again.
 All you're going to do is change the music,
 {ts:6833} change the hook, and maybe the angle.
+
+[…]
+
+{ts:8800} Everything like that also helps because we'll get more exposure.
+And so that's why we can use it as a hook to have a
+{ts:8806} broader audience.
+Right?
+That's the top of funnel like we talked about in module four.
 
 […]
 
@@ -258,6 +281,20 @@ And I want you to just copy this prompt right here.
 
 […]
 
+Let's go with relatable.
+And then let's click generate hooks.
+And
+{ts:14932} it will give us a lot of good examples.
+Maybe even some angles to test.
+
+[…]
+
+We're just going to use a hook generator for ideas.
+We're
+{ts:15070} going to run the test through this viral click type of criteria software.
+
+[…]
+
 But if you're going to film it yourself, I'd write scripts.
 Focus more on the
 {ts:16249} identity, like the actual appeal of feeling beautiful.
@@ -277,3 +314,20 @@ All
 POV user experience where it's like her reacting to it, her
 {ts:17935} using it, her talking about it.
 Before and after.
+
+[…]
+
+You hook them in with the before and after.
+So now they're interested.
+They see they
+{ts:17992} visually can conceptualize how this works.
+But now they're interested in in what is it and then you're telling them
+{ts:17998} what's it's not.
+
+[…]
+
+Uh, just once again, like the trick is not to have the whole video AI.
+The
+{ts:18617} trick is to use it as a hook.
+I mean, if you use this as the first 3 seconds, I mean, you know, good luck on having
+{ts:18624} people call it out on being fake.

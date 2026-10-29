@@ -1,7 +1,7 @@
 # My Daily Routine & Systems That Make Me 50K/m With Dropshipping
 
 - URL: https://www.youtube.com/watch?v=47knc_VXTZA
-- Windows: 39 (first timestamps 3s … 2206s)
+- Windows: 41 (first timestamps 3s … 2206s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -31,11 +31,11 @@ Recovery truly matters because burnout will kill your productivity.
 
 […]
 
-Like make it impossible for someone to like actually get a hold of
+Last one here, number seven, focus on inputs and not just outputs,
 
 […]
 
-Last one here, number seven, focus on inputs and not just outputs,
+Like make it impossible for someone to like actually get a hold of
 
 […]
 
@@ -64,6 +64,13 @@ I work anywhere from 5
 {ts:87} to 6 hours every single day now, but I'm super effective because I have intention.
 I know exactly what I need to
 {ts:92} be doing.
+
+[…]
+
+This is an ecom channel.
+My name is Kevin Martins.
+I do e-commerce if you
+{ts:190} guys know who I am.
 
 […]
 
@@ -200,6 +207,7 @@ Have them connect to your
 
 […]
 
+And the first one is going to be ROI.
 So, as a drop shipper, okay,
 {ts:1197} your highest ROI activities are going to be product research, content creation, store optimization, and actually
 {ts:1204} fulfilling on the products that you're selling, right?
@@ -274,6 +282,10 @@ Um it's an actual mentorship
 {ts:2112} where you get to hop on calls with me daily.
 Whether you want to start your first organic drop shipping business,
 {ts:2116} get into ads, or most importantly, get into Tik Tok shop because right now we are absolutely cooking with that.
+
+[…]
+
+{ts:2144} this is going to be the win section of my inner circle, full stack ecom.
 
 […]
 

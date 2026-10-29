@@ -1,7 +1,7 @@
 # How He Made $120K In 30 days With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=rIiUPh3Jx8c
-- Windows: 74 (first timestamps 0s … 3979s)
+- Windows: 83 (first timestamps 0s … 3979s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,6 +24,10 @@ So at that time I already join FSE and I already have
 
 […]
 
+Right now I'm in beautiful California.
+
+[…]
+
 {ts:0} YouTube, what is good?
 Welcome back to another case study on the YouTube.
 Today
@@ -42,6 +46,7 @@ Um and in the last, you know, two months of us really working together.
 
 […]
 
+{ts:221} know what one day I might be just fired like that and actually recently I did get fired you know because somebody
 {ts:227} framed me anyways so I've been thinking about opening my own business already for a long time my own stuff and
 {ts:235} actually I launched my business like a trick air company back in Florida but then I had to relocate right so this
 
@@ -65,6 +70,12 @@ And this is the hours when I'm just start learning uh you know ecom and learning
 So I have just
 {ts:349} couple hours per day and this couple hours when I'm extremely exhausted in order to learn something about the
 {ts:356} business to learn like from your YouTube channel and all this stuff right and then go sleep because I have like three
+
+[…]
+
+It was like it was like part-time drop shipping if anything, right?
+You were
+{ts:433} full-time Uber, part-time uh, you know, ecom.
 
 […]
 
@@ -147,20 +158,9 @@ So basically this is my second serious product which is banger winner you know a
 
 […]
 
+So, Tim, um, let's let's give him a
 {ts:941} little little bit of a breakdown here.
-
-[…]
-
-I officially
-{ts:948} launched my shop on the May 29th, right?
-And first two weeks as you see my sales was really low
-{ts:957} but that was just because inexperience right so there was particular technical things that I did didn't figure out on
-{ts:965} Shopify obviously that's my second store so I'm still learning right so because of particular settings I have tons of
-{ts:972} people on Shopify but extremely few sales right so this is kind like totally my bad my experience if only I would
-{ts:981} been more experienced the graph would go up here right away, right?
-
-[…]
-
+So, what are we seeing?
 [snorts] So, here is the thing.
 I officially
 {ts:948} launched my shop on the May 29th, right?
@@ -168,9 +168,11 @@ And first two weeks as you see my sales was really low
 {ts:957} but that was just because inexperience right so there was particular technical things that I did didn't figure out on
 {ts:965} Shopify obviously that's my second store so I'm still learning right so because of particular settings I have tons of
 {ts:972} people on Shopify but extremely few sales right so this is kind like totally my bad my experience if only I would
-
-[…]
-
+{ts:981} been more experienced the graph would go up here right away, right?
+But closer to this time finally I kind of figure out
+{ts:988} right and actually I start like giving like give or take sales and uh you know traffic and stuff from the June 9.
+So
+{ts:995} this is when it start growing up however like it actually supposed to go from here.
 Anyways, um yeah, so I start
 {ts:1004} getting like some traction, some you know stuff here and somewhere over here in a mid June uh some of the videos
 {ts:1014} there was one video I guess uh that went viral like one 1 something million you know and this is when everything is
@@ -308,6 +310,12 @@ So, yeah, without before AI, when I've been shoot filming the videos, right, my 
 
 […]
 
+{ts:1608} testing because without AI you have to order the product you have to test it shoot the videos uh fail many times
+{ts:1618} order another design wait another time right when with AI in couple hours you're creating a couple different
+{ts:1624} variations you're testing all of them fail you're creating another variations some went good okay you're going with
+{ts:1630} the one good.
+You know, it's it's just saving you tons of time, which is really crucial while you're testing the
+{ts:1635} products, right?
 So, yeah, without before AI, when I've been shoot filming the videos, right, my videos been like
 {ts:1643} okayish relative.
 I I guess I guess you would disagree, but like, you know, they
@@ -317,8 +325,21 @@ Right now with AI I can make hooks, I can make uh
 
 […]
 
+And some of the AIS is so cheap.
+It's so superficial, you know, and like oh come
+{ts:1700} on, it's obviously AI.
+I have, you know, my eyes bleeding like of course and and some of them the editing videos so
+
+[…]
+
 I have, you know, my eyes bleeding like of course and and some of them the editing videos so
 {ts:1706} terrible.
+
+[…]
+
+{ts:1732} right you know and do you think you were you would be able to kind of figure this you know
+{ts:1735} this AI implementation yourself on YouTube without like joining FSE and like learning all the prompts and
+{ts:1740} everything.
 
 […]
 
@@ -523,10 +544,15 @@ So you and also you
 
 […]
 
+{ts:2686} strategies and advice that you're teaching right separately about FC community uh at the beginning I wasn't
+{ts:2693} really active in chart actually I I want to be even more active right now right [snorts] but the guys there are very
+{ts:2700} supportive and very nice you know so basically if you see chart it just a separate um touch or something.
 You can
 {ts:2708} drop any questions and people who are actually dealing with this problem, who have experience, who have contacts, who
 {ts:2714} have knowledge, right?
 They will share their experience how they fixing this or another problem, right?
+And amazing.
+{ts:2721} What is really impresses me very much that even though that we are in a business everybody making money you know
 
 […]
 
@@ -546,10 +572,51 @@ So we kind of start
 
 […]
 
+{ts:2804} FSE community so you need help there is tons of people ready to help you you know obviously that's also obligates me
+{ts:2812} if somebody like ask me questions or if I know how to fix something like I'm also sharing you know all this stuff but
+{ts:2818} that's amazing to be in community of likeminded people who are dealing with the same stuff that you are and they can
+
+[…]
+
+{ts:2879} whatever.
+
+[…]
+
+I'm
+{ts:2884} making my notes.
+I'm making strategies, right?
+Some of the calls I have to rewatch again and again just to make
+{ts:2889} sure that I have all notes, right?
+So, amazing library of all these videos, you know, courses, uh, good community which
+{ts:2898} are making money but not greedy, you know, and amazing support.
+Yeah.
+
+[…]
+
 You know, I think that's like the biggest part, right?
 Is not only having
 {ts:2908} that sense of community of like-minded people that are trying to achieve the same goal and also collaborating and
 {ts:2913} helping out, right?
+
+[…]
+
+{ts:2928} genuine connection and you you don't even know where that's going to go, right?
+uh maybe you can go ahead and ask
+{ts:2933} him for something or he can ask you for something whenever they're in need and you know you can just go ahead and give
+{ts:2937} him a hand, right?
+And I think that's the a massive portion of the community is like being able to talk to people
+{ts:2943} that are maybe ahead of you, right? and you can go ahead and just talk to them and and really have that sense of
+{ts:2949} network, but on top of that, you have all the necessary resources to kind of get you to the next level because like
+{ts:2954} you even said yourself, it's almost like a library of lessons and information that's, you know, obviously exclusive to
+{ts:2959} the people inside, but you know, you can just go ahead and watch it and start taking notes with no fluff, right?
+Like
+{ts:2965} we're just going straight into the strategy, whether it's AI implementation, product research, right?
+{ts:2970} Even just organic knowledge or concepts, certain platforms, right?
+even understanding each individual platform
+{ts:2975} because even with you right like you had a whole bunch of questions with like all right well should I be posting on Tik
+{ts:2979} Tok on Instagram on YouTube on Facebook which was going to get me the highest ROI and obviously we found our our
+{ts:2984} winning platform here but there's just a ton of different questions that you know you had in the beginning that were just
+{ts:2990} simply answered by you know the lessons and the community and obviously you know the help with me and and and Elias right
 
 […]
 
@@ -604,6 +671,27 @@ Or if you shut all your stores, you're
 
 […]
 
+{ts:3530} busy spending half of day to making extra $100, you know it's kind of ridiculous.
+I like I I don't have time
+{ts:3538} to learn what bring me thousands and thousands of dollars because now I'm focused on this $50 or extra $100, you
+{ts:3544} know.
+
+[…]
+
+{ts:3589} yeah guys If you if you're trying to get to ecom and you're trying to research, you know, the Kevin's mentorship and
+{ts:3596} stuff, here is what I want to share.
+Many years in my life, I used to work as a coach, right?
+So, I've been coaching
+{ts:3605} swimming mainly.
+So, I'm swimming coach.
+I've been coaching snowboarding.
+I've been coaching running.
+So, I've been
+{ts:3610} teaching like mainly physical activities, right?
+And I see that a lot of my students that trying to like begin
+
+[…]
+
 So the coaches,
 {ts:3635} trainers, they not only mastering what they teaching, but they also know the ways, the systems how to teach the
 {ts:3643} stuff, right?
@@ -628,6 +716,29 @@ Try to master stuff,
 So everybody want to learn any skills playing guitar, running, snowboarding, right?
 People are tended
 {ts:3666} to go to coaches and learn from them, right?
+
+[…]
+
+partially understand because there are a
+{ts:3688} lot of scammers also.
+There are lots of people pretending that they know some like wise knowledge and you know and
+{ts:3694} when you're paying the money they're giving you very basic generic stuff right but having a coach in a business
+{ts:3701} or in ecom especially those who already achieve some stuff you know so like you Kevin right on and other coaches here
+{ts:3710} right this is a very crucial because uh yes it is a service it is a time you got to pay for this services obviously as
+{ts:3720} any other job.
+But this money that you paid for this money, you will save yourself tons of time figuring out
+{ts:3728} yourself on strategies that didn't actually work from very beginning.
+
+[…]
+
+So
+{ts:3767} if you if these people like you who is watching this video they actually ready to work ready to invest right but they
+{ts:3774} just searching for direction how to do this go for it sooner or later you will make money and it will pay off for sure
+{ts:3783} right so yeah that's that's what I would encourage because in any other areas whatever you want to learn in life
+{ts:3790} people are tending to get coaches but when it has to do with a business people like eh I'm not sure you I'll figure out
+{ts:3797} myself.
+Nope.
+Yeah, go for it.
 
 […]
 

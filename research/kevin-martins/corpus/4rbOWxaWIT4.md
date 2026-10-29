@@ -1,7 +1,7 @@
 # how to speedrun to $10k/month with organic dropshipping as a beginner
 
 - URL: https://www.youtube.com/watch?v=4rbOWxaWIT4
-- Windows: 13 (first timestamps 10s … 1073s)
+- Windows: 23 (first timestamps 10s … 1073s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -14,6 +14,10 @@ Metadata lines seen:
   Watch My Free 4 Hour Course Next:  https://youtu.be/nHNvGESHZGY
 
 ---
+And so, like I said, I've been
+
+[…]
+
 In this video, I break down exactly how I was able to go from zero to making my
 {ts:10} first $25,000 with organic in just 3 months and pretty much dissecting the whole entire process and foundation that
 {ts:19} really just led me to get to where I'm at today in just a year and a half and how it really kind of started.
@@ -24,6 +28,15 @@ So, this
 
 […]
 
+{ts:72} was able to go from a complete noob at organic, knowing zero about the subject, doing Door Dash, doing Uber Eats
+{ts:79} full-time, not having a job, to then making my first $25,000 with organic drop shipping in just three
+{ts:87} months.
+Okay?
+And then later on in my journey, six months later, I hit my first like big winner, making over
+{ts:94} $100,000 with that product alone.
+
+[…]
+
 So, in 3 months, I
 {ts:72} was able to go from a complete noob at organic, knowing zero about the subject, doing Door Dash, doing Uber Eats
 {ts:79} full-time, not having a job, to then making my first $25,000 with organic drop shipping in just three
@@ -31,8 +44,8 @@ So, in 3 months, I
 
 […]
 
-And then later on in my journey, six months later, I hit my first like big winner, making over
-{ts:94} $100,000 with that product alone.
+And again, during this time period right here, as you guys can see, in these
+{ts:99} three months, I was simultaneously running multiple products at once.
 
 […]
 
@@ -52,6 +65,7 @@ And again, I was
 
 […]
 
+And so, how are we going to actually find these winning products?
 So, right, you're going to be starting
 {ts:316} to do product research on your own as soon as possible to get exposed to products that are currently going viral
 {ts:322} and selling in the market.
@@ -83,6 +97,10 @@ And so essentially kind of like how you, you know, watch Tik Tok on your own and
 
 […]
 
+And so, this is the method that I personally use, but I only recommend this if you've
+{ts:520} done more than $10,000 in revenue because you truly need to have an eye for a winning product, right?
+And this
+{ts:525} is going to be the Ali and T-Mu method.
 And essentially what this is, you're going into these uh websites,
 {ts:530} aliexpress.com or timu.com, and again, you're just looking for products on these websites that are completely
 {ts:537} untapped and you haven't seen before.
@@ -104,6 +122,10 @@ And you want to get as good
 
 […]
 
+And I was simultaneously testing each of
+{ts:677} these products.
+And so I would film, you know, you know, like two, four, like eight videos in a day, um, every day and
+{ts:684} treating the treating this as like a business even though I wasn't getting any views, right?
 And again, I was
 {ts:689} posting on Tik Tok, Instagram, and YouTube.
 And so right when you have your products in hand and you're testing, you
@@ -130,6 +152,65 @@ And if not, you want to keep testing more concepts to essentially find that one 
 
 […]
 
+And this is one of the products that I started running.
+Um, and and these were
+{ts:805} essentially print on demand Call of Duty canvases.
+You guys probably saw this on your for you page because I got a crap
+{ts:811} ton of views, made a [ __ ] ton of money with it.
+
+[…]
+
+But why?
+But why did this actually started to
+{ts:829} work?
+And so what I noticed from this account is that not only did I start changing the concepts that I was doing,
+{ts:838} right, but I was also integrating new variations of the products, right?
+because with my Call of Duty frames or
+
+[…]
+
+{ts:899} right?
+And so sometimes you're going to be picking a product that's already being ran by multiple people.
+You're
+{ts:903} going to have competition.
+But what me and my student Anthony noticed is that we were picking a product that was
+{ts:910} already being ran by somebody else and had extreme proof of concept because this guy was going absolutely viral and
+
+[…]
+
+And so what we did was we chose a already validated product and then we switched up the
+{ts:920} marketing angle.
+
+[…]
+
+And, you know, this was the first video ever that we posted.
+And
+{ts:931} immediately we got the data like, okay, this is obviously going to work.
+Your first video almost got 10,000 views.
+And
+{ts:937} so we doubled down.
+We started taking the plushy to different stores, continuing to film in public, and, you
+
+[…]
+
+{ts:960} small business.
+And so what we did is we looked at the data and we saw that Tik Tok loved this sort of content.
+And so
+{ts:965} we doubled down on what was already working and we started posting absolutely aggressively.
+So we were
+{ts:969} posting three to four videos a day, but just take a look at the sheer amount of views that we got.
+
+[…]
+
+He read the data and chose a validated product and just simply just switched
+{ts:995} the marketing angle.
+
+[…]
+
+{ts:1005} And so with that being said, this none of this works without consistency, right?
+
+[…]
+
 So number four is going to be consistency, right?
 And so you
 {ts:1014} want to continue running three three to four products at the same time, right?
@@ -142,8 +223,12 @@ And you want to be doing as much
 And so, like I
 {ts:1034} said, consistency is the name of the game.
 None of this works if you're not consistent.
+And so, with that being
+{ts:1038} said, like I told you guys, I was running these three products simultaneously at the same time.
+You
 
 […]
 
 And so, even if it's just one to two hours a day, as long as you're pushing
 {ts:1073} the needle towards success, you'll eventually get a sale.
+Right?

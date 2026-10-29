@@ -1,7 +1,7 @@
 # how to make "f*ck you" money with AI organic dropshipping ...
 
 - URL: https://www.youtube.com/watch?v=0EwzL3Etidg
-- Windows: 53 (first timestamps 0s … 1701s)
+- Windows: 49 (first timestamps 0s … 1701s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -10,19 +10,15 @@ Metadata lines seen:
   ...
   And we need to run at least three products bare minimum or two if you're doing this
   Apply to work 1 on 1 with me this Q4: https://form.typeform.com/to/nuSFV1VM?utm_source=q4
+  DM me on IG: kevin_martins_
   Date: 2026-08-22
   Date: 2026-08-28
   Here's the most important part, testing new AI
+  How My Student Elias Makes $91k/m With Ai: https://youtu.be/8zsX4RwrN84
   If you don't have any primed accounts, try prime them
   In today's
-  Now, the process after finding those proven winners is going to
-  So, if you want to prime up a Facebook, right, what you can go ahead and do is
 
 ---
-We'll probably leak the prods, but uh, dude, like 154K in 3 weeks at 19 is crazy.
-
-[…]
-
 like 400K, 1 million, 200K, like and they're literally all the same videos.
 
 […]
@@ -41,14 +37,13 @@ All right, I'm going to be breaking down exactly how I'm personally going to be 
 Um, if you guys are new here and don't know who I am, my name is Kevin Martins.
 I've done over seven
 {ts:22} figures with ecom uh since the start of my journey, which was actually about two and a half years ago.
-
-[…]
-
+You guys can go
+{ts:26} ahead and watch my first ever video on this channel.
+the first one uh where I'm literally just on a couch talking about,
+{ts:32} you know, my three-month experience with organic.
+Um, and a lot has happened, right?
 We've pivoted from the
 {ts:37} traditional way of filming for products to now fully integrating AI implementation.
-
-[…]
-
 And this video is going
 {ts:43} to be specifically about AI and how I'm going to be personally approaching it this quarter 4 because for all we know,
 {ts:50} this is the first ever quarter 4 with AI, and it's for sure going to be the best.
@@ -531,14 +526,14 @@ And so, for example, uh you know, one of my students actually revived the
 {ts:1152} Instagram, on Facebook that ran this product.
 We essentially ripped the showcase part of the video where they're
 {ts:1157} actually showing the effect of the bloody mat.
-
-[…]
-
+Um, I'll probably pop a video on the screen here for you guys to
+{ts:1163} actually understand what this product is if you don't.
 But essentially what we did is like we ripped all the showcase
 {ts:1168} clips and we introduced new AI concepts that didn't exist exist back in the day because my thought process is this,
-
-[…]
-
+{ts:1175} right?
+A product isn't going to it's never going to be saturated.
+It's usually the marketing angles and the
+{ts:1180} content that uh revolves around that product.
 And so at that time 321s didn't exist.
 At that time run two concepts
 {ts:1187} didn't exist.
@@ -600,6 +595,12 @@ So, inorganic AI
 
 […]
 
+And now AI completely changes
+{ts:1466} that timeline because now you can find a product, create content, go viral, build a store, get your first sale, all within
+
+[…]
+
+So the advantage isn't just AI, but the advantage is speed, right?
 Because the faster you can
 {ts:1480} test, learn, and iterate, the faster you can find a winner.
 
@@ -612,6 +613,8 @@ The the the the testing demon system is that you can get feedback a
 
 […]
 
+And it's
+{ts:1547} not only me that's been doing this.
 I mean if we go into the Discord inside of FSC you guys can see that the wins have
 {ts:1551} been actually insane.
 Today is August 21st and so this win was posted yesterday by Kenny.
@@ -629,15 +632,24 @@ Um, literally the first day on the store.
 And if we keep on scrolling up, we got Mikey here hitting
 {ts:1581} a 3K day.
 Um, we got beginners hitting their first ever $500 day.
-
-[…]
-
+Um, and it, guys, look at this.
+This is just insane.
+{ts:1589} Everyone in here is printing.
 We even have Adam.
 He just did $154,000 in 3 weeks, and he bought his first ever
 {ts:1595} car at 19.
-
-[…]
-
+Um, bro, like it like, bro, are you serious?
+We're going to do a case study on him soon, so be on the
+{ts:1601} lookout for that.
+We'll probably leak the prods, but uh, dude, like 154K in 3 weeks at 19 is crazy.
+And he also cpped
+{ts:1609} his, uh, his AMG, bro.
+This is This is clean, bro.
+little CLE.
+Uh if we keep scrolling up, you know, everyone is just
+{ts:1615} winning in here.
+Constant wins.
+And again, this is all from August.
 This is August 17th, literally a week ago.
 Uh we
 {ts:1622} also got Jake, right?
@@ -646,6 +658,19 @@ Jake went from being one of the biggest sales uh reps for some of the top uh you
 
 […]
 
+This is August 17th, literally a week ago.
+Uh we
+{ts:1622} also got Jake, right?
+Jake went from being one of the biggest sales uh reps for some of the top uh you know,
+{ts:1627} influencers in the space to now fully pivoting to AI and now he's done his first ever $20,000.
+So again, he
+{ts:1633} completely shifted from one business model to another.
+And so you could see how literally anyone can just get on
+{ts:1637} this and start learning it as soon as possible with the right knowledge.
+
+[…]
+
+Like, this is crazy.
 We even have Lepsier shot and
 {ts:1648} manual, bro.
 32K in 7 days.
@@ -653,6 +678,14 @@ Again, this is August 16th, guys.
 Uh, we even have Lars printing.
 Gus already up 25K on the
 {ts:1656} month.
+Moonshots only.
+Shout out Greg.
+Um, and it's crazy.
+It goes on forever.
+It goes on forever.
+We have Vital here
+{ts:1663} doing what, 30K in 15 days.
+So, yeah, it's crazy.
 
 […]
 
@@ -667,6 +700,13 @@ So, if you guys want to join FSC and work one-on-one with me
 {ts:1668} personally, you guys can go ahead and apply in the description below.
 But like I said, it's not only me, you know,
 {ts:1672} working with speed and testing multiple products at a time, like all my students are, too.
+
+[…]
+
+But like I said, it's not only me, you know,
+{ts:1672} working with speed and testing multiple products at a time, like all my students are, too.
+So, this is why we're seeing
+{ts:1677} so many wins in such a short period of time.
 
 […]
 

@@ -1,7 +1,7 @@
 # He Made 200k In One Week With Ai Dropshipping… Here’s How
 
 - URL: https://www.youtube.com/watch?v=2qA7qC_l6_w
-- Windows: 25 (first timestamps 0s … 1135s)
+- Windows: 29 (first timestamps 0s … 1135s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -16,12 +16,32 @@ If you guys want to apply for a creator program, the link will be in the descrip
 
 […]
 
-200k month?
-Yep, 200k.
+So you joined in June and then you hit a $200,000 damn near a week in what?
+
+[…]
+
+It was Yeah, it was like 47k.
+Probably.
 
 […]
 
 {ts:0} $47,000 in a single day.
+How long did it take
+{ts:3} for you to run this product before seeing that?
+It was like the fourth day.
+
+[…]
+
+{ts:15} to another case study.
+Today I got my boy Yo, it's Carden.
+{ts:18} Yes, sir.
+My boy Carden just came up off of a what?
+200k month?
+Yep, 200k.
+{ts:25} That's actually crazy, bro.
+And your highest week with this product was what?
+It's 170.
+{ts:32} $170,000 in one [ __ ] week, which is insane.
 
 […]
 
@@ -31,8 +51,9 @@ Today I got my boy Yo, it's Carden.
 
 […]
 
-It's 170.
-{ts:32} $170,000 in one [ __ ] week, which is insane.
+So,
+{ts:120} I just copied the main competitor of the original niche one-to-one, and then I also took proof of concept from other
+{ts:129} uh variants of that product, and then just applied it to mine, and then it just went viral.
 
 […]
 
@@ -48,6 +69,11 @@ You literally just take proof of concept
 You
 {ts:148} literally just take proof of concept from videos that already went viral, applied it to his and he went viral, and
 {ts:153} he literally made a 200k week from it, right?
+
+[…]
+
+So, I essentially just took proof of concept off of the
+{ts:205} creator product creator niche, and then just applied it to the product that I'm running right now.
 
 […]
 
@@ -105,10 +131,40 @@ He's posting 34 videos a
 
 […]
 
+What made you like pick this business model and like go all in on it?
+{ts:624} For this business model, I got into it cuz I I had I had like no money.
+{ts:630} Uh I only had [music] like 2K in the bank.
+
+[…]
+
+{ts:652} And then look, I tried crypto for a little bit, and then I lost all my money in that, too.
+Yeah.
+And then I
+{ts:658} I had 2K left.
+And I was like, "Yeah, I'm just going to I'm going to try try organic cuz I see
+{ts:665} low start-up costs, and it seemed pretty simple.
+Yeah.
+100% it's very simple.
 I always tell
 {ts:671} beginners that you literally sit there and just post AI videos promoting a product for completely free.
 Like,
 {ts:675} there's not anything that goes into it, and you don't got to like spam stores or anything.
+Like, if something doesn't
+{ts:681} work, you just stop running the product, and you're on to the next.
+There's literally no cost to this business model
+{ts:686} at all, which is insane.
+So, definitely the best opportunity for you guys.
+Um Um, another thing is I feel like I hear
+{ts:692} this a lot where people say they tried different business models and they never worked and they kind of pivoted it to
+{ts:696} organic.
+How long did it take after pivoting to organic drop shipping before you actually see some results?
+{ts:703} Started back in 2025 in November actually.
+gosh, you might be cooked brother.
+{ts:710} So I did a 10K month.
+And then I got hella complacent cuz I was in high school at the time.
+Low key
+{ts:717} I was falling behind hella.
+So cuz I was low key skipping a lot and I just had to get that year through.
 
 […]
 
@@ -132,8 +188,9 @@ But I did a 10K month and then I got hella complacent cuz I was in high school a
 
 […]
 
-How long did it take after pivoting to organic drop shipping before you actually see some results?
-{ts:703} Started back in 2025 in November actually.
+But up until AI came around is is around the time I started making
+{ts:751} money.
+Yeah, when you started to like kind of lock back in.
 
 […]
 
@@ -147,6 +204,7 @@ What made you even go with MDM with all these AI organic drop shipping mentorshi
 I saw you earlier in 2026 start 2026.
 And what made me have conviction in the
 {ts:812} mind of the mentorship was I seen you had the most value in AI and I seen and I low-key had conviction in
+{ts:820} AI cuz I knew AI was going to be the future of everything and it's going to, you know, print, make a hell of printers
 
 […]
 

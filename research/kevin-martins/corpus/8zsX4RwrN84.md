@@ -1,7 +1,7 @@
 # How He Made $91k in 30 Days With AI Organic Dropshipping (Product Revealed)
 
 - URL: https://www.youtube.com/watch?v=8zsX4RwrN84
-- Windows: 65 (first timestamps 4s … 2335s)
+- Windows: 72 (first timestamps 0s … 2335s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -23,7 +23,8 @@ because organic has been my whole life for 3 years now.
 
 […]
 
-And the the smallest size was at like $90.
+But around 150k in 6 months?
+Not even 6 months.
 
 […]
 
@@ -31,10 +32,16 @@ You nailed the background,
 
 […]
 
-Around 60%.
+{ts:0} YouTube, what is good?
+Welcome back to another case study on the channel.
+{ts:4} Today, we're back with Mr. Elias here.
+He just hit a $91,000 month, 30k week, and 10k day, okay?
+So,
+{ts:14} if you guys don't know who Elias is, this guy is a printer, certified printer.
 
 […]
 
+Welcome back to another case study on the channel.
 {ts:4} Today, we're back with Mr. Elias here.
 He just hit a $91,000 month, 30k week, and 10k day, okay?
 So,
@@ -130,6 +137,18 @@ Well, I think I did in 6 months I I did
 
 […]
 
+Well, I think I did in 6 months I I did
+{ts:294} over 150k, maybe more.
+But around 150k in 6 months?
+
+[…]
+
+{ts:304} Yeah, yeah.
+Less than 6 months.
+150k with I think around 65% margins, bro.
+
+[…]
+
 {ts:322} what product was he running?"
 So if you want to go ahead and reveal what exactly got you to this 91k month,
 
@@ -140,6 +159,35 @@ So if you want to go ahead and reveal what exactly got you to this 91k month,
 
 […]
 
+So here is the dashboard.
+{ts:341} So in 1 month, from March to April, 91k a month.
+That's insane, bro.
+Can do a refresh for
+{ts:349} the haters?
+Yes, sir.
+Let's see it.
+{ts:359} Bang.
+Boom.
+Bang.
+{ts:361} Okay.
+Yeah.
+That's insane, bro.
+91k, 862 orders.
+Uh
+{ts:366} any highlights that that month?
+9.8, almost a 10k day the first day of
+{ts:373} dropping the website.
+First day of dropping the website?
+Yeah, and it was like no joke, it was
+{ts:379} the second day of testing the product.
+Right.
+Like I made money right away with this
+
+[…]
+
+Can you see my screen?
+Yes, I can.
+Yes.
 So here is the dashboard.
 {ts:341} So in 1 month, from March to April, 91k a month.
 
@@ -158,6 +206,12 @@ Yeah, and it was like no joke, it was
 {ts:379} the second day of testing the product.
 Right.
 Like I made money right away with this
+{ts:384} product.
+And it was just crazy, like hitting every day like 3k, 2k, 1.9, 3, 2.
+
+[…]
+
+{ts:396} Yeah, and then I did a 7k, 8k day.
 
 […]
 
@@ -222,9 +276,7 @@ Harper was the first ever one to run a resin organically.
 But then after that,
 {ts:521} you were the one to run it with AI back in, you know, March, right?
 When you when you first kind of pioneered this.
-
-[…]
-
+{ts:526} So, yeah, bro.
 Kind of go over like your process of finding the product, testing it.
 What made you go with Lord of the
 {ts:533} Rings, right?
@@ -244,6 +296,17 @@ Okay.
 
 […]
 
+{ts:598} They're pretty like they're not that young like they're around 30 years old.
+So they have money.
+{ts:605} And they're super super passionate.
+Like insanely passionate.
+As soon as they see something linked with the niche, it goes
+{ts:612} instantly viral.
+So I knew I had to do something.
+
+[…]
+
+Like insanely passionate.
 As soon as they see something linked with the niche, it goes
 {ts:612} instantly viral.
 So I knew I had to do something.
@@ -267,11 +330,67 @@ On on organic, of course.
 
 […]
 
+I saw the product.
+It looked super good.
+And I
+{ts:619} was like, yeah, I think I can pull this off with AI.
+And I just had to
+{ts:624} So I looked at Harper's account.
+I saw uh the the content that he was making.
+{ts:631} And it was mostly so stitch clips.
+And I was like, yeah, I can do this with AI.
+So I just had to replicate his most
+{ts:638} viral video but take the best part of his videos and implement uh the best part of my niche.
+{ts:645} So the sounds and the environment and the text hook.
+Mhm.
 {ts:651} And literally that the second day, bro, blew up.
 I hit like 8 million views on IG.
 {ts:659} Like that that that was never been done before with AI.
 On on organic, of course.
 Right.
+{ts:664} With an organic Like now it's been the record has been done again but
+
+[…]
+
+And I was like, yeah, I can do this with AI.
+So I just had to replicate his most
+{ts:638} viral video but take the best part of his videos and implement uh the best part of my niche.
+{ts:645} So the sounds and the environment and the text hook.
+Mhm.
+{ts:651} And literally that the second day, bro, blew up.
+I hit like 8 million views on IG.
+{ts:659} Like that that that was never been done before with AI.
+On on organic, of course.
+Right.
+{ts:664} With an organic Like now it's been the record has been done again but
+{ts:669} Yeah.
+At the time, bro, 8 million views was just crazy.
+{ts:673} Yeah, for AI for 100% AI video creation, bro, it's insane.
+Like you you were one of the first or the first on Instagram
+{ts:680} to blow up like that.
+
+[…]
+
+What do you think?
+Uh I think it's the definitely the niche.
+A
+{ts:701} really high converting niche.
+Since it's a kind of high ticket product.
+Right.
+How much you How much were you
+{ts:707} selling it for?
+Uh so I think
+{ts:711} like all products had three sizes.
+And the the smallest size was at like $90.
+Right.
+{ts:719} And the biggest was at like 180.
+Oh, wow.
+And everyone was taking the biggest
+{ts:725} size.
+Really?
+Yeah, everyone, bro.
+And I had like some
+{ts:729} crazy orders, like 1K orders, things like that.
 
 […]
 
@@ -283,22 +402,6 @@ Or were you just kind of like looking at, you know,
 How were you getting your ideas?
 So, I
 {ts:790} I was looking at So, first when I start a product, my method is to first replicate the most viral content
-
-[…]
-
-How were you getting your ideas?
-So, I
-{ts:790} I was looking at So, first when I start a product, my method is to first replicate the most viral content
-{ts:800} out there.
-So, I took the videos from Harper.
-Since he was kind of
-{ts:805} the only one running a product like that in organic.
-And then
-{ts:812} I was looking at small businesses.
-Okay.
-
-[…]
-
 {ts:800} out there.
 So, I took the videos from Harper.
 Since he was kind of
@@ -312,6 +415,11 @@ Because they are the definition of
 {ts:832} organic content.
 You know, like they don't have the the the everything we know with organic,
 {ts:839} they make real content like really human content, relatable content.
+And they're just the best for for inspiration.
+{ts:847} And I had a burner uh really optimized in that niche and
+{ts:854} especially in all the dark fantasy, Lord of the Lord of the Ring uh
+{ts:861} every niche that kind of falls into this.
+And where people were just like
 
 […]
 
@@ -386,15 +494,6 @@ I remember you were doing you were doing this on Instagram
 You were split testing the crap out of this, right?
 Yeah.
 Yeah.
-
-[…]
-
-{ts:980} This is a crazy concept.
-I remember you were doing you were doing this on Instagram
-{ts:984} specifically.
-You were split testing the crap out of this, right?
-Yeah.
-Yeah.
 Yeah.
 Yeah.
 
@@ -441,6 +540,12 @@ You know, in 1 hour and a half.
 
 […]
 
+{ts:1038} little bit.
+This is especially for IG and Facebook.
+Uh tweak a little bit my videos like
+{ts:1044} just change maybe a word or an emoji in the text hooks.
+Uh or maybe the sound and you know, try
+{ts:1051} to find the perfect formula.
 Like where this video will blow up.
 And I always do this.
 So, I always like
@@ -452,9 +557,11 @@ So, I like this
 You know, in 1 hour and a half.
 {ts:1078} And I mean I've done that on my for the project that I that I was running on my last
 {ts:1084} case study.
-
-[…]
-
+Mhm.
+And this is how I got my biggest day.
+I
+{ts:1089} think it was 13k a day or 14k a day.
+Yeah.
 {ts:1093} It was actually a video on Facebook that was getting I think 60k views every time I was
 {ts:1100} posting it.
 A special hook that was like getting 60k views, 60k views.
@@ -476,12 +583,9 @@ And I think that split testing is one of the most powerful things that you could
 It's literally a money glitch once you know how to, you
 {ts:1188} know, do it, because you're not really, you know, having to, you know, film the video.
 {ts:1194} Well, technically, you you are supposed to re-film a video every time you split test, but on Facebook, where you know
-
-[…]
-
-{ts:1194} Well, technically, you you are supposed to re-film a video every time you split test, but on Facebook, where you know
 {ts:1199} how it is, bro, you could genuinely just be reusing clips, you know, upload the same video after 2 days and still get
 {ts:1204} views.
+So, I say I would say Facebook has a massive part into, you know, the money that you made, but also Instagram
 
 […]
 
@@ -492,6 +596,43 @@ Like, use this as a way to double the input,
 not the output, yeah.
 Double the input.
 So, you you will instead of making just
+
+[…]
+
+Like, use this as a way to double the input,
+{ts:1250} Yeah.
+not the output, yeah.
+Double the input.
+So, you you will instead of making just
+{ts:1254} four videos, you will be making eight a day.
+Yeah.
+{ts:1256} Yeah, and you can have multiple like winning videos, right?
+
+[…]
+
+{ts:1256} Yeah, and you can have multiple like winning videos, right?
+Like, you could have like you could have a creation
+{ts:1262} process video that you split test it to perfection and it's printing you money consistently.
+Then you can have like a
+{ts:1266} run two concept, and then you can maybe have another one that's more of like a contrast, right?
+
+[…]
+
+To help AOV.
+So, if you had a guess or if you know the exact number, um
+{ts:1299} you know, what was the profit margin on on these resins?
+Around 60%.
+{ts:1303} 60%?
+Around 60% yeah.
+Uh and by the way, I don't know if you
+{ts:1307} remember, but you helped me a lot on this.
+Yes.
+{ts:1310} Uh also the the conversion rate.
+Yep.
+I remember we ABCD tested your your
+{ts:1317} product page, bro.
+Exactly.
+Uh so, you told me to make some AB tests
 
 […]
 
@@ -507,13 +648,29 @@ And then, I just looked at what was
 
 […]
 
+I was testing
+{ts:1344} everything.
+I left it for a week or 10 days to gather data.
+And then, I just looked at what was
+{ts:1352} giving me the best AOV and the best conversion rate.
+And yeah, bro.
+I mean, I think my
+{ts:1359} my conversion rate was like at 0.2 at the beginning.
+Bro.
+{ts:1363} Like, the first day where and I managed to do a 10K day.
+So, imagine this with the 0.7
+{ts:1369} Right.
+conversion rate.
+
+[…]
+
+Do you want to talk about that?
+How Don't talk about like who, but talk
 {ts:1470} about how you were essentially helping people run unsourceable variants that evidently made crazy money because
 {ts:1480} you couldn't just source it on Ali.
 So, there was two phases for that.
 {ts:1486} The first phase was actually uh I was um sourcing them from a factory in Vietnam.
-
-[…]
-
+Mhm.
 {ts:1497} And this factory in Vietnam was actually hand making them.
 Right.
 {ts:1502} Uh and they were shipping it to China because they're they're close to each
@@ -523,9 +680,28 @@ Shipping it to China to my private supplier and then he he was taking care
 So, yeah, this was the first wave and
 {ts:1518} then after this private supplier got smart and was like, "Okay, now I need to be
 {ts:1526} making the custom variation myself."
+And I I was actually talking with him about this, bro, because like
+{ts:1534} Yeah, you know who who I'm talking about, but we're talking often, bro.
+Like he's he's
+{ts:1538} a friend now.
+Right.
+Like he's really a friend.
+{ts:1541} And yeah, I mean, he upgraded all the quality of his lamps.
 
 […]
 
+And I was just helping him out, you
+{ts:1547} know, so I was sending his contact to everybody running lamps and I was like, "Yeah,
+{ts:1552} tell them tell him I I sent you."
+So, now he got a lot of customers thanks to me and now we have a super good
+{ts:1560} relationship, bro.
+
+[…]
+
+Last time we literally like on a on my
+{ts:1565} new product, we were having a hard time to find a good variation to source.
+{ts:1569} Yeah.
+And we legit talked, I think, 35 minutes straight on WhatsApp on messages, like
 {ts:1577} him and me going back and forth trying to find the the perfect supplier, you know.
 
 […]
@@ -605,6 +781,9 @@ Uh it worked pretty pretty fast for me.
 Yeah, yeah.
 No, no.
 Bro, I'm telling you like you're a glitch.
+Like having
+{ts:1735} someone picking the products that you're selecting and then especially Kevin not selecting like just dumb products
+{ts:1741} and really like seeing the long-term vision on the product, it's it's a glitch.
 
 […]
 
@@ -630,9 +809,9 @@ Like uh in the Discord, we teach
 {ts:1774} uh you teach the the the the workflow.
 Mhm.
 And it's pretty easy to learn, honestly.
-
-[…]
-
+{ts:1779} Right.
+And yeah.
+it, too, bro.
 You're a coach now, so you
 {ts:1781} also help a lot.
 You also help a lot.
@@ -643,11 +822,24 @@ You're a big piece to this puzzle,
 
 […]
 
+Yeah, you guys kind of like cracked the
+{ts:1791} code in terms of like automating the whole process, the workflow, right?
+You were also doing a lot of traveling, as
+{ts:1795} well.
+Like you went to Marbella, you know, for a couple days, just life maxing a little bit and also printing.
+
+[…]
+
 And you were like, "No, bro.
 Like just wait."
 {ts:1837} And you were right because afterward, bro, you know, the rest is history.
 {ts:1844} But But yeah, I mean and yeah, for this product, I was more comfortable.
 I was making the videos in advance.
+
+[…]
+
+Like the 30K week, I
+{ts:1887} was in the South of France.
 
 […]
 
@@ -667,24 +859,53 @@ And that's like one of
 
 {ts:1943} generally hop on a product same day, cook up a website, get your first ever sale,
 {ts:1948} um and genuinely print all in 24 hours, right?
+Without ever physically touching the product, you know?
+{ts:1953} Yeah.
 
 […]
 
+It's It's a dream, bro.
+Like it was it's
 {ts:1957} it's literally like the perfect dream for for an organic drop shipper like 1 year ago, bro.
 
 […]
 
 Like, so Bro, I found the product and the same day at night, I was already
 {ts:1969} prepared with three videos to post.
+Yeah.
+Yeah.
+
+[…]
+
+Imagine like only paid ads, guys.
+That's what I'm saying.
+It's like almost
+{ts:1977} all the benefits of paid ads, but just more profit, you know?
+
+[…]
+
+Uh every everyone in here is is here for the same goal.
+{ts:2049} Like, no one is lazy.
+Everyone is working.
+Everyone is locked in.
+If you need something, there will be
+{ts:2055} always someone replying.
+And even before I made money, uh I met some legit friends, bro, in the
+{ts:2062} server.
+Yeah.
+Yeah.
+Like, I let I met some legit
+{ts:2065} friend that I talk to every day.
+We call every day.
+And we just want to meet up.
+{ts:2070} But, the the the structure of the server uh is really good.
 
 […]
 
 {ts:2110} Kevin is genuinely deep diving into your accounts, looking at what is working, what is not.
 He's helping you, he's
 {ts:2117} giving uh new accounts, like other competitors or other concepts that you should be trying.
-
-[…]
-
+{ts:2125} And I don't know how you do it, but bro, you remember the the the products of every single product of every single uh
 {ts:2131} students.
 You know?
 And yeah, even the the group calls, bro,
@@ -701,6 +922,17 @@ And even like, that's crazy how even the beginners are teaching you sometimes.
 
 […]
 
+You know?
+And yeah, even the the group calls, bro,
+{ts:2135} we have we have three group three calls a week.
+Yeah, three group calls a week now.
+{ts:2140} Three group calls a week, bro.
+And the group calls are super good.
+Like, super super good.
+Like, we're
+{ts:2146} every time we're like going over a subject, having a a Q&A at the end.
+Everyone is talking, everyone is sharing
+{ts:2153} some sauce.
 And even like, that's crazy how even the beginners are teaching you sometimes.
 {ts:2160} Yeah.
 Like, like the uh Omar.

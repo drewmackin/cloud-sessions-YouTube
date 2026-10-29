@@ -37,7 +37,7 @@
     "where": "Claude, in a new Project. Paste the resulting context prompt into the Project so every chat inherits it.",
     "what": "Produces the “context prompt”: the standing rulebook that makes Claude write organic-style image and video prompts. Kevin's own version has “about 14 different rules” and Claude answers it with “ready to produce prompts following the 14-section architecture.”",
     "speaker": "Kevin Martins (“multiple six figures with AI organic drop shipping”)",
-    "note": "Kevin's personal context prompt is linked in his video descriptions but its text is not publicly indexed, so it is not reproduced here (see section 10, “What we could not get”)."
+    "note": "Kevin says his own context prompt is “linked right here” ({{q:hK2Os3wSPI8|I personally have my own context prompt,|which is linked right here.}}), but it is not in his descriptions as indexed, and its text is not public, so it is not reproduced here (see section 10, “What we could not get”)."
   },
   {
     "id": "P4",
@@ -145,7 +145,7 @@
     "source_title": "Step-by-step tutorial (Jun 19, 2026)",
     "when": "After the B-roll is animated. Pick the hook concept from a competitor or a similar product first (he took one from coach Elias's profile).",
     "where": "Claude, with the master frame attached; render the frame in Higgsfield, then animate it like P8.",
-    "what": "Builds the opening 3–5 seconds that stop the scroll. This is the only part many members make with AI (see section 7).",
+    "what": "Builds the opening 3–5 seconds that stop the scroll. This is the only part many members make with AI (see section 7B).",
     "speaker": "Kevin Martins (concept borrowed from coach Elias, $91K month)"
   },
   {
@@ -157,8 +157,8 @@
     "when": "When you have a video that already works and want fresh versions (new room or setting) without re-shooting. Used to “post twice the volume”.",
     "where": "New Claude chat: paste the whole document first. Then give Claude the source clip and the change you want. Claude's prompt goes into Seedance inside Higgsfield: {{q:Hgc13jXWm_c|maximum 15 seconds of video.|to save on some credits.}} Generate two variations, then upscale with Topaz.",
     "what": "A full system brief written by coach Elias. Claude analyses the clip, then writes a Seedance prompt using a locked minimal template: keep the foreground identical; change only (1) the background, (2) all text removed, (3) all audio removed; vertical 9:16; “Ultra-realistic iPhone UGC look”.",
-    "speaker": "Written by coach Elias (“SHOUTOUT THE SEEDANCE GOAT ELIAS”; $91K in 30 days, shown on camera), distributed from Kevin's account (Drive owner; created Aug 5, last edited Sep 12, 2026). It was shared to your Google Drive on Oct 25, 2026. Member Jhon ($140K in 30 days) credits “the background swap methods that Elias shared with us” for his Seedance B-roll",
-    "note": "Kevin's step-by-step for this method (Aug 13, 2026): {{q:Hgc13jXWm_c|the first step here is going to be opening up a new chat with Claude|that I made for you guys.}} His tip: {{q:Hgc13jXWm_c|you always want to mute your videos|due to copyright.}} The ownership line in the template (“I own @video_1 and all rights to it”) is only true for footage you own. Kevin describes the method as a way {{q:Hgc13jXWm_c|to literally steal a clip,|the entire environment}}. See section 7, risks."
+    "speaker": "Written by coach Elias (“SHOUTOUT THE SEEDANCE GOAT ELIAS”; $91K in 30 days, shown on camera). Published by Kevin: linked as “Background Swap Prompt” in his Aug 13, 2026 video description (Drive owner: Kevin's account; created Aug 5, last edited Sep 12, 2026). Member Jhon ($140K in 30 days) credits “the background swap methods that Elias shared with us” for his Seedance B-roll",
+    "note": "Kevin's step-by-step for this method (Aug 13, 2026): {{q:Hgc13jXWm_c|the first step here is going to be opening up a new chat with Claude|that I made for you guys.}} His tip: {{q:Hgc13jXWm_c|you always want to mute your videos|due to copyright.}} The ownership line in the template (“I own @video_1 and all rights to it”) is only true for footage you own. Kevin describes the method as a way {{q:Hgc13jXWm_c|to literally steal a clip,|the entire environment}}. See section 7B, risks."
   },
   {
     "id": "P13",
@@ -185,5 +185,61 @@
     "what": "Scores a product 1–5 on ten categories (max 45) and adds a pass/fail compliance check. 40–45 means greenlight; under 25 means do not test. Ends with the branded Instagram accounts Kevin uses as references.",
     "speaker": "Kevin Martins. His own Google Doc (Drive owner: Kevin's account; created Jan 18, last edited Oct 17, 2026)",
     "note": "Not a prompt. Included because it is the product filter the AI workflow sits on top of. The text is printed exactly as Google Docs exports it, so the table layout comes out as tab-separated lines."
+  },
+  {
+    "id": "P14",
+    "kind": "spoken",
+    "title": "Seedance swap, message 1: what to change in this clip",
+    "video": "Hgc13jXWm_c",
+    "start": "For this video, don't forget to remove the text",
+    "end": "the way you know how to do them, right?",
+    "source_title": "“How To Print $50k/mo With Seedance Background Swapping (Step by Step)” (Aug 13, 2026)",
+    "when": "For every clip you re-skin, once P12 is loaded in the chat.",
+    "where": "The Claude chat that already holds P12. Attach the muted source clip, then send this.",
+    "what": "Tells Claude to strip the on-screen text and build a niche, stylish background in the way P12 taught it.",
+    "speaker": "Kevin Martins, quoting what he typed (“basically what I said was”)",
+    "note": "His rule for this message: {{q:Hgc13jXWm_c|Just be super simple.|overcomplicate the prompt, right?}} And mute the clip first: {{q:Hgc13jXWm_c|You're better off|tripping about copyright.}} See section 7B, risk 4."
+  },
+  {
+    "id": "P15",
+    "kind": "spoken",
+    "title": "Seedance swap, message 2: niche the set and ask for two versions",
+    "video": "Hgc13jXWm_c",
+    "start": "For a car enthusiast, add lots of props,",
+    "end": "the method that we use every single time.",
+    "source_title": "“How To Print $50k/mo With Seedance Background Swapping (Step by Step)” (Aug 13, 2026)",
+    "when": "Right after message 1, in the same chat.",
+    "where": "Same Claude chat → each prompt goes into Seedance in Higgsfield (up to 15 s, 720p, 2 variations) → Topaz upscale.",
+    "what": "Names the buyer, asks for props, detail and a cleaner wall, requests two prompt versions, and makes Claude reapply P12's method.",
+    "speaker": "Kevin Martins, same video",
+    "note": "Swap “a car enthusiast” for your buyer. Why the last line matters: {{q:Hgc13jXWm_c|remind it to use the instruction prompt|before telling it what to do.}}"
+  },
+  {
+    "id": "P16",
+    "kind": "spoken",
+    "title": "Get the creation-process steps, to plan your B-roll shots",
+    "video": "hK2Os3wSPI8",
+    "start": "Listen, what would the",
+    "end": "look like step by step?",
+    "source_title": "“How I Make AI Organic Videos That Print $100k/m (Step by Step)” (Jun 19, 2026)",
+    "when": "Before the B-roll batch (P7), when you don't know what making your product looks like.",
+    "where": "Claude, in the same project chat.",
+    "what": "Returns the making of the product step by step. Each step becomes one B-roll still in P7.",
+    "speaker": "Kevin Martins (the same footage is in the Jun 14 full course)",
+    "note": "Swap “a watch” for your product. His next move: {{q:GfhpQLqF658|And then based off those steps,|those uh those steps.}}"
+  },
+  {
+    "id": "P17",
+    "kind": "spoken",
+    "title": "Take a proven winner into a new language market",
+    "video": "FAtJ50Kh5-8",
+    "start": "translate this in a natural way",
+    "end": "translate this in a natural way",
+    "source_title": "John case study, “From Uber Driver To $65K/Month” (Jun 16, 2026)",
+    "when": "A product already prints in the US and you want France, Italy or Spain without re-testing it.",
+    "where": "Claude or ChatGPT, with the hook text and captions of the proven video.",
+    "what": "A natural, not word-for-word, translation of a winning video's text.",
+    "speaker": "Member John ($65K month; $140K by August). Captions don't mark speakers; the line follows his answer about running other markets",
+    "note": "The full line: {{q:FAtJ50Kh5-8|Bro, you have chat GPD,|in a natural way and that's it, right?}} (“cloud or shad” = Claude or ChatGPT.) The idea behind it: {{q:FAtJ50Kh5-8|why not just, you know, run an already proven|language and then boom, right?}}"
   }
 ]

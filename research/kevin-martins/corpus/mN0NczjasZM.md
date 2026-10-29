@@ -1,7 +1,7 @@
 # 45 Minutes Of Answering The Biggest Organic Dropshipping Questions
 
 - URL: https://www.youtube.com/watch?v=mN0NczjasZM
-- Windows: 28 (first timestamps 2s … 2733s)
+- Windows: 38 (first timestamps 0s … 2733s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -13,9 +13,7 @@ Metadata lines seen:
   Watch My Free 4 Hour Course Next:  https://youtu.be/nHNvGESHZGY
 
 ---
-Like,  it's  not  hard.
-Reach  out  to
- them  or  just  delegate  that  to  your  team.
+at  50  to  70%  margins,  um  it  would  be  a
 
 […]
 
@@ -24,14 +22,15 @@ Do  you
 
 […]
 
-Just  confirm  with  them,
-
-[…]
-
 without?
 
 […]
 
+So,  do
+
+[…]
+
+{ts:0} YouTube,  what's  up?
 Welcome  back  to
 {ts:2} another  video  on  the  channel.
 This  one's
@@ -49,6 +48,13 @@ Some  of  the  biggest
 
 […]
 
+{ts:39} hey,  ask  me  the  biggest  questions  when
+ it  comes  to  organic  drop  shipping,
+{ts:42}
+ anything,  and  I'll  answer  it  in  this
+
+[…]
+
 {ts:55} Uh,  my  name  is  Kevin  Martins.
 I've  done
  over  half  a  million  with  organic  drop
@@ -61,6 +67,10 @@ Live  here
 {ts:65}
  in  Miami.
 I'm  23  years  old  and  I  think  I
+
+[…]
+
+{ts:88} amount  on  the  Instagram  as  well.
 
 […]
 
@@ -111,7 +121,60 @@ If  you're  talking  like
 
 […]
 
+I  have  my  team  do  it  for
+{ts:552} me.
+
+[…]
+
+He's  pretty  [ __ ]  good  at
+{ts:556}
+ handling  chargebacks.
+He's  actually  won
+{ts:558} a  lot  of  cases  for  me,  but  like  I  said,
+ most  of the  time  I  do  lose  them  because
+{ts:561}
+ we're  drop  shipping  guys,  right?
+And  we
+
+[…]
+
+{ts:575} "Hey,  we  can  resend  you  a  new  product
+ or,  you  know,  we  can  go  ahead  and  give
+{ts:579}
+ you  a  full  refund,  but  please  don't
+{ts:581} dispute.
+please  don't  charge  back
+ because  then  they're  going  to  charge  us
+{ts:585}
+ that  like  hefty  fee  from  the  bank  and
+{ts:587} you're  sometimes  having  to  pay  double
+ which  is  so  ass.
+So  yeah,  to  handle  it,
+{ts:593}
+ make  sure  you  come  up  with  a  good  case,
+{ts:595} delegate  that  process  to  uh  your  your
+ customer  support  team.
+Uh  but  most
+{ts:599}
+ importantly,  just  don't  get  to  that
+{ts:601} point  where  you're  getting  chargebacks,
+ right?
+So,  talk  to  your  suppliers  about
+{ts:604}
+ shipping  times,  quality,  and  most
+{ts:606} importantly,  right,  when  you're  getting
+ orders  and  it  says,  you  know,  um  the
+{ts:610}
+ that  the  location  might  be  wrong,
 {ts:612} actually  email  the  customer  and  confirm.
+I'm  telling  you,  this  has  saved  my  ass
+{ts:615}
+ so  many  times.
+Just  confirm  with  them,
+{ts:618} bro.
+Like,  it's  not  hard.
+Reach  out  to
+ them  or  just  delegate  that  to  your  team.
 
 […]
 
@@ -128,10 +191,63 @@ If  you  post  twice  a  day,  if  you're
 
 […]
 
+{ts:951} when  it  comes  to  Facebook  organic
+ because  you're  able  to  literally  split
+{ts:955}
+ test  videos,  repost  videos,  steal  clips,
+{ts:957} everything,  and  go  insanely  viral  if  you
+ have  a  primed  Facebook  account.
+So,  if
+{ts:961}
+ you  guys  haven't  got  on  this,  get  on  it.
+
+[…]
+
+And  so,  really,  you  should  be
+ leveraging  that  platform  to  make  you
+{ts:990}
+ money.
+
+[…]
+
+{ts:997} of  concept  demand,  order  the  [ __ ]
+ sample  and  then  start  testing,  right?
+
+[…]
+
+And  simply
+{ts:1020}
+ by  just  finding  accounts  that  never
+
+[…]
+
+{ts:1029} those  really  viral  videos,  bro,  just
+ toss  them  onto  Facebook  because  more
+{ts:1031}
+ than  likely  that  person  never  posted  on
+{ts:1034} Facebook  reels  because  back  in  the  day,
+ nobody  really  knew  the  method.
+Nobody
+{ts:1037}
+ really  knew  about  Facebook  reels.
+
+[…]
+
+So  now,  take  advantage
+{ts:1047} of  the  opportunity.
 Don't  be  so  ignorant
  and  start  testing  your  ass  off  on
 {ts:1051}
  Facebook.
+Ideally,  prime  up  an  account,
+
+[…]
+
+It  took  me  literally  over  30  videos
+{ts:1420}
+ until  I  actually  pred  my  Facebook
+{ts:1422} account,  which  now  gets  like  800,000
+ views  per  video,  right?
 
 […]
 

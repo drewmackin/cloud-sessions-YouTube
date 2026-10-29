@@ -8,9 +8,13 @@ those results (no retyping), splits each YouTube hit into its contiguous transcr
 windows that are exact duplicates or fully contained in a longer one, and writes
 research/kevin-martins/corpus/<videoId>.md with the windows ordered by their first timestamp.
 Windows are separated by a line containing only "[…]" so a quote can never silently span a gap.
+
+Results that are not YouTube videos (forums, review sites, social posts) are kept the same way, as the
+page text Perplexity returned, in corpus/web/<key>.md, with corpus/web/index.json mapping key → URL.
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
@@ -18,6 +22,8 @@ from collections import defaultdict
 from pathlib import Path
 
 OUT = Path(__file__).resolve().parents[1] / "corpus"
+WEB = OUT / "web"
+META = OUT / "meta"
 RESULT_HEAD = re.compile(r"^\d+\. \*\*(.+?)\*\*\s*$")
 URL = re.compile(r"^\s*URL: (\S+)")
 VIDEO_ID = re.compile(r"(?:v=|youtu\.be/|/shorts/|/live/)([\w-]{11})")
@@ -62,7 +68,7 @@ def split_results(payload: str):
         if head:
             if current:
                 yield current
-            current = {"title": head.group(1), "url": "", "lines": [], "in_transcript": False, "meta": []}
+            current = {"title": head.group(1), "url": "", "lines": [], "in_transcript": False, "meta": [], "body": []}
             continue
         if current is None:
             continue
@@ -80,6 +86,7 @@ def split_results(payload: str):
             current["lines"].append(line)
         else:
             current["meta"].append(line.strip())
+            current["body"].append(line.rstrip())
     if current:
         yield current
 
@@ -108,8 +115,21 @@ def first_ts(window: str) -> float:
     return float(m.group(1)) if m else -1.0
 
 
+def web_key(url: str) -> str:
+    host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+    path = re.sub(r"[^\w]+", "-", url.split(host, 1)[-1]).strip("-")[:40]
+    return f"{re.sub(r'[^\w]+', '-', host)}-{path}-{hashlib.sha1(url.encode()).hexdigest()[:6]}".replace("--", "-")
+
+
+def dedupe(ws: list[str]) -> list[str]:
+    flats = [flat(w) for w in ws]
+    return [w for i, w in enumerate(ws)
+            if not any(i != j and flats[i] in flats[j] and (len(flats[j]) > len(flats[i]) or j < i) for j in range(len(ws)))]
+
+
 def main(paths: list[str]) -> int:
-    per_video: dict[str, dict] = defaultdict(lambda: {"titles": set(), "meta": set(), "windows": set()})
+    per_video: dict[str, dict] = defaultdict(lambda: {"titles": set(), "meta": set(), "windows": set(), "desc": []})
+    per_page: dict[str, dict] = defaultdict(lambda: {"titles": set(), "url": "", "windows": set()})
     payloads = 0
     for p in paths:
         for payload in perplexity_payloads(Path(p)):
@@ -117,13 +137,28 @@ def main(paths: list[str]) -> int:
             for result in split_results(payload):
                 m = VIDEO_ID.search(result["url"])
                 if not m or "youtube.com" not in result["url"] and "youtu.be" not in result["url"]:
+                    if result["url"].startswith("http"):
+                        page = per_page[web_key(result["url"])]
+                        page["url"] = result["url"]
+                        page["titles"].add(result["title"])
+                        page["windows"].update(windows(result["body"]))
                     continue
                 vid = m.group(1)
                 entry = per_video[vid]
                 entry["titles"].add(result["title"])
                 entry["meta"].update(x for x in result["meta"] if x and len(x) < 300)
+                for x in result["body"]:
+                    if x.strip() and x not in entry["desc"]:
+                        entry["desc"].append(x)
                 for w in windows(result["lines"]):
                     entry["windows"].add(w)
+                if not result["lines"]:
+                    # Some results carry the transcript without a "### Transcript" header. Keep those caption
+                    # windows too, but only ones with a timestamp marker, so description text never passes as speech.
+                    body = [x for x in result["body"] if not x.lstrip().startswith(("#", "URL:", "Date:"))]
+                    for w in windows(body):
+                        if TS.search(w) and "http" not in w:
+                            entry["windows"].add(w)
     OUT.mkdir(parents=True, exist_ok=True)
     total_windows = 0
     for vid, entry in sorted(per_video.items()):
@@ -143,7 +178,22 @@ def main(paths: list[str]) -> int:
                   "- Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs",
                   "", "Metadata lines seen:", *[f"  {m}" for m in sorted(entry["meta"])[:12]], "", "---", ""]
         (OUT / f"{vid}.md").write_text("\n".join(header) + "\n\n[…]\n\n".join(keep) + "\n", encoding="utf-8")
-    print(f"{payloads} search payloads → {len(per_video)} videos, {total_windows} windows → {OUT}")
+    META.mkdir(parents=True, exist_ok=True)
+    for vid, entry in sorted(per_video.items()):
+        if entry["desc"]:
+            (META / f"{vid}.txt").write_text("\n".join(entry["desc"]) + "\n", encoding="utf-8")
+    WEB.mkdir(parents=True, exist_ok=True)
+    index = {}
+    for key, page in sorted(per_page.items()):
+        keep = dedupe(sorted(page["windows"], key=len, reverse=True))
+        index[key] = {"url": page["url"], "title": sorted(page["titles"])[0]}
+        header = [f"# {sorted(page['titles'])[0]}", "", f"- URL: {page['url']}",
+                  "- Source: verbatim page text as returned by Perplexity search, machine-extracted from agent logs",
+                  "", "---", ""]
+        (WEB / f"{key}.md").write_text("\n".join(header) + "\n\n[…]\n\n".join(keep) + "\n", encoding="utf-8")
+    (WEB / "index.json").write_text(json.dumps(index, indent=1, ensure_ascii=False), encoding="utf-8")
+    print(f"{payloads} search payloads → {len(per_video)} videos, {total_windows} windows → {OUT}; "
+          f"{len(per_page)} web pages → {WEB}")
     return 0
 
 

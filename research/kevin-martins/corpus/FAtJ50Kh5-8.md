@@ -1,7 +1,7 @@
 # From Uber Driver To $65K/Month With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=FAtJ50Kh5-8
-- Windows: 37 (first timestamps 0s … 1702s)
+- Windows: 42 (first timestamps 0s … 1702s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -14,9 +14,9 @@ Metadata lines seen:
   And if you can mix it, it's it's everything.
   And it takes me like one hour to make three videos, three, four videos.
   And that's it.
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=Jhon
   DM me on IG: kevin_martins_
   Date: 2026-06-16
-  How My Student Elias Makes $91k/m With Ai: https://youtu.be/8zsX4RwrN84
 
 ---
 So don't don't be afraid of investing in yourself in knowledge.
@@ -24,11 +24,17 @@ It's very
 
 […]
 
-I made the store and I started making sales with that product,
+May 12 uh 5K in a month.
+It's like the same as as the other one.
 
 […]
 
-May 12 uh 5K in a month.
+Uh, it was like May 16th.
+This one was almost 3K.
+
+[…]
+
+It is euros.
 
 […]
 
@@ -124,6 +130,8 @@ And um, you know,
 
 […]
 
+So now we are
+{ts:295} inside of John's store right here.
 This is going to be the main store.
 So John, if you want to go ahead and show the
 {ts:299} last 30 days.
@@ -173,6 +181,8 @@ The brothers,
 
 […]
 
+So, now we have John's second store here.
+Uh, $10,300.
 {ts:542} So, tell us a little bit about this product here as well.
 Okay, so this was the first product that
 {ts:551} I started with AI and I started this product just for fun just because I wanted to like see my skills with AI.
@@ -188,20 +198,24 @@ So one day I was making videos with my brother and I opened my account and I
 Yeah 100k views with that product.
 So I was like [ __ ] I have to
 {ts:596} make the store right now.
+I made the store and I started making sales with that product,
+{ts:602} right?
+Since the first day I posted the the store.
 
 […]
 
-So, now we have John's second store here.
-Uh, $10,300.
-{ts:542} So, tell us a little bit about this product here as well.
-Okay, so this was the first product that
-{ts:551} I started with AI and I started this product just for fun just because I wanted to like see my skills with AI.
-
-[…]
-
+This one was that the the one that I
+{ts:617} started this the store, but the store was in a test mode.
+Oh, test mode.
+Yeah.
 People was buying
 {ts:625} from my from my store, but I wasn't I mean Shopify wasn't capturing the payment.
 {ts:631} So, I was getting the sales notifications, but no money at all.
+
+[…]
+
+So, Oh, well, I started with this one on May 21st.
+{ts:648} Yeah. was last 10 days of the month and it was almost 3K as well.
 
 […]
 
@@ -242,6 +256,7 @@ You don't have to wait for for shipping and
 You don't have to wait for anything.
 You can test at least I don't know four five products per week.
 {ts:718} Yeah.
+Easily.
 
 […]
 
@@ -289,6 +304,12 @@ Beautiful.
 
 […]
 
+So, this is going to be his third store right here.
+So, John, explain this store for us cuz you were running it in
+{ts:806} a different market, correct?
+Yes.
+So, I'm running this same product in different markets.
+Uh this one is in
 {ts:816} Europe.
 I don't want to that much about it.
 So with this product uh in the three markets I'm running it
@@ -296,9 +317,22 @@ So with this product uh in the three markets I'm running it
 
 […]
 
-So, I'm running this same product in different markets.
-Uh this one is in
-{ts:816} Europe.
+{ts:853} you were able to make to you were able to bring it to another market and kind of like blow it up.
+Um, but bro, that
+{ts:858} conversion rate is pretty crazy, dude.
+2.6.
+Oh, yeah.
+{ts:863} Yeah.
+And it's the same in the in the States and also in Spanish.
+in the Spanish market.
+Well, the conversion
+{ts:870} rate in the Spanish market is lower, right?
+It's below one, but still I'm making
+{ts:875} money with it.
+Heck yeah.
+And
+{ts:879} this product is saturated saturated.
+Um, and I'm also I'm going to run it in in another market in in Europe.
 
 […]
 
@@ -337,6 +371,15 @@ And near it.
 
 […]
 
+{ts:935} 5K.
+
+[…]
+
+So, it's the same product,
+{ts:940} different market, US market, saturated product, 432 the best day.
+
+[…]
+
 {ts:1067} to post more content, but you know, why not just, you know, run an already proven uh winner from the states into,
 {ts:1073} you know, France or another country that is also high converting, you know, because it's like you have so much more
 {ts:1078} confidence into what you're doing because like I I know this prints, all I got to do is just translate to that
@@ -348,6 +391,7 @@ I don't know uh Italian, I don't know French, so I cannot.
 Bro, you have chat GPD, you have cloud, you can
 {ts:1096} just say to cloud or shad translate this in a natural way and that's it, right?
 {ts:1102} Or at least I'm making money in that way.
+If you don't want to believe it, it's your your problem.
 
 […]
 
@@ -423,6 +467,17 @@ Same thing I told Elias, bro.
 Like, even before he hit almost 100K a
 {ts:1586} month, he wanted to go on vacation.
 I said, "Bro, don't you dare go.
+
+[…]
+
+Uh so yeah, bro, just do it.
+If you really
+{ts:1654} want it, just join Kevin Martins.
+
+[…]
+
+Um, if you find some inspiration, but um, if you guys do want to join FSC, you guys can go ahead and apply down in
+{ts:1673} the description below.
 
 […]
 

@@ -1,0 +1,18 @@
+   ## Paid Courses Free
+##### Oct 14, 2026 (0:09:46)
+In this tutorial, you'll learn how to write effective prompts for Runway AI to create cinematic, creative, and visually engaging AI videos.
+A well-written prompt can help you communicate your ideas more clearly and guide the AI toward the type of scene, movement, lighting, and visual style you want.
+...
+✅ How AI video prompts work in Runway AI
+✅ How to structure a clear and effective video prompt
+✅ Describing subjects, actions, scenes, and environments
+✅ Using camera angles and camera movements in your prompts
+✅ Adding lighting, atmosphere, mood, and visual styles
+✅ Writing prompts for cinematic and realistic-looking videos
+When writing prompts, try to describe these key elements:
+📌 Subject: Who or what appears in the video?
+📌 Action: What is happening in the scene?
+📌 Environment: Where does the scene take place?
+📌 Camera Movement: Should the camera zoom in, pan, track, or move around the subject?
+📌 Lighting: Is the scene bright, dramatic, soft, or cinematic?
+📌 Visual Style: Do you want a realistic, cinematic, documentary, or artistic look?

@@ -1,7 +1,7 @@
 # 10,000 Hours of Dropshipping Advice in 23 Minutes
 
 - URL: https://www.youtube.com/watch?v=pUzUKzQEPBs
-- Windows: 28 (first timestamps 0s … 1254s)
+- Windows: 26 (first timestamps 0s … 1239s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,31 +19,8 @@ Metadata lines seen:
   And once you have your why and your vision, hold it close to you and stick with it forever.
 
 ---
-Um, and stop thinking so goddamn much.
-Okay?
-Start executing.
-Start being a little bit more dumb.
-
-[…]
-
-And once you have your why and your vision, hold it close to you and stick with it forever.
-
-[…]
-
 [ __ ] 27K day after 9 days of joining the mentorship.
 Um and it just keeps on going.
-
-[…]
-
-Speed is absolutely crucial to just see where you need to go.
-
-[…]
-
-First one we're going to go over is creating real brands.
-
-[…]
-
-Um, but you got to drop it,
 
 […]
 
@@ -53,27 +30,11 @@ In today's
 {ts:3} video, I'm going to be giving 10,000 hours worth of advice when it comes to drop shipping.
 If you guys are new here
 {ts:8} and don't know who I am, my name is Kevin Martins.
-
-[…]
-
-In today's
-{ts:3} video, I'm going to be giving 10,000 hours worth of advice when it comes to drop shipping.
-If you guys are new here
-{ts:8} and don't know who I am, my name is Kevin Martins.
 I've been in the space for the last 2 years now, and I've done
 {ts:12} over seven figures in total revenue.
 And I've done this all without having to waste a single scent on ad spend and
 {ts:17} keeping anywhere from 50 to 70% profit margins.
-
-[…]
-
-Welcome back to another video on the channel.
-In today's
-{ts:3} video, I'm going to be giving 10,000 hours worth of advice when it comes to drop shipping.
-If you guys are new here
-{ts:8} and don't know who I am, my name is Kevin Martins.
-I've been in the space for the last 2 years now, and I've done
-{ts:12} over seven figures in total revenue.
+And so, in this video, I'm going to go ahead and explain some of
 
 […]
 
@@ -128,6 +89,23 @@ And so that's why I tell all of you, right, even my
 
 […]
 
+Okay?
+The results are almost guaranteed, okay?
+But the speed in which you get the results
+{ts:248} varies.
+It varies on the person.
+And that applies with paid drop shipping, organic drop shipping, whatever you're
+{ts:253} doing in life.
+Speed is absolutely crucial to just see where you need to go.
+
+[…]
+
+And so this is something that
+{ts:259} happened to me at first when I first started my organic drop shipping journey.
+I would post one video a day
+
+[…]
+
 Um, but what I'm saying
 {ts:283} is just post more volume.
 Start posting.
@@ -139,6 +117,16 @@ Speed is absolutely
 {ts:295} everything in this game.
 Um, and you got to start just being a little bit more consistent, launching more ads every
 {ts:300} single day, testing more ad formats every single day, and uh, just posting, bro.
+
+[…]
+
+Do a little bit of [ __ ] maxing.
+If you don't know what that is,
+{ts:320} look it up.
+Um, and stop thinking so goddamn much.
+Okay?
+Start executing.
+Start being a little bit more dumb.
 
 […]
 
@@ -161,6 +149,45 @@ Most of you live
 
 […]
 
+{ts:372} the memes.
+And then by the time it was like 2:00 p.m., right, I would go to the gym.
+I would come back, make lunch, then
+{ts:378} dinner.
+And then I only have 30 minutes to an hour to do a little bit of work.
+And by that time, my [ __ ] brain is
+{ts:384} absolutely fried because all my dopamine receptors are cooked, right?
+And so simplifying your life could be one of
+{ts:390} the biggest needle moving things possible.
+
+[…]
+
+{ts:452} And then most importantly, I started just dropping a whole bunch of [ __ ] that didn't really move the me needle.
+And
+{ts:456} one of the main things that I stopped doing was gaming, right?
+
+[…]
+
+{ts:513} that I had at that very time, which I'm not saying gaming is bad, but for me it was.
+I was it was like really unhealthy.
+{ts:518} And um you know I just started simplifying my life to where now I wake up.
+I shower.
+I eat some breakfast.
+I
+{ts:524} work for 4 hours straight.
+After work I go for a walk.
+I go back.
+I work again.
+Then I go to the gym.
+Then I eat dinner.
+{ts:530} Then I work a little bit more.
+And I go to bed.
+Right?
+I live a very simple life.
+
+[…]
+
+And this one's really, really big.
+So this one's
 {ts:741} going to be have a bigger vision and focus on longevity.
 Okay.
 So going back to what I was saying about the business
@@ -168,20 +195,19 @@ So going back to what I was saying about the business
 um creating brands instead of pump and
 {ts:756} dumps, learning real skills that will get you paid for life, and being in the game for the longest rather than for the
 {ts:765} short term.
-
-[…]
-
-So this one's
-{ts:741} going to be have a bigger vision and focus on longevity.
-
-[…]
-
+Okay, so three main points.
+First one we're going to go over is creating real brands.
+Okay, and this is
+{ts:771} something that I love to do and if you're on this channel, this is probably that something that we resonate with or
+{ts:778} else you wouldn't be on the on my for you page or I wouldn't be on your for you page.
 Um, but I think that creating
 {ts:784} a brand, creating a name for yourself is something that's going to get you paid for life.
 Whether it's a personal brand,
 {ts:789} whether it's a product, whether it's an info product, supplement product, digital product, whatever it may be,
 {ts:796} brands optimize for longevity rather than just what's trending right now and how can I make the quickest amount of
 {ts:802} money possible, but not be around for the next month to continue doing it consistently, right?
+And I think there's
+{ts:808} two paths that you can take in life.
 
 […]
 
@@ -193,6 +219,7 @@ Right?
 
 […]
 
+And
 {ts:840} having a genuine brand presence is going to keep you alive in a world of [ __ ] competitors.
 
 […]
@@ -202,6 +229,15 @@ And so the main way to combat that and not having to restart every single month
 
 […]
 
+{ts:935} short term, right?
+
+[…]
+
+Like what's the long-term vision?
+What
+{ts:950} is the long-term play?
+And once you have your why and your vision, hold it close to you and stick with it forever.
+Okay?
 {ts:957} Um, and then, you know, going back to what I was saying, learning real skills that will get you paid for life, right?
 {ts:962} The skill of organic marketing, the skill of running ads, the skill of finding new concepts, uh, new marketing
 {ts:966} angles, ICPs, really doing deep niche research, those are skills that are going to evidently translate to money in
@@ -256,6 +292,23 @@ Even if you're advanced, even if you've done seven figures with organic ecom, wh
 
 […]
 
+But I'm telling you, the big the biggest
+{ts:1217} bottleneck that I had that took me from $50,000 a month to $100,000 a month was my ego.
+Okay?
+I dropped the ego.
+Okay?
+I
+{ts:1224} started to be like, "All right, I don't know [ __ ] I'm going to sit down here and learn it."
+And then once I learned
+{ts:1228} it, I started making more money.
+Right?
+And a lot of you have a crazy ego.
+And it's totally normal.
+Okay?
+It's totally
+{ts:1234} normal when you know you're making money with organic and you're making money with ecom.
+Um, but you got to drop it,
+{ts:1239} bro.
 Because there's always something that you can improve on because you're not perfect.
 Nobody's perfect and
 {ts:1243} there's always somebody else doing it better than you and it's always best to continue learning to eventually get to
@@ -263,6 +316,13 @@ Nobody's perfect and
 
 […]
 
+Um, but you got to drop it,
+{ts:1239} bro.
+Because there's always something that you can improve on because you're not perfect.
+Nobody's perfect and
+{ts:1243} there's always somebody else doing it better than you and it's always best to continue learning to eventually get to
+{ts:1249} that point or even better, right?
+That that would be the best case scenario.
 So again, one number thing the number one
 {ts:1254} thing here is don't stop learning.
 Okay?

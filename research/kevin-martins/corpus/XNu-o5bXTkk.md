@@ -55,6 +55,9 @@ It's absolutely insane, especially Claude Code.
 
 […]
 
+It's
+{ts:101} literally the future of where we're going with this whole AI technology.
+Think of like Einstein just built into
 {ts:106} like an AI where you can just go ahead and pick its brain 24/7 at an insane rate.
 So like I mentioned,
 {ts:113} if you want to make your scripts or even build out your prompts to use for Higgsfield, you need to use Claude AI.

@@ -1,7 +1,7 @@
 # How This Business Model is Making Me $70k a Week (Just Copy Me)
 
 - URL: https://www.youtube.com/watch?v=IVaqTZh4H0s
-- Windows: 12 (first timestamps 0s … 371s)
+- Windows: 15 (first timestamps 0s … 404s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -12,6 +12,10 @@ Metadata lines seen:
   How My Student Mark Makes $60k/m With AI:
 
 ---
+I then scaled it to a full branded product and
+
+[…]
+
 {ts:0} This is just one store that I did with my partner here.
 We did $40,000 in seven
 {ts:4} days with one AI influencer at 70% profit margins.
@@ -23,6 +27,7 @@ And bro, we kept over 50% margins on both stores.
 
 […]
 
+And bro, we kept over 50% margins on both stores.
 {ts:27} And so in this video, we're going to be going over everything.
 I'm going to be breaking down the whole entire process
 {ts:32} uh from what AI organic drop shipping really is, how to use AI influencers to sell products um online, and why I
@@ -70,6 +75,11 @@ It lets you create multiple videos, test different angles and push
 
 […]
 
+But with AI now, we're able to test multiple products at the same time
+{ts:221} using different influencers.
+
+[…]
+
 Your manufacturer is taking over that whole entire process for you.
 So, all you have to do is just get the sales
 {ts:243} on your website, provide those sales to your private supplier.
@@ -101,14 +111,42 @@ You can show their hands and
 
 […]
 
+So now AI is going to be doing the whole entire heavy
+{ts:292} lifting for us.
+And also there's no personal brand needed, right?
+Like you don't even have to show your face.
+You
+{ts:298} can have the AI avatars do the whole entire marketing for you.
+You can show their face.
+You can show their hands and
+{ts:303} just fully generate videos.
+So the time where you needed like UGC content from actual influencers where you're paying
 {ts:309} like upwards of $2,000 a month on retainers just for them to make videos with your products.
+Trust me, I'm
+{ts:315} talking from experience.
+It's [ __ ] gone, bro.
+Like now we have full-blown AI avatars and influencers that are able
+{ts:320} to make this for us.
+And I [ __ ] fired half my team to be honest because now I'm able to create perfectly perfectly
+{ts:327} niched down AI influencers for the type of products that I'm selling and they convert that much more, bro.
 
 […]
 
-Like now we have full-blown AI avatars and influencers that are able
-{ts:320} to make this for us.
+{ts:333} 2.6 million freaking views.
 
 […]
 
 And with this
 {ts:371} particular brand, I did over 300,000 with it.
+
+[…]
+
+Now we finally have the ability to run
+{ts:404} everything from our laptop, giving us full flexibility to work from literally anywhere because with AI now, like we're
+{ts:409} not having to film.
+We're not stuck at home all day.
+Um, we can essentially build any sort of background that we
+{ts:415} want.
+We could build any sort of avatar that we want.
+We could literally run any product under the sun now and have AI do
+{ts:422} the whole entire process.

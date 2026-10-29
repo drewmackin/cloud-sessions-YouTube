@@ -1,0 +1,13 @@
+   ## ElevenLabs
+##### Aug 27, 2026 (0:10:23)
+This tutorial builds the whole thing inside ElevenCreative Flows, from a single reference photo through to the final edit in Premiere Pro.
+You'll start by turning one photo of yourself into a full body shot with Nano Banana 2, then generate the landing frame and an empty plate of the same location.
+From there we build style frames in GPT Image 2, using a prompt structure that splits into three parts: an identity section that tags your reference image, a pose section you reuse across every frame for consistency, and a style section that changes per scene.
+Retro 90s anime is the example, but the same structure works for any look you want.
+Then we animate.
+Each style frame goes into Seedance 2.0 with a prompt that has the character fall in from the top of the frame and out of the bottom, which is what makes the scroll read properly.
+...
+Finally, the edit.
+Screenshot the Instagram UI on your phone, drop everything into Premiere Pro, and animate position keyframes so each clip and each UI element travels up the frame at the same speed.
+Copy those keyframes across every clip, leave an even gap between them for the UI to slide into, and the cuts disappear.
+We finish with a seamless loop, using three static assets as image references in Seedance 2.0 to generate a clip you can split down the middle for a matching intro and outro.

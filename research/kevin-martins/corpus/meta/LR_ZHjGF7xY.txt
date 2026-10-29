@@ -1,0 +1,5 @@
+   ## Aasil Khan
+##### Feb 12, 2026 (0:07:43)
+Higgsfield is a creator-focused GenAI platform designed to produce high-quality cinematic AI Video from text, images, and references.
+With Kling 3.0, you can generate up to 15-second structured video sequences with scene continuity, character consistency, and built-in dialogue.
+...

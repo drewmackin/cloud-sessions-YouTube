@@ -8,8 +8,13 @@ Metadata lines seen:
   ## Kevin Martins Extended
   ##### Jul 21, 2026 (0:09:59)
   ...
+  Apply to work 1 on 1 with me:
   Date: 2026-07-21
   How My Student Mark Makes $60k/m With AI:
+  Watch My 4 Hour Course Next:
+  https://form.typeform.com/to/nuSFV1VM?utm_source=yt&utm_content=MF
+  https://youtu.be/GfhpQLqF658?si=qOy48IT7C0XYDew9
+  https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS
 
 ---
 We actually just stocked up.

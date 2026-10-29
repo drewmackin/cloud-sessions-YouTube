@@ -1,7 +1,7 @@
 # How To Think Like The Top 1% Of Organic Dropshippers
 
 - URL: https://www.youtube.com/watch?v=evT3rUWsIrc
-- Windows: 37 (first timestamps 3s … 1542s)
+- Windows: 36 (first timestamps 3s … 1542s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -26,9 +26,9 @@ I've been in the space for 2 years now, and I've done almost seven figures in to
 {ts:14} revenue with organic drop shipping.
 And with this business model, I've been able to cop my dream apartment here in Miami,
 {ts:20} start multiple real brands, scale them to multiple six figures, and also make more in a single day than most
-
-[…]
-
+{ts:26} 23-year-olds do, okay?
+And the cool part about all this is that I documented my entire journey here on this YouTube
+{ts:31} channel from the very first video, which was me talking about my 3-month organic drop shipping journey, all the way to,
 {ts:36} you know, finding my first ever pump and dump, which was the Deadpool mask, and then making $10,000 in 24 hours in my
 {ts:41} first ever brand, and then scaling another brand to almost seven figures as well, all live for you guys, okay?
 
@@ -264,6 +264,42 @@ That's a simple question, okay?
 
 […]
 
+And so step number
+{ts:884} two in my process is finding the demand.
+Is there actually demand behind this virality?
+Because most of you see a
+{ts:889} video and you think, "Oh, just because it's viral, I'm going to run it."
+No, bro.
+Start looking for the demand.
+Do
+{ts:895} you want to make money or do you want to get views?
+That's a simple question, okay?
+And so what I started doing here
+{ts:900} is I went through the profile and started noticing strong demand and engagement around The Legend of Zelda
+{ts:905} theme pieces, okay?
+Through this research, it became clear to me that there was a specific niche to target, a
+{ts:911} real market demand and a huge gap in the marketing because well, quite honestly, the creator's content wasn't even that
+
+[…]
+
+That's all I needed to see for
+{ts:958} me to be like, all right, we're going to run this and we're just going to run proven organic concepts that we know
+
+[…]
+
+Another video that I saw was this one.
+{ts:980} Um And this ended up being the first variant that we ended up running.
+Um
+{ts:984} this little block version.
+Gary Krabby Again guys, this is back in 2023 when
+{ts:989} YPC was like the only guy in the market.
+And so I saw this [ __ ] and I'm like, bro, the fact that he's going viral with
+{ts:995} these [ __ ] concepts, bro, and getting insane demand, we got to run this up, okay?
+So that's exactly how I not only
+{ts:1002} found the account, looked at the demand, and kind of put the pieces together and I was like, bro, we're going to print so
+
+[…]
+
 All right, so at that point, I knew I wanted Harper to run the product using the same creation style format,
 {ts:1038} but with added organic drop shipping virality factors like strong hooks, better concepts, and proven content
 {ts:1044} frameworks that could scale it even harder.
@@ -353,31 +389,20 @@ I can confidently say that resins have
 {ts:1221} made over a million dollars in the Organic Dropshipping space.
 Uh we actually tallied up the numbers inside
 {ts:1226} of FSE, and overall, uh we we probably made over 5 $700,000 with resins.
-
-[…]
-
+{ts:1233} Um so, it's been pretty [ __ ] nuts.
 And it all stemmed from that one singular product that I went ahead and
 {ts:1239} approved for Harper back last year in October, okay?
 Um and you guys can go ahead and watch
 {ts:1244} the case studies on the channel, okay?
 I think one of the craziest day he had was yeah, he had a 23K day, and then he hit
 {ts:1248} a 65K uh week as well.
-
-[…]
-
+So, [ __ ] nuts, all right?
 And the main concept that we ran um at that time
 {ts:1257} was was this one right here.
 Um it would go crazy crazy viral.
 So, as you guys can see right here,
 {ts:1267} that's literally all we did.
 That's literally all we did.
-We just added a text hook saying the process
-{ts:1272} versus the outcome using proven Zelda uh sounds that we did doing sound research and we just spammed this, bro.
-We
-{ts:1281} actually spammed this for months, I want to say.
-
-[…]
-
 We just added a text hook saying the process
 {ts:1272} versus the outcome using proven Zelda uh sounds that we did doing sound research and we just spammed this, bro.
 We

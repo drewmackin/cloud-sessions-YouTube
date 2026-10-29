@@ -1,16 +1,24 @@
 # I made $80,000 In 30 Days My 2nd Product With Ai Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=cksbntCSmEA
-- Windows: 9 (first timestamps 39s … 572s)
+- Windows: 10 (first timestamps 39s … 572s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kane
+  ##### May 21, 2026 (0:20:21)
+  ...
   Date: 2026-05-21
+  Free discord https://discord.gg/kjp8jPp9bd
+  To Apply and work with me 1:1 Check the application channel in my discord
 
 ---
 Go into that niche, you know?
 Take it from just balding as a person to women balding.
+
+[…]
+
+You guys can apply to work with me one-on-one, hit me up.
 
 […]
 

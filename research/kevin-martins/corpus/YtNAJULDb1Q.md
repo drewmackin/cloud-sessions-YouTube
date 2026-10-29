@@ -1,7 +1,7 @@
 # How He Made $120K In 1 Month With Branded Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=YtNAJULDb1Q
-- Windows: 29 (first timestamps 4s … 2712s)
+- Windows: 40 (first timestamps 0s … 3328s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -9,6 +9,7 @@ Metadata lines seen:
   ##### Apr 22, 2026 (0:55:42)
   ...
   All
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=yt
   Because, guys, Jayden is doing this all branded, right?
   DM me on IG: kevin_martins_
   Date: 2026-04-22
@@ -16,15 +17,12 @@ Metadata lines seen:
   How My Student Mark Makes $60k/m With Ai: https://youtu.be/c9plD077S6M?si=3WegeyLUtfLj2iqw
   I We had the at the at the beginning, we weren't using AI.
   I'm not even
-  Like the reason also that you're able to hit this crazy CVR is not only because you're branded, but like we AB
 
 ---
-I've done this organically.
-And so that week you hit 80k, was it?
-
-[…]
-
-I just didn't have a mentor, but I was learning from YouTube.
+That's another 25k week.
+Bro.
+Again, 2% CVR.
+So, you know, it's consistent.
 
 […]
 
@@ -36,6 +34,7 @@ Pick these
 
 […]
 
+{ts:0} YouTube, what's good?
 Welcome back to another case study.
 Guys, this one is an
 {ts:4} absolute banger.
@@ -47,6 +46,25 @@ He just got off doing a 120k month, 80k week,
 
 If you want to go ahead and introduce yourself to the channel and kind of go over your
 {ts:31} organic drop shipping journey up until now.
+All right.
+{ts:34} [clears throat] So, my name's Jayden.
+Um I live in Glasgow, Scotland, and I
+{ts:39} just came off of a $100,000 month.
+Uh no, a $120,000 month.
+Yeah.
+And yeah, it's [ __ ] insane.
+So,
+{ts:48} I've been in the space for like like a year and a couple months now.
+I started like
+{ts:54} at the end of 2024, started 2025.
+
+[…]
+
+I started like
+{ts:54} at the end of 2024, started 2025.
+[snorts] And
+{ts:59} for majority of that time, I was on that.
+I just didn't have a mentor, but I was learning from YouTube.
 
 […]
 
@@ -172,11 +190,39 @@ Mad.
 Organic, by the way, guys.
 2.5 CVR almost.
 Organic.
+{ts:1243} go to show the Yeah, 30th of March, 13k day.
 
 […]
 
 {ts:1269} With a 3% CVR.
 3% CVR, bro.
+I still look at this and like just I
+{ts:1275} can't even My brain can't even like process it.
+I've done this organically.
+And so that week you hit 80k, was it?
+An
+{ts:1283} 80k week?
+Yeah, on the Saturday it was 7.5k so on week.
+
+[…]
+
+Even though it was less amount of time
+{ts:1715} than some other people, I would just still show up every day.
+I would still film and edit and post every single day.
+
+[…]
+
+{ts:1831} it was like your first 1K day.
+Um And then it was like yeah, something
+{ts:1835} like that.
+And then it was like part two was first 10K month.
+And then, you know, after that it was like just progression,
+{ts:1840} bro.
+
+[…]
+
+Like
+{ts:1983} but with with organic, you can start you can make money and then go into paid ads.
 
 […]
 
@@ -217,9 +263,32 @@ And that's basically what we started doing with a mix of trying to make sure tha
 
 […]
 
+Like the reason also that you're able to hit this crazy CVR is not only because you're branded, but like we AB
+{ts:2361} tested the offers, right?
+We set up pre-purchases, post-purchases, uh complementary items, email lists, you
+{ts:2367} know, now you're making 3 grand passively from your email marketing, which First week that we launched email
+
+[…]
+
+Well, we'll put it for the majority of
+{ts:2566} people, let's say a good result is a 10K month.
+
+[…]
+
+But
+{ts:2584} yeah, like as long as you're not lazy and like you actually
 {ts:2589} um you know, put
 {ts:2591} effort in every day.
 Like if there was a daily if the daily regimen is you need to film, edit, post, do product
+{ts:2598} research, content research, as long as you do that every day and like you know, don't do it lazily,
+{ts:2605} you know, you could probably get results like quick cuz you'll also you'll you'll have
+{ts:2610} Kevin helping you you won't make mistakes when you're working with Kevin, you know.
+
+[…]
+
+Just like taking in so much information, but not only taking it in, but also
+{ts:2693} applying it.
+That's also really important cuz bro, you would show up every single day, you know, texting me
 
 […]
 
@@ -240,3 +309,33 @@ I'm not even
 And then I probably was one of the first people to actually start implementing it.
 Like I was quick
 {ts:2728} with it.
+
+[…]
+
+{ts:2799} Yeah, even if you're new, even if you haven't made any money yet, you can, you know,
+{ts:2804} speak to anyone and they'll probably get back to you and they'll help you with whatever you want.
+Like not it's not
+{ts:2808} just Kevin you can talk to.
+You can Yeah.
+Cuz there's quite a few people that are like, you know, like phase four
+{ts:2814} now, phase threes.
+Like there's quite a few people that like have got a grasp of what they're doing.
+
+[…]
+
+Putting in the the actionable steps cuz, you know, we're going to give you all
+{ts:3214} the tools necessary for you to succeed, but you need to be putting the work, right?
+You need to pick up that camera
+
+[…]
+
+I'm
+{ts:3311} excited for Q4 cuz like this is [ __ ] Q1.
+
+[…]
+
+{ts:3324} So, yeah, guys, that's going to be the case study for today.
+
+[…]
+
+{ts:3328} Also, if you guys do want to join FSC, you guys can go ahead and apply in description below.

@@ -1,7 +1,7 @@
 # Build $10K Websites like a Senior Designer with AI (Kling 4.0 + Higgsfield MCP / beginner friendly)
 
 - URL: https://www.youtube.com/watch?v=zVzlhmR8CSE
-- Windows: 15 (first timestamps 21s … 1291s)
+- Windows: 17 (first timestamps 21s … 1291s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -16,16 +16,17 @@ Metadata lines seen:
   🎉 In this video, I connect Higgsfield to Claude Opus 5.5 and build 3 B2B SaaS landing pages where every hero section is a 30 second film made with Kling 4.0: a funding data API in a watercolour garden, an API monitoring tool in the deep sea, and an invoice chaser in claymation.
 
 ---
+The directed version that Clling will eat and really do well with is one continuous take no cut.
+A seed
+
+[…]
+
 So, prompt claimation stopotion animation.
 Paste that in.
 
 […]
 
 We'll be doing all of this through the MCP, which
-
-[…]
-
-So, copy this.
 
 […]
 
@@ -61,9 +62,30 @@ Higfield does the studio,
 
 […]
 
+Frames, we can set several key frames, not just a first and last frame.
+We can use references.
+So we can
+{ts:379} mix images.
+
+[…]
+
+So, cling takes prompts that are up to 8,000 tokens
+{ts:425} long, which means we can write like basically an entire story as a director instead of typing one line.
+
+[…]
+
+So, the seven layers of a good prompt for Clling specifically
 {ts:457} is how it's filmed.
 So, we need to tell it that it's one continuous take.
 the subject, who or what, we got to describe
+{ts:463} it once and clearly and always use the same words every time.
+So, if you were to say, you know, um there's a dog in
+{ts:470} the um in the alleyway, if you were to later describe it as, you know, a family pet in the alleyway or a canine or
+{ts:477} something like that, it's just it's just not consistent for the prompting, right?
+So, we got to make sure we're using the
+{ts:481} same words and same styles of words.
+The beats is what happens in order.
+So, we can write the actions of a sequence.
 
 […]
 
@@ -71,9 +93,7 @@ We hand cling the key moments as still
 {ts:591} pictures and then it films everything in between.
 So first we'll paint four watercolor stills.
 Seed sprout sapling
-
-[…]
-
+{ts:598} full bloom.
 The first one sets the look and the other three use it as a reference so the paper colors and
 {ts:603} framing all match.
 So let's actually post this into Claude first.
@@ -82,6 +102,7 @@ So let's actually post this into Claude first.
 
 Now that we know that this is working directly in
 {ts:636} Claude, we're going to prompt Claude to make K2 and K4, which are obviously the key frames for the Cling video that
+{ts:642} we're going to do later.
 
 […]
 
@@ -128,9 +149,14 @@ So, use cling for in
 And then we've got this.
 We've got the entire new
 {ts:1000} prompt, which is deep in the ocean, cinematic, and dark.
+we've got, you know, the angler fish that lures um
+{ts:1006} things in and it's deep blackness, ending on drifting marine snow, whatever it may be.
+So, copy this.
 
 […]
 
+Going to go back to
+{ts:1202} um our PRD and we are going to say film the day version.
 So using cling 4 to image to video with the malo key frames
 {ts:1211} with a start and end image.
 Do a 5second 720p test first.
@@ -145,3 +171,11 @@ So, if we click on copy, we are going to post this.
 Pass it job ID as the video reference.
 Tell
 {ts:1298} me the cost first prompt.
+
+[…]
+
+{ts:1291} And it says using cling 4.0 in video edit mode on the finished day clip.
+Pass it job ID as the video reference.
+Tell
+{ts:1298} me the cost first prompt.
+Change the time of day to night.

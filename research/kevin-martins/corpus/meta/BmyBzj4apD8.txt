@@ -1,0 +1,22 @@
+   ## SmartFuture AI
+##### Oct 21, 2026 (0:07:14)
+Create smooth AI videos without jump cuts or transitions using Google Flow and a FREE GPT Master Prompt!
+🎬
+In this tutorial, I'll show you how to connect AI-generated video clips into one smooth, continuous story using Google Flow.
+...
+🎁 FREE AI Video Master Prompt
+Get the free Master Prompt that analyzes your story and generates ready-to-use scene prompts, including instructions for continuation scenes and new scenes.
+👉 Copy the FREE Master Prompt: https://docs.google.com/document/d/14I9cOyHrSIa8Bj5yon_wsNTF6bMwHxN_aq3OZqRodso/edit?usp=sharing
+⏱️ Timestamps
+00:00 Introduction
+00:48 Explain the Master Prompt
+02:00 Enter the Story & Analyze Scenes
+03:15 Generate the First Scene in Google Flow
+03:39 Save the Last Frame
+04:10 Generate the Continuation Scene
+04:52 Download and Add the Clips
+05:30 Final Result
+06:30 Outro
+🛠️ Tools Used
+• ChatGPT / GPT : https://chatgpt.com
+• Google Flow : https://flow.google.com

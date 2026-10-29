@@ -1,7 +1,7 @@
 # How a Faceless Channel Made $3,300/Week With Claude
 
 - URL: https://www.youtube.com/watch?v=Pf0P1xKJkA4
-- Windows: 0 (first timestamps 0s … 0s)
+- Windows: 4 (first timestamps 431s … 738s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,4 +19,28 @@ Metadata lines seen:
   Now, in
 
 ---
+Head over to Claude, hit customize, connectors, add custom connector, and
+{ts:431} paste it in.
 
+[…]
+
+I'm going to switch over to Opus 5.5 and I'll drop in a simple prompt.
+Create a
+{ts:445} character profile for a YouTube host in the natural home remedies niche targeting viewers 55 [music] and older.
+
+[…]
+
+Now, in
+{ts:644} the chat, I'll type a slash, select my content engine, and hand it that viral topic that's already proven.
+Write an
+{ts:651} original episode for Ruth on this topic.
+
+[…]
+
+Turn this into a finished 16 by 9 episode.
+Voice the full script as Ruth.
+Make sure to break it into
+{ts:738} shots.
+And use her character sheet in every single shot, mixing talking head and B-roll content.
+Generate video clips
+{ts:746} using Higgsfield.

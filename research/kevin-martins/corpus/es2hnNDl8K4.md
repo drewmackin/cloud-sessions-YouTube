@@ -1,7 +1,7 @@
 # Claude + Higgsfield = $30k/mo on tiktok shop
 
 - URL: https://www.youtube.com/watch?v=es2hnNDl8K4
-- Windows: 15 (first timestamps 0s … 680s)
+- Windows: 14 (first timestamps 0s … 680s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -27,7 +27,12 @@ Now, the goal of this video is to see if I can recreate this account with AI fro
 
 […]
 
+And before we dive into the actual step-by-step, I want to go over Tyler's numbers on Kalodata.
+It
+{ts:37} pretty much just shows how much he made and what products he was using, what videos he made, etc. and how much they
 {ts:41} made him, but as you can see right here, he made about $280,000 in sales in the last 2 and 1/2 months.
+{ts:48} Obviously, it just says over the last 90 days cuz that's the setting I'm able to select, but he made about 20 to 30%
+{ts:54} commission on that.
 
 […]
 
@@ -40,9 +45,7 @@ So, right now, we're going to go over the three steps to number one, find these 
 
 So, what you're going to do is you're going to come to Kalodata.com
 {ts:233} right here, Kalodata.
-
-[…]
-
+We literally looked at Tyler's account over here.
 You're going to go to the product tab.
 {ts:238} You're going to select it by the last 7 days.
 

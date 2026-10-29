@@ -1,0 +1,5 @@
+   ## Creating with Conor
+##### Oct 26, 2026 (0:13:14)
+In this video, I show how to connect Claude to Higgsfield and use one automated workflow to create faceless YouTube videos, from choosing a topic and visual style to generating images, scripts, narration, thumbnails, and finished videos.
+I build two different examples, an editorial motion graphics explainer about shipping containers and a 3D animated kids' story, using Seedream 5 Pro, MiniMax H3, Seedance 2.5, and Nano Banana 2.
+...

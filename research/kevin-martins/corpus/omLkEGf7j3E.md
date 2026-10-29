@@ -1,0 +1,54 @@
+# SEO AFFILIATE DOMINATION TESTIMONIALS
+
+- URL: https://www.youtube.com/watch?v=omLkEGf7j3E
+- Windows: 6 (first timestamps 0s … 2749s)
+- Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
+
+Metadata lines seen:
+  ...
+  1  of  the  things that  he  promises  to  do  is  give you  your  money  back  when  you  made  your  money back  through  earning in  this  course.
+  Also at  the  time,  Greg  had  an  incredible  offer, which  was  essentially  he  would  refund 100%  of  the  course  price back  to  you  if  you  documented that  you  made  your  money  back  in affiliate  commissions.
+  And  I  decided,  you  know,
+  And I  figured,  what  can  I  lose?
+  And here  I  am,  you  know,  maybe  a  good  month, month  and  a  half  in  and I've  already  earned  how much  I  paid  back.
+  As  a  matter  of  fact,  I  just  found  out  I
+  But  again,  the  great  part is  when  you  have  success  with  it,  he'll  actually  pay your  money  back.
+  Date: 2024-12-17
+  I  would  highly  highly recommend  this  course  here  Not only  because  it's  the  most  effective  course  that I  have  taken,  but  because  if  you  see Greg's  guarantee,  whatever
+  I'm  1  of  Greg's students  with  his  course  SEO  Affiliate Domination  and  I  wanted  to  take a  minute  to  talk  to  you  all  about  both myself  and  Greg's  course.
+  If  you  purchase  the  course from  Greg,  if  you  purchase  SEO  affiliate  domination and  you  head  into  the  course,  you learn  what  he's  teaching,  you  use  the
+
+---
+{ts:0} Hey  everyone, my  name  is  Kevin.
+I'm  1  of  Greg's students  with  his  course  SEO  Affiliate Domination  and  I  wanted  to  take a  minute  to  talk  to  you  all  about  both myself  and  Greg's  course.
+
+[…]
+
+And  I  decided,  you  know,
+{ts:52} I've  seen  Greg's  money  back  guarantee you  earn  your  money  back.
+And I  figured,  what  can  I  lose?
+So  I  gave  it  a  try.
+And here  I  am,  you  know,  maybe  a  good  month, month  and  a  half  in  and I've  already  earned  how much  I  paid  back.
+As  a  matter  of  fact,  I  just  found  out  I
+{ts:70} was  the  first  student  to  earn  his  money back,  which  is  awesome.
+
+[…]
+
+I  would  highly  highly recommend  this  course  here  Not only  because  it's  the  most  effective  course  that I  have  taken,  but  because  if  you  see Greg's  guarantee,  whatever
+{ts:145} price  you  pay,  whenever  you  earn that  amount  back  on  your  site, he  gives  you  your  money  back.
+So  essentially  you're  investing  into yourself  and  you're  also  getting your  money  back  and  you  cannot  ask  for any  better  than  that.
+
+[…]
+
+{ts:875} this  is  the  first  ever  that  it  will  pay  you  back  the  investment  I  mean  it  will  pay  you  back  your  the  fees  that  you  pay  for  this  course  after  you  had  earned  back  the  fees  that  you  had  paid  for  this  course  so  please
+
+[…]
+
+{ts:1455} me  1  other  course  that  will  pay you  back  your  initial  investment  once you've  used  the  methods  and  strategies  to  make  enough money  to  pay  for  the  course  itself.
+This is  what  Greg  will  do.
+If  you  purchase  the  course from  Greg,  if  you  purchase  SEO  affiliate  domination and  you  head  into  the  course,  you learn  what  he's  teaching,  you  use  the
+{ts:1474} methods  and  strategies  that  he's  teaching  you to  make  your  initial  investment  back, he  will  paypal  you  back the  money  that  you  paid  for  the  course.
+
+[…]
+
+{ts:2749} earnings,  which I  think  were  like  $2,  300.

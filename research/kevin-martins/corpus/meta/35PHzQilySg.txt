@@ -1,0 +1,84 @@
+   If I had 90 days to make $100K with AI Dropshipping, this is exactly what I’d do.
+In this video, I’ll show you the full 90-day Claude AI dropshipping plan from finding a winning product and building the store, to creating the offer, making ads, launching campaigns, reading the data, and scaling step by step.
+...
+You direct AI
+{ts:612} to do them.
+Winning Hunter for product research, Claude for page building, Higsfield for creative design.
+So the first AI tool that's going to be the priority is Claude AI.
+Now we're going to be using Clawude AI
+{ts:697} to do product research because it can connect to many tools now called an MCP.
+So we're going to be using Claude for product research, store creation, building the ads.
+So
+{ts:748} like the actual AI video ads.
+So Claude's going to handle pretty much all of the work.
+This is the tool stack that we're going to be using to find the products.
+{ts:772} Hunter is a database that has all the ads from all the drop shipping stores, e-commerce stores, so we can validate
+{ts:778} what products are making money.
+Then once you found the products
+{ts:1612} that you like within the list, you just want to validate quickly that the facts are correct.
+Now this should only take a
+{ts:1617} few minutes.
+So, for example, I've gone back to Winning Hunter manually, and I've typed in the name of the product,
+So for now, I'm just going to carry on with the ultrasonic
+{ts:1988} cleaner.
+Okay, so now we've picked our product, we need to do our avatar research.
+Now, this is a crucial part
+{ts:1994} that most if not all beginners miss to do.
+Now, avatar research is understanding the people that you're
+…
+{ts:2014} And this is essential that you don't skip.
+Now, I've given you guys an example of one of my prompts that I've
+{ts:2018} used in one of my stores that we can reuse for your own product.
+So, what you're going to want to do is copy this
+{ts:2024} whole prompt.
+Open up chat GBT or Open AI.
+Change it to the high model.
+Paste this prompt in.
+You can see here I put
+{ts:2031} remake this prompt but for this product.
+And then you're just going to click send.
+And then what it will do is it'll
+And now, what I can do is I can paste the prompt in and click send.
+So now this prompt is going to
+{ts:2079} come up with all of the avatar research for us.
+Okay.
+So the avatar research has been done.
+Now Claude will open up this
+{ts:2086} document on the right hand side as an MD file.
+{ts:2179} what you're going to want to do is go back to OpenAI chat GBT.
+Go to the same chat that you use to reprompt it.
+That
+{ts:2185} way it's got some context of what the product is.
+And you're going to go back to the maro board and you're going to
+{ts:2190} copy this prompt here.
+So where it says prompt, you're just going to copy it.
+Go back to the chat, paste it in here.
+So, it's made the
+{ts:2274} mockup design here as a prompt, but now we've given it our avatar research in terms of the language, who we're trying
+{ts:2280} to sell it to.
+So, now it'll update that prompt with a better information.
+{ts:2478} Shopify store and you've imported the product to your store.
+{ts:2830} the model to make these images.
+But make sure you use my brand colors and my brand logo.
+Now if you don't have a
+{ts:2836} brand logo, you're best just making that now using Higsfield as well.
+So Higsfield's got a recraft model.
+Now, to be able to do this, guys, we've actually got to add our product.
+So, what you're going to
+{ts:3026} want to do is you're going to want to come over to where it says product in the right hand side, and we're going to
+{ts:3030} upload our product by pasting the URL.
+So you paste your URL and you click this little pink icon and you'll see that it
+{ts:3037} will add your product here.
+So it'll pull out all the information that's on your landing page and what your product
+{ts:3042} is.
+So you can see there it's got the products.
+We can select it and then you're going to see avatar.
+So you can
+{ts:3048} see here I've got all the avatars that Higsfield gives me.
+So these are all their own in-house avatars.
+Now I feel
+{ts:3054} like this avatar here is probably best suited for my product.
+{ts:3072} product, you can go over to my avatars, create a custom avatar, and you can either give it a prompt or an image, and
+{ts:3077} it will remake the avatar.
+But in this instance, there's already an avatar that looks good for my product.
+So, I can

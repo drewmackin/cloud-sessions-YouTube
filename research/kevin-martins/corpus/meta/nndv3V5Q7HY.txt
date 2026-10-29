@@ -1,0 +1,5 @@
+   ##### Oct 23, 2026 (0:11:03)
+📄 Free cheat sheet + all prompts: https://docs.google.com/document/d/1o99i_AD5WN-dNVg0NDtWIicybtxqQYJPheLcLUjYJNs/edit?usp=drivesdk
+In this video, we set up REA (Reverse Engineer Anything), the open-source tool that went viral on GitHub.
+We connect it to Claude Code for free using 9Router, and then try to rebuild a full office suite (documents, spreadsheets, slides and paint) from just one prompt.
+...

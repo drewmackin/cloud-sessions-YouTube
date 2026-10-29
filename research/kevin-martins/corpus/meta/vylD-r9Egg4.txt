@@ -1,0 +1,4 @@
+   ## Alex Djordjevic
+##### Oct 27, 2026 (0:29:04)
+In this video I go through how my claude runs my whole ads pipeline from stealing footage from competitor ads to editing them automatically.
+...

@@ -1,0 +1,22 @@
+   I made a full 3D documentary about the Antwerp Diamond Heist without filming anything, without paying for anything, and without any editing skills.
+One prompt gives you the story ideas, the character sheet, the script, the voiceover script, and every image and animation prompt you need.
+Then we generate the visuals in Google Flow, the voice in ElevenLabs, and put it all together in Clipchamp.
+Every tool used here has a real free tier — no trial, no card, no paid upgrade.
+⏱️ CHAPTERS
+0:00 What we are making
+0:18 Getting the prompt into ChatGPT
+1:08 Generating the character sheet
+1:58 Generating the voiceover
+2:54 Generating the scene images
+3:25 Generating the video clips
+4:28 Downloading the clips
+4:42 Editing in Clipchamp
+5:15 Exporting the video
+6:10 Thumbnail, title and description
+6:51 What you can make on a free account
+📄 PROMPT DOCUMENT (free)
+https://docs.google.com/document/d/1MTqrVnSTW3bok8TatleMTYcBSZBaUjJNZnUNEndVU3c/edit?usp=sharing
+...
+ChatGPT — writes the prompts, script and voiceover script.
+Google Flow gives free users 50 credits a day.
+The link to this document is in the description below.

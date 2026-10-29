@@ -1,7 +1,7 @@
 # How He Made $140K in 30 days With AI Organic ...
 
 - URL: https://www.youtube.com/watch?v=6o0llGgVRrg
-- Windows: 62 (first timestamps 5s … 2600s)
+- Windows: 68 (first timestamps 5s … 2657s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -27,14 +27,6 @@ So, that's number two.
 And then store number three, 18.
 This one.
 Oh, this one.
-
-[…]
-
-So I saw that gap in this account and I thought like okay that's
-
-[…]
-
-I reused them on Tik Tok and I went viral with them.
 
 […]
 
@@ -65,6 +57,15 @@ And we're going to be leaking his main product that made him the majority of the
 
 Uh with the main product in 15 days, I
 {ts:64} made around 84K.
+
+[…]
+
+I didn't know anything about organic.
+I
+{ts:103} moved to the States and I started working as an Uber driver and also I was working in one of the hotels in Vegas.
+I
+{ts:112} hated that uh that job.
+So I started looking for opportunities or ways to make money online.
 
 […]
 
@@ -118,6 +119,7 @@ No. No. Okay.
 
 {ts:311} Yeah, I joined your community in May 1st I would say and from that month I started making
 {ts:321} more than 60k consistently.
+Right.
 
 […]
 
@@ -133,9 +135,28 @@ So the the first month that that was the the most
 {ts:386} remember at that time too you were making 20 grand a month with organic which is probably over 10k a month in
 {ts:392} profit but you were still working your Uber job because you were even telling me like, "Oh, I don't know if I should
 {ts:397} quit yet."
+You know what I'm saying?
 
 […]
 
+{ts:386} remember at that time too you were making 20 grand a month with organic which is probably over 10k a month in
+{ts:392} profit but you were still working your Uber job because you were even telling me like, "Oh, I don't know if I should
+{ts:397} quit yet."
+You know what I'm saying?
+So, why was that?
+Why were you still working your Uber job while making, you know,
+{ts:404} 10K a month or over 10K a month with organic, you think?
+
+[…]
+
+If you show up every single day, it'll come.
+But you
+{ts:455} don't want to solely rely on luck.
+You know what I mean?
+And a lot of people in the beginning
+{ts:460} think like, damn, did I just get lucky with this?
+Um, but in reality, maybe you did, but it doesn't necessarily have to
+{ts:467} be that way forever, you know?
 And okay, so I don't want to get too off off topic.
 So, you went from 20 to 60K a
 {ts:474} month just from a simple mind like mindset shift.
@@ -148,23 +169,41 @@ um you proved yourself
 {ts:509} So that was the most important thing on that month.
 I started making good videos with the the all the knowledge that I
 {ts:516} got from the community from the mentorship and from Elias.
+Elias is Harper as well at that moment.
+Yeah.
+He
+{ts:524} was the coach.
+Elias and and Harper were are pretty good in in AI and I learned a lot from them.
+I just logged in with uh
+{ts:533} their videos.
+Everything that every all the sauce that they leak in.
 
 […]
 
-{ts:480} that you can make 60 grand and then the second month of uh FSE right working with me you also did 60k correct
-{ts:489} 60k again okay so let's talk about doing 60k months consistently what was something
-{ts:494} that changed from the first month to the second month so second month I already had the
 {ts:501} mentality and I added to my skill set the AI video creation Right.
 {ts:509} So that was the most important thing on that month.
 I started making good videos with the the all the knowledge that I
 {ts:516} got from the community from the mentorship and from Elias.
 Elias is Harper as well at that moment.
-
-[…]
-
+Yeah.
+He
+{ts:524} was the coach.
 Elias and and Harper were are pretty good in in AI and I learned a lot from them.
 I just logged in with uh
 {ts:533} their videos.
+Everything that every all the sauce that they leak in.
+So So yeah, that was that was what made
+{ts:543} me make again 60K plus mentality.
+Plus the mentality.
+
+[…]
+
+So how long did it take you to learn AI?
+Like 100% like
+{ts:553} from zero to, you know, pumping out consistent content and going viral with it.
+I was exactly
+{ts:561} 25 days because uh day 25 being with you, I posted my first video and I got viral with the first video that I posted
+{ts:569} with the that it was with a tiny device.
 
 […]
 
@@ -177,6 +216,13 @@ Exactly.
 
 […]
 
+I think Elias rubbed off on you a little bit.
+Elias has been traveling the last like six months or whatever.
+And I
+{ts:614} think he rubbed it off a little bit on you cuz you're right.
+you can finally travel now with AI.
+You don't have to be
+{ts:618} like locked in your room all day every day just filming and waiting for the product like you said yourself.
 {ts:624} Um which is Yeah.
 And also time because because before I was running and that that was
 {ts:629} very important for the third month that uh I was running just two or three products at the same time but now I can
@@ -190,6 +236,11 @@ So month two was
 
 […]
 
+I understand I understand
+{ts:672} that uh what a good hook is, what a what text to use, how to do niche research because at the end everybody can make a
+
+[…]
+
 All right, let's talk about month three now.
 So, how did you go from 60K a month to 140K in a single
 {ts:700} month?
@@ -199,6 +250,11 @@ I started working with creators.
 I already had one creator that was my brother, but now I have four
 {ts:717} creators working with me.
 So, I had more opportunities to to make more money, more products at at the same time.
+{ts:726} Plus, I understood what a good product is.
+Like I think that I already after one year and a half working with drop
+{ts:735} shipping, I know what a good product is.
+So, and it was thanks to to your knowledge because I like the way how you
+{ts:743} explain why this product is a good one and why not when you when we present to you the product research.
 
 […]
 
@@ -343,6 +399,12 @@ Um, no.
 
 […]
 
+Um, so before we go into the platforms that made you the most viral,
+{ts:1159} let's talk about this booknook uh in particular.
+So, um, how did you actually find this product?
+
+[…]
+
 So, um, how did you actually find this product?
 Was it on the burner?
 {ts:1168} Was it on Alley?
@@ -352,9 +414,19 @@ How did you go about finding the book nook, John?
 
 […]
 
+{ts:1201} Thank you, bro.
 So, um I found that product with my barber
 {ts:1210} because he he wanted to learn how to how to do drop shipping.
 Okay.
+Organic.
+{ts:1216} Your barber.
+You're your barber.
+So, my barber.
+
+[…]
+
+{ts:1220} So I taught him how to look for a a crazy product like how to look for winners and he was in the in the burner
+{ts:1229} the first day he was doing that and he showed me the product.
 
 […]
 
@@ -375,6 +447,11 @@ M. So that was immediately green light for
 
 So John, you're a very big fan of posting all your videos
 {ts:1296} simultaneously at once without having time in between.
+
+[…]
+
+So I saw that gap in this account and I thought like okay that's
+{ts:1338} that's the way how I'm going to approach this product.
 
 […]
 
@@ -416,6 +493,13 @@ And also I wanted to ask you as well, did you do anything different in the hooks
 Okay.
 So, for some of the videos, I started the 32 ones that were the ones
 {ts:1441} that were uh working for him with the same hook, exactly the same, but with I think it's you can notice it's better
+{ts:1449} AI, better content, the quality is better on these videos than my competitor.
+
+[…]
+
+And you were selling multiple variations, right?
+The ghost, the
+{ts:1461} lantern.
 
 […]
 
@@ -424,14 +508,31 @@ So, for some of the videos, I started the 32 ones that were the ones
 Mhm.
 And sometimes they use it like like this
 {ts:1483} that you can barely read the text.
-
-[…]
-
+Yep.
 So uh and of course the the audios that
 {ts:1491} they use, I didn't use the exactly same audio that my computer was using.
 I just did some niche research to to implement
 {ts:1499} in my in my videos basically, right?
 So I copied the 32 ones and implemented
+{ts:1506} the niche research and the rent.
+So this was the first video that that went viral on this account.
+{ts:1518} Yeah, I love that, bro.
+I love how you took your time to do the niche research and identify that the majority of
+{ts:1523} bookies tend to use this font and not the traditional, you know, Tik Tok font that everybody uses.
+{ts:1530} Yeah, exactly.
+Okay.
+So, so I used different stores like Barnes &
+{ts:1537} Noble, uh, books, random bookstores, Target, um,
+{ts:1546} different concept.
+I mean the same concept but different variations, different avatars
+{ts:1551} and this was my my winner.
+This was uh July uh 18 18
+{ts:1558} one day before my 22k day and that was what 14 million views 14 million views so far.
+{ts:1565} Holy cow.
+Let's watch the video.
+Uh, even the the B- rolls I made them with CDN.
+{ts:1576} I changed the background.
+I mean, I used the background swap methods that Elias shared with us.
 
 […]
 
@@ -444,6 +545,16 @@ I mean the same concept but different variations, different avatars
 {ts:1551} and this was my my winner.
 This was uh July uh 18 18
 {ts:1558} one day before my 22k day and that was what 14 million views 14 million views so far.
+{ts:1565} Holy cow.
+Let's watch the video.
+Uh, even the the B- rolls I made them with CDN.
+{ts:1576} I changed the background.
+I mean, I used the background swap methods that Elias shared with us.
+Elias again.
+{ts:1585} Shout out Elias.
+And And I was the first one using these B- rolls.
+Nobody Nobody has these.
+{ts:1591} Nobody had them.
 
 […]
 
@@ -468,11 +579,48 @@ It was It was me.
 
 […]
 
+This was uh July uh 18 18
+{ts:1558} one day before my 22k day and that was what 14 million views 14 million views so far.
+{ts:1565} Holy cow.
+Let's watch the video.
+Uh, even the the B- rolls I made them with CDN.
+{ts:1576} I changed the background.
+I mean, I used the background swap methods that Elias shared with us.
+Elias again.
+{ts:1585} Shout out Elias.
+And And I was the first one using these B- rolls.
+Nobody Nobody has these.
+{ts:1591} Nobody had them.
+It was It was me.
+Very good.
+{ts:1595} Wow.
+That's crazy.
+14 million.
+Okay.
+And then it's almost like every video was just hitting after
+{ts:1600} that too because you we see a two million, another 1 million, 300K.
+Um
+{ts:1606} yeah.
+Now, wow.
 Uh the the classic split test.
 I split
 {ts:1611} tested this video with this exactly the same.
 It's the same video, but I just changed the the music and the clips are
 {ts:1619} a little bit shorter because I like adjust the clips with the bits of the music.
+
+[…]
+
+Now, wow.
+Uh the the classic split test.
+I split
+{ts:1611} tested this video with this exactly the same.
+It's the same video, but I just changed the the music and the clips are
+{ts:1619} a little bit shorter because I like adjust the clips with the bits of the music.
+{ts:1625} Synced it up.
+Same same video.
+Very good.
+Two almost two million views.
+{ts:1631} What's up with this Target controversy, bro?
 
 […]
 
@@ -492,6 +640,7 @@ So that's why they don't buy Target,
 
 […]
 
+But it's like almost like guaranteed virality sometimes when you do a target one too.
 {ts:1659} Exactly.
 And and on this video I made exactly exactly the same same video, different different audio, different
 {ts:1667} music.
@@ -499,27 +648,33 @@ Wow.
 It's the same video and 8 million views.
 {ts:1671} Text hook, same showcase, same avatars, just different sound.
 The same.
-
-[…]
-
-{ts:1671} Text hook, same showcase, same avatars, just different sound.
-The same.
 {ts:1676} Wow.
 And were you regening clips or just reusing them one for one?
 Uh on this these three?
 No, they are the
 {ts:1684} same.
-
-[…]
-
+That's crazy.
+And that's I think that's s also for Tik
+{ts:1688} Tok.
+I reused them on Tik Tok and I went viral with them.
+Yeah, we're going to go over that
+{ts:1692} because that's crazy what you were able to pull off on Tik Tok.
+Um because I don't know if you want to pull it up,
 {ts:1699} but John was essentially just reusing clips 247 on Tik Tok and still going viral.
-
-[…]
-
+I
+{ts:1705} think even a CTA video made you go viral.
+Um yeah,
+{ts:1710} like let's take a look at that.
 So this one with reuse clips with a link linking bio text
 {ts:1721} and it was 10 million views.
 That's insane.
 A hard CTA gets 10 million views on Tik
+{ts:1728} Tok, bro.
+You're literally breaking barriers, bro.
+Like holy cow.
+And what converted better for you, IG or Tik Tok
+{ts:1735} for this prod?
+Uh IG.
 
 […]
 
@@ -633,6 +788,15 @@ Okay, so those are
 
 […]
 
+{ts:2112} way?
+Like how do you like how how are you so consistent, bro?
+Cuz like you just show up every single day.
+You're so
+{ts:2118} active in the Discord.
+I see you in the chats with the students cuz by the way now John is also a coach.
+
+[…]
+
 Um because we did it, right?
 So my brother and me, we did it,
 {ts:2244} right?
@@ -640,6 +804,23 @@ Dude, that's incredible having like a brother to just, you know, do organic, run
 
 […]
 
+Um, so John, let's
+{ts:2269} let's let's kind of go over um, you know, the community, bro.
+I feel like you you truly built a name for yourself
+{ts:2274} here.
+Obviously, now you are a coach and you're teaching people um, in the community.
+
+[…]
+
+I think that we are all in a good level that we can we can learn from um from everybody in the in the
+{ts:2316} Discord.
+Uh even Sak Saki is so young and I have every single day I learn things from from him.
+Monk Mo uh of
+{ts:2325} course Alias um Andre everybody in the community.
+
+[…]
+
+But you can't be stubborn in this business model because if you're not growing, you're dying in
 {ts:2389} my opinion, you know?
 And I feel like that pivot from traditional organic to AI was really everything for you, right?
 {ts:2396} Because imagine if you were like, "Nah, I'm not doing this AI it doesn't work or I'm not even going to give it a
@@ -647,9 +828,6 @@ And I feel like that pivot from traditional organic to AI was really everything 
 Then you would have been stuck at 20k a month,
 {ts:2403} you know?
 So, exactly.
-
-[…]
-
 It's like that's the thing with you that
 {ts:2407} I've noticed, bro, is that you're always learning and implementing with speed because how has AI kind of like changed
 {ts:2414} things for you with like testing and posting and and everything cuz like were you able to run like nine products in a
@@ -659,8 +837,32 @@ No, I was I was throwing like six
 
 […]
 
+{ts:2487} secrets that they have to make videos to go viral to different type of things related with
+{ts:2492} drop shipping even mindset.
+I love that.
+I love that.
 So I know it's I'm again talking about the community
 {ts:2499} but it's the most important thing.
+Yeah.
+Yeah.
+I feel like when you're in like a community of like like-minded
+{ts:2505} individuals that are all just focusing on organic, it's like how do you not win?
+Because I I remember when you first
+{ts:2510} joined, you were looking at the wins.
+
+[…]
+
+All my team is in the same page now.
+So, we're going to take maybe this this
+{ts:2563} month, eight days or two more weeks to get used to run at least three, four products each of them.
+And we are ready.
+{ts:2573} We're ready for for everything.
+All the products that we can run.
+Um, not wasting time.
+If we cannot go viral,
+{ts:2580} just change the product, drop it and right try another one.
+But yeah, basically my
+{ts:2584} my team my team is the most important thing in this year.
 
 […]
 
@@ -669,3 +871,8 @@ I feel
 {ts:2604} like it's just doing more of what's already been working for you and working uh faster, more efficiently.
 And like we
 {ts:2609} mentioned earlier in the video, just picking the right products that are going to get you to this level.
+
+[…]
+
+Um, but you were able to kind of think outside the box, introduce your own marketing angle and
+{ts:2657} take advantage of it, you know, to even now you're telling me you're doing it for old products from from months ago,

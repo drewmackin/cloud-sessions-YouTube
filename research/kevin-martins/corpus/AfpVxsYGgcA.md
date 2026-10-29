@@ -1,0 +1,28 @@
+# 1000% GRATIS! Tool AI Video Terbaik 2026 + Trik Bikin Video Durasi Panjang (Gratis Prompt)
+
+- URL: https://www.youtube.com/watch?v=AfpVxsYGgcA
+- Windows: 2 (first timestamps 0s … 168s)
+- Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
+
+Metadata lines seen:
+  ...
+  Cocok untuk pemula, YouTuber, kreator TikTok, dan siapa saja yang ingin membuat konten video menggunakan Artificial Intelligence tanpa proses yang rumit.
+  Date: 2026-10-18
+  Di video ini, kita akan membahas tool AI video gratis, trik membuat video AI berdurasi lebih panjang, serta prompt AI video gratis yang bisa langsung kamu gunakan!
+  Mau membuat video AI keren tanpa harus mengeluarkan banyak uang?
+  Prompt : https://docs.google.com/document/d/1g-MI0KTc5PKbeOM9hZ07-pMQT7p7LbLg2RP1sY-is5Q/edit?usp=sharing
+  {ts:0} Hello , welcome to Gadis AI . In this video , we will discuss an AI tool where
+  {ts:11} you can create videos every day .
+  {ts:168} that we will be using later . For those of you who might need the prompt , you can check the description box ; I will
+  {ts:173} provide it for free . You can just tweak it using ChatGPT . I actually also made a prompt for the location reference
+  {ts:4} you can create long films , and this AI tool has great quality and even includes audio . It is truly free , and
+
+---
+{ts:0} Hello , welcome to Gadis AI . In this video , we will discuss an AI tool where
+{ts:4} you can create long films , and this AI tool has great quality and even includes audio . It is truly free , and
+{ts:11} you can create videos every day .
+
+[…]
+
+{ts:168} that we will be using later . For those of you who might need the prompt , you can check the description box ; I will
+{ts:173} provide it for free . You can just tweak it using ChatGPT . I actually also made a prompt for the location reference

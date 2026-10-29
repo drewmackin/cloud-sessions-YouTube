@@ -111,22 +111,31 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 .step { margin: 7px 0; }
 .flow, .fbox { break-inside: avoid; }
 .note, .warn, .ok, blockquote { break-inside: avoid; }
-</style></head><body><section class="cover"><div class="kicker">Research report · prepared October 28, 2026</div>
+
+/* Discord section */
+.chain { margin: 8px 0 12px; border-left: 2px solid var(--accent); padding-left: 12px; }
+.chain .link { margin: 0 0 9px; break-inside: avoid; font-size: 9.2pt; }
+.chain .link b { display: block; color: var(--accent); font: 650 9pt/1.3 Inter, sans-serif; margin-bottom: 2px; }
+.callout-q { background: var(--panel); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 10px 12px; margin: 10px 0; font: 400 10pt/1.5 "Bitstream Charter", Georgia, serif; break-inside: avoid; }
+.cover .facts.four { grid-template-columns: repeat(2, 1fr); }
+.keep { break-inside: avoid; }
+</style></head><body><section class="cover"><div class="kicker">Research report · second edition · October 28, 2026</div>
 
 <h1>Kevin Martins &amp; FSC: the AI video workflow, prompts and proof</h1>
-<p class="lede">How Kevin Martins (@KevinMartinsEcom) and his Full Stack eCom (FSC / “FSE”) mentorship make AI videos for organic dropshipping: every tool, the exact prompts, the mindset, the zero-to-posted process and how they research avatars. Every claim is backed by something Kevin, a coach or a member with shown revenue said or shared. Covers April 27 to October 27, 2026.</p>
+<p class="lede">How Kevin Martins (@KevinMartinsEcom) and his Full Stack eCom (FSC / “FSE”) mentorship make AI videos for organic dropshipping: every tool, the exact prompts, the mindset, the zero-to-posted process, how they research avatars, and what goes on inside their Discord. Every claim is backed by something Kevin, a coach or a member with shown revenue said or shared. Covers April 27 to October 27, 2026.</p>
 
-<div class="facts">
-<div class="fact"><b>13</b><span>real prompts, word for word: 2 internal/public Google Docs + 11 typed or dictated on camera</span></div>
-<div class="fact"><b>35</b><span>Kevin Martins uploads identified in the window; 25 are quoted here as sources</span></div>
-<div class="fact"><b>0</b><span>quotes retyped by hand: every prompt is cut by script from the transcript or exported from the Google Doc</span></div>
+<div class="facts four">
+<div class="fact"><b>17</b><span>real prompts, word for word: 2 Google Docs + 15 typed or dictated on camera</span></div>
+<div class="fact"><b>41</b><span>Kevin Martins uploads found in the window; 34 videos are quoted here as sources</span></div>
+<div class="fact"><b>7A</b><span>a new section rebuilt from inside the Discord: 3 wins-chat readouts, a live session, a full group call</span></div>
+<div class="fact"><b>0</b><span>quotes retyped by hand: every quote is cut by script from captions, descriptions or the Google Doc</span></div>
 </div>
 
-<div class="note" style="margin-top:28px">
-<b>Bottom line.</b> The machine is: <b>Claude writes every prompt → Higgsfield renders</b> (GPT Image 2 for stills, Kling 3.0 for motion, Seedance for background swaps) <b>→ CapCut assembles → 3–6 posts a day</b> across Facebook, Instagram and TikTok. The AI is not the edge. The edge is (1) a standing <b>context prompt</b> plus shared prompt docs from coaches, (2) a <b>niched avatar</b> built from customer research, (3) <b>proven concepts</b> (“run two”, “321”) copied and re-skinned, and (4) brute-force <b>volume and split testing</b>. Their own students credit specific shared prompts with their first wins.
+<div class="note" style="margin-top:24px">
+<b>Bottom line.</b> The machine is: <b>Claude writes every prompt → Higgsfield renders</b> (GPT Image 2 for stills, Kling 3.0 for motion, Seedance for background swaps) <b>→ CapCut assembles → 3–6 posts a day</b> across Facebook, Instagram and TikTok. The AI is not the edge. The edge is (1) a standing <b>context prompt</b> plus coach-written prompt docs, (2) a <b>niched avatar</b> built from customer research, (3) <b>proven concepts</b> (“run two”, “321”) copied and re-skinned, and (4) brute-force <b>volume and split testing</b>. Inside the Discord, a weekly loop runs it: about five group calls a week, product sheets that Kevin approves, prompts handed out on calls, and a wins chat that doubles as the sales pitch. Shared products and prompts saturate within days, so speed after a “leak” matters more than the prompt itself.
 </div>
 
-<div class="warn"><b>Read section 7's risk list before you copy this.</b> Several of their habits run into TikTok's AI-labeling rule, Meta's unoriginal-content penalties and the FTC's 2024 fake-testimonial rule.</div></section><section class="section"><div class="sec-head"><div class="sec-num">1</div><div><div class="sec-title">How this PDF works</div><div class="sec-sub">Your numbered requests, where each one lives, and what counts as proof</div></div></div><h2>Your request, page by page</h2>
+<div class="warn"><b>Read section 7B's risk list before you copy this.</b> Several of their habits run into TikTok's AI-labeling rule, Meta's unoriginal-content penalties and the FTC's 2024 fake-testimonial rule.</div></section><section class="section"><div class="sec-head"><div class="sec-num">1</div><div><div class="sec-title">How this PDF works</div><div class="sec-sub">Your numbered requests, where each one lives, and what counts as proof</div></div></div><h2>Your request, page by page</h2>
 <p>Each of your numbers starts on its own page. Long sections, like the prompt library, run over several pages.</p>
 <table>
 <thead>
@@ -169,13 +178,13 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 </tr>
 <tr>
 <td>7</td>
-<td>Anything else worth knowing</td>
-<td>7 · Everything else (formats, posting rules, product rubric, the program, risks)</td>
+<td>Anything else you'd find in their group</td>
+<td>7A · Inside the FSC Discord (wins chat, calls, live sessions, how prompts and products spread, price) · 7B · Everything else (formats, posting rules, product rubric, risks)</td>
 </tr>
 <tr>
 <td>8</td>
 <td>The real prompts, unchanged</td>
-<td>8 · The real prompts (P1–P13)</td>
+<td>8 · The real prompts (P1–P17)</td>
 </tr>
 <tr>
 <td>9</td>
@@ -193,20 +202,21 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 <p>Your rule was: a claim counts if it was said or sent by Kevin, a coach, or a member who has shown wins. Every item in this report carries one of these:</p>
 <ul>
 <li><span class="tag v">Said on camera</span> the exact words from YouTube's captions of Kevin's own videos, with a clickable timestamp. Click it and you hear the line.</li>
-<li><span class="tag v">Their document</span> the full text of a Google Doc owned by Kevin's Google account (confirmed through Drive's owner field). One of them was shared into your Drive from inside the group.</li>
+<li><span class="tag v">Their document</span> the full text of a Google Doc owned by Kevin's Google account (confirmed through Drive's owner field) and linked in his own video descriptions. One of them was written by coach Elias for the group.</li>
+<li><span class="tag v">Their description</span> the exact text of Kevin's own video descriptions as the search index returned them: the links he posts (Google Docs, the application form) and their tracking codes.</li>
 <li><span class="tag c">Revenue</span> the revenue a coach or member claims on camera, usually with a Shopify dashboard shown. These are their own figures. Nobody audited them, and one doesn't match its own dashboard (see section 10).</li>
 </ul>
 <h2>How “word for word” was guaranteed</h2>
 <ol>
 <li><strong>Spoken prompts</strong> are cut by script from the caption text that Perplexity's index returned for each video. They are never retyped. Each cut runs from an exact first phrase to an exact last phrase inside one continuous caption window, and the build stops if a single word differs. Only the quotation marks the captions put around the speech are dropped, at the two ends.</li>
 <li><strong>Documents</strong> are printed in full from Google Drive's plain-text export, unchanged: emoji, capitals, typos and Markdown symbols included. The only layout change is that runs of empty lines are collapsed to one.</li>
-<li><strong>Captions are captions.</strong> YouTube's speech-to-text writes “cloud” for Claude, “Higsfield” or “Hicksfield” for Higgsfield, “C dance” or “CDN” for Seedance, and “cling” for Kling. These are left exactly as captioned, with the correct name noted beside them. Where two caption versions of the same moment exist, the one that spells the tool correctly is used.</li>
+<li><strong>Captions are captions.</strong> “[ __ ]” is YouTube's own mask over a swear word. YouTube's speech-to-text writes “cloud” for Claude, “Higsfield” or “Hicksfield” for Higgsfield, “C dance” or “CDN” for Seedance, and “cling” for Kling. These are left exactly as captioned, with the correct name noted beside them. Where two caption versions of the same moment exist, the one that spells the tool correctly is used.</li>
 </ol>
 <h2>Coverage, honestly</h2>
 <ul>
 <li><strong>Window:</strong> April 27 to October 27, 2026 (the last six months). Older material is used only where it is the source of something they still teach, and is labelled as such.</li>
-<li><strong>What I could read:</strong> Kevin's main channel and his “Kevin Martins Extended” channel, the student case studies and group-call segments he published, his public Google Docs, and the group document shared to your Drive.</li>
-<li><strong>What I could not read:</strong> the FSC Discord itself. I had no export or access, and I didn't try to get around that. Most videos came back as 25–70% of their transcript. Prompts that were shown only on screen and never spoken can't be captured from captions. The “What we could not get” list in section 10 names each missing piece and where it lives.</li>
+<li><strong>What I could read:</strong> Kevin's main channel and his “Kevin Martins Extended” channel, the student case studies and group-call segments he published, his public Google Docs (including the coach-written Seedance brief), and every moment where he opens the Discord, streams from it or publishes its calls (section 7A).</li>
+<li><strong>What I could not read:</strong> the Discord's private channels directly. I had no account or export, and I didn't try to get around that. Section 7A rebuilds everything that has been published from inside it. Most videos came back as 25–70% of their transcript. Prompts that were shown only on screen and never spoken can't be captured from captions. The “What we could not get” list in section 10 names each missing piece and where it lives.</li>
 </ul></section><section class="section"><div class="sec-head"><div class="sec-num">2</div><div><div class="sec-title">The workflow and every AI tool</div><div class="sec-sub">What each tool does in their pipeline, the settings they state, what they pay, and the line that proves it</div></div></div><div class="flow">
 <div class="fbox"><b>Research</b><span>Claude: niche + ICP (P1)<br>Pinterest: faces, rooms</span></div>
 <div class="farrow">→</div>
@@ -453,6 +463,26 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 <td>“I tell Claude to make or you know whatever AI model you&#x27;re using I tell it to just make the best you know type of background to match it” <span class="src">(<a href="https://www.youtube.com/watch?v=S9COXhnjijY&t=1210s">20:10</a>)</span></td>
 <td>Charlie ($110K month)</td>
 </tr>
+<tr>
+<td>Plan the B-roll</td>
+<td>“Listen, what would the creation process of a watch look like step by step?” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=884s">14:44</a>)</span></td>
+<td>Kevin · P16</td>
+</tr>
+<tr>
+<td>Re-skin a proven clip</td>
+<td>“For this video, don&#x27;t forget to remove the text and build me a super niche and stylish background, the way you know how to do them, right?” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=990s">16:30</a>)</span></td>
+<td>Kevin · P14</td>
+</tr>
+<tr>
+<td>Niche the new set</td>
+<td>“For a car enthusiast, add lots of props, incredible details, or maybe change the wall color in the back. Make it super clean.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=1002s">16:42</a>)</span></td>
+<td>Kevin · P15</td>
+</tr>
+<tr>
+<td>Take a winner abroad</td>
+<td>“translate this in a natural way” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=1096s">18:16</a>)</span></td>
+<td>John ($65K month) · P17</td>
+</tr>
 </tbody>
 </table>
 <h2>The house language of the Seedance brief (coach Elias, P12)</h2>
@@ -523,7 +553,7 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 <h3>Phase 1: product and market (day 0)</h3>
 <div class="step"><div class="n">1</div><div><b>Find a product with proven demand.</b> Use a fresh TikTok and Instagram “burner” account trained on product videos, or TikTok Shop items that already sell, or an old winner whose videos died but whose demand didn't. Validate through comments, not views. “products that are already doing sales on Tik Tok shop where demand is validated before you post a single video,” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2384s">39:44</a>)</span></div></div>
 
-<div class="step"><div class="n">2</div><div><b>Score it.</b> Kevin's Brandable Product Research Rubric (section 7, R1): ten categories scored 1–5, plus a mandatory compliance pass. His one-page filters: it must be filmable, show a visual transformation, cost under $100, and leave 50%+ margin. “the product has to be filmable before it can be profitable.” <span class="src">(<a href="https://www.youtube.com/watch?v=OTRP8hk1wr4&t=172s">2:52</a>)</span></div></div>
+<div class="step"><div class="n">2</div><div><b>Score it.</b> Kevin's Brandable Product Research Rubric (section 7B, R1): ten categories scored 1–5, plus a mandatory compliance pass. His one-page filters: it must be filmable, show a visual transformation, cost under $100, and leave 50%+ margin. “the product has to be filmable before it can be profitable.” <span class="src">(<a href="https://www.youtube.com/watch?v=OTRP8hk1wr4&t=172s">2:52</a>)</span></div></div>
 
 <div class="step"><div class="n">3</div><div><b>Supplier and store.</b> Private supplier; Shopify store built with the Atlas AI app; bundles for AOV. On Omar's store, adding a complementary serum and free gifts took the AOV from about $70 to orders of up to $1,600. “he was only selling the cap and he was stuck at that $70 AOV, but the moment we implemented the serum and even some of these free gifts that you guys were seeing, bro, his AOV skyrocketed. And as you guys saw earlier, bro, he&#x27;s getting $1,600 orders.” <span class="src">(<a href="https://www.youtube.com/watch?v=OTRP8hk1wr4&t=937s">15:37</a>)</span></div></div>
 
@@ -535,7 +565,7 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 <h3>Phase 3: make the video (Route A, 100% AI)</h3>
 <div class="step"><div class="n">6</div><div><b>One-time setup:</b> a Claude Project holding your context prompt (P3). <b>Per product:</b> introduce the product with a competitor screenshot (P4).</div></div>
 
-<div class="step"><div class="n">7</div><div><b>B-roll stills.</b> Lock the environment (P6) and test one frame. Then batch 10–15 stills of the avatar doing the “creation process” (P7, following the image rules in P8). The stills are reusable across videos as long as each video gets a new hook.</div></div>
+<div class="step"><div class="n">7</div><div><b>B-roll stills.</b> Lock the environment (P6) and test one frame. Ask Claude for the steps of making the product (P16), then batch 10–15 stills of the avatar doing that “creation process” (P7, following the image rules in P8). The stills are reusable across videos as long as each video gets a new hook.</div></div>
 
 <div class="step"><div class="n">8</div><div><b>Animate.</b> Claude writes one Kling 3.0 prompt per still (P9) plus strict negatives (P10). In Kling 3.0 inside Higgsfield: the still as start frame, enhance off, 5 seconds, render 2–3 (up to 6) and keep the best.</div></div>
 
@@ -544,7 +574,7 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 <div class="step"><div class="n">10</div><div><b>Edit in CapCut.</b> Clips, text hook, transition. Add real showcase clips at the end “so we don&#x27;t get called out, okay?” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=1401s">23:21</a>)</span></div></div>
 
 <h3>Phase 3b: Route B, the hybrid that Kevin runs most now</h3>
-<div class="step"><div class="n">B</div><div>“I&#x27;m just going to rip it, background swap it, and really just take care of the the the hook myself, right? So, the first 3 to 4 seconds of the video, um, I&#x27;ll take care of it with like a run two or a 321 AI concept.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=1788s">29:48</a>)</span> Seedance step-by-step (P12): a Claude chat with the instruction prompt, then Seedance in Higgsfield (≤15 s, 720p, 2 variations), then a Topaz upscale. TikTok Shop variant: “taking care of the first 3 to 5 seconds of the video with AI and then dropping the affiliate footage behind it” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2425s">40:25</a>)</span></div></div>
+<div class="step"><div class="n">B</div><div>“I&#x27;m just going to rip it, background swap it, and really just take care of the the the hook myself, right? So, the first 3 to 4 seconds of the video, um, I&#x27;ll take care of it with like a run two or a 321 AI concept.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=1788s">29:48</a>)</span> Seedance step-by-step: a Claude chat holding the instruction prompt (P12), then two short messages per clip (P14, P15), then Seedance in Higgsfield (≤15 s, 720p, 2 variations), then a Topaz upscale. TikTok Shop variant: “taking care of the first 3 to 5 seconds of the video with AI and then dropping the affiliate footage behind it” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2425s">40:25</a>)</span></div></div>
 
 <h3>Phase 4: post, read the data, repeat</h3>
 <div class="step"><div class="n">11</div><div><b>Accounts.</b> Have primed accounts ready before you start: “to four prime Facebooks and Instagrams ready to go.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=557s">9:17</a>)</span> Prime new ones with the niche-growth method, AI funny dog videos, or run-two concepts. On Facebook, use pages rather than extra accounts. “just start uploading AI funny dog videos.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=589s">9:49</a>)</span></div></div>
@@ -555,7 +585,7 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 
 <div class="step"><div class="n">14</div><div><b>Judge the product.</b> 5–7 days per product (two to three products at once, or four to five as a “testing demon”), or 30–40 posts before giving up on one you believe in. Read: did it go viral, was there demand, were there sales, what's the conversion rate?</div></div>
 
-<div class="step"><div class="n">15</div><div><b>Find the outlier, then split test it</b>, one variable at a time, in this order: “I start with the textbook, then I move on to the audio, then I move on to the backgrounds, then I move on to the hand movements, then I move on to uh the duration of the of the video.” <span class="src">(<a href="https://www.youtube.com/watch?v=b3OiPa8Xlf0&t=269s">4:29</a>)</span> (“textbook” = text hook). Platform rules are on the next page (section 7).</div></div>
+<div class="step"><div class="n">15</div><div><b>Find the outlier, then split test it</b>, one variable at a time, in this order: “I start with the textbook, then I move on to the audio, then I move on to the backgrounds, then I move on to the hand movements, then I move on to uh the duration of the of the video.” <span class="src">(<a href="https://www.youtube.com/watch?v=b3OiPa8Xlf0&t=269s">4:29</a>)</span> (“textbook” = text hook). Platform rules are on the next page (section 7B).</div></div>
 
 <div class="step"><div class="n">16</div><div><b>Daily loop.</b> “doing some PR concept research. Also, you know, posting content and engaging to uh or replying to some comments and DMs,” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1235s">20:35</a>)</span> then store operations in the evening and a 15-minute review at night.</div></div></section><section class="section"><div class="sec-head"><div class="sec-num">6</div><div><div class="sec-title">How they research avatars</div><div class="sec-sub">Two meanings, one system. The customer avatar (ICP) decides the AI avatar (the person on screen).</div></div></div><div class="note"><b>Key idea:</b> in this group the “avatar” is the on-screen AI person, and that person is built to <b>look like the buyer</b>. So customer research comes first and directly shapes the face, age, clothes and setting. “people want to buy from other people that kind of look like them that resonate with them” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=513s">8:33</a>)</span></div>
 
@@ -612,7 +642,218 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 </ul>
 <h2>Step 4: test avatars like hooks</h2>
 <p>“creation process, even what your avatar is wearing, you can split test it.” <span class="src">(<a href="https://www.youtube.com/watch?v=b3xKO_MABXg&t=257s">4:17</a>)</span> Gus split-tested setting and avatar age as separate variables until one stuck, and Ivan built niche-research “prompt structures” in Claude (and Kimi) and found rooms on Pinterest.</p>
-<div class="warn"><b>The line Kevin draws himself:</b> “we don&#x27;t want to impersonate a real human being. That&#x27;s how you get sued.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=637s">10:37</a>)</span> Their look-alike method still starts from a real person's Pinterest photo. “Similar facial features” is a judgement call, not a legal safe harbor (see section 7, risks).</div></section><section class="section"><div class="sec-head"><div class="sec-num">7</div><div><div class="sec-title">Everything else worth knowing</div><div class="sec-sub">The formats that go viral, platform-specific testing rules, the program itself, the product filter, and the risks they don&#x27;t mention</div></div></div><h2>The formats they build AI videos around</h2>
+<div class="warn"><b>The line Kevin draws himself:</b> “we don&#x27;t want to impersonate a real human being. That&#x27;s how you get sued.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=637s">10:37</a>)</span> Their look-alike method still starts from a real person's Pinterest photo. “Similar facial features” is a judgement call, not a legal safe harbor (see section 7B, risks).</div></section><section class="section"><div class="sec-head"><div class="sec-num">7A</div><div><div class="sec-title">Inside the FSC Discord</div><div class="sec-sub">What leaves the server: the wins chat, the calls, the live sessions, how prompts and products spread, what members pay, and what is still locked</div></div></div><div class="note"><b>How this was recovered.</b> Nobody on this project joined the Discord, and no private or leaked material was used. That turned out not to matter much: Kevin opens the Discord on camera, streams sessions from inside it and publishes them, puts members on camera to describe it, and links coach-written prompt docs in his video descriptions. Every line below is cut by script from those recordings (exact captions, clickable timestamps) or from the descriptions themselves. Revenue in the wins chat is what members posted about themselves, read aloud by Kevin. Nobody audited it.</div>
+
+<h2>What the server is for, in their words</h2>
+<table>
+<thead>
+<tr>
+<th>What's inside</th>
+<th>Proof</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The AI workflow, taught step by step</strong></td>
+<td>Coach Elias: “in the Discord, we teach uh you teach the the the the workflow.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=1768s">29:28</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Teaching videos</strong></td>
+<td>Aaron (April 18, nine days before the window): “I watched it in one of the videos in the Discord and it went viral on TikTok.” <span class="src">(<a href="https://www.youtube.com/watch?v=nY773s_fO7A&t=1378s">22:58</a>)</span></td>
+</tr>
+<tr>
+<td><strong>A library of recorded calls and lessons</strong></td>
+<td>Tim ($118K): “Some of the calls I have to rewatch again and again just to make sure that I have all notes, right? So, amazing library of all these videos, you know, courses,” <span class="src">(<a href="https://www.youtube.com/watch?v=rIiUPh3Jx8c&t=2884s">48:04</a>)</span> Kevin: “it&#x27;s almost like a library of lessons and information that&#x27;s, you know, obviously exclusive to the people inside,” <span class="src">(<a href="https://www.youtube.com/watch?v=rIiUPh3Jx8c&t=2954s">49:14</a>)</span></td>
+</tr>
+<tr>
+<td><strong>The prompts</strong></td>
+<td>Kevin, Oct 23: “Cuz we also give you most of the prompts that you&#x27;re going to need to to make the videos as well.” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=3650s">1:00:50</a>)</span> Aaron: “We don&#x27;t realize that we have an advantage cuz we have all the prompts, all the Like all the sauce.” <span class="src">(<a href="https://www.youtube.com/watch?v=nY773s_fO7A&t=1605s">26:45</a>)</span></td>
+</tr>
+<tr>
+<td><strong>An in-house app (new in October)</strong></td>
+<td>Kevin, Oct 23: “we recently just built a [ __ ] FSE app for the community.” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=3650s">1:00:50</a>)</span> “with that app you&#x27;re going to be able to just copy and paste all the necessary concepts that you&#x27;re going to need to test.” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=3662s">1:01:02</a>)</span></td>
+</tr>
+<tr>
+<td><strong>A winning-product section</strong></td>
+<td>Kevin, Aug 31: “my coach Elias posted this old product from 2023 in the winning product section of FSE and this was an old product from 2023, guys. It was called the bloody mat.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2207s">36:47</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Supplier contacts</strong></td>
+<td>Vitaly ($33K): “never had a supplier issue in inside of our channels. We have lots of suppliers, actually.” <span class="src">(<a href="https://www.youtube.com/watch?v=AXjonWCPVCI&t=1055s">17:35</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Account reviews and shared settings</strong></td>
+<td>Elias: “Kevin is genuinely deep diving into your accounts, looking at what is working, what is not.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=2110s">35:10</a>)</span> On the Oct 27 group call, about Facebook country restrictions: “Copy and paste it in the Discord. Those are like all the countries. The high-converting countries.” <span class="src">(<a href="https://www.youtube.com/watch?v=b3xKO_MABXg&t=2017s">33:37</a>)</span></td>
+</tr>
+<tr>
+<td><strong>A wins chat</strong></td>
+<td>Kevin, March 3: “we&#x27;re inside of the Win&#x27;s Chat of Full Stack Ecom, which is my one-on-one mentorship.” <span class="src">(<a href="https://www.youtube.com/watch?v=mJ40LCLeWOU&t=1489s">just before 24:49</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Group calls with coaches, where products get “leaked”</strong></td>
+<td>Omar ($41K): “we have um group calls with the with the coaches. They give hella sauce as well. Right. And they even leak products there.” <span class="src">(<a href="https://www.youtube.com/watch?v=putfs1jofwo&t=1519s">25:19</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Live sessions streamed in the server</strong></td>
+<td>Kevin, June 25: “So, yeah, this was all live inside of my Discord. So, you guys are going to be able to see the chat as well as Pedro&#x27;s handsome little face.” <span class="src">(<a href="https://www.youtube.com/watch?v=N0l2H4-_anA&t=25s">0:25</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Members answering each other</strong></td>
+<td>Aaron: “Like even if you just DM anybody in the Discord, they&#x27;ll literally respond say, &quot;Yeah, try this.” <span class="src">(<a href="https://www.youtube.com/watch?v=nY773s_fO7A&t=1462s">24:22</a>)</span> Tim, on the chat: “You can drop any questions and people who are actually dealing with this problem, who have experience, who have contacts, who have knowledge, right? They will share their experience” <span class="src">(<a href="https://www.youtube.com/watch?v=rIiUPh3Jx8c&t=2700s">45:00</a>)</span></td>
+</tr>
+</tbody>
+</table>
+<p>Members' own verdict on the group, Chase (Apr 25): “This group low-key runs organic, I&#x27;m not going to lie.” <span class="src">(<a href="https://www.youtube.com/watch?v=guTm6q9caeY&t=1350s">22:30</a>)</span> Outside the Discord itself, members also describe WhatsApp group chats with the coaches. Ivan ($70K): “The amount of value that guy provides just in the just in the WhatsApp is nuts. And I&#x27;d never leave a call or a group call with him without about two sheets of notes.” <span class="src">(<a href="https://www.youtube.com/watch?v=7yKY90-ekTw&t=1399s">23:19</a>)</span></p>
+<p><strong>When the server turned to AI.</strong> Member Mark, speaking on March 26: “2 months ago when like the whole Discord discovered all this AI stuff, like we were learning it.” <span class="src">(<a href="https://www.youtube.com/watch?v=c9plD077S6M&t=282s">4:42</a>)</span> That puts the switch at around January 2026, and Kevin dates it the same way on Oct 20: “AR Organic was first pioneered inside of FSC, which is my community, back in January, it was a blue ocean” <span class="src">(<a href="https://www.youtube.com/watch?v=r-B9VS_IdZI&t=227s">3:47</a>)</span> (“AR Organic” is the caption for “AI organic”.) Pedro credits coach Harper with starting it: “If it wasn&#x27;t for Harper, like a lot of you guys wouldn&#x27;t have like, you know, ran AI [ __ ] bro. No chance.” <span class="src">(<a href="https://www.youtube.com/watch?v=N0l2H4-_anA&t=1599s">just before 26:39</a>)</span></p>
+<h2>The weekly machine: calls, product sheets, approvals</h2>
+<ul>
+<li><strong>Calls, then:</strong> in April, “everyone that joins gets one-on-one calls with me weekly apart from like a group call on Monday, a group call on Thursday, and on Sunday.” <span class="src">(<a href="https://www.youtube.com/watch?v=-knTbpzbozA&t=1168s">19:28</a>)</span></li>
+<li><strong>Calls, now (Oct 27):</strong> “we actually have about five of these every single week inside of the community.” <span class="src">(<a href="https://www.youtube.com/watch?v=b3xKO_MABXg&t=90s">just before 1:30</a>)</span></li>
+<li><strong>How a call runs.</strong> Elias, May 26: “every time we&#x27;re like going over a subject, having a a Q&amp;A at the end. Everyone is talking, everyone is sharing some sauce. And even like, that&#x27;s crazy how even the beginners are teaching you sometimes.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=2146s">35:46</a>)</span></li>
+<li><strong>Coaches:</strong> Harper (“advanced coach”), Elias, and now John: “I see you in the chats with the students cuz by the way now John is also a coach.” <span class="src">(<a href="https://www.youtube.com/watch?v=6o0llGgVRrg&t=2118s">35:18</a>)</span> Charlie, Aug 29: “you&#x27;ve got how many coaches? Like four coaches” <span class="src">(<a href="https://www.youtube.com/watch?v=S9COXhnjijY&t=1897s">just before 31:37</a>)</span> One-on-ones can thin out as the group grows. Vitaly, June 21: “Actually, now we go one call in 2 weeks. Uh, is a bit shameful, but I got another coach as well. So, I got every every week, yeah, Elias.” <span class="src">(<a href="https://www.youtube.com/watch?v=AXjonWCPVCI&t=1531s">just before 25:31</a>)</span></li>
+<li><strong>Product research sheets (“PR sheets”), approved by Kevin.</strong> Members send product candidates and Kevin approves or kills them: “Being able to just send a PR sheet twice a week and just get it, you know, audited” <span class="src">(<a href="https://www.youtube.com/watch?v=GfhpQLqF658&t=11770s">3:16:10</a>)</span> Ivan: “You approved it and I just started running it straight away. that this was the first product I got my first 1K day with.” <span class="src">(<a href="https://www.youtube.com/watch?v=7yKY90-ekTw&t=760s">12:40</a>)</span> Kevin to Omar: “when I approved the red light therapy cap, you just got on it the same day.” <span class="src">(<a href="https://www.youtube.com/watch?v=putfs1jofwo&t=1740s">29:00</a>)</span></li>
+<li><strong>Kevin's verdicts are blunt:</strong> “there&#x27;s been plenty of times when you guys sent me products and I&#x27;m like, &quot;Yeah, this is trash.” <span class="src">(<a href="https://www.youtube.com/watch?v=3Uj3cu5MFVw&t=359s">5:59</a>)</span></li>
+</ul>
+<h2>A live session from inside the server: the question from the chat</h2>
+<div class="keep">
+<p>The June 25 case study with Pedro was streamed into the Discord, and members asked questions in the chat. One of them is captured whole, with the answer:</p>
+<div class="callout-q">
+“Jaden&#x27;s asking, &quot;What is the biggest mistake that you see people making in the Discord that&#x27;s keeping them from printing?” <span class="src">(<a href="https://www.youtube.com/watch?v=N0l2H4-_anA&t=1492s">24:52</a>)</span>
+<br><br>
+“Not [ __ ] showing up to calls. not showing up to calls and not sending PR sheets, bro. Um, what else? I think a lot of people are hopping on the same [ __ ] too, bro. Try to pivot, bro. Try to make something new. Like, look at like Harper, bro.” <span class="src">(<a href="https://www.youtube.com/watch?v=N0l2H4-_anA&t=1504s">25:04</a>)</span>
+</div>
+<p>That answer is the group's own diagnosis of who fails inside it: people who skip calls, don't send product sheets, and copy what everyone else is already running.</p>
+</div>
+<h2>The wins chat, as Kevin read it on camera</h2>
+<p>Kevin opened the wins chat in at least three uploads in the window. These are the posts he read out, word for word. The amounts are what members posted about themselves.</p>
+<table>
+<thead>
+<tr>
+<th>Read on</th>
+<th>Posts read aloud (exact captions)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Aug 21</strong> (<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&amp;t=1547s">video, Aug 22</a>)</td>
+<td>“Today is August 21st and so this win was posted yesterday by Kenny.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1551s">25:51</a>)</span> · “we got guys doing $17,000 in a week.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1558s">25:58</a>)</span> · “we have Monk Mode hitting his first ever $1,000 day.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1564s">26:04</a>)</span> · “We have Yanik all the way from Germany hitting his first ever $1,000 Euro day.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1564s">26:04</a>)</span> · “we got beginners hitting their first ever $500 day.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1581s">26:21</a>)</span> · “We even have Adam. He just did $154,000 in 3 weeks, and he bought his first ever car at 19.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1589s">26:29</a>)</span> · “Jake went from being one of the biggest sales uh reps for some of the top uh you know, influencers in the space to now fully pivoting to AI and now he&#x27;s done his first ever $20,000.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1622s">27:02</a>)</span> · “Gus already up 25K on the month.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1648s">27:28</a>)</span> · “We have Vital here doing what, 30K in 15 days.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1656s">27:36</a>)</span></td>
+</tr>
+<tr>
+<td><strong>Aug 31</strong> (<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&amp;t=2629s">video</a>)</td>
+<td>“we got Reinato hitting his first ever 1K day.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2629s">43:49</a>)</span> · “we got my boy Kenny hitting a 1.4K day.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2635s">43:55</a>)</span> · “even Yanick all the way from Germany. He&#x27;s up 7K in seven days.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2643s">44:03</a>)</span> · “we even have Sheree hitting a 1.2K day all the way from the UK, bro.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2643s">44:03</a>)</span> · “these are all recent recent wins.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2635s">43:55</a>)</span></td>
+</tr>
+<tr>
+<td><strong>May 29</strong> (<a href="https://www.youtube.com/watch?v=FFPQYyPqQFI&amp;t=288s">video</a>)</td>
+<td>“He actually just hit his first ever 1K day today at 17 years old after 1 and 1/2 years of doing organic and not seeing the results he wanted to see.” <span class="src">(<a href="https://www.youtube.com/watch?v=FFPQYyPqQFI&t=288s">4:48</a>)</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>What the scoreboard tells you.</strong> Most posts are first $500–$4K <em>days</em> and single good weeks. The $60K–$220K <em>months</em> appear in the case studies. Kevin reads the chat in videos that end with the application link: “So, if you guys want to join FSC and work one-on-one with me personally, you guys can go ahead and apply in the description below.” <span class="src">(<a href="https://www.youtube.com/watch?v=0EwzL3Etidg&t=1668s">just before 27:48</a>)</span></p>
+<h2>How a prompt, or a product, spreads through the group</h2>
+<div class="chain">
+<div class="link"><b>1 · A coach, or a student, cracks it</b>Elias: “I was also the first one to manage to do the 321 with AI. Yeah. Yeah. That&#x27;s pretty crazy because people all use my prompts until now.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=922s">15:22</a>)</span> The Seedance swap started with a student. Kevin: “a massive thanks to Amrit, one of my top students, for being the first one to discover this method that I&#x27;m going to be explaining and for agreeing, you know, to share it because, quite frankly, he didn&#x27;t need to” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=192s">3:12</a>)</span></div>
+<div class="link"><b>2 · It's handed out on a call</b>John: “I uh started this product with one of the prompts that Elias gave us in one of the calls.” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=766s">12:46</a>)</span></div>
+<div class="link"><b>3 · It's written up for the group</b>The Seedance brief's first line is <code>SHOUTOUT THE SEEDANCE GOAT ELIAS FOR MAKING THIS PROMPT FOR YOU GUYS</code> and Kevin later posted it publicly in his Aug 13 description: “Background Swap Prompt: https://docs.google.com/document/d/1donrcdIengXaQfiWBqkFAbImxE02thkgzt1uNZAaDV4/edit?usp=sharing” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c">video description</a>)</span></div>
+<div class="link"><b>4 · Everyone runs it within days</b>Trajan, on a product Elias shared: “Elias had a call about it and he was talking about how he how he cooked with it and within, you know, a couple days it was just all all I was seeing on my burner” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=1477s">24:37</a>)</span></div>
+</div>
+
+<p><strong>A worked example: the bloody mat.</strong> The product Elias posted in the winning-product section went out with an instruction: “he sent this video to the community and, you know, told people, hey, like run this up again with, you know, AI concepts and, you know, Gus, my student, was the first one to take action on it. And guess what? 4.4 million views just by reviving it with a new concept.” <span class="src">(<a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&t=2219s">36:59</a>)</span> For Gus (“Gus just got off a $60,000 month last month in July.” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=11s">0:11</a>)</span>) it became “the second product that made you um the majority of the money. It was the bloody mat.” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=1293s">just before 21:33</a>)</span></p>
+<p><strong>Members leak too.</strong> Elias on Omar, May 26: “Complete beginner, bro. Joins the [ __ ] server after what, a month and a half? Like, he&#x27;s already doing like 30K months, and he&#x27;s teaching like advanced guys, like crazy advanced hooks, all done with AI.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=2174s">36:14</a>)</span> “Cuz I remember, bro, we we we literally he leaked his product on the call” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=2179s">36:19</a>)</span></p>
+<p><strong>Products travel the same way.</strong> Trajan ($66K), Oct 23: “this product was actually basically like just you know, leaked to the whole [laughter] the whole the whole group.” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=1468s">24:28</a>)</span> “I think we tallied up the numbers and it was like over seven figures just from the community from just vinyls” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=1498s">24:58</a>)</span> “Elias pretty much like decided to leak it to the whole community and after that but I think next day like everyone was on a vinyl,” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=1503s">25:03</a>)</span> Kevin tells the same story about resins (May 22): “it all started back in October of 2025, when my student, Harper, sent me this exact product in his product research sheet.” <span class="src">(<a href="https://www.youtube.com/watch?v=evT3rUWsIrc&t=737s">12:17</a>)</span> “we actually tallied up the numbers inside of FSE, and overall, uh we we probably made over 5 $700,000 with resins.” <span class="src">(<a href="https://www.youtube.com/watch?v=evT3rUWsIrc&t=1221s">20:21</a>)</span> (Figure as captioned.)</p>
+<div class="warn"><b>Our read: the leak is both the value and the clock.</b> A coach's shared product or prompt is worth the most in the first days. By Trajan's account, within days it was “all I was seeing” on his burner. After that you are competing with your own cohort running the same prompt on the same product. That is why Pedro's answer above is “try to make something new”, and why Charlie watched about 30 accounts copy his winner without one going viral (section 7B, risk 7). If you get a leak, speed is the edge. If you're late, change the angle, niche or concept before you post. Kevin makes the same point about the skill itself (Oct 20): “If your only advantage right now is I know how to make AI videos, that advantage is disappearing fast because everybody is learning how to do it.” <span class="src">(<a href="https://www.youtube.com/watch?v=r-B9VS_IdZI&t=442s">just before 7:22</a>)</span></div>
+
+<h2>The case studies are a tracked sales funnel</h2>
+<p>Every in-window video description carries the same application form, tagged with a different tracking code for the member or topic of that video. Kevin can see which member's story brings in applicants.</p>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Tracking code in the application link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>John, $65K (Jun 16)</td>
+<td>“nuSFV1VM?utm_source=Jhon” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8">video description</a>)</span></td>
+</tr>
+<tr>
+<td>Gus, $60K (Aug 26)</td>
+<td>“nuSFV1VM?utm_source=guss” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0">video description</a>)</span></td>
+</tr>
+<tr>
+<td>Charlie, $110K (Aug 29)</td>
+<td>“nuSFV1VM?utm_source=char” <span class="src">(<a href="https://www.youtube.com/watch?v=S9COXhnjijY">video description</a>)</span></td>
+</tr>
+<tr>
+<td>Adam, $220K (Sep 3)</td>
+<td>“nuSFV1VM?utm_source=adam2” <span class="src">(<a href="https://www.youtube.com/watch?v=mA7lA-40Nu0">video description</a>)</span></td>
+</tr>
+<tr>
+<td>Trajan, $66K (Oct 23)</td>
+<td>“nuSFV1VM?utm_source=tra” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8">video description</a>)</span></td>
+</tr>
+<tr>
+<td>Full course (Jun 14) · step-by-step (Jun 19) · split testing (Oct 27)</td>
+<td>“utm_source=aicourse” <span class="src">(<a href="https://www.youtube.com/watch?v=GfhpQLqF658">video description</a>)</span> · “utm_source=stepbystep” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8">video description</a>)</span> · “utm_source=split” <span class="src">(<a href="https://www.youtube.com/watch?v=b3xKO_MABXg">video description</a>)</span></td>
+</tr>
+</tbody>
+</table>
+<p>Read the revenue claims with that in mind. They're real people with dashboards on screen, but they are chosen, edited and measured as marketing.</p>
+<h2>What members pay</h2>
+<p>The price is never published. It is given on the sales call after the application, and Kevin says entry is selective: “I don&#x27;t accept everyone that applies for this.” <span class="src">(<a href="https://www.youtube.com/watch?v=TlwIZzzkojM&t=91s">1:31</a>)</span> (Aug 2025, before the window.) What members have said:</p>
+<ul>
+<li><strong>Pedro</strong>, who joined at 17: “like back then 3K to me, holy [ __ ] guys. 3K. I was telling Kevin, I&#x27;m like, &quot;Yo, you were what 17?&quot; I was 17. Yeah. And you remember I had to pay 2K and then 1K after like because I was you couldn&#x27;t afford it.” <span class="src">(<a href="https://www.youtube.com/watch?v=N0l2H4-_anA&t=2029s">33:49</a>)</span></li>
+<li><strong>Tim</strong> ($118K): “that was like equivalent for like almost two months like one and a half months of my salary” <span class="src">(<a href="https://www.youtube.com/watch?v=rIiUPh3Jx8c&t=2305s">38:25</a>)</span></li>
+<li><strong>Gus</strong> ($60K): “We sold her car, bro, because we had two cars. We only used one car. We sold her car. I used a little bit of that money to pay bills a couple head for a couple months. Use a little bit of that money to get started here with Kevin.” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=208s">3:28</a>)</span></li>
+</ul>
+<p>So the entry price was about $3,000 when Pedro joined, with a split payment allowed. Today's price is <strong>not verified</strong>. Kevin notes Adam had been “in the program for for over 6 months,” <span class="src">(<a href="https://www.youtube.com/watch?v=mA7lA-40Nu0&t=1594s">26:34</a>)</span> and Adam says the value is “the information and like uh you get it before everyone else.” <span class="src">(<a href="https://www.youtube.com/watch?v=mA7lA-40Nu0&t=1638s">27:18</a>)</span></p>
+<h2>Recordings from inside the group you can watch</h2>
+<p>Kevin rarely publishes a full call: “I think the last time that I leaked an inner circle call on this very YouTube channel was about 6 months ago, right?” <span class="src">(<a href="https://www.youtube.com/watch?v=b3xKO_MABXg&t=73s">1:13</a>)</span></p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Video</th>
+<th>What's from inside the group</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oct 27</td>
+<td><a href="https://www.youtube.com/watch?v=b3xKO_MABXg">How To Split Test In AI Organic Dropshipping</a></td>
+<td>A full FSC group call: “you guys are going to be getting access into one of my group calls inside of FSC, which is my one-on-one inner circle.” <span class="src">(<a href="https://www.youtube.com/watch?v=b3xKO_MABXg&t=32s">0:32</a>)</span></td>
+</tr>
+<tr>
+<td>Aug 21–31</td>
+<td><a href="https://www.youtube.com/watch?v=0EwzL3Etidg&amp;t=1547s">Q4 plan</a> · <a href="https://www.youtube.com/watch?v=T6-LXSu0qHw&amp;t=2629s">Speedrun</a></td>
+<td>The wins chat, scrolled on screen</td>
+</tr>
+<tr>
+<td>Jun 25</td>
+<td><a href="https://www.youtube.com/watch?v=N0l2H4-_anA">Pedro, $30K/month</a></td>
+<td>A live session streamed in the Discord, chat visible, with member questions</td>
+</tr>
+<tr>
+<td>May 27 · Jul 5</td>
+<td><a href="https://www.youtube.com/watch?v=mq4PgXJAw8s">$40K/week AI videos</a> · <a href="https://www.youtube.com/watch?v=XNu-o5bXTkk">AI avatars guide</a></td>
+<td>Coach Harper's motion-control demo from a group call; a scroll of FSC wins</td>
+</tr>
+<tr>
+<td>May 29</td>
+<td><a href="https://www.youtube.com/watch?v=FFPQYyPqQFI&amp;t=288s">How AI is changing organic</a></td>
+<td>The wins chat</td>
+</tr>
+</tbody>
+</table>
+<h2>Still locked, and how to get it</h2>
+<ul>
+<li><strong>Not public:</strong> the full channel list beyond the wins chat, the pinned prompts (Elias's 321 prompt, the run-two prompts, Kevin's full context prompt), the FSE app, unpublished call recordings and day-to-day member chat.</li>
+<li><strong>If you are a member</strong>, two ways to add it to this report with the same proof standard:<ul>
+<li>Run a Claude session on your own computer, where your Discord login is (the Claude desktop app, or <code>claude remote-control</code> in a terminal), and have it read the channels you can see.</li>
+<li>Export the channels with DiscordChatExporter and put the export in your Google Drive. The toolkit in your repo (<code>tools/discord/</code>) turns it into a sourced evidence pack. Exporting with your own account token is against Discord's terms and risks that account. A bot added by the server owner is the clean route.</li>
+</ul>
+</li>
+</ul></section><section class="section"><div class="sec-head"><div class="sec-num">7B</div><div><div class="sec-title">Everything else worth knowing</div><div class="sec-sub">The formats that go viral, platform-specific testing rules, the program itself, the product filter, and the risks they don&#x27;t mention</div></div></div><h2>The formats they build AI videos around</h2>
 <table>
 <thead>
 <tr>
@@ -670,9 +911,9 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 </ul>
 <h2>How the program (FSC / “FSE”) actually runs</h2>
 <ul>
-<li><strong>Name:</strong> Full Stack eCom. The captions write FSC, FSE and FSA; the sales site is titled “FullStackEcom”, and the internal Google Doc is titled “FSE …”. Entry is by application (Typeform), then a call. <strong>No price is published.</strong></li>
-<li><strong>Format, per members:</strong> weekly one-on-ones with Kevin, three group calls a week (Monday, Thursday, Sunday per an April 2026 interview), a Discord plus WhatsApp chats, and Kevin approving members' product research sheets. “three group calls a week now.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=2135s">35:35</a>)</span></li>
-<li><strong>Coaches:</strong> Harper (“advanced coach”; pioneered resin products; members credit him with the first AI group call, per an April 2026 case study), Elias ($91K month; writes the shared prompts, such as the Seedance brief and the 321 prompt), and John (now coaching; $140K in 30 days).</li>
+<li><strong>Name:</strong> Full Stack eCom. The captions write FSC, FSE and FSA; the sales site is titled “FullStackEcom”, and the coach-written Google Doc is titled “FSE …”. Entry is by application (Typeform), then a call. <strong>No price is published.</strong></li>
+<li><strong>Format:</strong> one-on-ones with Kevin, group calls (three a week in May: “three group calls a week now.” <span class="src">(<a href="https://www.youtube.com/watch?v=8zsX4RwrN84&t=2135s">35:35</a>)</span>; about five by October), a Discord plus WhatsApp chats, and Kevin approving members' product research sheets. Section 7A has the detail, with proof, and what members pay.</li>
+<li><strong>Coaches:</strong> Harper (“advanced coach”; pioneered resin products; members credit him with starting the group's AI work; see section 7A), Elias ($91K month; writes the shared prompts, such as the Seedance brief and the 321 prompt), and John (now coaching; $140K in 30 days).</li>
 <li><strong>Prompts are handed out on group calls, and members credit them directly:</strong></li>
 <li>John ($65K): “I uh started this product with one of the prompts that Elias gave us in one of the calls.” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=766s">12:46</a>)</span> “Because with your with your with your prompt, I have made around 10K.” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=779s">12:59</a>)</span></li>
 <li>Gus ($60K): “Immediately right after the call he gives us the prompts. I copy paste the prom, make my own. Very first video goes like more viral” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=795s">13:15</a>)</span></li>
@@ -766,13 +1007,13 @@ https://www.instagram.com/dekayedclothing/</pre>
 <ol>
 <li><strong>Undisclosed AI on TikTok.</strong> TikTok's Community Guidelines require creators to label AI-generated or significantly edited content that shows realistic people or scenes. TikTok also auto-labels content it detects, and that label can't be removed (<a href="https://support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content">TikTok support</a>; <a href="https://www.tiktok.com/community-guidelines/en/integrity-authenticity">Integrity &amp; Authenticity guidelines</a>). Mixing in real clips “so we don't get called out” doesn't remove the duty to label, and unlabeled realistic AI can be removed or restricted.</li>
 <li><strong>Fake testimonials under the FTC rule.</strong> Since October 21, 2024, 16 CFR Part 465 bans testimonials attributed to people who don't exist, which covers AI-generated ones. Courts can impose civil penalties for knowing violations (<a href="https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials">FTC press release</a>; <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers">FTC Q&amp;A</a>). An AI avatar saying “I bought this for my sister and now she uses it every day” to US buyers is the exposure point. AI “doctors” promoting supplements add health-claim risk on top.</li>
-<li><strong>Meta's unoriginal-content penalty.</strong> Meta cuts distribution and monetization for accounts that repeatedly repost others' content without meaningful enhancement, and reduces reach on detected duplicates (<a href="https://creators.facebook.com/blog/combating-unoriginal-content">Meta creators blog</a>; <a href="https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/">Meta, March 2026</a>). One-for-one reposting and ripped showcase clips are exactly what this targets, even when the background is swapped.</li>
+<li><strong>Meta's unoriginal-content penalty.</strong> Meta cuts distribution and monetization for accounts that repeatedly repost others' content without meaningful enhancement, and reduces reach on detected duplicates (<a href="https://creators.facebook.com/blog/combating-unoriginal-content">Meta creators blog</a>; <a href="https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/">Meta, March 2026</a>). One-for-one reposting and ripped showcase clips are exactly what this targets, even when the background is swapped. Kevin states the swap's purpose himself: “you&#x27;re trying to rip a competitor&#x27;s video or revive an old winner without the algorithm flagging you for unoriginal content.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=255s">just before 4:15</a>)</span></li>
 <li><strong>The “I own @video_1” line.</strong> Elias's Seedance template makes you state ownership of the source video. Kevin describes the method as a way “to literally steal a clip, repurpose the background, and the entire environment” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=231s">3:51</a>)</span> and tells members to mute clips first because otherwise Higgsfield will “block the generation due to copyright.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=1118s">18:38</a>)</span> Muting to dodge a copyright filter, plus a false ownership statement, is the riskiest step in the stack, both for the platform account and legally.</li>
 <li><strong>Look-alike faces.</strong> Pinterest photos of real people turned into “similar facial features” avatars can still raise right-of-publicity claims if the person is recognizable. Kevin's own line is “that's how you get sued”.</li>
 <li><strong>Real retailers in fake scenes.</strong> Run twos set in Costco, Target or IKEA, ending with “just kidding, we sell them”, imply a retail presence that doesn't exist. That brings trademark and false-advertising exposure the more the brand is shown.</li>
 <li><strong>Shared prompts mean shared fingerprints.</strong> When a whole cohort runs the same coach prompt (the 321 prompt, the Seedance brief), the outputs converge. Charlie saw about 30 accounts copy his winner and none of them went viral: “everyone was just one-on-one posting my video, they were just screenshotting every frame. And that&#x27;s just not how organic works” <span class="src">(<a href="https://www.youtube.com/watch?v=S9COXhnjijY&t=2072s">34:32</a>)</span> The prompt is not a moat. Speed, niching and testing are.</li>
 <li><strong>Tool churn.</strong> The stack changed from Sora 2/Veo to Higgsfield, Kling and Seedance within a year. Budget for re-learning, and keep the method separate from any one tool.</li>
-</ol></section><section class="section"><div class="sec-head"><div class="sec-num">8</div><div><div class="sec-title">The real prompts, unchanged</div><div class="sec-sub">P1–P13 in the order you use them. Prompt text is cut by script from the transcript or exported from the Google Doc. Nothing is retyped.</div></div></div><div class="note"><b>How to read a card.</b> The dark box is the prompt exactly as they typed or said it (caption spelling kept, e.g. “Hicksfield” = Higgsfield). <b>When / Where / What it does</b> are ours. <b>Proof</b> gives who said or sent it, the source and a clickable timestamp. Two of the prompts are full documents: <b>P1</b> (Kevin's public Niche Research Prompt) and <b>P12</b> (coach Elias's internal Seedance brief, which came to you from inside the group).</div>
+</ol></section><section class="section"><div class="sec-head"><div class="sec-num">8</div><div><div class="sec-title">The real prompts, unchanged</div><div class="sec-sub">P1–P17 in the order you use them. Prompt text is cut by script from the transcript or exported from the Google Doc. Nothing is retyped.</div></div></div><div class="note"><b>How to read a card.</b> The dark box is the prompt exactly as they typed or said it (caption spelling kept, e.g. “Hicksfield” = Higgsfield). <b>When / Where / What it does</b> are ours. <b>Proof</b> gives who said or sent it, the source and a clickable timestamp. Two of the prompts are full documents: <b>P1</b> (Kevin's public Niche Research Prompt) and <b>P12</b> (coach Elias's Seedance brief, written for the group and linked in Kevin's Aug 13 description). P14–P17 were added in this edition.</div>
 
 <h2>Research and setup</h2>
 <div class="prompt-card long" id="P1">
@@ -829,7 +1070,7 @@ End with a 3-line summary I could pin as a reminder of exactly who I&#x27;m talk
   <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">Once, before your first product. First explain to Claude what organic marketing is and the style you want (natural, phone-shot, “blends with the algorithm”), then send this line.</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Claude, in a new Project. Paste the resulting context prompt into the Project so every chat inherits it.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Produces the “context prompt”: the standing rulebook that makes Claude write organic-style image and video prompts. Kevin's own version has “about 14 different rules” and Claude answers it with “ready to produce prompts following the 14-section architecture.”</span></div>
   <pre class="pc-text">All right, based off of this information, go ahead and make me a context prompt to use for my video creation.</pre>
   <div class="pc-proof"><b>Proof:</b> Kevin Martins (“multiple six figures with AI organic drop shipping”) · “How I Make AI Organic Videos That Print $100k/m (Step by Step)” (Jun 19, 2026) · <a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=344s">5:44</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
-  <div class="pc-note">Kevin's personal context prompt is linked in his video descriptions but its text is not publicly indexed, so it is not reproduced here (see section 10, “What we could not get”).</div>
+  <div class="pc-note">Kevin says his own context prompt is “linked right here” (“I personally have my own context prompt, which is linked right here.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=344s">5:44</a>)</span>), but it is not in his descriptions as indexed, and its text is not public, so it is not reproduced here (see section 10, “What we could not get”).</div>
 </div>
 
 <div class="prompt-card" id="P4">
@@ -858,12 +1099,20 @@ End with a 3-line summary I could pin as a reminder of exactly who I&#x27;m talk
 </div>
 
 <h2>Stills, motion and hook</h2>
+<div class="prompt-card" id="P16">
+  <div class="pc-head"><span class="pc-id">P16</span><span class="pc-title">Get the creation-process steps, to plan your B-roll shots</span></div>
+  <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">Before the B-roll batch (P7), when you don't know what making your product looks like.</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Claude, in the same project chat.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Returns the making of the product step by step. Each step becomes one B-roll still in P7.</span></div>
+  <pre class="pc-text">Listen, what would the creation process of a watch look like step by step?</pre>
+  <div class="pc-proof"><b>Proof:</b> Kevin Martins (the same footage is in the Jun 14 full course) · “How I Make AI Organic Videos That Print $100k/m (Step by Step)” (Jun 19, 2026) · <a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=884s">14:44</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
+  <div class="pc-note">Swap “a watch” for your product. His next move: “And then based off those steps, like, now I want 10 different shots of her actually, you know, doing those uh those steps.” <span class="src">(<a href="https://www.youtube.com/watch?v=GfhpQLqF658&t=5421s">1:30:21</a>)</span></div>
+</div>
+
 <div class="prompt-card" id="P7">
   <div class="pc-head"><span class="pc-id">P7</span><span class="pc-title">Batch of B-roll shots</span></div>
   <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">After the first B-roll test frame looks right. Make 10–15 stills; they can be reused across videos “as long as you make new hooks every single time.”</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Claude, with the master frame attached. Image prompts go to GPT Image 2 (or Nano Banana) in Higgsfield.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Generates a set of “creation process” stills showing progression from start to finish (in his demo: painting the watch, looking over prototypes, pouring paint).</span></div>
   <pre class="pc-text">Listen, I want five, maybe eight different shots of my avatar doing this, this, this, and that.</pre>
   <div class="pc-proof"><b>Proof:</b> Kevin Martins · FULL COURSE (Jun 14, 2026) · <a href="https://www.youtube.com/watch?v=GfhpQLqF658&t=5402s">1:30:02</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
-  <div class="pc-note">“this, this, this, and that” is his placeholder: replace it with the actions you want. On reuse: “you can reuse them across your videos as long as you make new hooks every single time.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=927s">15:27</a>)</span></div>
+  <div class="pc-note">“this, this, this, and that” is his placeholder: replace it with the actions you want. On reuse: “you can reuse them across your videos as long as you make new hooks every single time.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=925s">15:25</a>)</span></div>
 </div>
 
 <div class="prompt-card" id="P8">
@@ -892,7 +1141,7 @@ End with a 3-line summary I could pin as a reminder of exactly who I&#x27;m talk
 
 <div class="prompt-card" id="P11">
   <div class="pc-head"><span class="pc-id">P11</span><span class="pc-title">First frame of the hook</span></div>
-  <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">After the B-roll is animated. Pick the hook concept from a competitor or a similar product first (he took one from coach Elias's profile).</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Claude, with the master frame attached; render the frame in Higgsfield, then animate it like P8.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Builds the opening 3–5 seconds that stop the scroll. This is the only part many members make with AI (see section 7).</span></div>
+  <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">After the B-roll is animated. Pick the hook concept from a competitor or a similar product first (he took one from coach Elias's profile).</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Claude, with the master frame attached; render the frame in Higgsfield, then animate it like P8.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Builds the opening 3–5 seconds that stop the scroll. This is the only part many members make with AI (see section 7B).</span></div>
   <pre class="pc-text">Hey, listen, I want you to write me a prompt to create me the first frame of the hook.</pre>
   <div class="pc-proof"><b>Proof:</b> Kevin Martins (concept borrowed from coach Elias, $91K month) · Step-by-step tutorial (Jun 19, 2026) · <a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=1249s">20:49</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
 
@@ -1007,8 +1256,24 @@ If the brief is highly specific (e.g., &quot;matte black walls + brass fixtures 
 5. Apply the same workflow for every new video, without exception.
 
 Acknowledge this brief now, then wait for the user to send their first video.</pre>
-  <div class="pc-proof"><b>Proof:</b> Written by coach Elias (“SHOUTOUT THE SEEDANCE GOAT ELIAS”; $91K in 30 days, shown on camera), distributed from Kevin's account (Drive owner; created Aug 5, last edited Sep 12, 2026). It was shared to your Google Drive on Oct 25, 2026. Member Jhon ($140K in 30 days) credits “the background swap methods that Elias shared with us” for his Seedance B-roll · Google Doc “FSE SEEDANCE BACKGROUND PROMPT” · <a href="https://docs.google.com/document/d/1donrcdIengXaQfiWBqkFAbImxE02thkgzt1uNZAaDV4">open</a> · <span class="pc-kind">full document text, exported unchanged (empty lines collapsed)</span></div>
-  <div class="pc-note">Kevin's step-by-step for this method (Aug 13, 2026): “the first step here is going to be opening up a new chat with Claude and pasting this exact instruction prompt that I made for you guys.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=918s">15:18</a>)</span> His tip: “you always want to mute your videos before using them as reference. Otherwise, Higgs Field will block the generation due to copyright.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=1114s">18:34</a>)</span> The ownership line in the template (“I own @video_1 and all rights to it”) is only true for footage you own. Kevin describes the method as a way “to literally steal a clip, repurpose the background, and the entire environment” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=231s">3:51</a>)</span>. See section 7, risks.</div>
+  <div class="pc-proof"><b>Proof:</b> Written by coach Elias (“SHOUTOUT THE SEEDANCE GOAT ELIAS”; $91K in 30 days, shown on camera). Published by Kevin: linked as “Background Swap Prompt” in his Aug 13, 2026 video description (Drive owner: Kevin's account; created Aug 5, last edited Sep 12, 2026). Member Jhon ($140K in 30 days) credits “the background swap methods that Elias shared with us” for his Seedance B-roll · Google Doc “FSE SEEDANCE BACKGROUND PROMPT” · <a href="https://docs.google.com/document/d/1donrcdIengXaQfiWBqkFAbImxE02thkgzt1uNZAaDV4">open</a> · <span class="pc-kind">full document text, exported unchanged (empty lines collapsed)</span></div>
+  <div class="pc-note">Kevin's step-by-step for this method (Aug 13, 2026): “the first step here is going to be opening up a new chat with Claude and pasting this exact instruction prompt that I made for you guys.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=918s">15:18</a>)</span> His tip: “you always want to mute your videos before using them as reference. Otherwise, Higgs Field will block the generation due to copyright.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=1114s">18:34</a>)</span> The ownership line in the template (“I own @video_1 and all rights to it”) is only true for footage you own. Kevin describes the method as a way “to literally steal a clip, repurpose the background, and the entire environment” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=231s">3:51</a>)</span>. See section 7B, risks.</div>
+</div>
+
+<div class="prompt-card" id="P14">
+  <div class="pc-head"><span class="pc-id">P14</span><span class="pc-title">Seedance swap, message 1: what to change in this clip</span></div>
+  <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">For every clip you re-skin, once P12 is loaded in the chat.</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">The Claude chat that already holds P12. Attach the muted source clip, then send this.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Tells Claude to strip the on-screen text and build a niche, stylish background in the way P12 taught it.</span></div>
+  <pre class="pc-text">For this video, don&#x27;t forget to remove the text and build me a super niche and stylish background, the way you know how to do them, right?</pre>
+  <div class="pc-proof"><b>Proof:</b> Kevin Martins, quoting what he typed (“basically what I said was”) · “How To Print $50k/mo With Seedance Background Swapping (Step by Step)” (Aug 13, 2026) · <a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=990s">16:30</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
+  <div class="pc-note">His rule for this message: “Just be super simple. Don&#x27;t over overcomplicate the prompt, right?” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=979s">16:19</a>)</span> And mute the clip first: “You&#x27;re better off just muting the video so Claude doesn&#x27;t start tripping about copyright.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=968s">16:08</a>)</span> See section 7B, risk 4.</div>
+</div>
+
+<div class="prompt-card" id="P15">
+  <div class="pc-head"><span class="pc-id">P15</span><span class="pc-title">Seedance swap, message 2: niche the set and ask for two versions</span></div>
+  <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">Right after message 1, in the same chat.</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Same Claude chat → each prompt goes into Seedance in Higgsfield (up to 15 s, 720p, 2 variations) → Topaz upscale.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">Names the buyer, asks for props, detail and a cleaner wall, requests two prompt versions, and makes Claude reapply P12's method.</span></div>
+  <pre class="pc-text">For a car enthusiast, add lots of props, incredible details, or maybe change the wall color in the back. Make it super clean. Give me two versions of the prompt, please, and don&#x27;t forget the method that we use every single time.</pre>
+  <div class="pc-proof"><b>Proof:</b> Kevin Martins, same video · “How To Print $50k/mo With Seedance Background Swapping (Step by Step)” (Aug 13, 2026) · <a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=1002s">16:42</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
+  <div class="pc-note">Swap “a car enthusiast” for your buyer. Why the last line matters: “remind it to use the instruction prompt that you went ahead and fed it before telling it what to do.” <span class="src">(<a href="https://www.youtube.com/watch?v=Hgc13jXWm_c&t=1014s">16:54</a>)</span></div>
 </div>
 
 <div class="prompt-card" id="P13">
@@ -1017,6 +1282,14 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
   <pre class="pc-text">give me other words for tonitis. Like what are the other like words that are used for this?</pre>
   <div class="pc-proof"><b>Proof:</b> Member Gus ($60K month) · Gus case study, “How He Made $60K In 30 days” (Aug 26, 2026) · <a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=998s">16:38</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
   <div class="pc-note">As captioned: “tonitis” = tinnitus. Swap in your own pain point.</div>
+</div>
+
+<div class="prompt-card" id="P17">
+  <div class="pc-head"><span class="pc-id">P17</span><span class="pc-title">Take a proven winner into a new language market</span></div>
+  <div class="pc-row"><span class="pc-k">When</span><span class="pc-v">A product already prints in the US and you want France, Italy or Spain without re-testing it.</span></div><div class="pc-row"><span class="pc-k">Where</span><span class="pc-v">Claude or ChatGPT, with the hook text and captions of the proven video.</span></div><div class="pc-row"><span class="pc-k">What it does</span><span class="pc-v">A natural, not word-for-word, translation of a winning video's text.</span></div>
+  <pre class="pc-text">translate this in a natural way</pre>
+  <div class="pc-proof"><b>Proof:</b> Member John ($65K month; $140K by August). Captions don't mark speakers; the line follows his answer about running other markets · John case study, “From Uber Driver To $65K/Month” (Jun 16, 2026) · <a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=1096s">18:16</a> · <span class="pc-kind">spoken; exact YouTube caption text</span></div>
+  <div class="pc-note">The full line: “Bro, you have chat GPD, you have cloud, you can just say to cloud or shad translate this in a natural way and that&#x27;s it, right?” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=1089s">18:09</a>)</span> (“cloud or shad” = Claude or ChatGPT.) The idea behind it: “why not just, you know, run an already proven uh winner from the states into, you know, France or another country that is also high converting, you know, because it&#x27;s like you have so much more confidence into what you&#x27;re doing because like I I know this prints, all I got to do is just translate to that language and then boom, right?” <span class="src">(<a href="https://www.youtube.com/watch?v=FAtJ50Kh5-8&t=1067s">17:47</a>)</span></div>
 </div></section><section class="section"><div class="sec-head"><div class="sec-num">9</div><div><div class="sec-title">Prompt playbook: when, where and what</div><div class="sec-sub">Every prompt in order, with the stage it belongs to, the tool it goes into and the job it does</div></div></div><table>
 <thead>
 <tr>
@@ -1071,6 +1344,13 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td>Kevin, Jun 19</td>
 </tr>
 <tr>
+<td><strong>P16</strong></td>
+<td>Before the B-roll batch</td>
+<td>Claude</td>
+<td>The steps of making the product; one still per step</td>
+<td>Kevin, Jun 19</td>
+</tr>
+<tr>
 <td><strong>P7</strong></td>
 <td>B-roll batch</td>
 <td>Claude (master frame) → GPT Image 2 / Nano Banana</td>
@@ -1110,7 +1390,21 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td>Scaling a proven video</td>
 <td>Claude (paste doc + clip) → Seedance in Higgsfield: ≤15 s, 720p, ×2 → Topaz</td>
 <td>Same video, new background, no text, no audio</td>
-<td>Coach Elias, via Kevin's account</td>
+<td>Coach Elias; linked by Kevin, Aug 13</td>
+</tr>
+<tr>
+<td><strong>P14</strong></td>
+<td>Each clip you re-skin</td>
+<td>Claude chat holding P12 + the muted clip</td>
+<td>Strip the text, build a niche background</td>
+<td>Kevin, Aug 13</td>
+</tr>
+<tr>
+<td><strong>P15</strong></td>
+<td>Right after P14</td>
+<td>Same chat → Seedance (≤15 s, 720p, ×2) → Topaz</td>
+<td>Name the buyer, add props, two prompt versions, reapply P12</td>
+<td>Kevin, Aug 13</td>
 </tr>
 <tr>
 <td><strong>P13</strong></td>
@@ -1119,17 +1413,24 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td>Synonyms for the pain point, to split-test the text hook</td>
 <td>Gus ($60K month)</td>
 </tr>
+<tr>
+<td><strong>P17</strong></td>
+<td>A winner, new language market</td>
+<td>Claude or ChatGPT</td>
+<td>Natural translation of the hook text and captions</td>
+<td>John ($65K month)</td>
+</tr>
 </tbody>
 </table>
 <h2>The three sequences</h2>
 <div class="flow">
-<div class="fbox"><b>100% AI video</b><span>P1 → P2 or Pinterest → P3 (once) → P4 → P5 → P6 → P7 + P8 → P9 + P10 → P11 → CapCut</span></div>
+<div class="fbox"><b>100% AI video</b><span>P1 → P2 or Pinterest → P3 (once) → P4 → P5 → P6 → P16 → P7 + P8 → P9 + P10 → P11 → CapCut</span></div>
 </div>
 <div class="flow">
 <div class="fbox"><b>Hybrid (AI hook + real body)</b><span>P1 → P2/P5 (avatar) → P11 + P9 + P10 for the 3–5 s hook → real showcase clips (filmed, TikTok Shop affiliate, or P12-swapped) → CapCut</span></div>
 </div>
 <div class="flow">
-<div class="fbox"><b>Scale a winner</b><span>Find the outlier → P12 for new backgrounds (2× volume) → P13 for new hook words → split test one variable at a time</span></div>
+<div class="fbox"><b>Scale a winner</b><span>Find the outlier → P12 (paste once) then P14 + P15 for each clip: new backgrounds, 2× volume → P13 for new hook words → P17 for new language markets → split test one variable at a time</span></div>
 </div>
 
 <h2>Prompts that exist but were not published (so they are not reproduced here)</h2>
@@ -1147,7 +1448,7 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td>Kevin's <strong>context prompt</strong> (“14 rules”, “14-section architecture”)</td>
 <td>Kevin</td>
 <td>“I personally have my own context prompt, which is linked right here.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=344s">5:44</a>)</span></td>
-<td>Link in the description of his Jun 14 and Jun 19 videos. Not in any search index I could reach</td>
+<td>He says it is “linked right here”, but his descriptions as indexed carry only the application link, a case-study link and his Instagram. Probably an on-screen link or member-only</td>
 </tr>
 <tr>
 <td>The <strong>321 prompt</strong></td>
@@ -1158,13 +1459,13 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <tr>
 <td>The <strong>run-two prompts</strong></td>
 <td>Coach John</td>
-<td>“he gave us the prompts for the runtos” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=795s">just before 13:15</a>)</span></td>
+<td>“he gave us the prompts for the runtos” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=788s">13:08</a>)</span></td>
 <td>Handed out on an FSC group call</td>
 </tr>
 <tr>
 <td>The <strong>Kling prompt structure</strong> Claude returned in the tutorial</td>
 <td>Kevin</td>
-<td>“we&#x27;re going to be using this exact prompt structure right here. So we&#x27;re going to go ahead and copy it.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=1133s">18:53</a>)</span></td>
+<td>“we&#x27;re going to be using this exact prompt structure right here. So, we&#x27;re going to go ahead and copy it.” <span class="src">(<a href="https://www.youtube.com/watch?v=hK2Os3wSPI8&t=1129s">18:49</a>)</span></td>
 <td>On screen only, never spoken</td>
 </tr>
 </tbody>
@@ -1201,7 +1502,7 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <tr>
 <td><strong>John / Jhon</strong></td>
 <td>Member, now a coach</td>
-<td>“how he did $140,000 with me in the last 30 days.” <span class="src">(<a href="https://www.youtube.com/watch?v=6o0llGgVRrg&t=13s">0:13</a>)</span></td>
+<td>“how he did $140,000 with me in the last 30 days.” <span class="src">(<a href="https://www.youtube.com/watch?v=6o0llGgVRrg&t=13s">0:13</a>)</span> · Oct 16: “also have this massive win by John here. He did a $350,000 month with me at 70% profit margins.” <span class="src">(<a href="https://www.youtube.com/watch?v=pjprEGW89-U&t=3574s">59:34</a>)</span></td>
 <td>Seedance B-roll with Elias's method (P12)</td>
 </tr>
 <tr>
@@ -1231,13 +1532,13 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <tr>
 <td><strong>Trajan</strong></td>
 <td>Member</td>
-<td>“how he hit a $66,000 month with AI organic drop shipping.” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=4s">0:04</a>)</span></td>
+<td>“how he hit a $66,000 month with AI organic drop shipping.” <span class="src">(<a href="https://www.youtube.com/watch?v=0oUpuHm5YK8&t=0s">0:00</a>)</span></td>
 <td>Swap method; reused showcase with new hooks</td>
 </tr>
 <tr>
 <td><strong>Gus</strong></td>
 <td>Member</td>
-<td>“Gus just got off a $60,000 month last month in July.” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=18s">just before 0:18</a>)</span></td>
+<td>“Gus just got off a $60,000 month last month in July.” <span class="src">(<a href="https://www.youtube.com/watch?v=kmy9uOj0ve0&t=11s">0:11</a>)</span></td>
 <td>P13; Pinterest avatars; prompts handed out on calls</td>
 </tr>
 <tr>
@@ -1257,6 +1558,24 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td>Members</td>
 <td>“They just got done doing a 37k month, 30k week, and back-to-back 7k days” <span class="src">(<a href="https://www.youtube.com/watch?v=3Uj3cu5MFVw&t=4s">0:04</a>)</span></td>
 <td>Joined with Higgsfield experience</td>
+</tr>
+<tr>
+<td><strong>Aaron</strong> (20)</td>
+<td>Member</td>
+<td>“just got off doing 34K in 2 weeks with two products.” <span class="src">(<a href="https://www.youtube.com/watch?v=nY773s_fO7A&t=3s">0:03</a>)</span> (Apr 18)</td>
+<td>Section 7A: teaching videos, prompts and help inside the Discord</td>
+</tr>
+<tr>
+<td><strong>Mark</strong></td>
+<td>Member</td>
+<td>“Just came up off a 60k month, which we&#x27;ll get into.” <span class="src">(<a href="https://www.youtube.com/watch?v=c9plD077S6M&t=32s">0:32</a>)</span> (Mar 26)</td>
+<td>Dates the Discord's turn to AI (section 7A)</td>
+</tr>
+<tr>
+<td><strong>Chase</strong></td>
+<td>Member</td>
+<td>“He just got off doing a $20,000 month with me.” <span class="src">(<a href="https://www.youtube.com/watch?v=guTm6q9caeY&t=3s">0:03</a>)</span> (Apr 25)</td>
+<td>“This group low-key runs organic” (section 7A)</td>
 </tr>
 <tr>
 <td><strong>Pedro</strong> (17)</td>
@@ -1279,38 +1598,48 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <tr>
 <td><strong>Niche Research Prompt</strong> (P1)</td>
 <td>Owner: Kevin's Google account · created 2026-07-30</td>
-<td>Linked free in his Aug 8 video description</td>
+<td>“Niche Research Prompt:” <span class="src">(<a href="https://www.youtube.com/watch?v=OTRP8hk1wr4">video description</a>)</span> in his Aug 8 description</td>
 </tr>
 <tr>
 <td><strong>FSE SEEDANCE BACKGROUND PROMPT</strong> (P12)</td>
-<td>Owner: Kevin's Google account · created 2026-08-05 · last edited 2026-09-12 · <strong>shared with you 2026-10-25</strong></td>
-<td>Shared from inside the group; header credits coach Elias</td>
+<td>Owner: Kevin's Google account · created 2026-08-05 · last edited 2026-09-12</td>
+<td>Written for the group (header credits coach Elias); linked as “Background Swap Prompt” in his Aug 13 description</td>
 </tr>
 <tr>
 <td><strong>Brandable Product Research Rubric</strong> (R1)</td>
 <td>Owner: Kevin's Google account · created 2026-01-18 · last edited 2026-10-17</td>
-<td>Linked in his video descriptions</td>
+<td>“Branded Product Research Rubric:” <span class="src">(<a href="https://www.youtube.com/watch?v=S9DVD5i004Y">video description</a>)</span> in his branded-course description (Feb 9, 2026)</td>
 </tr>
 </tbody>
 </table>
 <h2>Method</h2>
 <ol>
-<li>Listed every upload on both of Kevin's channels from April 27 to October 27, 2026 (about 35 videos), and prioritised tutorials, group-call segments and case studies with revenue.</li>
+<li>Listed every upload on both of Kevin's channels from April 27 to October 27, 2026 (41 found; Shorts and livestreams are not in any index I could reach), and prioritised tutorials, group-call segments and case studies with revenue.</li>
 <li>Pulled each video's transcript through Perplexity's search index, which holds YouTube captions with timestamps. Direct access to YouTube is blocked from this cloud environment, and I didn't try to get around that.</li>
-<li>Rebuilt the transcripts by script from the raw search results, exactly as returned (4,000+ caption windows), never retyped.</li>
+<li>Rebuilt the transcripts by script from the raw search results, exactly as returned (5,000+ caption windows across 380 videos, plus video descriptions), never retyped.</li>
 <li>Cut every quote and prompt in this PDF from those windows by script; the build fails if any word differs. Exported documents straight from Google Drive.</li>
-<li>Checked platform and legal claims (section 7) against primary sources: TikTok, Meta and the FTC.</li>
+<li>For the Discord (section 7A), searched every published moment from inside it: wins-chat scrolls, the live session, the group call, member descriptions, and the tracked application links in the descriptions. Searched your Google Drive for group files (only the Seedance brief, which is public) and checked TrendTracker for ads (none).</li>
+<li>Checked platform and legal claims (section 7B) against primary sources: TikTok, Meta and the FTC.</li>
+<li>Ran six parallel research passes (about 200 searches) for this edition. Leads that couldn't be tied to the group were dropped, not used. They are listed below.</li>
 </ol>
 <h2>What we could not get (and where it is)</h2>
 <ul>
-<li><strong>The FSC Discord itself.</strong> No export was available, so internal chat, files and call recordings posted only in the Discord are not covered. A DiscordChatExporter export would let the toolkit in your repo fill this in (see <code>data/discord/README.md</code>).</li>
-<li><strong>Kevin's context prompt.</strong> It's linked in his Jun 14 and Jun 19 descriptions, but neither the link nor the text is in any index I could reach. If you open it, save it to your Drive; it can then be added verbatim the same way as P12.</li>
-<li><strong>Prompts shown only on screen</strong> (the Kling prompt structure, full image prompts, Elias's 321 prompt, John's run-two prompts). Captions only record speech.</li>
-<li><strong>Transcript coverage</strong> ran from about 25% (the 3.5-hour course) to near-complete (short videos). The gaps are listed in the research notes in your repo.</li>
+<li><strong>The Discord's private channels.</strong> Section 7A covers everything that has been published from inside the server. Not public: the full channel list beyond the wins chat, pinned prompts, the new FSE app, unpublished call recordings and member chat. Section 7A ends with the two ways a member can add them.</li>
+<li><strong>Kevin's context prompt.</strong> He says it is “linked right here” (Jun 19), but his descriptions as indexed carry only the application link, a case-study link and his Instagram. Probably an on-screen link or member-only. If you get it, save it to your Drive and it can be added word for word, like P12.</li>
+<li><strong>Prompts shown only on screen or kept for members:</strong> the Kling prompt structure, full image prompts, Elias's 321 prompt and the run-two prompts. Captions only record speech, and none of these was read aloud in any window we retrieved. Kevin also shows the Discord itself on screen (the wins chat, and in places its channel list). Two ways to read those screens: add a Gemini API key to this cloud environment (Google's model watches the video itself; the <code>watch</code> tool in your repo is set up for it), or set up Remote Control on your own computer with a folder (Claude desktop app → Settings → Claude Code → Remote Control), so frames can be pulled there, where YouTube isn't blocked.</li>
+<li><strong>Transcript coverage</strong> ran from about 25% (the 3.5-hour course) to near-complete (short videos). The likeliest spot for a spoken Kling prompt (about 18:20–18:50 of the Jun 19 tutorial) never came back in four tries.</li>
 <li><strong>Speaker labels</strong> in group calls are inferred from context, not captioned.</li>
+<li><strong>Today's price.</strong> The only figure is Pedro's $3,000, from when he joined.</li>
+</ul>
+<p><strong>Leads checked and not used</strong> (they don't meet the proof standard):</p>
+<ul>
+<li>A YouTube channel named “Omar” teaches the same stack and links a Claude “skill” doc with 321 templates. Nothing in its videos or docs ties it to Kevin's member Omar, so none of it is used.</li>
+<li>A Whop profile (whop.com/@kevinmartins) lists “FullStackEcom”. Not confirmed to be the same Kevin, and it shows no price.</li>
+<li>The fourth coach Charlie mentions, and what “Amrit” (the student Kevin credits with the Seedance swap) does in the FSE app. Neither was confirmed.</li>
+<li>A video titled “Discord AMA Case Study” belongs to a different creator (TTP Case Studies). Several other “organic dropshipping” Discords (Kane, Daily Test Orders, MDM) are other people's groups.</li>
 </ul>
 <h2>All videos quoted</h2>
-<p class='src'>25 videos are quoted in this report.</p>
+<p class='src'>34 videos are quoted in this report.</p>
 
 <table>
 <thead>
@@ -1322,6 +1651,36 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 </thead>
 <tbody>
 <tr>
+<td>2025-08-11</td>
+<td>how avoiding burners saved me $367,657 with organic dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=TlwIZzzkojM">youtu.be/TlwIZzzkojM</a></td>
+</tr>
+<tr>
+<td>2026-03-03</td>
+<td>How To Fix Bad Targeting In Organic Dropshipping (no more india lol)</td>
+<td><a href="https://www.youtube.com/watch?v=mJ40LCLeWOU">youtu.be/mJ40LCLeWOU</a></td>
+</tr>
+<tr>
+<td>2026-03-26</td>
+<td>How He Makes $62K/M With AI Organic Dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=c9plD077S6M">youtu.be/c9plD077S6M</a></td>
+</tr>
+<tr>
+<td>2026-04-13</td>
+<td>How This Teenager Makes $80k/m With Ai Organic Dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=-knTbpzbozA">youtu.be/-knTbpzbozA</a></td>
+</tr>
+<tr>
+<td>2026-04-18</td>
+<td>How He Made $34K In 2 Weeks With AI Organic Dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=nY773s_fO7A">youtu.be/nY773s_fO7A</a></td>
+</tr>
+<tr>
+<td>2026-04-25</td>
+<td>How This College Student Makes $20K/M With AI Organic Dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=guTm6q9caeY">youtu.be/guTm6q9caeY</a></td>
+</tr>
+<tr>
 <td>2026-05-04</td>
 <td>How They Made $30K In 7 Days With AI Organic Dropshipping</td>
 <td><a href="https://www.youtube.com/watch?v=3Uj3cu5MFVw">youtu.be/3Uj3cu5MFVw</a></td>
@@ -1330,6 +1689,11 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td>2026-05-19</td>
 <td>$0 vs $100k/Month Ai Videos for Organic Dropshipping</td>
 <td><a href="https://www.youtube.com/watch?v=WVzIUxovPdA">youtu.be/WVzIUxovPdA</a></td>
+</tr>
+<tr>
+<td>2026-05-22</td>
+<td>How To Think Like The Top 1% Of Organic Dropshippers</td>
+<td><a href="https://www.youtube.com/watch?v=evT3rUWsIrc">youtu.be/evT3rUWsIrc</a></td>
 </tr>
 <tr>
 <td>2026-05-26</td>
@@ -1437,6 +1801,16 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 <td><a href="https://www.youtube.com/watch?v=7yKY90-ekTw">youtu.be/7yKY90-ekTw</a></td>
 </tr>
 <tr>
+<td>2026-10-16</td>
+<td>how I made $250K selling $9 plushies with branded organic dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=pjprEGW89-U">youtu.be/pjprEGW89-U</a></td>
+</tr>
+<tr>
+<td>2026-10-20</td>
+<td>why your videos don't go viral in AI Organic Dropshipping</td>
+<td><a href="https://www.youtube.com/watch?v=r-B9VS_IdZI">youtu.be/r-B9VS_IdZI</a></td>
+</tr>
+<tr>
 <td>2026-10-23</td>
 <td>How He Made $66K In 30 Days With AI Organic Dropshipping (Products Revealed)</td>
 <td><a href="https://www.youtube.com/watch?v=0oUpuHm5YK8">youtu.be/0oUpuHm5YK8</a></td>
@@ -1448,9 +1822,5 @@ Acknowledge this brief now, then wait for the user to send their first video.</p
 </tr>
 </tbody>
 </table>
-<h2>Outside sources (section 7)</h2>
-<ul>
-<li>TikTok, AI-generated content labels: support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content · Community Guidelines, Integrity &amp; Authenticity: tiktok.com/community-guidelines/en/integrity-authenticity</li>
-<li>FTC, final rule banning fake reviews and testimonials (16 CFR Part 465, effective Oct 21, 2024): ftc.gov press release (Aug 14, 2024) and the rule's Q&amp;A page</li>
-<li>Meta, combating unoriginal content: creators.facebook.com/blog/combating-unoriginal-content · Rewarding original creators (Mar 2026): about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/</li>
-</ul></section></body></html>
+<h2>Outside sources (section 7B)</h2>
+<p class="src">TikTok, AI-generated content labels: support.tiktok.com/en/using-tiktok/creating-videos/ai-generated-content · TikTok Community Guidelines, Integrity &amp; Authenticity: tiktok.com/community-guidelines/en/integrity-authenticity · FTC, final rule banning fake reviews and testimonials (16 CFR Part 465, effective Oct 21, 2024): ftc.gov press release (Aug 14, 2024) and the rule's Q&amp;A page · Meta, combating unoriginal content: creators.facebook.com/blog/combating-unoriginal-content · Meta, rewarding original creators (Mar 2026): about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/</p></section></body></html>

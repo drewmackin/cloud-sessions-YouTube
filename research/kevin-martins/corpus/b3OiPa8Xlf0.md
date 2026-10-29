@@ -1,17 +1,19 @@
 # How to Consistently Go Viral with Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=b3OiPa8Xlf0
-- Windows: 4 (first timestamps 0s … 176s)
+- Windows: 5 (first timestamps 0s … 176s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins Extended
   ##### Jun 02, 2026 (0:05:20)
   ...
+  Apply to work 1 on 1 with me:
   DM me on IG: kevin_martins_
   Date: 2026-06-02
   How My Student Mark Makes $60k/m With AI:
   Watch My 4 Hour Course Next:
+  https://form.typeform.com/to/nuSFV1VM?utm_source=yt&utm_content=MF
   https://youtu.be/nHNvGESHZGY
   https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS
 
@@ -45,6 +47,24 @@ You don't know what to do, and you don't know what you don't
 {ts:65} know, right?
 So again, if you're equipped with the right knowledge, the right skill sets, you're going to be
 {ts:69} able to go viral a lot more frequently than you think, right?
+
+[…]
+
+And I was able to obtain that
+{ts:42} information through scoring on my burner, right?
+Um studying concepts, studying other YouTubers that were in
+{ts:48} the space.
+uh investing in mentoring, investing in a whole bunch of different communities and stuff to be on top of
+{ts:53} the game, right?
+Because at the end of the day, if you can't go viral, it's most likely because a your content is
+{ts:60} [ __ ] but also you probably just don't know better, right?
+You don't know what to do, and you don't know what you don't
+{ts:65} know, right?
+So again, if you're equipped with the right knowledge, the right skill sets, you're going to be
+{ts:69} able to go viral a lot more frequently than you think, right?
+And that, like I said, if you're able to go viral with
+{ts:74} the right product, lead all that traffic to your website, you're going to make money, right?
+But again, there's
 
 […]
 

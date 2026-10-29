@@ -1,0 +1,11 @@
+   ## TutStick
+##### May 19, 2026 (0:06:31)
+Most AI ads fail in the first 3 seconds.
+That’s exactly why the new Hook Generator inside Higgsfield Marketing Studio is such a big deal.
+In this video, I tested the new AI hook generator built directly into Higgsfield Marketing Studio, the world’s first end-to-end AI ad production workflow powered by Seedance 2.0.
+This AI marketing tool can turn a raw product link or image into fully produced AI video ads without needing a script, agency, or production team.
+The new Hook Generator is designed to solve the hardest part of advertising: creating scroll-stopping openings for AI UGC, product video AI workflows, and short-form ads.
+Just paste your product URL or upload an image, and the system generates multiple hook variations optimized for different ad formats like UGC ads, TV spots, and social media campaigns.
+Marketing Studio understands the difference between formats and adapts the hook style automatically.
+Then it builds the full AI video ad around that hook in the same workflow using Seedance 2.0 and advanced text to video AI generation.
+...

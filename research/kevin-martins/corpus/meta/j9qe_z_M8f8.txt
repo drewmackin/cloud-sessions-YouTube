@@ -1,0 +1,175 @@
+   ## Kevin Martins
+...
+##### Apr 09, 2026 (0:23:54)
+Build Store With Atlas Ai: https://try.helloatlas.io/FSE
+{ts:0} This organic drop shipping concept right in front of you is 100%
+{ts:4} AI generated.
+None of this is real and with this type of concept I've been able to make $40,000 in 7 days at 70% profit
+{ts:13} margins.
+And with this type of concept able to make $70,000 in 7 days at 65% profit margins and hit a 21K
+{ts:36} day.
+And in the last 2 years I've done multiple six figures in profit with organic drop shipping to where now I'm
+{ts:41} able to afford to live in my dream high-rise here in Miami and start multiple real brands and scale them up
+{ts:47} to multiple six figures, okay?
+That go beyond the typical pump and dump model of little Chinese products where I'm
+{ts:52} fully branded.
+And now I'm making more in a day than most 23-year-olds in 2026 where I'm averaging anywhere from 5 to
+{ts:59} $10,000 a day with the business model.
+In this video I'm going to be showing you exactly how I use AI for my
+{ts:92} e-commerce businesses without having to start an OnlyFans, without having to do any sort of affiliate program, and only
+{ts:98} get paid about 15% commission, and really just earn like pennies compared to like these big multi-million dollar
+{ts:103} brands that are making literally all the profit from you.
+And also without having to start any sort of YouTube Shorts
+{ts:108} channel where you're having to get 50 billion views just to get paid $500.
+And so in this video I'm going to be showing
+{ts:114} you exactly how I'm able to hit these $20,000 days and keep anywhere from 50 to 80% margins using Shopify, okay?
+So the first thing that
+{ts:126} we're going to be talking about here are handmade products that could be showcased with our AI influencer.
+So
+{ts:131} whether that's a bag or even just a piece of jewelry or even just like shoe wear like this, this is something that
+{ts:136} we can go ahead and market now as organic drop shippers.
+{ts:1085} called Atlas AI, right?
+   {ts:131} whether that's a bag or even just a piece of jewelry or even just like shoe wear like this, this is something that
+{ts:454} now that we got through the AI product research method number one here, we're going to go over to more of an advanced
+{ts:461} version which is going to be AliExpress and Temu method, right?
+So obviously for this it's going to be a little bit
+{ts:468} harder due to the fact that you're literally going straight into these massive Chinese websites and sifting
+{ts:491} you go on to aliexpress.com.
+We'll start with this one first.
+And you're just going to sift through all these drop
+{ts:496} shipping products and just try and find ones that you think would do great with your AI character, right?
+Can it be
+{ts:502} perceived as handmade?
+Is it going to go viral?
+Is it going to be in some sort of niche that's going to offer us a lot of
+{ts:507} demand?
+But before I even make my video, you have to understand you have to go ahead and
+{ts:666} prompt it, right?
+And so this is when you want to go ahead and use Claude AI for prompting and scripting your AI
+{ts:671} voice overs.
+How are we actually going to build out our stores fully done with AI?
+So now
+{ts:951} we're going to go into two different examples of really good branded and high converting websites that we're going to
+{ts:956} go ahead and take inspiration for when we go ahead and run our product.
+And now you're probably wondering how do
+{ts:1080} we go ahead and go about making these?
+All right, so what I personally use to go ahead and build out my stores is
+And Atlas AI is a Shopify store builder that you can go ahead and connect to your Shopify and
+{ts:1091} literally build out a full entire website in a matter of minutes.
+Okay, and it actually works.
+It's really good.
+{ts:1122} guys exactly how you can go ahead and do this.
+So what you want to do is go to your Shopify store.
+This is literally
+{ts:1126} one of the products I'm currently running.
+I don't really care.
+I'm just going to leak it.
+It's a digital
+{ts:1130} product.
+But pretty much all you do is you download the app called Atlas AI store
+{ts:1134} builder.
+What I'm going to go ahead and click here is full store.
+We're going to get a entire store up and running in a
+{ts:1140} matter of minutes.
+So I'm going to go ahead and click this.
+So let's say for example we wanted to go ahead and add a
+{ts:1143} product from AliExpress.
+For this example, I'm going to go ahead and use this neck pillow that I randomly just
+{ts:1148} found.
+We're going to copy the link.
+We're going to go ahead and throw it onto Atlas and it's going to go ahead
+{ts:1153} and start cooking for us.
+So we're going to add that.
+We're going to confirm the product right here.
+And in just a matter
+{ts:1158} of seconds, bro, we're already having, you know, Atlas decide for us, right?
+Like what exactly it thinks it's going
+{ts:1163} to be the best template to run for this.
+And obviously I'm going to let it decide for me just because AI knows better than
+{ts:1168} me.
+And we're going to go ahead and choose the English option right here.
+So we're going to build an AI store.
+And
+{ts:1173} cool.
+Now we have the ability to go ahead and add a product bundle.
+For this, we're going to go ahead and price
+{ts:1177} this at, I don't know, a bundle for us to go ahead and add.
+Yeah.
+just at I don't know, 24.99.
+{ts:1192} And it's going to go ahead and create a bundle for us to go ahead and, you know, increase AOV and even just CVR if people
+{ts:1197} were to maybe buy multiple for their family, okay?
+So, we're going to go ahead and activate this bundle right
+{ts:1201} here.
+And so, now we wait for Atlas to build out our store right here.
+So, it's importing the product.
+AI is collecting
+{ts:1206} market research on like the copy that we're going to be using, the benefits, even down to like the reviews.
+{ts:1212} hopefully now it loads.
+And guys, it's literally been like 2 minutes, bro.
+All right, so boom.
+It literally
+{ts:1217} just cooked this up in a matter of minutes.
+As you guys can see, we have a fully functional product page.
+As you
+{ts:1222} guys can see, super optimized for average order value, CVR.
+And I mean, bro, this literally looks really
+{ts:1228} freaking good in a matter of minutes.
+We literally just found a product off of Ali.
+We added a link and then boom.
+Now
+{ts:1233} we have a fully functional product page.
+And if we take a look here at mobile view, bro, this looks phenomenal, right?
+{ts:1239} So, as you guys can see, we have the, you know, uh add to cart button right here.
+We have some reviews.
+We have some
+{ts:1245} nice benefits about the product.
+Even added some images and copy.
+Um and really just tackled in, yeah, tackled
+{ts:1251} like some of the pain points, bro.
+Deep tissue, um staying cool all night, you know, stops painful morning knots,
+…
+It's fully optimized for conversions.
+And the copy is actually really, really good, right?
+I
+{ts:1272} might have to make a couple of minor tweaks here just to add my logo, uh maybe a couple actual real reviews.
+But
+{ts:1277} other than that, bro, like this is really all you need.
+And then lastly, I went
+{ts:1325} ahead and showed you guys how to build a fully functional store using Atlas AI that is perfectly optimized for
+{ts:1331} conversions, AOV, and just a phenomenal thing to use.
+   {ts:0} This organic drop shipping concept right in front of you is 100%
+And so what I'm going to go ahead and do is try and find winning products that
+{ts:306} are going to be validated through the algorithm.
+What I mean by this is like does it have good engagement, right?
+All right, so the first store that we're
+{ts:960} going to go ahead and take a look at is Fun Punch, right?
+They also have a lot of like FAQs for the people that maybe want
+{ts:1003} some questions answered.
+And then they also have, you know, a nice little, you know, step-by-step on how to use it.
+{ts:1008} Also some really good testimonials and customer videos of people actually utilizing the Fun Punch, which again is
+Definitely converts.
+These guys are doing multiple seven figures
+{ts:1030} and it's funny because they actually did start with organic and then they obviously scaled up to, you know, paid
+{ts:1034} ads.
+And then another one that I want to show you guys is going to be Crochet here.
+All right, so yeah.
+These
+{ts:1074} are going to be very good examples of some high converting branded websites.
+{ts:1256} thousands of uh finally found morning relief.
+Um this is phenomenal.
+Even down to some like
+{ts:1261} data about the product.
+So, yeah, this is honestly what I personally use to make all of my websites just because
+{ts:1266} it's super quick.
+Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=yt
+And with the AI influencer that he made he
+{ts:174} was able to go ahead and showcase it, target different pain points, different demographics, and go absolutely crazy.
+I have mine fully optimized for organic drop shipping products, AI products.
+And what I do I
+{ts:422} give it a like, I save it, maybe drop a comment.
+{ts:427} going to see.
+And then what you want to do is go ahead and
+{ts:432} create some sort of document adding all those products in there, validating them through virality.
+   How My Student Mark Makes $60k/m With Ai: https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS
+DM me on IG: kevin_martins_
+How My Student Mark Makes $60k/m With Ai: https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS

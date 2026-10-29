@@ -1,24 +1,83 @@
 # Leaking My $500k Organic Dropshipping Blueprint (FULL ...
 
 - URL: https://www.youtube.com/watch?v=nHNvGESHZGY
-- Windows: 49 (first timestamps 3s … 10764s)
+- Windows: 76 (first timestamps 3s … 13748s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Nov 26, 2025 (3:56:03)
+  $500,000 organic drop shipping
   ...
+  And I'm going to be leaking
+  And with organic, I've been able to cop
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=yt
   Date: 2025-11-26
   Date: 2025-12-01
+  How My Student Marc Made $120k in 2 months: https://youtu.be/zvrc9wj-i0k?si=Ur2CiCuKKDNHS0lS
+  In this video, I'm going to be going through my
   In this video, I'm going to be showing you how I build high-converting product pages using AI.
-  {ts:3} video, I'm going to be going through my $500,000 organic drop shipping blueprint.
 
 ---
+That's why it's called
+organic drop shipping.
+We're taking care of the marketing.
+So we're not putting
+like any ad spend behind it.
+And so we have to get really freaking good on, you
+know, making these videos for our
+
+[…]
+
+And this is going to
+be the actual blueprint/system that has allowed me to get these results and for
+my students, right?
+And so the first one that we're going to be talking about is
+going to be mindset, right?
+
+[…]
+
+So, now that we're
+done with some of the apps, the last thing that I always like to do is add
+some sort of FAQ section for the customer to kind of go through some
+frequently asked questions.
+
+[…]
+
+And typically what you want to
+do is you want to click on the actual row and right here where it says image,
+you'll actually be able to either add an image or a GIF.
+
+[…]
+
+So, obviously you would save these product images and then you would go
+ahead and upload it to your store just like this.
+
+[…]
+
 And initially, it's going to just show you the product, product images, and then the different variations of the
 
 […]
 
-In this video, I'm going to be showing you how I build high-converting product pages using AI.
+So, I've been
+able to make over $170,000 with one singular product um all organically at
+75% profit margins.
+
+[…]
+
+going to go ahead and actually fill out some of these uh rows right here that I
+went ahead and added.
+
+[…]
+
+And this is a perfect example.
+This is one of my students, Anthony, within my
+one-on-one mentorship.
+
+[…]
+
+Again, all you really have to do is just copy and paste the AliExpress
+link into the review app.
 
 […]
 
@@ -29,6 +88,12 @@ But before we get to breaking these
 
 So, what we need to do is download this fancy app called DSers.
 It's absolutely free.
+
+[…]
+
+We're
+still looking for content potential.
+And then lastly, we're looking for a new
 
 […]
 
@@ -48,7 +113,36 @@ There's terrible eding, there's no pacing, there's no progression, terrible
 
 […]
 
+Um, and so typically what I use is called the review app.
+So, if you go
+
+[…]
+
+Now, we actually
+have to import some testimonials and re and reviews.
+
+[…]
+
 And all you really need to do is just paste the URL, import reviews.
+
+[…]
+
+So typically what I like to
+use is Kaching for bundles.
+
+[…]
+
+So, my name is Kevin.
+I live here in Miami, Florida.
+
+[…]
+
+hit a 30K month in November, right?
+It's
+
+[…]
+
+this app right here called review.
 
 […]
 
@@ -68,6 +162,24 @@ And I'm going to be leaking
 
 […]
 
+{ts:22} And with organic, I've been able to cop this apartment, uh, start a real brand that goes beyond the typical pump and
+{ts:28} dump model of drop shipping to where I'm actually building my own products with my name on it and getting hundreds of
+{ts:34} orders weekly.
+
+[…]
+
+So, it was like 10K in 24 hours at 70% profit margins, which is
+literally unheard of when it comes to
+{ts:51} just normal ecom.
+And not only have I
+been winning with the organic drop shipping model, but my students have
+been, too.
+So, I'm at a point now where I teach people how to get into what I
+do.
+And so, this is my boy Mark.
+
+[…]
+
 And so the first one
 {ts:134} that we're going to be talking about is going to be mindset, right?
 Because this is the number one thing that we need to
@@ -79,8 +191,24 @@ And so in this whole entire module/chapter u we're going over everything how I w
 
 […]
 
+Also we're going to
+be going over product research, right?
+{ts:168} How to actually find these products
+online to make us money.
+And we're going to be going over through beginner
+strategies, intermediate strategies, and advanced uh strategies as well.
+
+[…]
+
 And so you need to go through every single module, take as many notes as possible, put the phone
 {ts:270} down, and actually focus, right?
+
+[…]
+
+I do organic
+{ts:323} drop shipping.
+I made multiple six
+figures with this business model in you know eight months right very quick time
 
 […]
 
@@ -111,8 +239,42 @@ Because consistency is
 
 […]
 
+{ts:1450} just one to two hours a day, as long as
+you're pushing the needle towards success, you'll eventually hit your
+goal.
+The results are basically guaranteed in this business model, but
+speed is not.
+I'm going to say that one
+{ts:1461} more time.
+Results are basically
+guaranteed, but speed is not.
+Eventually, right in a long in a long
+enough time horizon, you'll eventually start getting results, but the speed in
+which you start seeing them truly
+{ts:1478} depends on you.
+
+[…]
+
 In this video, I'm going to be teaching you
 {ts:1774} exactly how I go about finding winning products in quarter 4 in less than 30 minutes.
+
+[…]
+
+So, like I said, we're going to
+{ts:2197} start with the beginner, right?
+The
+beginner product research method.
+And we're going to be doing three things
+right here.
+So, we're going to be looking for P, D, and C.
+And by P, I
+mean proof of concept.
+By D, I mean
+{ts:2209} demand.
+And then C, concepts, right?
+content potential, right?
+Does this product have enough potential for us to
+at least film two to three videos on a daily basis?
 
 […]
 
@@ -212,6 +374,15 @@ And what I've done in in the past is prime up a YouTube account to show me um pr
 […]
 
 {ts:4125} still can't believe that I like literally [ __ ] leaked that, but it is what it is.
+
+[…]
+
+Um, in the description
+below, you guys can go ahead and apply for my one-on-one mentorship, my inner
+circle, where I literally pick your
+{ts:4161} winning products for you, as well as
+really teach you these fundamentals on how to really make drop shipping a an
+actual thing, a full-time job where you're no longer treating this like a uh
 
 […]
 
@@ -340,5 +511,59 @@ And then, you know, every few days, right, I'll test a new hook and a new
 
 […]
 
+In this video, I'm going to be
+{ts:10540} showing you how I build high-converting
+product pages using AI.
+And so, in this video, I'm going to be showing you guys
+a step-by-step live video of me building out my most famous product page that
+
+[…]
+
 So first and foremost what
 {ts:10764} you're going to need to do is actually open up a new Shopify store.
+
+[…]
+
+All right, so now
+that we actually took a look on how to
+{ts:12109} import some of these images into our
+Shopify store, now we have to actually change some of the product descriptions.
+Okay, so typically when you import a product into your store, you want to
+
+[…]
+
+{ts:12147} usage of the remote.
+So, what I'm going
+to do is use my friend Chat GBT again to essentially make me a product
+description.
+So, like I said, we're going to go and talk to chat GBT.
+Hey,
+oh my god, we're still in caps.
+Hey,
+{ts:12160} Chat GBT.
+Now, I want you to make me a
+Shopify product
+product description about my winking Deadpool mask.
+{ts:12183} using some emojis to talk about the
+five different uh five different we'll do like five
+different features features right and so one of the
+
+[…]
+
+just paste that.
+Again, just talking a little bit more about the controller.
+So, we'll remove this part right here.
+Copy this.
+Put it into the heading
+section.
+Delete that.
+{ts:12650} And then boom.
+With the built-in finger control, you decide when the mask blinks.
+
+[…]
+
+So typically what you want to use
+to offer these uh upsells um is an app called Up Cart.
+So what we want to do is
+download the app called Up Cart um to
+{ts:13748} offer people these um cart upsells.

@@ -1,7 +1,7 @@
 # How I Make AI Organic Videos That Print $100k/m (Step by Step)
 
 - URL: https://www.youtube.com/watch?v=hK2Os3wSPI8
-- Windows: 95 (first timestamps 0s … 1979s)
+- Windows: 105 (first timestamps 0s … 2013s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -9,9 +9,14 @@ Metadata lines seen:
   ##### Jun 19, 2026 (0:34:23)
   ...
   Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=stepbystep
+  DM me on IG: kevin_martins_
   Date: 2026-06-19
   Date: 2026-06-30
-  …
+  How My Student Elias Makes $91k/m With Ai: https://youtu.be/8zsX4RwrN84
+  I would get the $39 uh a month version, which is going
+  I'm
+  If
+  If you're in more of a moderate budget, go ahead and cop Claude Pro for 20 and
 
 ---
 All right, so step four is going to be making the hook, right?
@@ -29,7 +34,15 @@ You want to ask cloud to add a subtle camera shake for realism.
 
 […]
 
+I've been doing this for around 2 years now.
+
+[…]
+
 I will be doing a Tik Tok style of video."
+
+[…]
+
+I personally use Opus 4.8.
 
 […]
 
@@ -39,6 +52,8 @@ I will be doing a Tik Tok style of video."
 If
 {ts:16} you guys are new to the channel, my name is Kevin Martins and I've done multiple six figures with AI organic drop
 {ts:22} shipping and this video is going to be the step-by-step that you guys have been asking for, okay?
+A little bit more
+{ts:27} about me, like I mentioned, my name is Kevin.
 
 […]
 
@@ -60,13 +75,13 @@ I'm actually 24 now, but I
 
 […]
 
-So, the first thing that we need to go ahead and focus
-{ts:118} on here is going to be chat and prompting.
-So, I like to use Claude AI.
-This is probably the best tool you could
+So, that's a little bit more
+{ts:59} about me, but in this video like I mentioned, we're going to be going through the whole entire step-by-step
+{ts:63} that not only has made me hundreds and thousands of dollars a month, but also my students as well.
 
 […]
 
+So, the first thing that we need to go ahead and focus
 {ts:118} on here is going to be chat and prompting.
 So, I like to use Claude AI.
 This is probably the best tool you could
@@ -77,6 +92,11 @@ This is probably the best tool you could
 So, the first thing that we need to go ahead and focus on here is going to be chat and
 {ts:120} prompting.
 So, I like to use Cloud AI.
+
+[…]
+
+I'm
+{ts:137} not going to run through it, but I personally use the max, which is about $100 a month.
 
 […]
 
@@ -96,6 +116,24 @@ All right.
 And this is going to handle both image and video
 {ts:198} creation.
 Again, you can use nano banana, GPT image, cling 3.0, 0.
+
+[…]
+
+Um but again, you can go ahead and get
+{ts:205} the starter plan for 15 bucks a month.
+You got the plus for 39.
+
+[…]
+
+I would get the $39 uh a month version, which is going
+{ts:222} to be plus.
+
+[…]
+
+If you're on a super tight budget, get Kimmi and also
+{ts:233} Hicksfield Starter for 15 bucks.
+If you're in more of a moderate budget, go ahead and cop Claude Pro for 20 and
+{ts:238} Hicksfield Starter for 15.
 
 […]
 
@@ -136,6 +174,12 @@ I'm going to be showing you the step-by-step system from single prompt
 
 […]
 
+AI video creation workflow for organic drop
+{ts:271} shipping.
+I'm going to be showing you the step-by-step system from single prompt to finished animated video.
+
+[…]
+
 So, in this whole entire, I guess lesson, we're going to be going over how to ask cloud
 {ts:282} for a detailed image prompt.
 We're going to be going over generating your product image with nano banana or chatgvt image.
@@ -154,10 +198,13 @@ And so, we kind of have to explain to it, hey, this is
 
 […]
 
+So, step one is going to be explaining context to Claude because obviously
+{ts:305} Claude is just an AI and uh it doesn't know organic marketing.
+And so, we kind of have to explain to it, hey, this is
+{ts:311} exactly what you're going to be working on and this is a style of content that we're going to be looking for.
+Okay?
+And
 {ts:315} so, you're going to be opening up a new project um or even just a new chat is fine on Claude and you're going to paste
-
-[…]
-
 {ts:321} something called a context prompt.
 And how you basically make a context prompt is you essentially just explain to
 {ts:327} Claude, hey, this is what organic, you know, drop shipping/organic marketing looks like.
@@ -561,6 +608,19 @@ It's so so realistic, right?
 
 […]
 
+So, boom, now that we have
+{ts:783} our master frame here, look how beautiful she looks wearing my watch, not wearing it, but holding it.
+Now,
+{ts:788} with this image here, it's time to make the B-rolls, okay?
+The creation process B-rolls that you guys
+{ts:794} saw in the beginning of this video.
+So, now we're going to be generating the images we'll be using to create the
+{ts:798} B-roll for our video, which in this case will be the showcase and the creation process of our watch.
+And so, this is
+{ts:805} going to be an example of a I don't know what's going on.
+
+[…]
+
 Now that we have our master frame here, look how
 {ts:784} beautiful she looks wearing my watch or not wearing it, but holding it.
 Now, with this image here, it's time to make
@@ -616,21 +676,24 @@ Um, and we also want our avatar, you know, to still hold the product for every p
 
 […]
 
-{ts:914} even like the lighting, bro, on the car, man.
-Crazy, crazy.
-Now, step number two, this is when it gets a little bit crazy,
-{ts:921} right?
-You want to start making the first batch of your B-rolls in bulk, right?
-You can generate up to 10 to 15,
-{ts:927} and yes, you can reuse them across your videos as long as you make new hooks every single time.
-For this example, I
-{ts:934} made six uh different B-roll images that essentially shows progression, right, from start to finish.
-All right?
-And
-{ts:942} again, if you want an idea of what to say to Claude, you want to go ahead and give it your master frame.
-
-[…]
-
+{ts:884} If you're having trouble getting ideas for creation process, just ask Claude.
+Be like, "Listen, what would the
+{ts:889} creation process of a watch look like step by step?"
+And boom, there you go.
+You'll take your uh you'll you'll you'll
+{ts:896} take that as inspiration, right?
+And so, as you can see, this was my first b-roll image, right?
+Of my shorty holding uh
+{ts:902} you know, the design.
+As you can see, it kept everything consistent.
+We have all these other sketches laid out on her
+{ts:908} desk.
+You could even see that she was locking in hard, sipping on some coffee.
+And bro, look at the attention to
+{ts:913} detail, okay?
+Even like the lighting, bro, on the car, man.
+Crazy.
+Crazy.
 Now, step number two, this
 {ts:920} is when it gets a little bit crazy, right?
 You want to start making the first batch of your B-rolls in bulk,
@@ -643,6 +706,21 @@ From start to finish, all right?
 And again, if you want an idea of what to say to Claude,
 {ts:945} you want to go ahead and give it your master frame and you're going to be like, "Listen, I want
 {ts:951} five, maybe eight different shots of my avatar doing this, this, this, and that."
+
+[…]
+
+{ts:914} even like the lighting, bro, on the car, man.
+Crazy, crazy.
+Now, step number two, this is when it gets a little bit crazy,
+{ts:921} right?
+You want to start making the first batch of your B-rolls in bulk, right?
+You can generate up to 10 to 15,
+{ts:927} and yes, you can reuse them across your videos as long as you make new hooks every single time.
+For this example, I
+{ts:934} made six uh different B-roll images that essentially shows progression, right, from start to finish.
+All right?
+And
+{ts:942} again, if you want an idea of what to say to Claude, you want to go ahead and give it your master frame.
 
 […]
 
@@ -659,6 +737,15 @@ I made one of her
 {ts:975} just looking at all her different creations and all her different prototypes.
 I also went ahead and made
 {ts:980} one of her just like, you know, just throwing a little bit of paint in the in this little container here.
+
+[…]
+
+{ts:987} Also one of a very, very detailed and realistic uh what's it called?
+Process of her just
+{ts:993} putting in the I don't even know what Dude, I'm not a watchmaker, bro, but who cares?
+It looks legit, all right?
+And
+{ts:998} then last image here was her sketching out how it's going to look.
 
 […]
 
@@ -715,6 +802,36 @@ Okay, if
 All right,
 {ts:1086} so step number four is going to be pasting the prompt into cling with your image reference.
 And essentially how
+
+[…]
+
+{ts:1129} spit out the prompt for Kling 3.0.
+And so, like I like I said, we're going to be using this exact prompt structure
+{ts:1137} right here.
+So, we're going to go ahead and copy it.
+And then what I did, okay?
+For this example, again, we went to
+{ts:1143} video.
+We're going to be using Kling 3.0.
+And I pasted this prompt structure
+{ts:1150} all the way down here where she's pouring it, okay?
+And again, all I did was I pasted that there.
+I added the
+{ts:1159} start frame, which in this example was this one, right, of her pouring it just like that.
+And so I got
+{ts:1166} this image right here.
+I saved it to my computer, and then I went ahead and uploaded it into Higgs Field right here
+{ts:1172} and added it to my start frame, and then I generated it, and then boom, look what came out.
+Perfect video, exactly what I
+{ts:1178} wanted.
+And it's phenomenal.
+Super, super realistic, okay?
+So, now that we did that, again, just make sure that you
+{ts:1186} pay attention to the settings you want to turn off enhance.
+It just doesn't really look too good.
+And you want to
+{ts:1191} make sure that you just select your desired video length.
+For this example, I only did a 5-second video.
 
 […]
 
@@ -1053,7 +1170,20 @@ So, you
 
 […]
 
+{ts:1735} based off my expertise of the organic drop shipping model and what I've seen from other competitors, right?
+So, you
+{ts:1741} could even tell Claude to copy a video from um you know, your For You page by just literally sending it a
+{ts:1748} screenshot, and it'll literally just break down that video from locked environment, camera framing, hands,
 {ts:1754} action, everything, and then you can just go ahead and use it for yourself, okay?
+A little bit of a sauce.
+A little
+{ts:1758} bit of a little bit of sauce there, all right?
+Um also, like I mentioned, strict negatives, right?
+No studio lighting, no
+{ts:1764} professional setup.
+We want to avoid every cinematic aspect in the image.
+So, remember, don't forget, we're trying to
+{ts:1770} aim for an organic video here, shot on an iPhone, not a professional-looking video with perfect lighting, all right?
 
 […]
 
@@ -1071,15 +1201,6 @@ Um and again, like I said,
 {ts:1795} depth of field is the number one mistake that makes a video look unrealistic, and it makes them too cinematic.
 And so,
 {ts:1799} yeah, this is going to be the image prompt structure that we want to work off of.
-
-[…]
-
-Um also, like I mentioned, strict negatives, right?
-No studio lighting, no
-{ts:1764} professional setup.
-We want to avoid every cinematic aspect in the image.
-So, remember, don't forget, we're trying to
-{ts:1770} aim for an organic video here, shot on an iPhone, not a professional-looking video with perfect lighting, all right?
 
 […]
 
@@ -1113,6 +1234,12 @@ So, it's super important that you add that into your
 Um two, time every action precisely, right?
 You want to break the motion into second-by-second beats,
 {ts:1838} right?
+And again, we want to be precise here, right?
+That's why it's super important that you even study your
+{ts:1842} competition and you even just see, you know, how long was this cut?
+How long was this video, right?
+Detailed,
+{ts:1847} perfectly timed actions are what separates believable footage from AI slop, again.
 
 […]
 
@@ -1189,6 +1316,7 @@ So, no camera movement, no warping, no extra fingers, no morphing, no overlays,
 Tell it exactly what you do not want.
 So, again, the rule of thumb is tell it what you want and tell it what
 {ts:1889} you don't want.
+The negatives do half the work.
 
 […]
 
@@ -1235,6 +1363,19 @@ Um, soft room tone, faint
 
 […]
 
+{ts:1929} and strict negatives, make sure to tell Claude what you want in a prompt, but also what you don't want to see.
+So, I
+{ts:1934} told it, "Listen, do not move the camera, right?
+Keep it static.
+No extra or malformed fingers, all right?
+Don't
+{ts:1941} make me look like a alien.
+No paper shifting or floating, no labels changing, no other people.
+We want to
+{ts:1946} keep it consistent."
+
+[…]
+
 Make sure to tell Claude what you want in a prompt, but also what you don't
 {ts:1934} want to see.
 So, I told it, listen, do not move the camera, right?
@@ -1248,3 +1389,12 @@ We also went ahead and mixed and matched real clips with the AI clips.
 And bro,
 {ts:1985} this is just a phenomenal video that has the potential to go viral, okay?
 Um, so I mean, yeah, I went through the
+
+[…]
+
+Also, if you
+{ts:2013} guys do want to join FSC and get results like this, right?
+Where I'm working one-on-one with you and teaching you how
+{ts:2018} to do AI organic drop shipping and going way more into depth, right?
+You guys can go ahead and apply in the description
+{ts:2024} below.

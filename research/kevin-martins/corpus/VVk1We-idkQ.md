@@ -1,7 +1,7 @@
 # How I’m Running Branded AI Organic for Q4 (50k/Month Strategy)
 
 - URL: https://www.youtube.com/watch?v=VVk1We-idkQ
-- Windows: 4 (first timestamps 7s … 558s)
+- Windows: 5 (first timestamps 7s … 558s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -14,6 +14,10 @@ Metadata lines seen:
   Learn How To Start and Scale Your Own Organic Dropshipping Brand ➡️  https://discord.com/invite/cqbygQKhNH
 
 ---
+Therefore, our content targets our ICP, we don't target burners, we get a high conversion rate, and we can
+
+[…]
+
 And yes, they are realistic, but there is a better branded approach
 
 […]

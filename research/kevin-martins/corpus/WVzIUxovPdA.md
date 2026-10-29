@@ -1,7 +1,7 @@
 # $0 vs $100k/Month Ai Videos for Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=WVzIUxovPdA
-- Windows: 45 (first timestamps 0s … 1653s)
+- Windows: 46 (first timestamps 0s … 1653s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,11 +24,12 @@ Now, it's going to get a little bit crazy.
 
 […]
 
-So, yeah, that's going to be our $10,000 a month uh
+This is all done with AI, by the way.
+None of this is real, which is actually pretty good.
 
 […]
 
-This is all done with AI, by the way.
+So, yeah, that's going to be our $10,000 a month uh
 
 […]
 
@@ -46,10 +47,23 @@ And with this money, I've been able to cop my dream high-rise
 
 […]
 
+Welcome back to another video on the channel.
+In today's
+{ts:3} video, I'm going to be going over $0 versus $100,000 a month AI videos for organic drop shipping.
+If you guys don't
+{ts:10} know who I am, my name is Kevin Martins.
+I've been in the space for over a year and a half now and I've done over
+{ts:15} $600,000 with AI organic.
+And with this money, I've been able to cop my dream high-rise
+{ts:20} apartment here in Miami, as well as start multiple real brands that have scaled to over six figures, and making
+{ts:26} more money in a day than most 23-year-olds.
+I'm actually 24 now.
 Um but the cool part about all this is that
 {ts:32} I documented my whole entire journey here on this YouTube channel.
 You guys can go ahead and check my first ever
 {ts:36} video here talking about my three-month organic drop shipping experience all the way to me running up my first little
+{ts:42} pump and dump to me making $10,000 in 24 hours, and then me building a seven-figure brand right in front of
+{ts:48} your eyes.
 
 […]
 
@@ -105,6 +119,21 @@ Man, I've been out here for So, as you guys
 
 […]
 
+{ts:178} can see, this is a very funny video.
+And he was selling these fan hats at that very moment when he posted this video.
+I
+{ts:185} think this was like the only video that he posted cuz yeah, after that, bro, he just kind of like lost conviction and
+{ts:190} gave up because this video didn't even make him any money.
+Man, imagine 6 million views, and I think he only got
+{ts:196} like one or two sales.
+And so, one of the main reasons why this video did so poorly, and I hope you guys can
+{ts:202} understand this cuz this is almost like a meme, right?
+Like, the main focus of this video, right, is about his wife.
+{ts:209} Also, the AI is super unrealistic, and the quality is really crap compared to what we have today.
+Uh cuz back then,
+
+[…]
+
 {ts:190} gave up because this video didn't even make him any money.
 Man, imagine 6 million views, and I think he only got
 {ts:196} like one or two sales.
@@ -139,6 +168,11 @@ So, I'll show you the video here with 749,000 views, and then we'll kind of go o
 {ts:307} why I was only able to make $700.
 [music] So, yeah, this was a habit tracker that
 {ts:323} I was selling and I was predominantly targeting teenage girls that wanted to go through a full transformation because
+{ts:329} this was at the time when like looks maxing was super, super popular.
+And so, I wanted to take advantage of this like
+{ts:335} hype, and so I started making these AI uh kind of like slideshow videos kind of showing off this transformation.
+And as
+{ts:342} you guys can see, this video did go relatively viral, like over 700,000 views, over 11,000 comments of girls
 
 […]
 
@@ -154,9 +188,8 @@ So, I'll show you the video here with 749,000 views, and then we'll kind of go o
 {ts:329} this was at the time when like looks maxing was super, super popular.
 And so, I wanted to take advantage of this like
 {ts:335} hype, and so I started making these AI uh kind of like slideshow videos kind of showing off this transformation.
-
-[…]
-
+And as
+{ts:342} you guys can see, this video did go relatively viral, like over 700,000 views, over 11,000 comments of girls
 {ts:349} asking for this uh this planner essentially, right?
 This tracker.
 And you know, a lot a lot of demand.
@@ -168,6 +201,10 @@ Right?
 This was all
 {ts:368} automated using AI.
 Um and even then, bro, with 11,000 comments asking where to get this tracker, I only made $700,
+{ts:378} right?
+And the main reason, right, is going to be A, it was a very unrealistic transformation.
+There is no way that you
+{ts:385} go from this to literally like a superstar model in just a couple of months.
 
 […]
 
@@ -310,6 +347,12 @@ The content was so freaking believable
 
 […]
 
+Just testing like red light therapy and a lot
+{ts:885} of these health products like if it's too drastic of a transformation, people are simply not going to believe
+{ts:891} it.
+
+[…]
+
 Um but, you know, because of the realism, the actual concepts, he was able to make it work, right?
 And so, yo,
 {ts:898} shout out Omar, bro.
@@ -449,6 +492,12 @@ It's freaking insane.
 
 […]
 
+It's just so good and every single video essentially goes viral.
+Crazy demand, really good
+{ts:1249} story lines.
+And bro, the realism is what really just adds the cherry on top, right?
+It's freaking insane.
+All right,
 {ts:1256} guys, so that was our $50,000 a month example.
 Now we're going to go ahead and take a look at the $100,000 a month
 {ts:1262} example here, okay?

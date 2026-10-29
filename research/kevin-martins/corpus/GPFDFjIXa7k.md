@@ -1,7 +1,7 @@
 # My personal organic dropshipping update (completely broke🥲)
 
 - URL: https://www.youtube.com/watch?v=GPFDFjIXa7k
-- Windows: 0 (first timestamps 0s … 0s)
+- Windows: 4 (first timestamps 8s … 288s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,4 +19,27 @@ Metadata lines seen:
   Um and today is October 14th, 7:40, right?
 
 ---
+This is my current update in organic drop
+{ts:8} shipping.
+Um and today is October 14th, 7:40, right?
 
+[…]
+
+Cuz then I'm just basically going to be working honestly funding my AI organic
+{ts:44} drop shipping business with the school.
+And I don't want that.
+I want my organic business to fund itself and then the
+{ts:49} school be pure profit for me, right?
+
+[…]
+
+{ts:55} [ __ ] going for, right?
+[snorts] So, then on top of that, we haven't made
+{ts:60} money since middle of last month mainly just because um mainly just because honestly just because our creator system
+{ts:67} broke.
+
+[…]
+
+So, that's why I'm funding those two AI creators
+{ts:288} and so I could fund those two AI creators and on top of that me currently focusing on running
+{ts:294} products myself, we should find a banger within the next 2 weeks, right?

@@ -1,0 +1,7 @@
+   ## pnhoanganh
+##### Oct 26, 2026 (0:14:36)
+A 7-day study system for any exam, built in Gemini Notebook (formerly NotebookLM): one learning technique a day, from collecting your sources to the night before the exam.
+I use JLPT N3 Japanese as the example, but every step works for any subject.
+📄 Free prompt pack (every prompt and preset from this video): https://docs.google.com/document/d/1aF0YZCkwIQtjw7aLkTwfDy32ECYvbmzLkQNf8LBQ1WI/edit?usp=sharing
+🛠️ NotebookLM Tools, the free extension I use (Chrome & Firefox): https://www.nlmtools.com/
+...

@@ -1,14 +1,27 @@
 # How I Always Go Viral With My Organic Dropshipping Products
 
 - URL: https://www.youtube.com/watch?v=yGD7QSr4OMk
-- Windows: 5 (first timestamps 71s … 364s)
+- Windows: 7 (first timestamps 0s … 364s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Omar
+  ##### Sep 02, 2026 (0:07:16)
+  ...
   Date: 2026-09-02
+  Discord community (Daily Test Orders)
+  https://discord.gg/FnkdxxHPc
 
 ---
+{ts:0} Hey people, today's August 31st, and in this video I wanted to go over to you
+{ts:3} how you're going to go viral consistently and master the skill of virality.
+
+[…]
+
+{ts:43} your products.
+
+[…]
+
 If you see something that's working, a concept, a text hook, a sound, why
 {ts:71} wouldn't you want to implement it to yours and have the chance of going viral?
 

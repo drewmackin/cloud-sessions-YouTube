@@ -1,0 +1,14 @@
+   11 proven Claude Code prompts that take you from a blank idea to a live, mobile-ready, SEO-tuned website.
+Copy, paste, ship.
+Every prompt below is ready to use, just swap in your own project details.
+Grab a prompt, drop it into Claude Code, and watch it build.
+These are the exact moves the pros use: three layout variants before you commit, the front-end design skill so it never looks like AI slop, screenshot self-correction, a proper mobile pass, and a free ship pipeline to GitHub and Vercel.
+Get the prompts here: https://docs.google.com/document/d/1dq1cYX9r4VOw1CVkfIKRilLxxG0KaLFoyIp3wqwXpnc/edit?usp=sharing
+CHAPTERS
+0:00 Intro
+0:18 1.
+The One-Page Website Generator
+0:32 2.
+Three Layout Variants First
+0:44 3.
+Always Invoke the Front-End Design Skill

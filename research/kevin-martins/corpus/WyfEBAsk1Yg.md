@@ -1,7 +1,7 @@
 # I Quit Organic Dropshipping for Meta Ads (Here’s What Happened)
 
 - URL: https://www.youtube.com/watch?v=WyfEBAsk1Yg
-- Windows: 0 (first timestamps 0s … 0s)
+- Windows: 3 (first timestamps 866s … 1011s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,4 +19,17 @@ Metadata lines seen:
   What is better: Organic Dropshipping or Meta ads?
 
 ---
+{ts:866} But as of now, I'm returning back to AI organic.
+I've already started.
+I've built a small team of creators
+{ts:872} and currently, as you might have seen, what we're doing is AI organic.
+And it's really, really interesting to me.
+I
 
+[…]
+
+{ts:903} with AI, you can actually scale organic drop shipping.
+
+[…]
+
+{ts:1011} give you is that if you're doing organic drop shipping right now, there's a 99% chance you're doing AI organic drop

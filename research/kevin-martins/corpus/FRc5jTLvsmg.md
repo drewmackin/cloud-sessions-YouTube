@@ -1,7 +1,7 @@
 # How to Make High Converting Stores with AI In 2026
 
 - URL: https://www.youtube.com/watch?v=FRc5jTLvsmg
-- Windows: 9 (first timestamps 0s … 229s)
+- Windows: 8 (first timestamps 0s … 244s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -13,21 +13,12 @@ Metadata lines seen:
   And Alice Aai is a Shopify store builder that you can go ahead and connect to
   And it's going to go ahead and start cooking
   And so, now we wait for Atlas to build out our store right here.
+  DM me on IG: kevin_martins_
   Date: 2026-07-08
   How My Student Mark Makes $60k/m With AI:
   So, it's importing the
-  Um, but pretty much all you do is you download the app called Atlas AI store builder.
 
 ---
-A conducting market research on like the copy that we're going to be using, the benefits, even down to like
-
-[…]
-
-And so, now we wait for Atlas to build out our store right here.
-So, it's importing the
-
-[…]
-
 And it's funny because they actually did start with organic and then
 
 […]
@@ -71,3 +62,11 @@ Now, we have the ability to go ahead and add a product bundle for this.
 We're going to go ahead and price this
 {ts:229} at, I don't know, $24.99.
 And it's going to go ahead and create a bundle for us to go ahead and, you know, increase AOV
+
+[…]
+
+And so, now we wait for Atlas to build out our store right here.
+So, it's importing the
+{ts:244} product.
+A conducting market research on like the copy that we're going to be using, the benefits, even down to like
+{ts:250} the reviews.

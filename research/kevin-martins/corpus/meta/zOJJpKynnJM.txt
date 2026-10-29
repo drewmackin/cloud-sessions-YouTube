@@ -1,0 +1,5 @@
+   Meta just launched Muse, a personal AI agent that can actually do work for you instead of just answering questions.
+...
+In this video, I'll walk through 7 real marketing use cases for Muse, with the exact prompts I use, plus the one big thing it can't do yet.
+Get all 7 copy-paste Muse prompts free: https://docs.google.com/document/d/1v32bXHGmbGi9yZ85M0aX6LCJaBtYYQlJLQlMoIn24Is/edit?usp=sharing
+It then prompted me to connect to Google Docs so that could build this out in my Google Doc.

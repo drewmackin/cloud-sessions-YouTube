@@ -1,15 +1,22 @@
 # How He Made $70K in 30 Days With AI Organic Dropshipping (Products Leaked)
 
 - URL: https://www.youtube.com/watch?v=7yKY90-ekTw
-- Windows: 48 (first timestamps 0s … 1956s)
+- Windows: 58 (first timestamps 0s … 1956s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Sep 11, 2026 (0:33:50)
   ...
+  And I thought, well, he's got loads of demand
+  And I'd never leave a
+  And today we're going to be deep diving into how he was able to do this just at the
+  But like the support from Elias has just
+  DM me on IG: kevin_martins_
   Date: 2026-09-11
-  How My Student Jhon Makes $140k/m With AI: https://youtu.be/6o0llGgVRrg?si=d4lDXFheeji6CkbC
+  He was like bro just hop on
+  He's he's always spitting sauce and I know he's um he's always kind of been there to to really help you
+  He's not replying to any of them.
 
 ---
 The fact that I've gone from slaving away for like a few sales to now I'm so efficient with my time.
@@ -65,11 +72,38 @@ And today we're going to be deep diving into how he was able to do this just at 
 
 […]
 
+I'm 19 from the UK.
+Got into the organic space in January.
+So, I've never had any
+{ts:37} prior experience.
+I'd seen you around December time.
+I just did a few of your videos and just thought I don't want to
+{ts:42} waste any time.
+This guy, he he knows what he's doing.
+
+[…]
+
 So, I'm Ivan.
 I'm 19 from the UK.
 Got into the organic space in January.
 So, I've never had any
 {ts:37} prior experience.
+
+[…]
+
+It's like I could just just try drop shipping
+{ts:132} instead and it's just been way better.
+Okay.
+I haven't got to speak to anyone.
+I just
+{ts:138} make videos.
+Yeah.
+
+[…]
+
+{ts:158} off a 70k month, but I'm sure there were some like, you know, trials and tribulations in the beginning to, you
+{ts:164} know, really, you know, start because I know when you first got into the program, you were specifically doing,
+{ts:170} you know, traditional organic.
 
 […]
 
@@ -93,6 +127,18 @@ I was uh there's like
 {ts:234} 13 hours to make one video like with AI, right?
 It's like nuts.
 {ts:239} So the transition was really difficult for me at the start but yeah we uh we managed to do well.
+
+[…]
+
+Um, so talk about like really the start, man.
+Yeah.
+So, we were literally like grinded
+{ts:177} away doing videos like it took me like a month just to learn and actually start making my first product cuz it's so
+{ts:184} overwhelming.
+when you're drawing there's so much information just spending time on YouTube and product
+{ts:189} research and trying to fill up PR sheets and then we finally got that first product
+{ts:193} instantly straight filming but that took forever we thugged that out for like 2 months and got like four sales and then
+{ts:198} straight onto another product and it's like we dragged that out for 4 months yeah essentially
 
 […]
 
@@ -138,6 +184,16 @@ Yes, that's what I wanted to get into as
 {ts:430} well.
 So, Ivan also ran this teapot and um you know, it was it was a pretty cool product, you know, prior winner from
 {ts:436} back in the day that we were trying to revive.
+
+[…]
+
+So, Ivan also ran this teapot and um you know, it was it was a pretty cool product, you know, prior winner from
+{ts:436} back in the day that we were trying to revive.
+But yeah, same thing with that product.
+It was really heavy on the on
+{ts:440} the backgrounds.
+You really had to kind of fit the vibe of, you know, that that aesthetic that it kind of like needed.
+{ts:446} Um and I remember towards the end we started kind of background swapping um some of the videos.
 
 […]
 
@@ -245,6 +301,31 @@ Okay.
 
 […]
 
+Okay, so you were mainly just like rinsing run two concepts.
+You even did like a Gucci one
+{ts:954} as well.
+
+[…]
+
+And I love how you
+{ts:971} were saying like the just kidding, we make them at the end cuz guys, if you're ever going to do run two concepts, you
+{ts:976} you need to let the people know that like it's just a joke and that you're the actual seller or maker.
+Um because
+{ts:983} they they will truly believe this because it's just so good.
+
+[…]
+
+Little bundle there.
+Oh, and you were also upselling the mask for 50% off
+{ts:1024} if they wanted it.
+Yeah.
+
+[…]
+
+{ts:1028} Yeah, a bunch of people took it.
+
+[…]
+
 I remember you uh you found this product on Ali and then you sent it in your PR sheet and I
 {ts:1050} approved it and I was like, "Bro, run this like immediately cuz at that time um Zelda products were going crazy."
 Um
@@ -277,6 +358,11 @@ Wow.
 
 […]
 
+{ts:1155} audience, right?
+You were mainly doing run twos and 321s and gifting, right?
+
+[…]
+
 Um, and you said you were going viral on
 {ts:1208} all platforms or mainly on IG?
 Mainly IG and Tik Tok.
@@ -292,6 +378,8 @@ So like what's really changed for you, bro?
 
 […]
 
+{ts:1309} to segment, you know, really how like FSE has helped you really get to this point, dude.
+{ts:1313} Yeah.
 So, the information was really helpful.
 Like you got the group calls, the PR sheets were so important because
 {ts:1319} if I didn't have products to send to you and you to approve them, I could just be running anything.
@@ -319,12 +407,27 @@ The amount of value that guy provides just in the just in the WhatsApp is nuts.
 And I'd never leave a
 {ts:1405} call or a group call with him without about two sheets of notes.
 Yeah.
+Just to to act on straight away,
+{ts:1412} right, dude.
+He's he's always spitting sauce and I know he's um he's always kind of been there to to really help you
+{ts:1418} when it comes to um like just using seed dance and stuff cuz again like bro I I remember I picked the product for you.
+I
+{ts:1424} was like bro like get on it immediately.
+Um we started making your first ever videos.
+Uh but then you know Elias was
+{ts:1431} kind of running the same product but in a different niche and he was lowkey just helping you.
+He was like bro just hop on
 
 […]
 
 Um, and also something that I did want to mention as well was, you know, the
 {ts:1452} the fact that, um, you know, like, bro, you're just so consistent with like booking in your
 {ts:1457} calls.
+like yeah, you're like a little bit like you you're not like it's not like you're act like super active in the
+{ts:1463} Discord with the community, but you're always like, you know, texting us and getting constant feedback and, you know,
+{ts:1468} never skipping calls.
+Um, so talk about like the the one-on ones, you know, how has that helped you? that that's
+{ts:1474} probably been one of the most important things because I can text you like a load on WhatsApp, but I as as soon as I
 
 […]
 

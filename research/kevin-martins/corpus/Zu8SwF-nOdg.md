@@ -32,14 +32,43 @@ And the cool thing is that you can post the same
 
 […]
 
+{ts:283} And I'm going to show you now the best three ones.
+First of all, lower direct advertising costs.
+I mean, the only
+{ts:288} advertising cost you probably need to pay is Higgsfield, right?
+To create the videos.
+Nothing else.
+No ads, okay?
+The
+{ts:294} second thing is organic reach potential.
+You can make millions of views.
+Millions of views with organic drop shipping
+
+[…]
+
 So basically, the thing here is that you
 {ts:361} have a daily ad budget as an example of 50 bucks, and then you have a 7-day testing budget of 350.
+
+[…]
+
+So first of all, you have no mandatory advertising budget.
+{ts:377} You don't need to spend any money on ads, because it's free to post on TikTok.
+It's free to post on Instagram,
+{ts:382} and it's free to post on Facebook.
+That's a cool thing.
+Second thing, you get traffic from TikTok, Instagram
+{ts:386} Reels, and Facebook Reels to your store without spending any money on ads.
 
 […]
 
 I don't need to spend hundreds of dollars on advertising just to test a product,
 {ts:505} because testing a product is one of most important things if you really want to be successful in drop shipping, because
 {ts:510} you can just do it for free.
+
+[…]
+
+One good video can potentially reach
+{ts:515} thousands or even millions of people without paying for every view.
 
 […]
 
@@ -50,6 +79,7 @@ I don't need to spend hundreds of dollars on advertising just to test a product,
 The fourth
 {ts:596} thing is basically how to manage the accounts, how to get viral, how to warm the account correctly up so you get
 {ts:600} viral every single time and you don't waste credits.
+And the last thing is how to scale.
 
 […]
 
@@ -395,6 +425,9 @@ You can just cross post it on Instagram.
 
 […]
 
+Okay, now I'm going to
+{ts:2307} basically show you a way that allows you to make new accounts, publish new products, make new accounts, like every
+{ts:2312} single time, okay?
 So, we have now this burner and we used it for product finding, okay?
 And you can do this in
 {ts:2318} the next days with your new account, but the cool thing is after this, you can open a new account and use this account
@@ -402,38 +435,35 @@ And you can do this in
 {ts:2330} algorithm.
 As an example, Instagram thinks you're not a bot.
 Keep in mind you should always react like a human.
-
-[…]
-
+I
 {ts:2336} mean, I followed now in the first 20 minutes like a lot of accounts I liked and it was probably spammy.
 I didn't
 {ts:2342} even mention my phone number, all that kind of things.
 So, please make sure before you post that it's actually an
 {ts:2347} account where you have your phone number there, a profile picture, all these things.
 Warm it up for at least 3 days
-
-[…]
-
-I didn't
-{ts:2342} even mention my phone number, all that kind of things.
-So, please make sure before you post that it's actually an
-{ts:2347} account where you have your phone number there, a profile picture, all these things.
-Warm it up for at least 3 days
 {ts:2352} and then you can post your content.
+For a posting your content, I'm not going to show you all that much.
+You can just
+{ts:2356} click here on create and then basically select from your phone or from computer.
 
 […]
 
 All right, so the last thing what we will do now is to add hashtags.
 Um I'm not going
 {ts:2386} to go back now to the competitor, but just take the same that he does.
+If he doesn't use anyone, just say like as an
+{ts:2392} example gadget nose um woman, something like that, okay?
+To go inside of the algorithm.
+The last thing I would do is
+{ts:2399} I would add USA always here, especially if you're all from USA.
+We want to target it.
 
 […]
 
 And yeah, the last thing is that you
 {ts:2412} actually post it as full quality.
-
-[…]
-
+Really important, okay?
 So, if you done with that, then I want you to basically post
 {ts:2422} it.
 And I want you to start posting for the first 3 days, not more than one, okay?

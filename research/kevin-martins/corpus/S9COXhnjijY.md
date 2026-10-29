@@ -1,7 +1,7 @@
 # How He Made $110K In 30 days With AI Organic ...
 
 - URL: https://www.youtube.com/watch?v=S9COXhnjijY
-- Windows: 64 (first timestamps 5s … 2467s)
+- Windows: 68 (first timestamps 0s … 2467s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,10 +19,6 @@ Metadata lines seen:
   How My Student Jhon Makes $140k/m With Ai: https://youtu.be/6o0llGgVRrg?si=d4lDXFheeji6CkbC
 
 ---
-Um, and we'll see what you did that month with it, and then we'll kind of break down the crazy crazy week
-
-[…]
-
 Because I assume for most people watching this, organic isn't the final step.
 It's probably the first.
 
@@ -33,15 +29,11 @@ Um I mean, what was Did you Did you know
 
 […]
 
-It's just you got a character just making he or she cry, right?
+Also, if you guys do want to join FSC, you guys can go ahead and apply in the
 
 […]
 
 did a lot of products, but like you know just or like 4K maybe.
-
-[…]
-
-And like I say, this my first ever custom type of thing.
 
 […]
 
@@ -54,6 +46,11 @@ And that's 8K.
 
 […]
 
+100%.
+
+[…]
+
+{ts:0} YouTube, what's good?
 Welcome back to another case study on the channel.
 Today
 {ts:5} I got my boy Charlie here.
@@ -68,6 +65,7 @@ So, I started organic like
 {ts:45} basically a year ago now.
 I've been through a lot of the phases, whether you want to talk about the blanket phases
 {ts:50} back in Q4 or the AI handmade phases like been been through them, bro.
+So, I'm here now, you know, at the top.
 
 […]
 
@@ -88,6 +86,8 @@ I dropped out of college to actually do this because I was in college and bro, I
 
 […]
 
+Luckily, I've got a boy who's also in
+{ts:113} this Discord and he put me on to it and like, bro, we just we got he introduced me to organic and I literally never
 {ts:121} forgot that because look where we are now, man.
 on a case study talking about a six figure a month at 18.
 [laughter]
@@ -152,9 +152,12 @@ And it just
 
 […]
 
+Yeah.
 I mean, bro, you can mold
 {ts:520} your avatar to your ICP.
 You know what I mean?
+And back in the day that was literally impossible, you know, unless
+{ts:525} you like were to hire somebody like an actor to to do a run to for you, but that was probably like insanely
 
 […]
 
@@ -164,6 +167,9 @@ Just got to prompt it correctly.
 Just like that, it's done.
 You know, you've made it. you don't no money went out to that person
 {ts:569} to you know get his cars and time and money is what it saves and that's the most valuable currency literally in the
+{ts:576} world time and money literally literally and I want to like piggyback off of what you were saying
+{ts:581} about custom products because the majority of the money that you did make were from from customs right so um kind
+{ts:586} of go over like the process in which you kind of took to kind of bring a idea right to to life like you did because
 
 […]
 
@@ -189,6 +195,7 @@ Or maybe seeing a niche blow up and knowing that a former product, you know, did
 
 […]
 
+You're literally bringing the algorithm
 {ts:677} treats new stuff amazing all the time because I think trends are made.
 It's someone
 {ts:683} doing something new and then other people making videos on it.
@@ -223,12 +230,22 @@ And I feel like that's exactly what you did because, you know, you you obviously
 
 […]
 
+You know, and I feel like you really did
+{ts:804} crack the code with um these custom prods, you know, and that's this is why we're seeing
+{ts:808} a whole lot of people just like printing like crazy at the moment because they can identify those gaps like you did,
+{ts:815} right?
+you literally mixed, you know, a winning product and a winning niche and just boop, just made it, you know, and
+
+[…]
+
 {ts:864} And that's like, like I say, it comes to mind again.
 You've always just got to trust your intuition, man.
 Like, all the
 
 […]
 
+Um, and we'll see what you did that month with it, and then we'll kind of break down the crazy crazy week
+{ts:887} that you had.
 So, here is the first store.
 As you can see, from
 {ts:895} to the 11th, it was 85.
@@ -251,6 +268,7 @@ And
 Went and hit 100K.
 Well, I had another store for it and it made,
 {ts:966} right?
+All right.
 
 […]
 
@@ -288,6 +306,12 @@ So, you know, like we could even make this a bit more
 
 […]
 
+And like I say, this my first ever custom type of thing.
+So right
+{ts:1026} it was just my own imagination just coming to life, right?
+
+[…]
+
 {ts:1070} You know, like maybe it is, but it's not really when you think of products like they don't do this all the time.
 So,
 {ts:1077} right, I just pivoted again and just moved back kind of to my roots, you
@@ -301,6 +325,26 @@ And would you say it's a lot easier of a process to make the videos for runto tw
 
 […]
 
+It's just you got a character just making he or she cry, right?
+{ts:1116} And then, you know, just showcasing this [ __ ] crochet bag.
+Like, what even?
+[laughter]
+{ts:1121} No one's buying that.
+Like, honestly, I mean, when you think of you scrolling, you think you're going to just stop on
+{ts:1128} someone like crying?
+Like, I can't lie.
+Me personally, I'm scrolling straight past that.
+Not because I don't care
+{ts:1134} about the person, but it's just more like if I'm scrolling, I want to be hitting dopamine, right?
+I want
+{ts:1140} I want to literally be seeing some cool [ __ ] within the first split second, not some woman crying because no one's
+{ts:1147} buying a crochet bags.
+Right.
+
+[…]
+
+It's pretty obvious which one I'm going
+{ts:1151} to watch.
 Of course.
 And I feel like that's why like run twos are just converting a lot
 {ts:1155} better.
@@ -316,6 +360,12 @@ You got to think of organic as a whole.
 You know, every form of video is now
 {ts:1179} able to be made.
 Run twos are easy to make and yeah, they go hella viral, but it's not always just them.
+
+[…]
+
+Yeah, I think Run Twos like gave us the the mindset of like, holy [ __ ] I
+{ts:1193} could basically create whatever I want at this point.
+Like the viral videos you saw a year
 
 […]
 
@@ -417,6 +467,16 @@ You know, I started to shift my mind to that person of me that I can really see 
 
 […]
 
+And within a
+{ts:1582} short space of time, I just started ripping months and weeks like this consistently where it's no longer a
+{ts:1588} shock.
+It's kind of just you know that it's happening.
+I mean, even before this product was even launched, I kind of
+{ts:1594} started to know that it was happening in the process.
+
+[…]
+
+For real, bro.
 That's why, like I say, I dropped out of college when I was 17,
 {ts:1642} and that was the best thing I could do.
 Um, my parents have always been very supportive and I've been blessed by that
@@ -478,6 +538,21 @@ But
 So, I was I was hit a 10k week and after that 10k week is when I joined FC
 {ts:1827} because, you know, I had I had money.
 I already had a bit of money, but you know, I was like, "Okay, I'm gonna join
+{ts:1833} the mentorship because obviously, bro, I everyone in the organic space, I'm sure watches Kevin." and he was like or at
+{ts:1840} least the main guy that I'd watched because no one else was really kind of speaking about AI content.
+It was only
+{ts:1847} like you at that time.
+There's probably everyone speaking about well in fact everyone will be speaking about it now
+{ts:1852} but you were that main guy speaking about it.
+So me and two other mates as you know
+{ts:1858} joined here here's where we are now man.
+Right.
+Right.
+And how did everything
+{ts:1864} kind of change for you when you when you joined FSC?
+Like learning AI and all the systems,
+{ts:1869} you know, it I think because everyone's quite close, everyone's always on that curb of giving each other [ __ ] So like
+{ts:1876} the coaches, there's always them calls.
 
 […]
 
@@ -496,6 +571,7 @@ Organic is pure speed.
 {ts:2012} It's just speed, speed, speed.
 And being up to date with that is such a key.
 It's like such a game changer really.
+{ts:2020} Right.
 
 […]
 

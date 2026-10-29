@@ -1,0 +1,10 @@
+   ## Chase AI
+##### Dec 01, 2025 (0:11:38)
+This complete guide breaks down how to use Nano Banana Pro to generate infinite angles from a single starting image.
+We then dive into how to apply that same technique to AI video so you can master AI content creation from start to finish.
+...
+0:00 - Intro
+1:07 - Step 1: Foundation Image
+2:08 - Step 2: Image Variations
+7:14 - Step 3: Video Creation
+9:38 - Frame to Frame Prompting

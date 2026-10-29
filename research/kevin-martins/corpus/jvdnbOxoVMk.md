@@ -1,7 +1,7 @@
 # CRIEI UMA FABRICA DE INFLUENCER PRA VENDER NO TIKTOK SHOP
 
 - URL: https://www.youtube.com/watch?v=jvdnbOxoVMk
-- Windows: 15 (first timestamps 0s … 598s)
+- Windows: 18 (first timestamps 0s … 598s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -38,8 +38,17 @@ But in the
 
 […]
 
+{ts:61} find products that are already selling on TikTok Shop . And for that , I’m going to use Calodata , which is a tool
+{ts:67} that shows which products are selling , how much they're generating in sales , and which videos are bringing all these
+
+[…]
+
 {ts:90} work , we’ll find one that has already had results and use it as a reference to create our own . And we’ll create
 {ts:97} it over at Hickfield using Cling 4 , which is this new tool , really very cheap .
+
+[…]
+
+{ts:103} product , download the video , and also save a photo of it . Done , we’ve downloaded the photo and the video here
 
 […]
 
@@ -71,6 +80,15 @@ But relax , I will leave a huge library
 
 {ts:206} Hickfield . Now that we have the prompt , all this library , and the references , step three : you go into Hickfield ,
 {ts:213} click here , guys , and choose the Cling 4.0 model . Why Cling 4.0 ? Because it only costs 30 coins for you to generate
+{ts:222} a 30 - second video . Do you want to know how much it costs in Cidence 2.5 to generate practically the same result ?
+{ts:228} Over 480 coins here in Hickfield , practically half their plan . Yeah , it's very expensive , guys . And I doubt you
+
+[…]
+
+{ts:256} It cost less than $ 1 . Alright , enough stalling . How does this work , guys ? Entering here , we select Cling 4 , set
+{ts:263} the video duration , I'll leave it at 30 seconds . And here we set it to 9:16 , which is the vertical format .
+And I'll
+{ts:269} set it to full quality . It will only spend 30 little coins . Here , guys , you click here and upload the reference ad .
 
 […]
 
@@ -125,6 +143,7 @@ You can use two tools for this . ChatGPT or Claude . Both work the same
 
 And now we start downloading several videos
 {ts:562} from Calodata and throwing them here into Claude , to analyze and already create our versions by doing that
+{ts:567} Hickfield flow . It works like this . You're going to go back into Calodata here . Let's go into video ads here .
 
 […]
 

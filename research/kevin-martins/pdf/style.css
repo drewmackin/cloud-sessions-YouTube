@@ -111,3 +111,11 @@ h2, h3 { break-after: avoid-page; page-break-after: avoid; }
 .step { margin: 7px 0; }
 .flow, .fbox { break-inside: avoid; }
 .note, .warn, .ok, blockquote { break-inside: avoid; }
+
+/* Discord section */
+.chain { margin: 8px 0 12px; border-left: 2px solid var(--accent); padding-left: 12px; }
+.chain .link { margin: 0 0 9px; break-inside: avoid; font-size: 9.2pt; }
+.chain .link b { display: block; color: var(--accent); font: 650 9pt/1.3 Inter, sans-serif; margin-bottom: 2px; }
+.callout-q { background: var(--panel); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0; padding: 10px 12px; margin: 10px 0; font: 400 10pt/1.5 "Bitstream Charter", Georgia, serif; break-inside: avoid; }
+.cover .facts.four { grid-template-columns: repeat(2, 1fr); }
+.keep { break-inside: avoid; }

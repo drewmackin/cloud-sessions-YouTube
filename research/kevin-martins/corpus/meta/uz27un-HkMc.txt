@@ -1,0 +1,85 @@
+   No masking.
+No tracking.
+No editing software.
+Here's how to swap any video background with AI.
+👇
+...
+Clip longer than 15 seconds?
+Break it into sections, run the workflow on each part, stitch at the end.
+Replace the view outside the window with an upscale vacation destination, such as a tropical beach resort, a Santorini-style ocean view, Maldives water villas, a Bali jungle retreat, or a luxury seaside location.
+Prompt 2:
+Use the motion, timing, subject, camera angle, desk, and indoor setup from @original video.
+Replace only the background outside the window to match @vacation reference image.
+Give the video a vibrant, clean, professional color grade.
+Keep the subject’s face and body movement natural and unchanged.
+Match the lighting, reflections, shadows, perspective, and depth of field so the new exterior view looks like it was genuinely filmed in that location.
+And [music] this is the same shot after replacing
+{ts:4} the plain window view with a luxury [music] vacation background.
+You do not
+{ts:16} start by generating the video.
+You start with one single frame.
+See, that's normally works best here with clips
+{ts:23} around 15 seconds maximum per generation.
+So, if your video is longer, do not try to process the entire thing
+{ts:30} at once.
+Break it into 15-second sections and run this workflow on each part.
+And then you can combine the
+{ts:35} results at the end.
+First, grab your original video clip.
+Before generating anything, look at your raw footage.
+A
+{ts:41} clean shot is going to give you a much more believable result.
+Ideally, your camera is mostly visible, your subject
+{ts:48} is easy to see, and the area you want to replace is clearly visible.
+In this example, the subject is sitting indoors,
+{ts:55} and we are changing the view outside the office window.
+Now, find the cleanest frame in the video and take a
+{ts:61} screenshot.
+This frame really matters because it becomes the visual blueprint for the new background.
+Choose one where
+{ts:67} you can clearly see the subject, the window, and enough of the area outside for the AI to understand what needs to
+{ts:73} be replaced.
+Once you have that frame, you're going to go to Higgsfield, and you're going to open GPT Image 2.
+Upload
+{ts:80} your screenshot, and this is where we design the new location before we ask AI to apply it to the moving video.
+Use
+{ts:88} this prompt, which you can also grab in the description.
+Now, don't just save the first result because the background
+{ts:95} looks impressive.
+Check the subject first.
+The face, the body needs to look natural.
+Then check the window
+{ts:101} perspective.
+The new vacation view needs to feel like it actually belongs outside the window from that exact camera angle.
+Once you have a version that works, save the generated image.
+Now, we are going to go to use that single image
+{ts:123} to guide the entire video.
+Go back to Higgs Field and stay in a create video tab.
+Now, you're going to select C Dance
+{ts:130} 2.0.
+This next part is important.
+You do not need edit video and you do not need motion control for this workflow.
+In the
+{ts:138} upload media section, upload two files, the original raw video and the new GPT image to vacation background image.
+{ts:147} These two files have completely different jobs.
+The original video gives C Dance the real motion, the subject
+{ts:154} moving, the timing, the performance, camera angle desk, the indoor setup, and the generated image gives C Dance the
+{ts:160} new destination, the upgraded window background, the lighting direction, and the premium vacation look.
+Now,
+{ts:167} [snorts] use this prompt, which you can also grab in the description.
+Inside the prompt,
+{ts:171} use the at reference feature to assign the files correctly.
+The raw clip as your original video and the generated
+{ts:178} frame as your vacation reference image.
+Then hit generate.
+When C Dance finishes, compare the result with both
+{ts:185} your starting references.
+Your original clip should still be in control of the nature of movement of the performance.
+{ts:191} Your GPT image two should be controlling the new luxury background.
+And the final C Dance video should combine them
+{ts:198} cleanly.
+And that is the full workflow.
+You start with the normal indoor shot, design a better background for one
+{ts:205} frame, and then use that frame to transform the moving video.
+For anything longer than 15 seconds, repeat the same
+{ts:212} workflow section by section, then stitch the finishing clips together in your editor.

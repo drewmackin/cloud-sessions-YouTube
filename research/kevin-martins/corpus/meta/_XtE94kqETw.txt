@@ -1,0 +1,13 @@
+   ## AI FOR PEOPLE
+##### Oct 19, 2026 (0:15:04)
+In this complete guide, I'll show you my exact step-by-step workflow using Midjourney and FaceFusion, so you can easily replicate it and design your own viral AI influencer.
+What you'll learn:
+✅ How to design unique character concepts and generate ultra-realistic faces using Midjourney
+✅ The secret prompts to get consistent face features, lighting, and natural camera angles
+✅ How to maintain facial consistency across different poses, outfits, and backgrounds
+✅ Simple face-swapping and editing tricks to make your AI model look 100% human
+✅ Common AI influencer design mistakes and how to avoid them
+🛠 Tools used in this video:
+• Midjourney: [link]
+• FaceFusion: [link]
+...

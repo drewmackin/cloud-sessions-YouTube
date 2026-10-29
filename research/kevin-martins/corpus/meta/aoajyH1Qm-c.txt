@@ -1,0 +1,29 @@
+   ## Chimdi AI Studio
+##### Oct 24, 2026 (0:04:20)
+Learn how to make an AI short film step by step, without wasting credits.
+In this beginner Higgsfield tutorial, I show you exactly how I made a cinematic AI movie using Nano Banana 2.1 and Kling 3.0, what it really cost, and how I kept my mistakes to a minimum.
+...
+In this video you'll learn:
+✅ How to plan your story and storyboard for free with ChatGPT or Claude
+✅ How to talk to AI like a project manager so you don't waste credits
+✅ Which Higgsfield tools are cheap and which ones burn credits fast
+✅ The image prompt formula for realistic faces (no plastic skin)
+✅ How to keep the same characters in every shot
+✅ How to animate with start and end frames in Kling 3.0
+✅ My real credit breakdown, including what my mistakes cost
+✅ How I put it all together in CapCut
+2:50 Step 2: Talk to AI like a project manager
+3:00 Step 3: Attention to detail
+3:15 Step 4: Choose cheap tools
+3:30 Step 5: Create your images first
+3:40 Step 6: Check and fix mistakes
+4:00 Step 7: Animate in Kling 3.0
+4:10 Step 8: Edit in CapCut
+TOOLS I USED
+Higgsfield (Nano Banana 2.1 for images, Kling 3.0 for video)
+Claude (planning and prompts)
+CapCut (editing)
+FORMULAS TO SAVE
+Image: WHO + DOING WHAT + WHERE + LIGHT + CAMERA + "real skin, no plastic"
+Video: CAMERA + ACTION + WORDS + SOUND
+Save this video so you can follow it step by step, and share it with someone who wants to make AI films.

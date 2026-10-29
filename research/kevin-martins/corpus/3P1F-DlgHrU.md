@@ -27,11 +27,11 @@ It was around 80k.
 
 […]
 
-Was kind of primed and Facebook kind of died out.
+And [ __ ] like that because if it's super viral,
 
 […]
 
-And [ __ ] like that because if it's super viral,
+Was kind of primed and Facebook kind of died out.
 
 […]
 

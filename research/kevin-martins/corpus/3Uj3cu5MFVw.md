@@ -1,13 +1,14 @@
 # How They Made $30K In 7 Days With AI Organic Dropshipping
 
 - URL: https://www.youtube.com/watch?v=3Uj3cu5MFVw
-- Windows: 46 (first timestamps 0s … 1867s)
+- Windows: 47 (first timestamps 0s … 1935s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### May 04, 2026 (0:32:25)
   ...
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=yt
   DM me on IG: kevin_martins_
   Date: 2026-05-04
   How My Student Mark Makes $60k/m With Ai: https://youtu.be/c9plD077S6M?si=3WegeyLUtfLj2iqw
@@ -20,6 +21,11 @@ Um, even just like connecting with you and everyone in the group calls is just
 Yeah, dude, that's That was on the third.
 Yeah, another 4K day.
 Yeah.
+
+[…]
+
+It's been like what since you joined?
+Like, 3 weeks?
 
 […]
 
@@ -103,6 +109,7 @@ I'll say the biggest thing is just being able to connect with people like you an
 
 […]
 
+{ts:188} You would say?
 Um I I I can say I can say so initially
 {ts:195} with me I'd say product selection 100%.
 Like I just look at what was trending at the time.
@@ -110,6 +117,8 @@ Like
 {ts:203} it could be anything.
 These pat- like niches that have converted and be like oh yeah this this is a niche this niche
 {ts:208} so it's going to work and like that's that was kind of what my brain was doing.
+I was in that like burner
+{ts:213} mentality just pumping pumping pumping dopamine's like skyrocketing and then dropping.
 
 […]
 
@@ -206,6 +215,10 @@ You need to have something like this.
 
 […]
 
+And you know, at first when
+{ts:537} Sora 2 came out, you guys remember, it was like oh it's the new big thing, but this takes a dump on Sora, bro.
+And you
+{ts:543} know, you definitely have the possibility to even like you said like transition to a real brand just only
 {ts:549} doing UGC AI, right?
 Like completely fabricated where you can kind of make the best avatar like one-to-one
 {ts:558} to target your ICP.
@@ -336,9 +349,6 @@ Right.
 
 The first The first day
 {ts:754} where we hit So, that I think it's the 5th of April.
-
-[…]
-
 That was like nuts.
 Me and Fio were on a
 {ts:760} We were on a call.
@@ -610,3 +620,9 @@ Immediately I remember just like the the
 {ts:1867} second Theo joined, bro, straight to work.
 I remember you stayed up like all night watching all like the AI group
 {ts:1872} calls and all the the courses and stuff and like you wasted no time, you know?
+
+[…]
+
+Also, if you guys do want to join FSE,
+{ts:1935} go ahead and apply.
+First link in the description.

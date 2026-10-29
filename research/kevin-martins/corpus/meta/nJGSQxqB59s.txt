@@ -1,0 +1,20 @@
+   ## ElevenLabs
+##### Feb 03, 2026 (0:10:04)
+Try ElevenLabs → https://elevenlabs.io/image-video?utm_source=youtube&utm_medium=organic&utm_campaign=evergreen_tutorials&utm_content=create_custom_realistic_ai_avatars_that_look_&_sound_100_like_you_full_workflow
+This tutorial covers everything from professional voice cloning to AI image generation with Nano Banana Pro and lip sync video models including Creatify Aurora, OmniHuman 1.5, and LTX Audio-to-Video.
+Whether you're creating YouTube content, TikTok videos, Instagram Reels, or UGC-style marketing videos, this step-by-step guide shows you how to generate AI avatar videos in any aspect ratio.
+So you'll be able to use your AI Avatar Clone to create 16:9 videos for YouTube or 9:16 for vertical short-form content.
+Discover how to use text-to-speech with your cloned voice, generate custom AI avatars with image prompts, change your clothes and environment, and produce studio-quality videos without ever hitting record.
+0:00 - AI Avatar Demo & Introduction
+0:48 - Getting Started with ElevenLabs
+1:04 - How to Clone Your Voice
+2:04 - Generating Text to Speech with Your Voice Clone
+2:54 - Creating AI Avatars (Default & Custom)
+3:56 - Generating Custom AI Avatars with Image Prompts
+5:05 - Using Your Own Photo as an AI Avatar
+5:36 - Customizing Your Avatar's Environment & Clothes
+6:41 - Choosing Aspect Ratios (YouTube vs TikTok/Reels)
+7:02 - Comparing Video Models (Creatify Aurora, Omnihuman, LTX)
+8:56 - Creative Workflows: Voice Changer & Lip Sync Tips
+9:49 - Wrap Up
+...

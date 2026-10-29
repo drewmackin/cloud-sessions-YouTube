@@ -1,27 +1,41 @@
 # STOP Paying! Unlimited AI Video (No Credit Limits) - Kling 3.0
 
 - URL: https://www.youtube.com/watch?v=fEBFDMSpBr0
-- Windows: 8 (first timestamps 40s … 289s)
+- Windows: 11 (first timestamps 40s … 289s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Malva AI
   ##### Feb 07, 2026 (0:08:03)
   -How to use Elements to keep characters/products consistent across generations
+  -Kling 3.0 vs Kling 3.0 Omni (when you want more identity, fidelity, performance & lip-sync)
+  -Multi-shot sequences in a single generation (clean flow, clean transitions)
   -Start Frame / End Frame for controlled reveals & transformations
+  -The best real-world use cases (action, close-ups, macro/detail, readable text, multi-character scenes)
   -The exact prompt structure I use for consistent results (Subject → Camera → Environment/Mood → Audio)
   ...
-  Date: 2026-02-07
-  In this video, I’m showing you the first AI video workflow I’ve used that actually holds together like a real cinematic tool: Kling 3.0 inside Higgsfield — fully on-screen, step by step.
-  You’ll learn:
+  0:00 Introduction
+  0:26 The workflow that finally feels cinematic (Kling 3.0 in Higgsfield)
+  0:52 Setup: model, ratio, duration, 1080p + sound
 
 ---
+Ask for real audio.
+Tell it what the environment sounds like.
+Tell it
+
+[…]
+
 It's Cling 3.0 inside Higsfield.
 
 […]
 
 And everything you're about to see is done directly on the Higsfield website
 {ts:40} on screen step by step.
+
+[…]
+
+Also stay with me because in a minute I'm going to show you the exact prompt structure I use so
+{ts:48} you can stop guessing and start getting consistent results with any AI video model.
 
 […]
 
@@ -80,6 +94,12 @@ Because if you
 If you describe the shot and the sound like it's a real
 {ts:188} scene, the output gets way more grounded.
 I click generate.
+And now you can see what I mean.
+
+[…]
+
+When you enable it, Cling can create several shots and
+{ts:214} combine them into one video in a single generation up to the same total duration limit.
 
 […]
 
@@ -90,6 +110,8 @@ This is perfect when you want controlled transformations or a very
 {ts:256} intentional beginning and ending.
 You give it a first image and a last image and cling builds the motion between
 {ts:261} them.
+This is how you get clean before and after sequences, reveals, transformations, and smooth transitions
+{ts:268} that feel designed instead of random.
 
 […]
 

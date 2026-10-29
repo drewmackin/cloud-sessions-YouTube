@@ -1,7 +1,7 @@
 # Vendí +$22,700 con dropshipping y videos de IA (te enseño cómo)
 
 - URL: https://www.youtube.com/watch?v=x_xnXMWwWJw
-- Windows: 19 (first timestamps 24s … 1258s)
+- Windows: 21 (first timestamps 24s … 1355s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -37,13 +37,18 @@ We don't pay for advertising ,
 
 […]
 
+{ts:179} Facebook are crazy . Take my advice , create a Barnera Con , adapt it with keywords . Facebook made me buy it on
+{ts:189} the search engine and such , because you'll see products that are going viral , working and probably selling .
+So
 {ts:195} use all three , okay ? From this , you can also see viral products , viral videos , you can search for these products on
-
-[…]
-
+{ts:205} AliExpress and find product variants that have worked . How can I explain it ? We are on AliExpress , here is the
+{ts:213} homepage . We have chosen this product , this product and this product . Here we are . The product is here . If we scroll
+{ts:222} down , we go to the similar items section and here is the key because it allows you to choose product variants
+{ts:227} that fulfill the same function many times , but that have not been seen on social media .
 If you send it to social
 {ts:234} media with video structures of the variant that has gone viral and this is new , you will most likely go viral
 {ts:240} again and sell . This strategy has allowed me to earn thousands of dollars because they are product variants that
+{ts:248} have worked .
 
 […]
 
@@ -70,6 +75,18 @@ First , you have to test a concept that has worked . So , we look for three to f
 {ts:467} And that's where we move on to this part , which is getting to know your ideal client . You have to know your
 {ts:475} avatar , who you're selling to , so that based on that you can have , by the way , your avatar , you can put your avatar in
 {ts:483} the videos , you can create a background , put the music , put the text and detect what emotion to convey . So it's
+{ts:491} important to know your ideal client , but I'll give you an example . The example is linked to these points , the
+
+[…]
+
+We change it and now we can sell it to parents . There are many men who own pets , who love
+{ts:664} their pets , and we are now selling this product to those fathers ; We focus on men and that's how we find the niche .
+{ts:671} We can change the market angle , we understand our ideal client so that we can use different avatars , different
+{ts:678} backgrounds , texts , music , etc.
+Let's move on . Here comes the bulk of the information . To make videos with AI , my
+{ts:688} strategy is to use Heitfeld , okay ? In Heitfield I'm going to use these two AI models which are Sidan 2.5 and Genjutsu
+{ts:698} . Sidans to put a complete video into a single prom , a video from scratch and Genjutsu to replicate a viral concept .
+{ts:709} Okay , I connect Cloue with Hitfield and with this I use Sidans and Genjutsu . So , uh Sidans , I make a project in Cloue
 
 […]
 
@@ -113,9 +130,21 @@ It looks so real . It looks very , very
 
 […]
 
+{ts:1061} crazy , guys . Sidans is the daddy when it comes to creating videos with AI and it's crazy . Here , based on this , we
+{ts:1070} could perhaps change the visual hook , uh , break the plastic of the product , the avatar surprised in the shopping
+{ts:1078} mall with the puppy , etc.
+, etc.
+From this chat , from this , you can change many things . You can suddenly put a
+{ts:1087} background with more Christmas decorations or suddenly a dark one at night , etc.
+, etc.
+, etc.
+
+[…]
+
 {ts:1093} there is . Always use real reference images to guide you so that it gives you real videos like what you see here ,
 {ts:1100} it's crazy . If you use recordings as if they were from a cell phone , from an iPhone , it will give you better results
 {ts:1107} . I've tried it and it's worked very well for me . So let's move on to the next method . With the Genjutsu strategy
+{ts:1114} , we have to look for a viral video , for example , of this product that we have a visual hook that draws attention
 
 […]
 
@@ -138,10 +167,14 @@ Instead , we
 
 We remove text and prepare for motion transfer . Just in case , we tell it that these avatar changes are for
 {ts:1204} the entire video . So , we wait for it to give us the prom and we continue . Ready , we already have the prom . Here it is .
+{ts:1213} We copy the prom and go to genjutsu .
 
 […]
 
 {ts:1213} We copy the prom and go to genjutsu .
+We put the video , the two images . Genjutsu has two options . Uh , data transfer ,
+{ts:1223} motion control and object swap . Motion Control will serve to generate your video in another dimension and it will
+{ts:1232} change colors , it will change some things . And this is top , because , as I told you before , uh , it is not a
 
 […]
 
@@ -150,3 +183,8 @@ I always tend to use Motion Control . We activate the prom and copy the prom . H
 {ts:1266} ? Do this to save credit .
 If you already have a workflow or if you already have the skill or the fuse shop
 {ts:1273} that I provide , you can go for 480 because the results are going to be incredible . Okay , but here in this case
+
+[…]
+
+{ts:1355} The key to generating these videos in a single prom with Sidans is in the fus shop , as I told you . What I put in the
+{ts:1366} project , here are the examples of promps and the key for you to change everything you want . and get an almost

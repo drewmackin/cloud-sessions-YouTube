@@ -1,7 +1,7 @@
 # How i automate 30 ai videos a day that print $100k/month (full guide)
 
 - URL: https://www.youtube.com/watch?v=id0DZ-Iov80
-- Windows: 21 (first timestamps 37s … 1149s)
+- Windows: 24 (first timestamps 37s … 1149s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -9,6 +9,10 @@ Metadata lines seen:
   Date: 2026-08-10
 
 ---
+Give me hook clip one plus bridge clip four plus context clip three plus CTA clip three, and that's how
+
+[…]
+
 So, go on your burner and find clips to feed it.
 So, for example,
 
@@ -187,6 +191,16 @@ Okay?
 You will still have to edit and manually change things from time to time.
 You just need to find
 {ts:654} outlier variables and make different versions inside of Claude so you don't reuse clips.
+
+[…]
+
+So, instead of going in and having to iterate prompts, you won't
+{ts:740} have to iterate because Claude has the context.
+
+[…]
+
+With this, Claude is going to give it the
+{ts:758} perfect prompt based on every context or every piece of context and knowledge or creative ethos that you have given it,
 
 […]
 

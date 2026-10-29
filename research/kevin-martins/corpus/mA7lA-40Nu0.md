@@ -1,15 +1,18 @@
 # How He Made $220K In 30 Days With AI Organic Dropshipping (Full Breakdown)
 
 - URL: https://www.youtube.com/watch?v=mA7lA-40Nu0
-- Windows: 90 (first timestamps 10s … 2209s)
+- Windows: 105 (first timestamps 0s … 2249s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Sep 03, 2026 (0:37:42)
   ...
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=adam2
+  DM me on IG: kevin_martins_
   Date: 2026-09-03
   Watch Adams First Case Study Here: https://youtu.be/-knTbpzbozA?si=4-fblg-TyUAdMD97
+  Watch My Free 3 Hour Course Next: https://youtu.be/GfhpQLqF658
 
 ---
 >> The first one I run it with the creator.
@@ -42,12 +45,17 @@ Mhm.
 
 […]
 
+And I did like 20k with this.
+And after this, yeah, so you talked like
+
+[…]
+
 You made like over 200k with We're two creators.
 You know what I mean?
 
 […]
 
-I'm 19, and I've been doing organic since like October last year.
+But I would say I could I could brand it with this product until Q4.
 
 […]
 
@@ -55,12 +63,11 @@ I'm 19, and I've been doing organic since like October last year.
 
 […]
 
-So you can always like be first to two things.
-Mhm.
+Um now you're obviously doing this full-time.
 
 […]
 
-Um now you're obviously doing this full-time.
+Bro, has 18 racks in payouts about to hit.
 
 […]
 
@@ -68,7 +75,7 @@ But it's good to have like money
 
 […]
 
-Okay, so yeah, my name is Adam.
+You just got off a 220k month.
 
 […]
 
@@ -86,6 +93,15 @@ organic?
 
 […]
 
+{ts:0} YouTube, what's good?
+Welcome back to another case study on the channel.
+{ts:4} Today, we have a very, very special one.
+We have Adam coming for his second case study uh with me.
+So, originally, Adam
+{ts:13} uh hit a $80,000 month with me about 4 months ago, and now he's back, and he just hit a $220,000
+
+[…]
+
 Welcome back to
 another case study on the channel.
 Today, we have a very, very special one.
@@ -94,6 +110,19 @@ We have Adam coming for his second case
 So, originally, Adam
 uh hit a $80,000 month with me about 4 months ago, and now he's back, and he
 just hit a $220,000 month.
+
+[…]
+
+{ts:35} Okay, so yeah, my name is Adam.
+I'm 19, and I've been doing organic since like October last year.
+{ts:44} And yeah, but it's it's been like 1 year I did organic.
+
+[…]
+
+I'm 19, and I've been doing organic since like October last year.
+{ts:44} And yeah, but it's it's been like 1 year I did organic.
+Before this, I was still at school like
+{ts:50} normal student, like you just like going to school, nothing like crazy.
 
 […]
 
@@ -111,6 +140,21 @@ in 30 days.
 And like bro, like it's just
 {ts:111} crazy.
 So, yeah, talk a little bit more
+
+[…]
+
+Yeah, so right now I have like my own apartment.
+I just bought like a car like
+{ts:138} two two weeks ago.
+Yeah.
+Yeah.
+Yeah, bro.
+
+[…]
+
+{ts:141} What car What car did you buy?
+It's a CLA 53 AMG.
+Sheesh.
 
 […]
 
@@ -272,6 +316,17 @@ and I think that's what really, really changed for you.
 
 […]
 
+{ts:425} Dude, I remember a call we had.
+I was like, this was back in like the resin era when everyone was running resins.
+{ts:429} Oh, yeah.
+And uh I was just like I was on a call with Adam and I was like, bro, like
+{ts:433} these are all the resins that are popping right now.
+Just run them in France.
+Run them in like other countries
+{ts:437} and you're like, bet, I'm on it.
+
+[…]
+
 Like, now that you're doing this full-time, did you notice like a
 {ts:467} very big change in like your your ability to like really focus and operate and cuz I remember like, I mean, you
 
@@ -391,6 +446,16 @@ I did my own video, but like the same day I post on Facebook and I go
 
 […]
 
+Dude, that's actually
+{ts:619} that's that's sauce.
+Um I I talked about it.
+Yeah.
+I I talked about it with some of
+{ts:624} the boys that like if you find somebody that's like popping off on Instagram or even Tik Tok, they're going insanely
+{ts:630} insanely viral, but they're not going viral on Facebook, and you know for a fact you have a prime Facebook, bro.
+
+[…]
+
 Dude, I feel like you're the Facebook god, bro.
 Like you've made all your money with Facebook, uh I feel
 {ts:652} like.
@@ -406,12 +471,31 @@ It was me It was IG and Facebook, but also what I did
 {ts:667} I took like my old uh prime IG and I just love the product and it instantly go viral.
 It was not even
 {ts:674} like the same niche.
+Really?
+Not a Not the same niche.
+Nothing.
 
 […]
 
-It was not even
-{ts:674} like the same niche.
-Really?
+So, it doesn't matter.
+Yeah, it doesn't doesn't matter.
+What about on like a Facebook page?
+Does
+{ts:684} it matter?
+Facebook No, not even on Facebook.
+It's the same thing.
+{ts:689} Yeah.
+Do you have like a certain like way you you about priming up accounts or you just create them and start posting?
+{ts:695} Uh yeah, I just create and start posting or sometime when I have like a prime Facebook, I just reuse it with the right
+{ts:703} new product.
+Yeah.
+Damn, that's crazy.
+Yeah, I feel like a lot of people like they think there's
+{ts:708} like magic that we do to to prime up accounts.
+Like bro, it's Just like if your content is good on
+{ts:713} Facebook, it it's going to go viral.
+Right.
+Right.
 
 […]
 
@@ -668,6 +752,16 @@ extension of of the first one, correct?
 
 […]
 
+{ts:1183} Okay.
+Very nice.
+The first one I run it with the creator.
+{ts:1187} Yeah.
+And like yeah, when I saw like it print that much I just like I hop on the boat
+{ts:1191} like myself.
+Right.
+
+[…]
+
 So bro, like you just made multi six figures organically with 70% profit margins.
 How
 {ts:1217} does it feel?
@@ -769,6 +863,32 @@ And look how far we've gone.
 
 […]
 
+So talk about your experience
+{ts:1594} with like FSC, bro, cuz you've been in the program for for over 6 months, bro.
+So talk about like, you know, your
+{ts:1599} experience with it.
+Yeah, so I would say mainly FSC helped me to
+{ts:1606} scale like yeah.
+Like I was I was good but I needed like guidance.
+{ts:1612} Like also for product selection and like what I found the most valuable is like the call.
+Also the call
+{ts:1620} group.
+Like a lot of stuff and also what is good is uh
+{ts:1626} a lot of time when there's a new a new thing like a a new source I would say.
+Like we are always like the first to to
+{ts:1633} know it.
+So you can always like be first to two things.
+Mhm.
+{ts:1638} I would say it's the information and like uh you get it before everyone else.
+So
+{ts:1643} Right.
+It's like a cheat code.
+Right.
+So kind of like being first to
+{ts:1647} the the the new trends, the new information and everything.
+
+[…]
+
 [laughter]
 >> Right.
 So talk about your experience
@@ -824,10 +944,18 @@ It's because you're constantly like on
 
 […]
 
+Like I I was
+{ts:1812} hesitating for like some program, but like what what I wanted to get was from FSC, so I just took FSC.
+
+[…]
+
 Cuz a lot of program was like more like
 {ts:1826} pump and dump uh style, I would say.
 Right.
 {ts:1830} And I was more trying to find a long-term dropshipping, so yeah.
+{ts:1834} Mhm.
+Would you say this product that you're running, like the one that made you like
+{ts:1838} the majority of this money, could be a potential product to brand like in the future?
 
 […]
 
@@ -842,11 +970,27 @@ Like if you don't have money, like dude, run a couple, run up like six
 
 […]
 
+{ts:1883} Um so, what's what's like your plan for Q4?
+Are you just going to take these products to Q4, maybe pick others up, or
+{ts:1889} go fully branded?
+
+[…]
+
 And yeah, because now with the AI it's like it's so much easier to have
 creator because uh back then with creator he
 he had to film and like like right now
 {ts:1923} if he's good at organic he can just
 it's like just video and like you can you can have like a lot more creator and
+
+[…]
+
+For this Q4 I will I will run like my product that I run
+{ts:1938} that I'm running right now.
+
+[…]
+
+A brandable product and I will also like
+{ts:1942} run pump and dump, but like more with creator.
 
 […]
 
@@ -943,3 +1087,8 @@ Anything that you would tell like maybe like your your younger self, like the
 {ts:2214} Adam that, you know, wasn't printing at the time, that was going through the trenches?
 {ts:2218} Um is there anything you would say or Yeah, just keep going and like even when you don't have results,
 {ts:2225} you got to keep doing it because like eventually you will print.
+
+[…]
+
+Uh but with that being said, if you guys
+{ts:2249} do want to join FSC, you guys can go ahead and apply in the description below.

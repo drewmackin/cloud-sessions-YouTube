@@ -1,0 +1,6 @@
+   ## AI VIDEOS
+##### Feb 07, 2026 (0:06:20)
+Higgsfield AI is an AI video creation platform, and Kling 3.0 is its latest AI video generation model.
+In this video, I showcase the Kling 3.0 workflow inside Higgsfield AI, including how prompts are set, how duration and format options work, and examples of Kling 3.0 video output.
+Kling 3.0 is designed for cinematic AI video generation, focusing on consistency, controlled motion, and short-form video creation.
+...

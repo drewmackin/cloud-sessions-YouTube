@@ -1,12 +1,16 @@
 # EXPOSING My First Winning Product | Organic Dropshipping Case Study
 
 - URL: https://www.youtube.com/watch?v=7-cic4wVgfk
-- Windows: 14 (first timestamps 1s … 1194s)
+- Windows: 17 (first timestamps 1s … 1194s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
+  ##### Dec 01, 2024 (0:21:53)
+  ...
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM
   Date: 2024-12-01
+  How My Student Mark Makes $30k/m at 18: https://youtu.be/le-lHeXTEUc?si=NpfvQPZW36IKsFLm
 
 ---
 products  that  are  really  easy  to  Market
@@ -41,6 +45,72 @@ products  that  are  really  easy  to  Market
  you  are  an  advanced  organic  drop  shipper
 {ts:45}
  that  knows  how  to  make  videos  and  has
+{ts:47} gone  viral  in  the  past  in  the
+ description  below  you  will  find  a  Google
+{ts:50}
+ form  where  you  can  essentially  apply  to
+{ts:52} be  one  of  my  creators  again  guys  you
+ will  literally  get  paid  to  make  videos
+{ts:56}
+ for  me  and  also  learn  directly  from  me
+{ts:58} on  how  I'm  able  to  to  scale  all  my
+ businesses  also  guys  I  wanted  to  give
+{ts:62}
+ you  an  update  on  my  two  stores  that  I'm
+{ts:64} currently  running  so  right  here  we  have
+ one  store  that  I'm  running  right  now  so
+{ts:67}
+
+[…]
+
+{ts:28} if  you  have  any  questions  for  me
+ personally  I'm  going  to  be  leaving  my
+{ts:31}
+ Instagram  and  Discord  in  the  description
+{ts:33} below  where  you  can  contact  me  directly
+ and  yes  guys  I  do  respond  to  every
+{ts:38}
+ single  DM  and  lastly  I  am  looking  for
+{ts:40} creators  to  help  me  scale  my  brand  so  if
+ you  are  an  advanced  organic  drop  shipper
+{ts:45}
+ that  knows  how  to  make  videos  and  has
+{ts:47} gone  viral  in  the  past  in  the
+ description  below  you  will  find  a  Google
+{ts:50}
+ form  where  you  can  essentially  apply  to
+{ts:52} be  one  of  my  creators  again  guys  you
+ will  literally  get  paid  to  make  videos
+{ts:56}
+ for  me  and  also  learn  directly  from  me
+{ts:58} on  how  I'm  able  to  to  scale  all  my
+ businesses  also  guys  I  wanted  to  give
+{ts:62}
+ you  an  update  on  my  two  stores  that  I'm
+{ts:64} currently  running  so  right  here  we  have
+ one  store  that  I'm  running  right  now  so
+{ts:67}
+ we're  at  about  $33,000  on  this  store
+{ts:70} little  refresh  for  you  guys  right  there
+ and  then  right  here  we  have  my  second
+{ts:73}
+ store  where  we're  almost  at  $20,000  in
+{ts:76} Revenue  all  right  guys  so  first  things
+ first  is  how  did  I  actually  find  this
+{ts:79}
+ product  obviously  there's  a  ton  of
+{ts:80} different  product  research  methods  out
+ there  but  for  this  specific  product  I
+{ts:84}
+ actually  use  the  burner  method  if  you
+{ts:86} guys  don't  know  what  the  burner  method
+ is  is  you're  essentially  just  optimizing
+{ts:89}
+ an  account  whether  this  is  on  Tik  Tok  or
+{ts:91} Instagram  to  only  be  seeing  Drop
+ Shipping  products  in  this  case  this  was
+{ts:94}
+ my  Instagram  burner  and  I  was
 
 […]
 
@@ -117,6 +187,17 @@ products  that  are  really  easy  to  Market
 
 […]
 
+{ts:220} right  guys  so  we  were  in  the  account
+ this  is  the  uh  the  official  account  I
+{ts:223}
+ like  to  say  it's  Eternal
+{ts:225} jewelry.co  um  you've  probably  seen  on
+ your  burner  if  you  were  on  Tik  Tok  uh
+{ts:229}
+ we're  about  to  hit  almost  8,000
+
+[…]
+
 {ts:371} little  bit  of  traction  here  we're  at
  like  1.7  1.9  I  think  this  video  got  like
 {ts:375}
@@ -133,6 +214,18 @@ products  that  are  really  easy  to  Market
  generated  content  video  that  I  found  on
 {ts:397}
  Tik  Tok  so  I  literally  just  searched  up
+
+[…]
+
+like  all  right  how  can  I  provoke  a
+{ts:526} little  bit  more  of  of  an  emotion  um  to
+ the  viewer  and  all  I  did  was  I  found
+{ts:531}
+ that  stitched  video  I  found  that  clip  of
+{ts:533} the  girl  crying  and  I  stitched  it  into
+ my  video  and  it  worked  out  perfectly  um
+{ts:538}
+ so  that  was  like  the  First  Take  case  of
 
 […]
 

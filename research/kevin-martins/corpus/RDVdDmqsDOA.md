@@ -1,7 +1,7 @@
 # speedrunning a $50k/mo AI organic dropshipping store
 
 - URL: https://www.youtube.com/watch?v=RDVdDmqsDOA
-- Windows: 39 (first timestamps 0s … 1487s)
+- Windows: 39 (first timestamps 0s … 1534s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -420,7 +420,23 @@ And then after a lot of time, uh if the split test is done
 And then after we did the video live inside XFill.
 And then after I just show you
 {ts:1483} guys the the plan basically on the next few vids.
+But, guys, it's actually that easy when you do have the right
+{ts:1487} information and you really apply day by day every single day you show up and you do these vids, there's no reason for you
+{ts:1494} to not be printing.
+But, I just want to show you guys real at all the win inside my one-on-one coaching.
+So, this is the
+{ts:1499} the community of all the one-on-one students.
+So, as you can see here, 2.5k in a day.
+{ts:1505} Uh here, Eleri uh went from DoorDash to 1k days.
+Um here, there's uh there's Pedro that
+{ts:1512} did 1.5k in a day.
+Here, 3k in a day.
+Uh Adonis, 25k in a month.
 
 […]
 
-{ts:1487} information and you really apply day by day every single day you show up and you do these vids, there's no reason for you
+So, here, George, 5k day.
+Uh
+{ts:1534} here, 1k in a couple of days.
+Eleri, everybody is winning 20k in a month.
+Uh 1k day.

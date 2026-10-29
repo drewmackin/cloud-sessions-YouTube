@@ -1,7 +1,7 @@
 # HONEST Review of "Organic Dropshipping Mentorship" by Kevin Martins
 
 - URL: https://www.youtube.com/watch?v=p5fpsM9svhI
-- Windows: 2 (first timestamps 2s … 33s)
+- Windows: 3 (first timestamps 2s … 119s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -45,3 +45,10 @@ A lot of people really
 {ts:98} ahead of trends, and just generating enough attention to create sales.
 And because more people are using
 {ts:106} organic drop shipping strategies right now, competition is becoming increasingly
+
+[…]
+
+And honestly, this is what started shifting my focus towards AI systems for businesses instead.
+Because
+{ts:119} instead of constantly trying to generate attention for products, I became much more interested in helping businesses
+{ts:126} improve systems they already know they need.

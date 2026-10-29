@@ -1,0 +1,5 @@
+   ## Youri van Hofwegen
+##### Oct 26, 2026 (0:13:15)
+In this video, I show how to plan and create high-quality AI videos using Claude and Higgsfield while avoiding unnecessary regenerations.
+I walk through building consistent characters, props, and locations, fixing image details without starting over, testing videos at lower resolutions before upscaling, and combining the finished shots with narration and editing in CapCut.
+...

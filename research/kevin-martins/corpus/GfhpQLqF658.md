@@ -1,7 +1,7 @@
 # Leaking My $1M AI Organic Dropshipping Blueprint (FULL ...
 
 - URL: https://www.youtube.com/watch?v=GfhpQLqF658
-- Windows: 246 (first timestamps 0s … 12376s)
+- Windows: 253 (first timestamps 0s … 12376s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -19,6 +19,10 @@ Metadata lines seen:
   And so, step number two in my process is finding the demand.
 
 ---
+And I can guarantee you that these guys are both drop shipping uh because they are, right?
+
+[…]
+
 We're going to copy this, feed it into Alibaba, and let's see what comes out here.
 
 […]
@@ -37,10 +41,6 @@ less than six months, 150k with I think around 65% margins, bro.
 
 […]
 
-So remember, you want to keep the background the same because,
-
-[…]
-
 Look at Omar, 40k month, new PR, and it goes on and on and on.
 
 […]
@@ -50,6 +50,10 @@ Bro, not a single AI comment in this comment section.
 […]
 
 So, that's going to be our $5,000 a month video.
+
+[…]
+
+Actually, I spent six months with zero results
 
 […]
 
@@ -66,10 +70,6 @@ See, 8.3 million views.
 […]
 
 Yeah, 500,000 views.
-
-[…]
-
-And we use Shopify.
 
 […]
 
@@ -90,6 +90,14 @@ In this video, you're going to be learning
 {ts:93} product, which was this blinking Deadpool uh Deadpool mask that made me around $30,000.
 And then, you know,
 {ts:98} showing you guys live behind the scenes of me starting one of my mini brands that made me $10,000 in a single day.
+
+[…]
+
+Um, also all of my students inside of Full Stack Ecom have been as well.
+I feel like this channel almost
+{ts:119} turned into a case study channel because of all the wins that we've been getting.
+Uh, from students like Elias doing
+{ts:124} 90,000 in a single month to even Jaden doing about $120,000 in a single month at 18 years old and building a real
 
 […]
 
@@ -244,6 +252,9 @@ You're, like I said, we're keeping anywhere from 50 to like 80%.
 So you go ahead, you forward that order to that
 {ts:647} supplier, you keep the profit, and then that supplier ships the product directly from China to their house without you
 {ts:653} having to touch any sort of inventory, even invest into any sort of inventory, and it's completely seamless.
+And that's
+{ts:659} how we're able to profit so much and not need any sort of capital to start up, right?
+And we use Shopify.
 
 […]
 
@@ -571,6 +582,12 @@ So, yeah, 11 Labs is going to be your
 This is all you really need.
 And the cool part about it, Sue, like low key,
 {ts:2227} is that you're able to go ahead and transcribe a lot of these like winning um AI scripts and do speech to text,
+{ts:2234} right?
+Which is really cool.
+So, if you wanted to like save that video that you saw on your for you page, you could
+{ts:2238} literally go ahead and upload it to 11 Labs and transcribe it and then just make your own version depending on what
+{ts:2244} niche or what product you're going ahead and selling.
+Um, it's literally a glitch.
 
 […]
 
@@ -592,9 +609,8 @@ Um, also apart from Harper, we have other killers in here as well.
 This is Elias all the way from France.
 He hit
 {ts:2334} $60,000 in 15 days um with AI as well.
-
-[…]
-
+He said Q4 is going to be crazy, bro.
+We're going to be seeing some crazy
 {ts:2340} results in quarter 4.
 
 […]
@@ -672,11 +688,24 @@ AI is conducting market research on like the copy that we're going to be using, 
 {ts:2676} down to like the reviews.
 And hopefully now it loads, guys.
 It's literally been like 2 minutes, bro.
+It's insane.
+All
+{ts:2682} right, so boom.
 
 […]
 
+And I'll even show you guys some of the wins inside of the Discord.
+{ts:2815} As you guys can see, it's currently the 8th of April.
 This is my boy Theo that just joined the program 7 days ago, he
 {ts:2820} hit a 3,000 pound day, which is like 4,000 USD.
+
+[…]
+
+{ts:2876} inside of the organic space at the moment.
+This is even Harper hitting 65k in 4 days.
+Um Jaden, bro, like cooking,
+{ts:2883} dude.
+12K, 25K in two days, and it just goes on forever.
 
 […]
 
@@ -1084,6 +1113,16 @@ That's how we're actually
 {ts:4753} going to create the video that we're going to be then using as an ad.
 All right.
 So step one is going to be
+{ts:4759} explaining context to Claude because obviously Claude is just an AI and uh it doesn't know organic marketing.
+And so
+{ts:4766} we kind of have to explain to it, hey, this is exactly what you're going to be working on and this is the style of
+{ts:4771} content that we're going to be looking for.
+Okay?
+And so you're going to be opening up a new project um or even just
+{ts:4776} a new chat is fine on Claude.
+And you're going to paste something called a context prompt.
+And how you basically
+{ts:4781} make a context prompt is you essentially just explain to Claude, hey, this is what organic, you know, drop shipping,
 
 […]
 
@@ -1331,21 +1370,24 @@ So, now we're going to be generating the images we'll
 
 […]
 
+Now, with this image here, it's time to make the B-rolls.
+Okay, the creation process
+{ts:5251} b-rolls that you guys saw in the beginning of this video.
 So, now we're going to be generating the images we'll
 {ts:5255} be using to create the B-roll for our video, which in this case will be the showcase and the creation process of our
 {ts:5262} watch.
 
 […]
 
+This is going to be a good example of a creation process clip.
+Again, she's just painting the
+{ts:5273} watch with a super niche down background, right?
+So remember, you want to keep the background the same because,
+{ts:5278} you know, we want to make it consistent, but also look, bro, look at the details, man.
 You got the paints, you got the uh
 {ts:5283} pictures of the actual watch, right?
 Even some sketches.
 It's so so realistic, right?
-So step one is going
-{ts:5290} to be generating the first frame of, you know, one B-roll to test our props, right?
-
-[…]
-
 So step one is going
 {ts:5290} to be generating the first frame of, you know, one B-roll to test our props, right?
 And so to make your first image,
@@ -1357,6 +1399,16 @@ And so now you're going to say something along the lines of like, hey,
 So again, don't move her.
 Um, and we also
 {ts:5314} want our avatar, you know, to still hold the product for every prompt that you generate from now on.
+And so now I
+
+[…]
+
+Be like, "Listen, what would the creation process of a watch look like step by
+{ts:5350} step?"
+And boom, there you go.
+You'll take your uh you'll you'll take that as inspiration, right?
+And so, as you can
+{ts:5355} see, this was my first B-roll image, right, of my shorty holding uh you know, the design.
 
 […]
 
@@ -1842,10 +1894,12 @@ So, yeah, guys, we pretty much just ran through the whole entire video creation
 
 […]
 
+And this video is just going to blend with the algorithm.
 It's
 {ts:6438} so realistic.
 We also went ahead and mixed and matched real clips with the AI clips.
 And bro, this is just a
+{ts:6443} phenomenal video that has the potential to go viral.
 
 […]
 
@@ -2302,6 +2356,7 @@ Um
 Yeah.
 Yeah.
 I think that's the first week here, bro.
+That's
 
 […]
 
@@ -2349,6 +2404,13 @@ Mhm.
 {ts:8588} And literally the second day, bro, blew up.
 I hit like eight million views on IG.
 {ts:8596} Like that that was never been done before with AI on on organic, of course, right?
+
+[…]
+
+Exactly. with all the the the the knowledge that you teach in the discord,
+{ts:8704} right?
+And that that is in the discord, uh you kind of learn how to really do
+{ts:8709} research on your ICP or your your niche in general, right?
 
 […]
 
@@ -2417,20 +2479,26 @@ So I like this I can post let's say eight to nine videos a day you know in one h
 
 […]
 
+{ts:8968} dedicated to split testing.
+So I will go ahead and just tweak a little bit.
+This is especially for IG and Facebook.
+{ts:8979} Uh, I tweak a little bit my videos like just change maybe a word or an emoji and the text hooks and or maybe the sound
+{ts:8987} and you know try to find the perfect formula like where this video will blow up.
+And I always do this.
+So I always
+{ts:8995} like split test between three and four videos and that that takes literally like 15 minutes uh and even less.
+And on
+{ts:9004} top of that I make original videos.
 So I like this I can post let's say eight to nine videos a day you know in one hour
 {ts:9013} and a half and I mean I've done that on my for the product that I that I was running on my last case study.
 {ts:9022} Mhm.
 And this is how I got my biggest day.
-
-[…]
-
-And this is how I got my biggest day.
 I think it was 13k a day or 14k a day.
 {ts:9030} Yeah.
 It was actually a video on Facebook that was getting I think 60k views every time I was posting it.
-
-[…]
-
+A
+{ts:9039} special hook that was like getting 60k views.
+60k views.
 And I knew like I look when I looked at this video I knew it
 {ts:9046} could go viral.
 So I was just split testing the video.
@@ -2513,11 +2581,9 @@ So yeah, this was the first wave and then after this private supplier got smart 
 
 […]
 
+{ts:9519} right so yeah I mean having a good relationship with the supplier is the
 {ts:9523} best thing you could ever have right right I mean dude like you probably made him a lot of money as well
 {ts:9528} right so everyone wanted in this equation should have got an affiliate link or
-
-[…]
-
 {ts:9534} something yeah right use code allias for for presence.
 
 […]
@@ -2594,6 +2660,15 @@ He just got off a $41,000 month doing AI organic drop shipping.
 
 […]
 
+{ts:10501} you're going to make it back but just make sure everything is good.
+So I was like okay I'm I'mma put it on my credit
+{ts:10506} card you know I got it like as soon as I join I'm going to make money.
+Watch me.
+I'm always like that confident and when
+{ts:10514} I say things I always do it, bro.
+
+[…]
+
 That's something about me.
 I I I trust
 {ts:10518} myself and I always go for it.
@@ -2653,6 +2728,23 @@ Like even when you buy shampoo now, it even says like not test it on
 
 […]
 
+But like, how important would you say it is to
+{ts:11050} just test new concepts?
+
+[…]
+
+I'm like, "Bro, try new concepts."
+Like try to be original in a
+{ts:11065} way.
+Like, oh, if you see like a winner concept, just add something to it, something better.
+Try it.
+Still do the
+{ts:11074} like what's working, right?
+But also post something new and see if
+{ts:11078} it works.
+
+[…]
+
 Like, oh, if you see like a winner concept, just add something to it, something better.
 Try it.
 Still do the
@@ -2679,6 +2771,12 @@ Yeah, guinea pig first.
 {ts:11099} And I was like, damn, I should do a [ __ ] monkey.
 And I did it.
 {ts:11105} Where's the other video?
+
+[…]
+
+{ts:11139} that's why I love Instagram, bro.
+Like, that this is one of the one of the better platforms out there for just
+{ts:11143} printing crazy amounts of views because you can't really do this on TikTok, right?
 
 […]
 
@@ -2746,6 +2844,31 @@ I like, "Don't leak me, bro. bro.
 
 […]
 
+like you can ask whatever you
+{ts:11763} want, anything, and you really go into depth and I really appreciate that.
+Yeah, of course, bro.
+And how helpful
+{ts:11770} was like the PR sheets, right?
+Being able to just send a PR sheet twice a week and just get it, you know, audited
+
+[…]
+
+You already gave.
+Yeah, I give it to the students inside but not not to the
+{ts:11795} outsiders.
+But yeah, I have like the I have one.
+Never mind.
+I keep leaking.
+No, you have something.
+
+[…]
+
+{ts:11805} But yeah, and also like the products that you choose, they always work, right?
+{ts:11811} They always work.
+Um only one that we tried.
+
+[…]
+
 They give hello sauce as well,
 {ts:11895} right?
 Like and they even leak products there.
@@ -2753,6 +2876,11 @@ Yeah.
 products all the time, bro.
 {ts:11902} But yeah, like it's just like an insane discord and the people are always like willing to help and all that,
 {ts:11909} right?
+
+[…]
+
+I got banned from from Best Buy
+{ts:12050} for for recording because it I was doing like like my first winner was the case with the picture on the back.
 
 […]
 

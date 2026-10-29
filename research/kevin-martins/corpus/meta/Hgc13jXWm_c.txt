@@ -1,0 +1,134 @@
+   ## Kevin Martins
+...
+##### Aug 13, 2026 (0:21:00)
+How My Student Elias Makes $91k/m With Ai: https://youtu.be/8zsX4RwrN84
+DM me on IG: kevin_martins_
+Background Swap Prompt: https://docs.google.com/document/d/1donrcdIengXaQfiWBqkFAbImxE02thkgzt1uNZAaDV4/edit?usp=sharing
+   So, what is the actual method, all right?
+So, basically, you can use C
+{ts:231} Dance to literally steal a clip, repurpose the background, and the entire environment even if the video has super
+{ts:238} complicated movements in it.
+And so, bro, you can go ahead and do all this with literally one prompt in 2 minutes.
+So, I'm going to go ahead and show you the original video that I ripped from a competitor versus
+{ts:284} my video that I made with seedance.
+All right, so let's go ahead and take a look at the comp
+{ts:288} right here.
+All right, so if you guys take a look right here, these are pretty much some metal um earbuds that I found
+{ts:293} on my burner.
+All right, so I thought it was a pretty cool prod, right, very showcase-y, etc.
+Kind of fits like a
+{ts:298} certain aesthetic.
+And so, what I went ahead and did is I used the seedance background swap method, and I
+{ts:304} essentially made this right here.
+So, as you guys can see, it's literally the same video,
+{ts:309} but I background swapped it to really fit the target demographic.
+And so, what did I do, right?
+I added some chrome
+{ts:315} jeans, right, on the person.
+Um apart from that, when I showcased the product, it was inside of a Mercedes-looking car,
+{ts:321} right, with some really chromed-out shoes.
+And then, you know, even the last part, super aesthetic.
+So, as you guys
+{ts:326} can see, it's literally the same video that we saw earlier, but super niched to the actual audience that's going to buy
+…
+Super niche down background.
+I removed the text.
+I
+{ts:385} added this person like in like this very mysterious looking place with some Rolexes in the background and just
+{ts:390} overall super aesthetic.
+{ts:659} that you just saw, but I I just amped it up.
+So, it's like the same marble background, just a different color.
+{ts:664} Uh but instead of just keeping like those basic little props, I just swapped it for like more
+{ts:669} um just overall like better ones.
+Like, look, we got a toy car.
+We got books.
+We got, you know, a nice little frame there
+{ts:674} of a car, right?
+So, you could also swap the actual props in the video, while keeping everything the same, okay?
+So,
+{ts:681} now let me show you another example right here.
+We have the fake
+{ts:707} plants, you know, these like gamer backgrounds that everyone likes to use, which by the way, if you're still using
+{ts:712} this right now, bro, let me give you a massive tip of advice.
+Just drop it, bro.
+You're better off just filming
+{ts:717} outside.
+Uh so, basically, as you guys can see here, we got the same video, but we just
+{ts:723} swapped it to something insanely insanely niche.
+So, now we have a uh what do you call this?
+A lightsaber.
+{ts:729} We have a helmet um and a whole bunch of LED lights as well, right?
+So, you can see how this would resonate a lot more
+{ts:735} with your target ICP.
+And then we have the second video right here, and basically what I did with this one is
+{ts:740} just made the lighting a little bit better while still keeping the super niche background.
+The first version here is just putting the sky in a completely different
+So, I put him smack-down middle of Times Square, right?
+The
+Everything's the same.
+It's just the background, right?
+So, now we went from
+Um you can go ahead and do so, right?
+And just background swap it, and even put it inside of IKEA.
+{ts:871} where he when he's showing it off, it's inside of IKEA, or maybe when he's showing it off, it's like inside of a
+{ts:875} very niched room, right?
+So, now you're probably wondering, how do I possibly do this in four simple steps?
+Let's go over
+{ts:918} it.
+So, the first step here is going to be opening up a new chat with Claude and pasting this exact instruction prompt
+{ts:924} that I made for you guys.
+And if you guys are wondering, how do I get access to this?
+Just take a look in the
+{ts:928} description of the video.
+It's absolutely free, no pay roll pay wall.
+The only thing that I'm asking is just a
+{ts:934} like and a sub.
+That's it.
+All right.
+So, what you want to do is you want to go ahead and copy this whole entire
+{ts:940} essay, MLA format, um Times New Roman, and you want to go ahead and paste it into your Claude.
+That's
+{ts:947} going to be step one.
+Step number
+{ts:952} two is going to be downloading the clip that you want to use.
+So, for example, let's say you want to, I don't know,
+{ts:958} steal a random clip from a TikTok competitor.
+You're going to go ahead and download it to your camera roll.
+In this
+{ts:963} case, if you're going to be on your computer, use something like SnapTik.
+And you want to remove all
+{ts:968} the copyrighted sound.
+So, let's say the competitor was using, you know, a sound from Lil Baby.
+You're better off
+{ts:974} just muting the video so Claude doesn't start tripping about copyright.
+So, you're going to drop it You
+{ts:979} want to drop it into Claude and clearly say what you want changed, right?
+Just be super simple.
+Don't over
+{ts:984} overcomplicate the prompt, right?
+So, in this scenario, I went ahead and stole the clip from my competitor.
+{ts:990} basically what I said was, "For this video, don't forget to remove the text and build me a super niche and stylish
+{ts:996} background, the way you know how to do them, right?"
+Because again, we already instructed Claude, so it already knows
+{ts:1002} what, you know, what we need.
+Um and I said, "For a car enthusiast, add lots of props, incredible details, or maybe
+{ts:1008} change the wall color in the back.
+Make it super clean.
+Give me two versions of the prompt, please, and don't forget the
+{ts:1014} method that we use every single time."
+And so, again, remind it to use the instruction prompt that you went ahead
+{ts:1019} and fed it before telling it what to do.
+And then step three, right?
+Once Claude makes your prompt, right?
+You want to go ahead and
+{ts:1036} paste this into Higgs Field with Sea Dance.
+All right, you're going to go ahead and pick Sea Dance for video
+{ts:1041} generation, and you're going to generate the right number of seconds, which in this case, maximum 15 seconds of video.
+{ts:1048} You're going to use 720p to save on some credits.
+And generate two variations.
+{ts:1060} So again, I went ahead and pasted the prompt right here, and I clicked generate
+{ts:1065} credits.
+You want to upscale the
+{ts:1071} video with Topaz.
+You want to scale out 1K,
+{ts:1083} um 60 frames per second.

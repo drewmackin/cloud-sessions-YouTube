@@ -1,7 +1,7 @@
 # $33k In 30 Days With Organic Dropshipping at 19 (Full Case Study)
 
 - URL: https://www.youtube.com/watch?v=n3UiI-MM58A
-- Windows: 36 (first timestamps 0s … 1632s)
+- Windows: 44 (first timestamps 0s … 1753s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
@@ -24,6 +24,11 @@ you know, if you had to share like what was the most valuable part about the the
 It's the calls, bro.
 Like the one-on-one calls, man.
 Like, bro, you break it down.
+
+[…]
+
+Um because I've got videos where it's just like [ __ ] so viral but like it's just not converting and it's not really about that niche but then they've gone so viral and I've converted like [ __ ] hasn't even converted.
+Uh but then you make these videos where it gets like 50k and you'll make like 2k.
 
 […]
 
@@ -55,14 +60,22 @@ It's just niche research and then hours of just studying um and trying to get be
 
 […]
 
-Kevin's like, "Bro, um just copy the concepts of this account."
-Then I found this winning concept that was good for like two weeks and it just that's where I made the most money.
-
-[…]
-
 And I mean, bro, the proof is in the pudding.
 You see it right here, guys.
 Mr. Harper, three months into organic, 33K in one single month, highest day with a 3.5K day.
+
+[…]
+
+I legit jumped on the call with him.
+I was like, "I'm ready to buy right now.
+I'm sure he remembers that."
+I was like, "Bro, just send me the bank."
+Um, paid it.
+
+[…]
+
+So I spend most of it on clothes, then most of it's just going investments, bro.
+Like I'm all the money I make is just going investments.
 
 […]
 
@@ -92,6 +105,14 @@ Yeah.
 
 […]
 
+And then I saw Kevin's YouTube.
+
+[…]
+
+You post wins.
+
+[…]
+
 {ts:0} So, last your days you made 33K.
 Yeah, that's insane, bro.
 That's insane.
@@ -106,6 +127,7 @@ Um, I started
 {ts:73} organic drop shipping.
 I'd say three months ago.
 Um, I bought a mentorship for about $300 a month and I did that for a month.
+Made like 5k with my first product.
 
 […]
 
@@ -135,9 +157,10 @@ You just got to do your like due diligence.
 {ts:468} Yeah.
 I mean, niche research, I think, is like probably the most important thing.
 Um cuz like there's no point having a viral video if it doesn't convert, right?
-
-[…]
-
+So, it's just like you want to have the niche tied in somehow.
+Like I was [ __ ] on Reddit forums, bro, trying to find keywords.
+Like I done like a whole page analysis on this like Reddit Reddit
+{ts:486} page like chat it all and found all the keywords.
 Um found out what all the meanings were.
 Just done all this niche [ __ ] Join Discords and [ __ ] Um and then obviously on Tik Tok you can like filter within like count um and like filter through past three months and just finding viral sounds, viral concepts and then also going on to
 {ts:506} different niches and copying their concepts to tie into my product with my uh niche.
@@ -145,12 +168,10 @@ Right.
 
 […]
 
+Kevin's like, "Bro, um just copy the concepts of this account."
 Then I found this winning concept that was good for like two weeks and it just that's where I made the most money.
 {ts:526} Like every day you were posting relatively the same video.
 I remember you tell me, "Bro, I'm only working like three hours a day and I'm [ __ ] printing, bro.
-
-[…]
-
 Like an hour a day, bro.
 Like it's not it's crazy, man."
 And yeah, that's guys, that's the power of Instagram.
@@ -227,6 +248,13 @@ It was a 3.5K day and it was 3.3 and it's consistent 2K days, 2K days, 2K days.
 
 […]
 
+Like, shout out shout out to CCC and Max and [ __ ] But um yeah, I'd get paid like 700 a week uh New Zealand, which is like 7 uh like 800, sorry, like 600 AUD and then I'd do this like 3.5K day.
+I'm looking at my dashboard like, bro, I just took home like a month's [ __ ]
+{ts:906} pay in a day.
+In a day doing an hour's work from this day, like posting [ __ ] Tik Toks, bro.
+
+[…]
+
 But uh for context too, what are your margins on this on this product?
 Um so we implemented heaps of upselles.
 Like at first it was I always keep it above 50.
@@ -247,6 +275,17 @@ Is it in a passionate niche that is actually going to buy a product like this?
 So, you know, product market fit.
 {ts:1089} Um, and you know, Harper's product literally crossed every single checklist.
 And that's why I approved this product for him.
+
+[…]
+
+So, you know, product market fit.
+{ts:1089} Um, and you know, Harper's product literally crossed every single checklist.
+And that's why I approved this product for him.
+Um, even though it did take a while to kind of like come into fruition and actually see crazy results, it was like the perfect product to a have that type of longevity longevity through every single type of
+{ts:1105} platform because now you have so many variants and we're we're also making new samples of ones.
+Um, yeah.
+And you're bringing so many new to the market and also your your fan base, right?
+Your followers are like trying to get their hands on other variations as well, like they're suggesting, right?
 
 […]
 
@@ -281,6 +320,11 @@ The main thing is niche research.
 
 […]
 
+Um and then obviously just saving most of it, investing, and then uh looking for something to because yeah, my plan is to make, you know, decent amount of money off organic to go
+{ts:1404} into something new like maybe ads or Tik Tok shop even like a brand um and invest all that money into that rather than just splurging on cars and [ __ ] because there's Yeah.
+
+[…]
+
 [ __ ] Sometimes we'll even leak products on calls.
 I remember like products.
 Like I'm like, dude, what?
@@ -288,3 +332,22 @@ There's no need for that.
 But, you know, we're just all kind of working together, bro.
 And that's that's the whole
 {ts:1632} intention behind what I built.
+
+[…]
+
+If you if you're about to [ __ ] join a mentorship, bro, Kevin's the mentorship
+{ts:1667} to go to.
+
+[…]
+
+If you if you're going to join one, join Kevin's on because he
+{ts:1684} he's proof in the pudding, bro.
+I've done this [ __ ] for 3 months, man.
+
+[…]
+
+Is this your bro?
+Ecom, that's my passion, bro.
+I
+{ts:1753} love like consumer behavior, all that kind of [ __ ] like makes me intrigued.
+So, I'm pretty Yeah, it's Yeah, definitely the way to go, bro.

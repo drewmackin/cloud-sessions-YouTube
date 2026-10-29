@@ -1,17 +1,22 @@
 # How To Split Test In AI Organic Dropshipping (Step By Step)
 
 - URL: https://www.youtube.com/watch?v=b3xKO_MABXg
-- Windows: 122 (first timestamps 5s … 3244s)
+- Windows: 129 (first timestamps 0s … 3244s)
 - Source: verbatim Perplexity search results (YouTube auto-captions), machine-extracted from agent logs
 
 Metadata lines seen:
   ## Kevin Martins
   ##### Oct 27, 2026 (0:54:37)
   ...
+  And I was like,
+  Apply to work 1 on 1 with me: https://form.typeform.com/to/nuSFV1VM?utm_source=split
+  Bro, a month goes by, this motherfucker's up like 300k in a month.
   DM me on IG: kevin_martins_
   Date: 2026-10-27
+  He's like,
   How My Student Jhon Makes $140k/m With Ai: https://youtu.be/6o0llGgVRrg?si=d4lDXFheeji6CkbC
-  …
+  I appreciate you."
+  Like just [ __ ] keep testing prods.
 
 ---
 We're going to use uh Money Bash, aka Zach, aka Mr. AZ.
@@ -24,16 +29,17 @@ So, in your case, you had a video that popped
 
 […]
 
-Bro, a month goes by, this motherfucker's up like 300k in a month.
-
-[…]
-
 Like I already have three two ones, everything ready.
 
 […]
 
 Split testing.
 Yeah, that's exactly what you need.
+
+[…]
+
+It was the 31st.
+Guys, watch this [ __ ] call.
 
 […]
 
@@ -53,6 +59,10 @@ I'm just going to copy and post it.
 
 […]
 
+DOUBLED IN [laughter] VIEWS.
+
+[…]
+
 I totally forgot about CTAs.
 
 […]
@@ -61,11 +71,11 @@ Yeah, avoid scheduling, bro.
 
 […]
 
-Wait, W's out for leaking.
+This is in like 20 videos.
 
 […]
 
-This is in like 20 videos.
+Wait, W's out for leaking.
 
 […]
 
@@ -73,6 +83,7 @@ Straight [ __ ] 321s.
 
 […]
 
+{ts:0} YouTube, what's good?
 Welcome back to another video on the channel.
 In today's
 {ts:5} video, I'm going to be explaining my step-by-step process when it comes to split testing on Instagram, Facebook,
@@ -81,9 +92,40 @@ All right.
 
 […]
 
+Welcome back to another video on the channel.
+In today's
+{ts:5} video, I'm going to be explaining my step-by-step process when it comes to split testing on Instagram, Facebook,
+{ts:12} and on TikTok.
+All right.
+You know, I almost missed out TikTok cuz I barely post on there anymore.
+But, I'm going to
+{ts:18} be breaking down my exact strategy when it comes to each individual platform and how I'm currently split testing my AI
+{ts:25} videos to get the most amount of longevity.
+
+[…]
+
+This has to be one of the most requested videos on this channel.
 {ts:32} And so, in today's video, I wanted to break everything down.
 And something else that I want to mention is that you
 {ts:36} guys are going to be getting access into one of my group calls inside of FSC, which is my one-on-one inner circle.
+
+[…]
+
+{ts:61} product that he is going to be leaking in this call.
+So, make sure you guys take something out like a notebook and a
+{ts:67} pen and really be prepared to take some really good notes because I don't do this often.
+I'll be completely
+{ts:73} transparent.
+I think the last time that I leaked an inner circle call on this very YouTube channel was about 6 months
+{ts:79} ago, right?
+So, this is a very rare thing that I tend to do here and there.
+
+[…]
+
+And also, if you guys like what you're seeing when it comes to the group calls, we actually have about five
+{ts:90} of these every single week inside of the community.
+You guys can go ahead and apply to join FSC in the description
+{ts:95} below to work alongside me and the top 1% of AI Organic.
 
 […]
 
@@ -98,6 +140,11 @@ So,
 {ts:133} instead of guessing, you test different hooks, captions, sounds, or backgrounds.
 There's also like a whole bunch of other
 {ts:137} things that you could be testing to find what drives the most amount of views, engagement, sales, and then you double
+
+[…]
+
+You test with intention and
+{ts:163} quickly see what works.
 
 […]
 
@@ -141,6 +188,14 @@ You want
 
 […]
 
+So, finding the outlier, okay?
+We're going
+{ts:330} to start with uh proven concepts, right?
+So, whether you want to research competitors or similar products in your
+{ts:335} niche, like I tell all of you, right?
+
+[…]
+
 So again, we're just copying to test.
 We're recreating these winning concepts
 {ts:364} with your product.
@@ -158,6 +213,8 @@ If it makes sense.
 So, your goal is to create as many
 {ts:410} different variations, and this is what I call Frankensteining, right?
 I patented this word.
+Um I'm the inventor of it.
+{ts:416} And again, you're going to just try to spot the outlier, and one video will outperform the rest, right?
 
 […]
 
@@ -661,6 +718,7 @@ Um, but really it was just the background.
 {ts:1868} the same thing.
 [ __ ] Okay.
 Yeah, yeah, yeah.
+{ts:1870} Got you.
 
 […]
 
@@ -872,18 +930,8 @@ So, this one I have a 70k
 
 […]
 
-I mean, you could have you should have kept
 {ts:2142} going, bro.
 I don't know why you too.
-Like it's super niche down.
-Like How did you find your avatar?
-Talk about
-{ts:2147} that.
-I just made it up.
-Honestly, like I would just think So, I used No.
-
-[…]
-
 Like it's super niche down.
 Like How did you find your avatar?
 Talk about
@@ -902,6 +950,36 @@ It's just something It's more to look at.
 
 […]
 
+I mean, you could have you should have kept
+{ts:2142} going, bro.
+I don't know why you too.
+Like it's super niche down.
+Like How did you find your avatar?
+Talk about
+{ts:2147} that.
+I just made it up.
+Honestly, like I would just think So, I used No.
+
+[…]
+
+Like How did you find your avatar?
+Talk about
+{ts:2147} that.
+I just made it up.
+Honestly, like I would just think So, I used No.
+{ts:2151} Really?
+using Whimsical Realm.
+Like that was kind of a good one.
+{ts:2154} Yo, shout out Dylan.
+Shout out Dylan.
+I was using Whimsical Realm.
+Like it's just kind of like a cool avatar that I
+{ts:2159} always like.
+It's just something It's more to look at.
+There's so much more going on, so it keeps you like engaged
+{ts:2165} the entire time.
+So, I kind of used that like for the hair as an example, and then
+{ts:2170} uh I did use Pinterest like for the outfit and [ __ ] Like I used like overalls, like kind of those gloves and
 {ts:2175} [ __ ] like that.
 And then everything else like Claude.
 Claude is just pretty much my best friend when it comes to like
@@ -911,6 +989,8 @@ But yeah, and if you guys want, I can
 That's kind of sauce.
 It's like it's deep as [ __ ] It's long, but
 {ts:2189} It's long and deep?
+It's It's long and deep.
+Pause.
 
 […]
 
@@ -1110,6 +1190,11 @@ We're only testing one
 
 […]
 
+{ts:2803} I promise you like if you really just like not overcomplicate and not overthink it,
+{ts:2808} it's super simple, it's super easy, and you'll go viral.
+
+[…]
+
 When you talked about not cross-posting,
 {ts:2815} what do you mean?
 Uh pretty much not like There's like a button you can click on Facebook.
@@ -1225,6 +1310,11 @@ And I was like,
 {ts:3202} "Listen, bro, like just stick to it.
 Like just [ __ ] keep testing prods.
 You're going to get it."
+He's like,
+{ts:3206} "Bet, bro.
+I appreciate you."
+Whatever.
+Bro, a month goes by, this motherfucker's up like 300k in a month.
 
 […]
 
